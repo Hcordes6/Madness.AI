@@ -1,0 +1,409 @@
+{
+  "sport": "Men's Basketball",
+  "title": "Assist/Turnover Ratio",
+  "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+  "page": 2,
+  "pages": 8,
+  "data": [
+    {
+      "Rank": "51",
+      "Team": "Minnesota",
+      "GM": "32",
+      "AST": "488",
+      "TO": "346",
+      "Ratio": "1.41"
+    },
+    {
+      "Rank": "52",
+      "Team": "Army West Point",
+      "GM": "33",
+      "AST": "466",
+      "TO": "331",
+      "Ratio": "1.41"
+    },
+    {
+      "Rank": "53",
+      "Team": "Fla. Atlantic",
+      "GM": "34",
+      "AST": "548",
+      "TO": "390",
+      "Ratio": "1.41"
+    },
+    {
+      "Rank": "54",
+      "Team": "Utah",
+      "GM": "33",
+      "AST": "574",
+      "TO": "409",
+      "Ratio": "1.40"
+    },
+    {
+      "Rank": "55",
+      "Team": "Maryland",
+      "GM": "36",
+      "AST": "510",
+      "TO": "364",
+      "Ratio": "1.40"
+    },
+    {
+      "Rank": "56",
+      "Team": "Creighton",
+      "GM": "36",
+      "AST": "615",
+      "TO": "440",
+      "Ratio": "1.40"
+    },
+    {
+      "Rank": "57",
+      "Team": "UNCW",
+      "GM": "35",
+      "AST": "538",
+      "TO": "385",
+      "Ratio": "1.40"
+    },
+    {
+      "Rank": "58",
+      "Team": "Florida",
+      "GM": "40",
+      "AST": "619",
+      "TO": "444",
+      "Ratio": "1.39"
+    },
+    {
+      "Rank": "59",
+      "Team": "Col. of Charleston",
+      "GM": "33",
+      "AST": "525",
+      "TO": "377",
+      "Ratio": "1.39"
+    },
+    {
+      "Rank": "60",
+      "Team": "North Carolina",
+      "GM": "37",
+      "AST": "547",
+      "TO": "397",
+      "Ratio": "1.38"
+    },
+    {
+      "Rank": "61",
+      "Team": "Illinois St.",
+      "GM": "36",
+      "AST": "519",
+      "TO": "377",
+      "Ratio": "1.38"
+    },
+    {
+      "Rank": "62",
+      "Team": "Indiana",
+      "GM": "32",
+      "AST": "509",
+      "TO": "371",
+      "Ratio": "1.37"
+    },
+    {
+      "Rank": "63",
+      "Team": "Dartmouth",
+      "GM": "28",
+      "AST": "441",
+      "TO": "322",
+      "Ratio": "1.37"
+    },
+    {
+      "Rank": "64",
+      "Team": "Wofford",
+      "GM": "35",
+      "AST": "524",
+      "TO": "383",
+      "Ratio": "1.37"
+    },
+    {
+      "Rank": "65",
+      "Team": "Vanderbilt",
+      "GM": "33",
+      "AST": "459",
+      "TO": "336",
+      "Ratio": "1.37"
+    },
+    {
+      "Rank": "66",
+      "Team": "Arkansas St.",
+      "GM": "36",
+      "AST": "513",
+      "TO": "376",
+      "Ratio": "1.36"
+    },
+    {
+      "Rank": "67",
+      "Team": "North Ala.",
+      "GM": "35",
+      "AST": "422",
+      "TO": "310",
+      "Ratio": "1.36"
+    },
+    {
+      "Rank": "68",
+      "Team": "Alabama",
+      "GM": "37",
+      "AST": "636",
+      "TO": "469",
+      "Ratio": "1.36"
+    },
+    {
+      "Rank": "69",
+      "Team": "Tulane",
+      "GM": "34",
+      "AST": "500",
+      "TO": "369",
+      "Ratio": "1.36"
+    },
+    {
+      "Rank": "70",
+      "Team": "Clemson",
+      "GM": "34",
+      "AST": "484",
+      "TO": "358",
+      "Ratio": "1.35"
+    },
+    {
+      "Rank": "71",
+      "Team": "Loyola Chicago",
+      "GM": "37",
+      "AST": "591",
+      "TO": "438",
+      "Ratio": "1.35"
+    },
+    {
+      "Rank": "72",
+      "Team": "Sacred Heart",
+      "GM": "33",
+      "AST": "547",
+      "TO": "406",
+      "Ratio": "1.35"
+    },
+    {
+      "Rank": "73",
+      "Team": "Pittsburgh",
+      "GM": "32",
+      "AST": "429",
+      "TO": "319",
+      "Ratio": "1.34"
+    },
+    {
+      "Rank": "74",
+      "Team": "UNC Asheville",
+      "GM": "32",
+      "AST": "449",
+      "TO": "334",
+      "Ratio": "1.34"
+    },
+    {
+      "Rank": "75",
+      "Team": "Cincinnati",
+      "GM": "35",
+      "AST": "485",
+      "TO": "361",
+      "Ratio": "1.34"
+    },
+    {
+      "Rank": "76",
+      "Team": "Lafayette",
+      "GM": "33",
+      "AST": "486",
+      "TO": "362",
+      "Ratio": "1.34"
+    },
+    {
+      "Rank": "77",
+      "Team": "Houston",
+      "GM": "40",
+      "AST": "483",
+      "TO": "360",
+      "Ratio": "1.34"
+    },
+    {
+      "Rank": "78",
+      "Team": "NC State",
+      "GM": "31",
+      "AST": "394",
+      "TO": "295",
+      "Ratio": "1.34"
+    },
+    {
+      "Rank": "79",
+      "Team": "Miami (OH)",
+      "GM": "34",
+      "AST": "550",
+      "TO": "412",
+      "Ratio": "1.33"
+    },
+    {
+      "Rank": "80",
+      "Team": "Baylor",
+      "GM": "35",
+      "AST": "504",
+      "TO": "378",
+      "Ratio": "1.33"
+    },
+    {
+      "Rank": "81",
+      "Team": "VCU",
+      "GM": "35",
+      "AST": "524",
+      "TO": "394",
+      "Ratio": "1.33"
+    },
+    {
+      "Rank": "82",
+      "Team": "Boise St.",
+      "GM": "37",
+      "AST": "537",
+      "TO": "404",
+      "Ratio": "1.33"
+    },
+    {
+      "Rank": "83",
+      "Team": "SMU",
+      "GM": "35",
+      "AST": "555",
+      "TO": "418",
+      "Ratio": "1.33"
+    },
+    {
+      "Rank": "84",
+      "Team": "Montana St.",
+      "GM": "33",
+      "AST": "435",
+      "TO": "328",
+      "Ratio": "1.33"
+    },
+    {
+      "Rank": "85",
+      "Team": "IU Indy",
+      "GM": "32",
+      "AST": "436",
+      "TO": "329",
+      "Ratio": "1.33"
+    },
+    {
+      "Rank": "86",
+      "Team": "Eastern Ky.",
+      "GM": "32",
+      "AST": "417",
+      "TO": "315",
+      "Ratio": "1.32"
+    },
+    {
+      "Rank": "87",
+      "Team": "FGCU",
+      "GM": "34",
+      "AST": "476",
+      "TO": "360",
+      "Ratio": "1.32"
+    },
+    {
+      "Rank": "88",
+      "Team": "Stanford",
+      "GM": "35",
+      "AST": "483",
+      "TO": "366",
+      "Ratio": "1.32"
+    },
+    {
+      "Rank": "89",
+      "Team": "UNI",
+      "GM": "33",
+      "AST": "459",
+      "TO": "348",
+      "Ratio": "1.32"
+    },
+    {
+      "Rank": "90",
+      "Team": "Oregon St.",
+      "GM": "33",
+      "AST": "478",
+      "TO": "363",
+      "Ratio": "1.32"
+    },
+    {
+      "Rank": "91",
+      "Team": "Merrimack",
+      "GM": "33",
+      "AST": "391",
+      "TO": "297",
+      "Ratio": "1.32"
+    },
+    {
+      "Rank": "92",
+      "Team": "UNC Greensboro",
+      "GM": "32",
+      "AST": "416",
+      "TO": "316",
+      "Ratio": "1.32"
+    },
+    {
+      "Rank": "93",
+      "Team": "Tennessee Tech",
+      "GM": "32",
+      "AST": "486",
+      "TO": "372",
+      "Ratio": "1.31"
+    },
+    {
+      "Rank": "94",
+      "Team": "New Mexico",
+      "GM": "35",
+      "AST": "521",
+      "TO": "400",
+      "Ratio": "1.30"
+    },
+    {
+      "Rank": "95",
+      "Team": "William & Mary",
+      "GM": "32",
+      "AST": "529",
+      "TO": "407",
+      "Ratio": "1.30"
+    },
+    {
+      "Rank": "96",
+      "Team": "Texas",
+      "GM": "35",
+      "AST": "452",
+      "TO": "348",
+      "Ratio": "1.30"
+    },
+    {
+      "Rank": "97",
+      "Team": "South Fla.",
+      "GM": "32",
+      "AST": "460",
+      "TO": "355",
+      "Ratio": "1.30"
+    },
+    {
+      "Rank": "98",
+      "Team": "Ohio",
+      "GM": "32",
+      "AST": "450",
+      "TO": "348",
+      "Ratio": "1.29"
+    },
+    {
+      "Rank": "99",
+      "Team": "Penn St.",
+      "GM": "31",
+      "AST": "496",
+      "TO": "384",
+      "Ratio": "1.29"
+    },
+    {
+      "Rank": "100",
+      "Team": "Saint Joseph's",
+      "GM": "35",
+      "AST": "510",
+      "TO": "395",
+      "Ratio": "1.29"
+    }
+  ]
+}
