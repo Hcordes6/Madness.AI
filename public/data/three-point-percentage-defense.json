@@ -1,0 +1,2914 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "San Francisco",
+        "GM": "35",
+        "Opp 3FGA": "705",
+        "Opp 3FG": "197",
+        "Pct": "27.9"
+      },
+      {
+        "Rank": "2",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "Opp 3FGA": "880",
+        "Opp 3FG": "246",
+        "Pct": "28.0"
+      },
+      {
+        "Rank": "3",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "Opp 3FGA": "587",
+        "Opp 3FG": "166",
+        "Pct": "28.3"
+      },
+      {
+        "Rank": "4",
+        "Team": "Tennessee",
+        "GM": "38",
+        "Opp 3FGA": "963",
+        "Opp 3FG": "276",
+        "Pct": "28.7"
+      },
+      {
+        "Rank": "5",
+        "Team": "Liberty",
+        "GM": "35",
+        "Opp 3FGA": "718",
+        "Opp 3FG": "207",
+        "Pct": "28.8"
+      },
+      {
+        "Rank": "6",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "Opp 3FGA": "757",
+        "Opp 3FG": "220",
+        "Pct": "29.1"
+      },
+      {
+        "Rank": "7",
+        "Team": "Florida",
+        "GM": "40",
+        "Opp 3FGA": "909",
+        "Opp 3FG": "267",
+        "Pct": "29.4"
+      },
+      {
+        "Rank": "8",
+        "Team": "App State",
+        "GM": "31",
+        "Opp 3FGA": "729",
+        "Opp 3FG": "215",
+        "Pct": "29.5"
+      },
+      {
+        "Rank": "9",
+        "Team": "Nicholls",
+        "GM": "33",
+        "Opp 3FGA": "721",
+        "Opp 3FG": "213",
+        "Pct": "29.5"
+      },
+      {
+        "Rank": "10",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "Opp 3FGA": "676",
+        "Opp 3FG": "200",
+        "Pct": "29.6"
+      },
+      {
+        "Rank": "11",
+        "Team": "West Virginia",
+        "GM": "32",
+        "Opp 3FGA": "649",
+        "Opp 3FG": "193",
+        "Pct": "29.7"
+      },
+      {
+        "Rank": "12",
+        "Team": "Auburn",
+        "GM": "38",
+        "Opp 3FGA": "774",
+        "Opp 3FG": "231",
+        "Pct": "29.8"
+      },
+      {
+        "Rank": "13",
+        "Team": "Montana St.",
+        "GM": "33",
+        "Opp 3FGA": "606",
+        "Opp 3FG": "181",
+        "Pct": "29.9"
+      },
+      {
+        "Rank": "14",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "Opp 3FGA": "748",
+        "Opp 3FG": "225",
+        "Pct": "30.1"
+      },
+      {
+        "Rank": "15",
+        "Team": "FDU",
+        "GM": "33",
+        "Opp 3FGA": "730",
+        "Opp 3FG": "220",
+        "Pct": "30.1"
+      },
+      {
+        "Rank": "16",
+        "Team": "Houston",
+        "GM": "40",
+        "Opp 3FGA": "892",
+        "Opp 3FG": "269",
+        "Pct": "30.2"
+      },
+      {
+        "Rank": "17",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "Opp 3FGA": "742",
+        "Opp 3FG": "224",
+        "Pct": "30.2"
+      },
+      {
+        "Rank": "18",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "Opp 3FGA": "847",
+        "Opp 3FG": "256",
+        "Pct": "30.2"
+      },
+      {
+        "Rank": "19",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "Opp 3FGA": "747",
+        "Opp 3FG": "226",
+        "Pct": "30.3"
+      },
+      {
+        "Rank": "20",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "Opp 3FGA": "832",
+        "Opp 3FG": "252",
+        "Pct": "30.3"
+      },
+      {
+        "Rank": "21",
+        "Team": "Alabama",
+        "GM": "37",
+        "Opp 3FGA": "873",
+        "Opp 3FG": "265",
+        "Pct": "30.4"
+      },
+      {
+        "Rank": "22",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "Opp 3FGA": "696",
+        "Opp 3FG": "212",
+        "Pct": "30.5"
+      },
+      {
+        "Rank": "23",
+        "Team": "Kentucky",
+        "GM": "36",
+        "Opp 3FGA": "991",
+        "Opp 3FG": "302",
+        "Pct": "30.5"
+      },
+      {
+        "Rank": "24",
+        "Team": "Drake",
+        "GM": "35",
+        "Opp 3FGA": "630",
+        "Opp 3FG": "192",
+        "Pct": "30.5"
+      },
+      {
+        "Rank": "25",
+        "Team": "VCU",
+        "GM": "35",
+        "Opp 3FGA": "669",
+        "Opp 3FG": "204",
+        "Pct": "30.5"
+      },
+      {
+        "Rank": "26",
+        "Team": "Maryland",
+        "GM": "36",
+        "Opp 3FGA": "772",
+        "Opp 3FG": "236",
+        "Pct": "30.6"
+      },
+      {
+        "Rank": "27",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "Opp 3FGA": "860",
+        "Opp 3FG": "263",
+        "Pct": "30.6"
+      },
+      {
+        "Rank": "28",
+        "Team": "NJIT",
+        "GM": "31",
+        "Opp 3FGA": "631",
+        "Opp 3FG": "193",
+        "Pct": "30.6"
+      },
+      {
+        "Rank": "29",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "Opp 3FGA": "841",
+        "Opp 3FG": "258",
+        "Pct": "30.7"
+      },
+      {
+        "Rank": "30",
+        "Team": "Campbell",
+        "GM": "32",
+        "Opp 3FGA": "648",
+        "Opp 3FG": "199",
+        "Pct": "30.7"
+      },
+      {
+        "Rank": "31",
+        "Team": "Kansas",
+        "GM": "34",
+        "Opp 3FGA": "848",
+        "Opp 3FG": "261",
+        "Pct": "30.8"
+      },
+      {
+        "Rank": "32",
+        "Team": "George Mason",
+        "GM": "36",
+        "Opp 3FGA": "935",
+        "Opp 3FG": "288",
+        "Pct": "30.8"
+      },
+      {
+        "Rank": "33",
+        "Team": "Michigan",
+        "GM": "37",
+        "Opp 3FGA": "915",
+        "Opp 3FG": "282",
+        "Pct": "30.8"
+      },
+      {
+        "Rank": "34",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "Opp 3FGA": "775",
+        "Opp 3FG": "239",
+        "Pct": "30.8"
+      },
+      {
+        "Rank": "35",
+        "Team": "Kansas City",
+        "GM": "33",
+        "Opp 3FGA": "745",
+        "Opp 3FG": "230",
+        "Pct": "30.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "Opp 3FGA": "745",
+        "Opp 3FG": "230",
+        "Pct": "30.9"
+      },
+      {
+        "Rank": "37",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "Opp 3FGA": "874",
+        "Opp 3FG": "270",
+        "Pct": "30.9"
+      },
+      {
+        "Rank": "38",
+        "Team": "Binghamton",
+        "GM": "32",
+        "Opp 3FGA": "747",
+        "Opp 3FG": "231",
+        "Pct": "30.9"
+      },
+      {
+        "Rank": "39",
+        "Team": "LIU",
+        "GM": "33",
+        "Opp 3FGA": "682",
+        "Opp 3FG": "211",
+        "Pct": "30.9"
+      },
+      {
+        "Rank": "40",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "Opp 3FGA": "798",
+        "Opp 3FG": "247",
+        "Pct": "31.0"
+      },
+      {
+        "Rank": "41",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "Opp 3FGA": "617",
+        "Opp 3FG": "191",
+        "Pct": "31.0"
+      },
+      {
+        "Rank": "42",
+        "Team": "Merrimack",
+        "GM": "33",
+        "Opp 3FGA": "668",
+        "Opp 3FG": "207",
+        "Pct": "31.0"
+      },
+      {
+        "Rank": "43",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "Opp 3FGA": "600",
+        "Opp 3FG": "186",
+        "Pct": "31.0"
+      },
+      {
+        "Rank": "44",
+        "Team": "Ball St.",
+        "GM": "31",
+        "Opp 3FGA": "750",
+        "Opp 3FG": "233",
+        "Pct": "31.1"
+      },
+      {
+        "Rank": "45",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "Opp 3FGA": "801",
+        "Opp 3FG": "249",
+        "Pct": "31.1"
+      },
+      {
+        "Rank": "46",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "Opp 3FGA": "714",
+        "Opp 3FG": "222",
+        "Pct": "31.1"
+      },
+      {
+        "Rank": "47",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "Opp 3FGA": "614",
+        "Opp 3FG": "191",
+        "Pct": "31.1"
+      },
+      {
+        "Rank": "48",
+        "Team": "Drexel",
+        "GM": "33",
+        "Opp 3FGA": "691",
+        "Opp 3FG": "215",
+        "Pct": "31.1"
+      },
+      {
+        "Rank": "49",
+        "Team": "Duke",
+        "GM": "39",
+        "Opp 3FGA": "877",
+        "Opp 3FG": "273",
+        "Pct": "31.1"
+      },
+      {
+        "Rank": "50",
+        "Team": "North Texas",
+        "GM": "36",
+        "Opp 3FGA": "681",
+        "Opp 3FG": "212",
+        "Pct": "31.1"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "Purdue",
+        "GM": "36",
+        "Opp 3FGA": "863",
+        "Opp 3FG": "269",
+        "Pct": "31.2"
+      },
+      {
+        "Rank": "52",
+        "Team": "Louisiana",
+        "GM": "33",
+        "Opp 3FGA": "670",
+        "Opp 3FG": "209",
+        "Pct": "31.2"
+      },
+      {
+        "Rank": "53",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "Opp 3FGA": "852",
+        "Opp 3FG": "266",
+        "Pct": "31.2"
+      },
+      {
+        "Rank": "54",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "Opp 3FGA": "726",
+        "Opp 3FG": "227",
+        "Pct": "31.3"
+      },
+      {
+        "Rank": "55",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "Opp 3FGA": "809",
+        "Opp 3FG": "253",
+        "Pct": "31.3"
+      },
+      {
+        "Rank": "56",
+        "Team": "Lehigh",
+        "GM": "30",
+        "Opp 3FGA": "619",
+        "Opp 3FG": "194",
+        "Pct": "31.3"
+      },
+      {
+        "Rank": "57",
+        "Team": "Arkansas",
+        "GM": "36",
+        "Opp 3FGA": "858",
+        "Opp 3FG": "269",
+        "Pct": "31.4"
+      },
+      {
+        "Rank": "58",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "Opp 3FGA": "577",
+        "Opp 3FG": "181",
+        "Pct": "31.4"
+      },
+      {
+        "Rank": "59",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "Opp 3FGA": "580",
+        "Opp 3FG": "182",
+        "Pct": "31.4"
+      },
+      {
+        "Rank": "60",
+        "Team": "Kent St.",
+        "GM": "36",
+        "Opp 3FGA": "818",
+        "Opp 3FG": "257",
+        "Pct": "31.4"
+      },
+      {
+        "Rank": "61",
+        "Team": "Seattle U",
+        "GM": "32",
+        "Opp 3FGA": "646",
+        "Opp 3FG": "203",
+        "Pct": "31.4"
+      },
+      {
+        "Rank": "62",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "Opp 3FGA": "689",
+        "Opp 3FG": "217",
+        "Pct": "31.5"
+      },
+      {
+        "Rank": "63",
+        "Team": "Lamar University",
+        "GM": "33",
+        "Opp 3FGA": "708",
+        "Opp 3FG": "223",
+        "Pct": "31.5"
+      },
+      {
+        "Rank": "64",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "Opp 3FGA": "675",
+        "Opp 3FG": "213",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "65",
+        "Team": "Little Rock",
+        "GM": "33",
+        "Opp 3FGA": "801",
+        "Opp 3FG": "253",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "66",
+        "Team": "George Washington",
+        "GM": "34",
+        "Opp 3FGA": "782",
+        "Opp 3FG": "247",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "67",
+        "Team": "Georgia",
+        "GM": "33",
+        "Opp 3FGA": "791",
+        "Opp 3FG": "250",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "68",
+        "Team": "TCU",
+        "GM": "32",
+        "Opp 3FGA": "762",
+        "Opp 3FG": "241",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "69",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "Opp 3FGA": "689",
+        "Opp 3FG": "218",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "70",
+        "Team": "Murray St.",
+        "GM": "33",
+        "Opp 3FGA": "572",
+        "Opp 3FG": "181",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "71",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "Opp 3FGA": "989",
+        "Opp 3FG": "313",
+        "Pct": "31.6"
+      },
+      {
+        "Rank": "72",
+        "Team": "Oregon",
+        "GM": "35",
+        "Opp 3FGA": "798",
+        "Opp 3FG": "253",
+        "Pct": "31.7"
+      },
+      {
+        "Rank": "73",
+        "Team": "Tulane",
+        "GM": "34",
+        "Opp 3FGA": "851",
+        "Opp 3FG": "270",
+        "Pct": "31.7"
+      },
+      {
+        "Rank": "74",
+        "Team": "Vermont",
+        "GM": "33",
+        "Opp 3FGA": "705",
+        "Opp 3FG": "224",
+        "Pct": "31.8"
+      },
+      {
+        "Rank": "75",
+        "Team": "Portland St.",
+        "GM": "32",
+        "Opp 3FGA": "695",
+        "Opp 3FG": "221",
+        "Pct": "31.8"
+      },
+      {
+        "Rank": "76",
+        "Team": "Butler",
+        "GM": "35",
+        "Opp 3FGA": "836",
+        "Opp 3FG": "266",
+        "Pct": "31.8"
+      },
+      {
+        "Rank": "77",
+        "Team": "Marquette",
+        "GM": "34",
+        "Opp 3FGA": "754",
+        "Opp 3FG": "240",
+        "Pct": "31.8"
+      },
+      {
+        "Rank": "78",
+        "Team": "Furman",
+        "GM": "35",
+        "Opp 3FGA": "810",
+        "Opp 3FG": "258",
+        "Pct": "31.9"
+      },
+      {
+        "Rank": "79",
+        "Team": "Clemson",
+        "GM": "34",
+        "Opp 3FGA": "728",
+        "Opp 3FG": "232",
+        "Pct": "31.9"
+      },
+      {
+        "Rank": "80",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "Opp 3FGA": "756",
+        "Opp 3FG": "241",
+        "Pct": "31.9"
+      },
+      {
+        "Rank": "81",
+        "Team": "UNLV",
+        "GM": "33",
+        "Opp 3FGA": "803",
+        "Opp 3FG": "256",
+        "Pct": "31.9"
+      },
+      {
+        "Rank": "82",
+        "Team": "Akron",
+        "GM": "35",
+        "Opp 3FGA": "824",
+        "Opp 3FG": "263",
+        "Pct": "31.9"
+      },
+      {
+        "Rank": "83",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "Opp 3FGA": "767",
+        "Opp 3FG": "245",
+        "Pct": "31.9"
+      },
+      {
+        "Rank": "84",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "Opp 3FGA": "701",
+        "Opp 3FG": "224",
+        "Pct": "32.0"
+      },
+      {
+        "Rank": "85",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "Opp 3FGA": "707",
+        "Opp 3FG": "226",
+        "Pct": "32.0"
+      },
+      {
+        "Rank": "86",
+        "Team": "Florida St.",
+        "GM": "32",
+        "Opp 3FGA": "785",
+        "Opp 3FG": "251",
+        "Pct": "32.0"
+      },
+      {
+        "Rank": "87",
+        "Team": "Bradley",
+        "GM": "37",
+        "Opp 3FGA": "900",
+        "Opp 3FG": "288",
+        "Pct": "32.0"
+      },
+      {
+        "Rank": "88",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "Opp 3FGA": "781",
+        "Opp 3FG": "250",
+        "Pct": "32.0"
+      },
+      {
+        "Rank": "89",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "Opp 3FGA": "765",
+        "Opp 3FG": "245",
+        "Pct": "32.0"
+      },
+      {
+        "Rank": "90",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "Opp 3FGA": "772",
+        "Opp 3FG": "248",
+        "Pct": "32.1"
+      },
+      {
+        "Rank": "91",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "Opp 3FGA": "806",
+        "Opp 3FG": "259",
+        "Pct": "32.1"
+      },
+      {
+        "Rank": "92",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "Opp 3FGA": "563",
+        "Opp 3FG": "181",
+        "Pct": "32.1"
+      },
+      {
+        "Rank": "93",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "Opp 3FGA": "821",
+        "Opp 3FG": "264",
+        "Pct": "32.2"
+      },
+      {
+        "Rank": "94",
+        "Team": "North Ala.",
+        "GM": "35",
+        "Opp 3FGA": "895",
+        "Opp 3FG": "288",
+        "Pct": "32.2"
+      },
+      {
+        "Rank": "95",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "Opp 3FGA": "722",
+        "Opp 3FG": "233",
+        "Pct": "32.3"
+      },
+      {
+        "Rank": "96",
+        "Team": "McNeese",
+        "GM": "35",
+        "Opp 3FGA": "886",
+        "Opp 3FG": "286",
+        "Pct": "32.3"
+      },
+      {
+        "Rank": "97",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "Opp 3FGA": "768",
+        "Opp 3FG": "248",
+        "Pct": "32.3"
+      },
+      {
+        "Rank": "98",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "Opp 3FGA": "706",
+        "Opp 3FG": "228",
+        "Pct": "32.3"
+      },
+      {
+        "Rank": "99",
+        "Team": "Marshall",
+        "GM": "33",
+        "Opp 3FGA": "610",
+        "Opp 3FG": "197",
+        "Pct": "32.3"
+      },
+      {
+        "Rank": "100",
+        "Team": "Rice",
+        "GM": "32",
+        "Opp 3FGA": "675",
+        "Opp 3FG": "218",
+        "Pct": "32.3"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "LSU",
+        "GM": "32",
+        "Opp 3FGA": "718",
+        "Opp 3FG": "232",
+        "Pct": "32.3"
+      },
+      {
+        "Rank": "102",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "Opp 3FGA": "755",
+        "Opp 3FG": "244",
+        "Pct": "32.3"
+      },
+      {
+        "Rank": "103",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "Opp 3FGA": "729",
+        "Opp 3FG": "236",
+        "Pct": "32.4"
+      },
+      {
+        "Rank": "104",
+        "Team": "Memphis",
+        "GM": "35",
+        "Opp 3FGA": "868",
+        "Opp 3FG": "281",
+        "Pct": "32.4"
+      },
+      {
+        "Rank": "105",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "Opp 3FGA": "846",
+        "Opp 3FG": "274",
+        "Pct": "32.4"
+      },
+      {
+        "Rank": "106",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "Opp 3FGA": "716",
+        "Opp 3FG": "232",
+        "Pct": "32.4"
+      },
+      {
+        "Rank": "107",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "Opp 3FGA": "549",
+        "Opp 3FG": "178",
+        "Pct": "32.4"
+      },
+      {
+        "Rank": "108",
+        "Team": "Troy",
+        "GM": "34",
+        "Opp 3FGA": "734",
+        "Opp 3FG": "238",
+        "Pct": "32.4"
+      },
+      {
+        "Rank": "109",
+        "Team": "UMES",
+        "GM": "31",
+        "Opp 3FGA": "681",
+        "Opp 3FG": "221",
+        "Pct": "32.5"
+      },
+      {
+        "Rank": "110",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "Opp 3FGA": "870",
+        "Opp 3FG": "283",
+        "Pct": "32.5"
+      },
+      {
+        "Rank": "111",
+        "Team": "Elon",
+        "GM": "33",
+        "Opp 3FGA": "888",
+        "Opp 3FG": "289",
+        "Pct": "32.5"
+      },
+      {
+        "Rank": "112",
+        "Team": "Bryant",
+        "GM": "35",
+        "Opp 3FGA": "792",
+        "Opp 3FG": "258",
+        "Pct": "32.6"
+      },
+      {
+        "Rank": "113",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "Opp 3FGA": "749",
+        "Opp 3FG": "244",
+        "Pct": "32.6"
+      },
+      {
+        "Rank": "114",
+        "Team": "Creighton",
+        "GM": "36",
+        "Opp 3FGA": "834",
+        "Opp 3FG": "272",
+        "Pct": "32.6"
+      },
+      {
+        "Rank": "115",
+        "Team": "Iona",
+        "GM": "34",
+        "Opp 3FGA": "821",
+        "Opp 3FG": "268",
+        "Pct": "32.6"
+      },
+      {
+        "Rank": "116",
+        "Team": "Indiana",
+        "GM": "32",
+        "Opp 3FGA": "741",
+        "Opp 3FG": "242",
+        "Pct": "32.7"
+      },
+      {
+        "Rank": "117",
+        "Team": "Montana",
+        "GM": "35",
+        "Opp 3FGA": "713",
+        "Opp 3FG": "233",
+        "Pct": "32.7"
+      },
+      {
+        "Rank": "118",
+        "Team": "UTEP",
+        "GM": "33",
+        "Opp 3FGA": "716",
+        "Opp 3FG": "234",
+        "Pct": "32.7"
+      },
+      {
+        "Rank": "119",
+        "Team": "High Point",
+        "GM": "35",
+        "Opp 3FGA": "703",
+        "Opp 3FG": "230",
+        "Pct": "32.7"
+      },
+      {
+        "Rank": "120",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "Opp 3FGA": "776",
+        "Opp 3FG": "254",
+        "Pct": "32.7"
+      },
+      {
+        "Rank": "121",
+        "Team": "Yale",
+        "GM": "30",
+        "Opp 3FGA": "840",
+        "Opp 3FG": "275",
+        "Pct": "32.7"
+      },
+      {
+        "Rank": "122",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "Opp 3FGA": "888",
+        "Opp 3FG": "291",
+        "Pct": "32.8"
+      },
+      {
+        "Rank": "123",
+        "Team": "La Salle",
+        "GM": "33",
+        "Opp 3FGA": "823",
+        "Opp 3FG": "270",
+        "Pct": "32.8"
+      },
+      {
+        "Rank": "124",
+        "Team": "SIUE",
+        "GM": "34",
+        "Opp 3FGA": "762",
+        "Opp 3FG": "250",
+        "Pct": "32.8"
+      },
+      {
+        "Rank": "125",
+        "Team": "Dayton",
+        "GM": "34",
+        "Opp 3FGA": "826",
+        "Opp 3FG": "271",
+        "Pct": "32.8"
+      },
+      {
+        "Rank": "126",
+        "Team": "UCLA",
+        "GM": "34",
+        "Opp 3FGA": "795",
+        "Opp 3FG": "261",
+        "Pct": "32.8"
+      },
+      {
+        "Rank": "127",
+        "Team": "UCF",
+        "GM": "37",
+        "Opp 3FGA": "889",
+        "Opp 3FG": "292",
+        "Pct": "32.8"
+      },
+      {
+        "Rank": "128",
+        "Team": "Maine",
+        "GM": "34",
+        "Opp 3FGA": "685",
+        "Opp 3FG": "225",
+        "Pct": "32.8"
+      },
+      {
+        "Rank": "129",
+        "Team": "Manhattan",
+        "GM": "31",
+        "Opp 3FGA": "806",
+        "Opp 3FG": "265",
+        "Pct": "32.9"
+      },
+      {
+        "Rank": "130",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "Opp 3FGA": "815",
+        "Opp 3FG": "268",
+        "Pct": "32.9"
+      },
+      {
+        "Rank": "131",
+        "Team": "Brown",
+        "GM": "27",
+        "Opp 3FGA": "611",
+        "Opp 3FG": "201",
+        "Pct": "32.9"
+      },
+      {
+        "Rank": "132",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "Opp 3FGA": "766",
+        "Opp 3FG": "252",
+        "Pct": "32.9"
+      },
+      {
+        "Rank": "133",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "Opp 3FGA": "878",
+        "Opp 3FG": "289",
+        "Pct": "32.9"
+      },
+      {
+        "Rank": "134",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "Opp 3FGA": "829",
+        "Opp 3FG": "273",
+        "Pct": "32.9"
+      },
+      {
+        "Rank": "135",
+        "Team": "UTRGV",
+        "GM": "31",
+        "Opp 3FGA": "680",
+        "Opp 3FG": "224",
+        "Pct": "32.9"
+      },
+      {
+        "Rank": "136",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "Opp 3FGA": "889",
+        "Opp 3FG": "293",
+        "Pct": "33.0"
+      },
+      {
+        "Rank": "137",
+        "Team": "Southern California",
+        "GM": "35",
+        "Opp 3FGA": "779",
+        "Opp 3FG": "257",
+        "Pct": "33.0"
+      },
+      {
+        "Rank": "138",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "Opp 3FGA": "690",
+        "Opp 3FG": "228",
+        "Pct": "33.0"
+      },
+      {
+        "Rank": "139",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "Opp 3FGA": "817",
+        "Opp 3FG": "270",
+        "Pct": "33.0"
+      },
+      {
+        "Rank": "140",
+        "Team": "Hampton",
+        "GM": "33",
+        "Opp 3FGA": "641",
+        "Opp 3FG": "212",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "141",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "Opp 3FGA": "677",
+        "Opp 3FG": "224",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "142",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "Opp 3FGA": "831",
+        "Opp 3FG": "275",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "143",
+        "Team": "SMU",
+        "GM": "35",
+        "Opp 3FGA": "852",
+        "Opp 3FG": "282",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "144",
+        "Team": "ULM",
+        "GM": "32",
+        "Opp 3FGA": "897",
+        "Opp 3FG": "297",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "145",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "Opp 3FGA": "755",
+        "Opp 3FG": "250",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "146",
+        "Team": "Charlotte",
+        "GM": "33",
+        "Opp 3FGA": "637",
+        "Opp 3FG": "211",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "147",
+        "Team": "American",
+        "GM": "35",
+        "Opp 3FGA": "652",
+        "Opp 3FG": "216",
+        "Pct": "33.1"
+      },
+      {
+        "Rank": "148",
+        "Team": "Longwood",
+        "GM": "32",
+        "Opp 3FGA": "751",
+        "Opp 3FG": "249",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "149",
+        "Team": "California Baptist",
+        "GM": "32",
+        "Opp 3FGA": "570",
+        "Opp 3FG": "189",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "150",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "Opp 3FGA": "769",
+        "Opp 3FG": "255",
+        "Pct": "33.2"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "Wagner",
+        "GM": "30",
+        "Opp 3FGA": "633",
+        "Opp 3FG": "210",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "152",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "Opp 3FGA": "904",
+        "Opp 3FG": "300",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "153",
+        "Team": "UNCW",
+        "GM": "35",
+        "Opp 3FGA": "879",
+        "Opp 3FG": "292",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "154",
+        "Team": "Wyoming",
+        "GM": "32",
+        "Opp 3FGA": "653",
+        "Opp 3FG": "217",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "155",
+        "Team": "South Fla.",
+        "GM": "32",
+        "Opp 3FGA": "716",
+        "Opp 3FG": "238",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "156",
+        "Team": "South Alabama",
+        "GM": "32",
+        "Opp 3FGA": "1083",
+        "Opp 3FG": "360",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "157",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "Opp 3FGA": "728",
+        "Opp 3FG": "242",
+        "Pct": "33.2"
+      },
+      {
+        "Rank": "158",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "Opp 3FGA": "827",
+        "Opp 3FG": "275",
+        "Pct": "33.3"
+      },
+      {
+        "Rank": "159",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "Opp 3FGA": "625",
+        "Opp 3FG": "208",
+        "Pct": "33.3"
+      },
+      {
+        "Rank": "160",
+        "Team": "SFA",
+        "GM": "31",
+        "Opp 3FGA": "664",
+        "Opp 3FG": "221",
+        "Pct": "33.3"
+      },
+      {
+        "Rank": "161",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "Opp 3FGA": "880",
+        "Opp 3FG": "293",
+        "Pct": "33.3"
+      },
+      {
+        "Rank": "162",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "Opp 3FGA": "816",
+        "Opp 3FG": "272",
+        "Pct": "33.3"
+      },
+      {
+        "Rank": "-",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "Opp 3FGA": "567",
+        "Opp 3FG": "189",
+        "Pct": "33.3"
+      },
+      {
+        "Rank": "-",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "Opp 3FGA": "870",
+        "Opp 3FG": "290",
+        "Pct": "33.3"
+      },
+      {
+        "Rank": "165",
+        "Team": "UT Martin",
+        "GM": "33",
+        "Opp 3FGA": "926",
+        "Opp 3FG": "309",
+        "Pct": "33.4"
+      },
+      {
+        "Rank": "166",
+        "Team": "FIU",
+        "GM": "33",
+        "Opp 3FGA": "731",
+        "Opp 3FG": "244",
+        "Pct": "33.4"
+      },
+      {
+        "Rank": "167",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "Opp 3FGA": "698",
+        "Opp 3FG": "233",
+        "Pct": "33.4"
+      },
+      {
+        "Rank": "168",
+        "Team": "Southern U.",
+        "GM": "32",
+        "Opp 3FGA": "686",
+        "Opp 3FG": "229",
+        "Pct": "33.4"
+      },
+      {
+        "Rank": "169",
+        "Team": "Stanford",
+        "GM": "35",
+        "Opp 3FGA": "656",
+        "Opp 3FG": "219",
+        "Pct": "33.4"
+      },
+      {
+        "Rank": "170",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "Opp 3FGA": "730",
+        "Opp 3FG": "244",
+        "Pct": "33.4"
+      },
+      {
+        "Rank": "171",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "Opp 3FGA": "843",
+        "Opp 3FG": "282",
+        "Pct": "33.5"
+      },
+      {
+        "Rank": "172",
+        "Team": "Tulsa",
+        "GM": "33",
+        "Opp 3FGA": "681",
+        "Opp 3FG": "228",
+        "Pct": "33.5"
+      },
+      {
+        "Rank": "173",
+        "Team": "North Carolina",
+        "GM": "37",
+        "Opp 3FGA": "866",
+        "Opp 3FG": "290",
+        "Pct": "33.5"
+      },
+      {
+        "Rank": "174",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "Opp 3FGA": "716",
+        "Opp 3FG": "240",
+        "Pct": "33.5"
+      },
+      {
+        "Rank": "175",
+        "Team": "Providence",
+        "GM": "32",
+        "Opp 3FGA": "698",
+        "Opp 3FG": "234",
+        "Pct": "33.5"
+      },
+      {
+        "Rank": "176",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "Opp 3FGA": "805",
+        "Opp 3FG": "270",
+        "Pct": "33.5"
+      },
+      {
+        "Rank": "177",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "Opp 3FGA": "593",
+        "Opp 3FG": "199",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "178",
+        "Team": "Harvard",
+        "GM": "27",
+        "Opp 3FGA": "590",
+        "Opp 3FG": "198",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "179",
+        "Team": "Evansville",
+        "GM": "32",
+        "Opp 3FGA": "810",
+        "Opp 3FG": "272",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "180",
+        "Team": "UIC",
+        "GM": "31",
+        "Opp 3FGA": "664",
+        "Opp 3FG": "223",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "181",
+        "Team": "William & Mary",
+        "GM": "32",
+        "Opp 3FGA": "792",
+        "Opp 3FG": "266",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "182",
+        "Team": "Georgetown",
+        "GM": "34",
+        "Opp 3FGA": "768",
+        "Opp 3FG": "258",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "183",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "Opp 3FGA": "756",
+        "Opp 3FG": "254",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "184",
+        "Team": "Missouri",
+        "GM": "34",
+        "Opp 3FGA": "735",
+        "Opp 3FG": "247",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "185",
+        "Team": "ETSU",
+        "GM": "32",
+        "Opp 3FGA": "717",
+        "Opp 3FG": "241",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "186",
+        "Team": "Washington St.",
+        "GM": "34",
+        "Opp 3FGA": "833",
+        "Opp 3FG": "280",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "187",
+        "Team": "Illinois",
+        "GM": "35",
+        "Opp 3FGA": "702",
+        "Opp 3FG": "236",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "188",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "Opp 3FGA": "818",
+        "Opp 3FG": "275",
+        "Pct": "33.6"
+      },
+      {
+        "Rank": "189",
+        "Team": "Towson",
+        "GM": "33",
+        "Opp 3FGA": "695",
+        "Opp 3FG": "234",
+        "Pct": "33.7"
+      },
+      {
+        "Rank": "190",
+        "Team": "Marist",
+        "GM": "30",
+        "Opp 3FGA": "582",
+        "Opp 3FG": "196",
+        "Pct": "33.7"
+      },
+      {
+        "Rank": "191",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "Opp 3FGA": "706",
+        "Opp 3FG": "238",
+        "Pct": "33.7"
+      },
+      {
+        "Rank": "192",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "Opp 3FGA": "792",
+        "Opp 3FG": "267",
+        "Pct": "33.7"
+      },
+      {
+        "Rank": "193",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "Opp 3FGA": "664",
+        "Opp 3FG": "224",
+        "Pct": "33.7"
+      },
+      {
+        "Rank": "194",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "Opp 3FGA": "910",
+        "Opp 3FG": "307",
+        "Pct": "33.7"
+      },
+      {
+        "Rank": "195",
+        "Team": "Alcorn",
+        "GM": "32",
+        "Opp 3FGA": "809",
+        "Opp 3FG": "273",
+        "Pct": "33.7"
+      },
+      {
+        "Rank": "196",
+        "Team": "Temple",
+        "GM": "32",
+        "Opp 3FGA": "711",
+        "Opp 3FG": "240",
+        "Pct": "33.8"
+      },
+      {
+        "Rank": "197",
+        "Team": "Texas",
+        "GM": "35",
+        "Opp 3FGA": "740",
+        "Opp 3FG": "250",
+        "Pct": "33.8"
+      },
+      {
+        "Rank": "198",
+        "Team": "Hofstra",
+        "GM": "33",
+        "Opp 3FGA": "737",
+        "Opp 3FG": "249",
+        "Pct": "33.8"
+      },
+      {
+        "Rank": "199",
+        "Team": "Monmouth",
+        "GM": "33",
+        "Opp 3FGA": "793",
+        "Opp 3FG": "268",
+        "Pct": "33.8"
+      },
+      {
+        "Rank": "200",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "Opp 3FGA": "704",
+        "Opp 3FG": "238",
+        "Pct": "33.8"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "-",
+        "Team": "Northwestern",
+        "GM": "33",
+        "Opp 3FGA": "704",
+        "Opp 3FG": "238",
+        "Pct": "33.8"
+      },
+      {
+        "Rank": "202",
+        "Team": "New Mexico",
+        "GM": "35",
+        "Opp 3FGA": "777",
+        "Opp 3FG": "263",
+        "Pct": "33.8"
+      },
+      {
+        "Rank": "203",
+        "Team": "Nebraska",
+        "GM": "35",
+        "Opp 3FGA": "971",
+        "Opp 3FG": "329",
+        "Pct": "33.9"
+      },
+      {
+        "Rank": "204",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "Opp 3FGA": "723",
+        "Opp 3FG": "245",
+        "Pct": "33.9"
+      },
+      {
+        "Rank": "205",
+        "Team": "Wofford",
+        "GM": "35",
+        "Opp 3FGA": "897",
+        "Opp 3FG": "304",
+        "Pct": "33.9"
+      },
+      {
+        "Rank": "206",
+        "Team": "Howard",
+        "GM": "32",
+        "Opp 3FGA": "649",
+        "Opp 3FG": "220",
+        "Pct": "33.9"
+      },
+      {
+        "Rank": "207",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "Opp 3FGA": "837",
+        "Opp 3FG": "284",
+        "Pct": "33.9"
+      },
+      {
+        "Rank": "208",
+        "Team": "VMI",
+        "GM": "34",
+        "Opp 3FGA": "928",
+        "Opp 3FG": "315",
+        "Pct": "33.9"
+      },
+      {
+        "Rank": "209",
+        "Team": "Mercer",
+        "GM": "33",
+        "Opp 3FGA": "916",
+        "Opp 3FG": "311",
+        "Pct": "34.0"
+      },
+      {
+        "Rank": "210",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "Opp 3FGA": "686",
+        "Opp 3FG": "233",
+        "Pct": "34.0"
+      },
+      {
+        "Rank": "211",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "Opp 3FGA": "895",
+        "Opp 3FG": "304",
+        "Pct": "34.0"
+      },
+      {
+        "Rank": "212",
+        "Team": "Arizona",
+        "GM": "37",
+        "Opp 3FGA": "939",
+        "Opp 3FG": "319",
+        "Pct": "34.0"
+      },
+      {
+        "Rank": "213",
+        "Team": "Cornell",
+        "GM": "29",
+        "Opp 3FGA": "705",
+        "Opp 3FG": "240",
+        "Pct": "34.0"
+      },
+      {
+        "Rank": "214",
+        "Team": "Utah",
+        "GM": "33",
+        "Opp 3FGA": "796",
+        "Opp 3FG": "271",
+        "Pct": "34.0"
+      },
+      {
+        "Rank": "215",
+        "Team": "Louisville",
+        "GM": "35",
+        "Opp 3FGA": "816",
+        "Opp 3FG": "278",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "216",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "Opp 3FGA": "860",
+        "Opp 3FG": "293",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "217",
+        "Team": "Utah St.",
+        "GM": "34",
+        "Opp 3FGA": "812",
+        "Opp 3FG": "277",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "218",
+        "Team": "Colorado",
+        "GM": "35",
+        "Opp 3FGA": "800",
+        "Opp 3FG": "273",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "219",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "Opp 3FGA": "715",
+        "Opp 3FG": "244",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "220",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "Opp 3FGA": "797",
+        "Opp 3FG": "272",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "221",
+        "Team": "Virginia",
+        "GM": "32",
+        "Opp 3FGA": "671",
+        "Opp 3FG": "229",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "222",
+        "Team": "Army West Point",
+        "GM": "33",
+        "Opp 3FGA": "832",
+        "Opp 3FG": "284",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "223",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "Opp 3FGA": "659",
+        "Opp 3FG": "225",
+        "Pct": "34.1"
+      },
+      {
+        "Rank": "224",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "Opp 3FGA": "890",
+        "Opp 3FG": "304",
+        "Pct": "34.2"
+      },
+      {
+        "Rank": "225",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "Opp 3FGA": "603",
+        "Opp 3FG": "206",
+        "Pct": "34.2"
+      },
+      {
+        "Rank": "226",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "Opp 3FGA": "720",
+        "Opp 3FG": "246",
+        "Pct": "34.2"
+      },
+      {
+        "Rank": "227",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "Opp 3FGA": "769",
+        "Opp 3FG": "263",
+        "Pct": "34.2"
+      },
+      {
+        "Rank": "228",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "Opp 3FGA": "652",
+        "Opp 3FG": "223",
+        "Pct": "34.2"
+      },
+      {
+        "Rank": "229",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "Opp 3FGA": "918",
+        "Opp 3FG": "314",
+        "Pct": "34.2"
+      },
+      {
+        "Rank": "230",
+        "Team": "NC State",
+        "GM": "31",
+        "Opp 3FGA": "563",
+        "Opp 3FG": "193",
+        "Pct": "34.3"
+      },
+      {
+        "Rank": "231",
+        "Team": "Siena",
+        "GM": "32",
+        "Opp 3FGA": "621",
+        "Opp 3FG": "213",
+        "Pct": "34.3"
+      },
+      {
+        "Rank": "232",
+        "Team": "James Madison",
+        "GM": "32",
+        "Opp 3FGA": "647",
+        "Opp 3FG": "222",
+        "Pct": "34.3"
+      },
+      {
+        "Rank": "233",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "Opp 3FGA": "778",
+        "Opp 3FG": "267",
+        "Pct": "34.3"
+      },
+      {
+        "Rank": "234",
+        "Team": "Samford",
+        "GM": "33",
+        "Opp 3FGA": "827",
+        "Opp 3FG": "284",
+        "Pct": "34.3"
+      },
+      {
+        "Rank": "235",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "Opp 3FGA": "727",
+        "Opp 3FG": "250",
+        "Pct": "34.4"
+      },
+      {
+        "Rank": "236",
+        "Team": "Xavier",
+        "GM": "34",
+        "Opp 3FGA": "741",
+        "Opp 3FG": "255",
+        "Pct": "34.4"
+      },
+      {
+        "Rank": "237",
+        "Team": "Iowa",
+        "GM": "33",
+        "Opp 3FGA": "793",
+        "Opp 3FG": "273",
+        "Pct": "34.4"
+      },
+      {
+        "Rank": "238",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "Opp 3FGA": "618",
+        "Opp 3FG": "213",
+        "Pct": "34.5"
+      },
+      {
+        "Rank": "239",
+        "Team": "Villanova",
+        "GM": "36",
+        "Opp 3FGA": "913",
+        "Opp 3FG": "315",
+        "Pct": "34.5"
+      },
+      {
+        "Rank": "240",
+        "Team": "North Florida",
+        "GM": "32",
+        "Opp 3FGA": "646",
+        "Opp 3FG": "223",
+        "Pct": "34.5"
+      },
+      {
+        "Rank": "241",
+        "Team": "Syracuse",
+        "GM": "33",
+        "Opp 3FGA": "756",
+        "Opp 3FG": "261",
+        "Pct": "34.5"
+      },
+      {
+        "Rank": "242",
+        "Team": "Minnesota",
+        "GM": "32",
+        "Opp 3FGA": "614",
+        "Opp 3FG": "212",
+        "Pct": "34.5"
+      },
+      {
+        "Rank": "243",
+        "Team": "Navy",
+        "GM": "34",
+        "Opp 3FGA": "773",
+        "Opp 3FG": "267",
+        "Pct": "34.5"
+      },
+      {
+        "Rank": "244",
+        "Team": "UAB",
+        "GM": "37",
+        "Opp 3FGA": "799",
+        "Opp 3FG": "276",
+        "Pct": "34.5"
+      },
+      {
+        "Rank": "245",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "Opp 3FGA": "712",
+        "Opp 3FG": "246",
+        "Pct": "34.6"
+      },
+      {
+        "Rank": "246",
+        "Team": "The Citadel",
+        "GM": "30",
+        "Opp 3FGA": "732",
+        "Opp 3FG": "253",
+        "Pct": "34.6"
+      },
+      {
+        "Rank": "247",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "Opp 3FGA": "905",
+        "Opp 3FG": "313",
+        "Pct": "34.6"
+      },
+      {
+        "Rank": "248",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "Opp 3FGA": "714",
+        "Opp 3FG": "247",
+        "Pct": "34.6"
+      },
+      {
+        "Rank": "249",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "Opp 3FGA": "757",
+        "Opp 3FG": "262",
+        "Pct": "34.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Pacific",
+        "GM": "33",
+        "Opp 3FGA": "757",
+        "Opp 3FG": "262",
+        "Pct": "34.6"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "DePaul",
+        "GM": "34",
+        "Opp 3FGA": "727",
+        "Opp 3FG": "252",
+        "Pct": "34.7"
+      },
+      {
+        "Rank": "252",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "Opp 3FGA": "744",
+        "Opp 3FG": "258",
+        "Pct": "34.7"
+      },
+      {
+        "Rank": "253",
+        "Team": "Belmont",
+        "GM": "33",
+        "Opp 3FGA": "865",
+        "Opp 3FG": "300",
+        "Pct": "34.7"
+      },
+      {
+        "Rank": "254",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "Opp 3FGA": "741",
+        "Opp 3FG": "257",
+        "Pct": "34.7"
+      },
+      {
+        "Rank": "255",
+        "Team": "UMBC",
+        "GM": "32",
+        "Opp 3FGA": "706",
+        "Opp 3FG": "245",
+        "Pct": "34.7"
+      },
+      {
+        "Rank": "256",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "Opp 3FGA": "746",
+        "Opp 3FG": "259",
+        "Pct": "34.7"
+      },
+      {
+        "Rank": "257",
+        "Team": "Bucknell",
+        "GM": "33",
+        "Opp 3FGA": "786",
+        "Opp 3FG": "273",
+        "Pct": "34.7"
+      },
+      {
+        "Rank": "258",
+        "Team": "Omaha",
+        "GM": "35",
+        "Opp 3FGA": "892",
+        "Opp 3FG": "310",
+        "Pct": "34.8"
+      },
+      {
+        "Rank": "259",
+        "Team": "Grambling",
+        "GM": "34",
+        "Opp 3FGA": "673",
+        "Opp 3FG": "234",
+        "Pct": "34.8"
+      },
+      {
+        "Rank": "260",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "Opp 3FGA": "687",
+        "Opp 3FG": "239",
+        "Pct": "34.8"
+      },
+      {
+        "Rank": "261",
+        "Team": "Idaho",
+        "GM": "33",
+        "Opp 3FGA": "750",
+        "Opp 3FG": "261",
+        "Pct": "34.8"
+      },
+      {
+        "Rank": "262",
+        "Team": "South Carolina",
+        "GM": "32",
+        "Opp 3FGA": "635",
+        "Opp 3FG": "221",
+        "Pct": "34.8"
+      },
+      {
+        "Rank": "263",
+        "Team": "Richmond",
+        "GM": "32",
+        "Opp 3FGA": "846",
+        "Opp 3FG": "295",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "264",
+        "Team": "Winthrop",
+        "GM": "34",
+        "Opp 3FGA": "797",
+        "Opp 3FG": "278",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "265",
+        "Team": "Fordham",
+        "GM": "33",
+        "Opp 3FGA": "622",
+        "Opp 3FG": "217",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "266",
+        "Team": "UC Davis",
+        "GM": "32",
+        "Opp 3FGA": "659",
+        "Opp 3FG": "230",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "267",
+        "Team": "Denver",
+        "GM": "32",
+        "Opp 3FGA": "636",
+        "Opp 3FG": "222",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Northeastern",
+        "GM": "32",
+        "Opp 3FGA": "636",
+        "Opp 3FG": "222",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "269",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "Opp 3FGA": "736",
+        "Opp 3FG": "257",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "270",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "Opp 3FGA": "787",
+        "Opp 3FG": "275",
+        "Pct": "34.9"
+      },
+      {
+        "Rank": "271",
+        "Team": "South Dakota",
+        "GM": "33",
+        "Opp 3FGA": "824",
+        "Opp 3FG": "288",
+        "Pct": "35.0"
+      },
+      {
+        "Rank": "272",
+        "Team": "Boise St.",
+        "GM": "37",
+        "Opp 3FGA": "758",
+        "Opp 3FG": "265",
+        "Pct": "35.0"
+      },
+      {
+        "Rank": "273",
+        "Team": "UIW",
+        "GM": "36",
+        "Opp 3FGA": "649",
+        "Opp 3FG": "227",
+        "Pct": "35.0"
+      },
+      {
+        "Rank": "274",
+        "Team": "UConn",
+        "GM": "35",
+        "Opp 3FGA": "646",
+        "Opp 3FG": "226",
+        "Pct": "35.0"
+      },
+      {
+        "Rank": "275",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "Opp 3FGA": "845",
+        "Opp 3FG": "296",
+        "Pct": "35.0"
+      },
+      {
+        "Rank": "276",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "Opp 3FGA": "668",
+        "Opp 3FG": "234",
+        "Pct": "35.0"
+      },
+      {
+        "Rank": "277",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "Opp 3FGA": "773",
+        "Opp 3FG": "271",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "278",
+        "Team": "Weber St.",
+        "GM": "34",
+        "Opp 3FGA": "807",
+        "Opp 3FG": "283",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "279",
+        "Team": "CSUN",
+        "GM": "33",
+        "Opp 3FGA": "921",
+        "Opp 3FG": "323",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "280",
+        "Team": "Delaware",
+        "GM": "36",
+        "Opp 3FGA": "760",
+        "Opp 3FG": "267",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "281",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "Opp 3FGA": "848",
+        "Opp 3FG": "298",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "282",
+        "Team": "Rutgers",
+        "GM": "32",
+        "Opp 3FGA": "737",
+        "Opp 3FG": "259",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "283",
+        "Team": "UAlbany",
+        "GM": "33",
+        "Opp 3FGA": "626",
+        "Opp 3FG": "220",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "284",
+        "Team": "FGCU",
+        "GM": "34",
+        "Opp 3FGA": "845",
+        "Opp 3FG": "297",
+        "Pct": "35.1"
+      },
+      {
+        "Rank": "285",
+        "Team": "Hawaii",
+        "GM": "31",
+        "Opp 3FGA": "583",
+        "Opp 3FG": "205",
+        "Pct": "35.2"
+      },
+      {
+        "Rank": "286",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "Opp 3FGA": "841",
+        "Opp 3FG": "296",
+        "Pct": "35.2"
+      },
+      {
+        "Rank": "287",
+        "Team": "Boston College",
+        "GM": "31",
+        "Opp 3FGA": "647",
+        "Opp 3FG": "228",
+        "Pct": "35.2"
+      },
+      {
+        "Rank": "288",
+        "Team": "Penn St.",
+        "GM": "31",
+        "Opp 3FGA": "695",
+        "Opp 3FG": "245",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "289",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "Opp 3FGA": "845",
+        "Opp 3FG": "298",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "290",
+        "Team": "IU Indy",
+        "GM": "32",
+        "Opp 3FGA": "765",
+        "Opp 3FG": "270",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "291",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "Opp 3FGA": "864",
+        "Opp 3FG": "305",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "292",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "Opp 3FGA": "762",
+        "Opp 3FG": "269",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "293",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "Opp 3FGA": "756",
+        "Opp 3FG": "267",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "294",
+        "Team": "Lafayette",
+        "GM": "33",
+        "Opp 3FGA": "716",
+        "Opp 3FG": "253",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "295",
+        "Team": "Davidson",
+        "GM": "33",
+        "Opp 3FGA": "764",
+        "Opp 3FG": "270",
+        "Pct": "35.3"
+      },
+      {
+        "Rank": "296",
+        "Team": "Washington",
+        "GM": "31",
+        "Opp 3FGA": "619",
+        "Opp 3FG": "219",
+        "Pct": "35.4"
+      },
+      {
+        "Rank": "297",
+        "Team": "UNI",
+        "GM": "33",
+        "Opp 3FGA": "754",
+        "Opp 3FG": "267",
+        "Pct": "35.4"
+      },
+      {
+        "Rank": "298",
+        "Team": "Baylor",
+        "GM": "35",
+        "Opp 3FGA": "798",
+        "Opp 3FG": "283",
+        "Pct": "35.5"
+      },
+      {
+        "Rank": "299",
+        "Team": "Radford",
+        "GM": "33",
+        "Opp 3FGA": "719",
+        "Opp 3FG": "255",
+        "Pct": "35.5"
+      },
+      {
+        "Rank": "300",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "Opp 3FGA": "698",
+        "Opp 3FG": "248",
+        "Pct": "35.5"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "301",
+        "Team": "Princeton",
+        "GM": "30",
+        "Opp 3FGA": "675",
+        "Opp 3FG": "240",
+        "Pct": "35.6"
+      },
+      {
+        "Rank": "302",
+        "Team": "Oakland",
+        "GM": "34",
+        "Opp 3FGA": "824",
+        "Opp 3FG": "293",
+        "Pct": "35.6"
+      },
+      {
+        "Rank": "303",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "Opp 3FGA": "772",
+        "Opp 3FG": "275",
+        "Pct": "35.6"
+      },
+      {
+        "Rank": "304",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "Opp 3FGA": "796",
+        "Opp 3FG": "284",
+        "Pct": "35.7"
+      },
+      {
+        "Rank": "305",
+        "Team": "UTSA",
+        "GM": "31",
+        "Opp 3FGA": "667",
+        "Opp 3FG": "238",
+        "Pct": "35.7"
+      },
+      {
+        "Rank": "306",
+        "Team": "BYU",
+        "GM": "36",
+        "Opp 3FGA": "975",
+        "Opp 3FG": "348",
+        "Pct": "35.7"
+      },
+      {
+        "Rank": "307",
+        "Team": "Rider",
+        "GM": "33",
+        "Opp 3FGA": "776",
+        "Opp 3FG": "277",
+        "Pct": "35.7"
+      },
+      {
+        "Rank": "308",
+        "Team": "Nevada",
+        "GM": "33",
+        "Opp 3FGA": "773",
+        "Opp 3FG": "276",
+        "Pct": "35.7"
+      },
+      {
+        "Rank": "309",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "Opp 3FGA": "868",
+        "Opp 3FG": "310",
+        "Pct": "35.7"
+      },
+      {
+        "Rank": "310",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "Opp 3FGA": "688",
+        "Opp 3FG": "246",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "311",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "Opp 3FGA": "727",
+        "Opp 3FG": "260",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "312",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "Opp 3FGA": "643",
+        "Opp 3FG": "230",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "313",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "Opp 3FGA": "766",
+        "Opp 3FG": "274",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "314",
+        "Team": "Prairie View",
+        "GM": "32",
+        "Opp 3FGA": "615",
+        "Opp 3FG": "220",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "315",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "Opp 3FGA": "724",
+        "Opp 3FG": "259",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "316",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "Opp 3FGA": "866",
+        "Opp 3FG": "310",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "317",
+        "Team": "Fairfield",
+        "GM": "32",
+        "Opp 3FGA": "659",
+        "Opp 3FG": "236",
+        "Pct": "35.8"
+      },
+      {
+        "Rank": "318",
+        "Team": "Duquesne",
+        "GM": "32",
+        "Opp 3FGA": "607",
+        "Opp 3FG": "218",
+        "Pct": "35.9"
+      },
+      {
+        "Rank": "319",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "Opp 3FGA": "714",
+        "Opp 3FG": "257",
+        "Pct": "36.0"
+      },
+      {
+        "Rank": "320",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "Opp 3FGA": "644",
+        "Opp 3FG": "232",
+        "Pct": "36.0"
+      },
+      {
+        "Rank": "321",
+        "Team": "Texas St.",
+        "GM": "32",
+        "Opp 3FGA": "665",
+        "Opp 3FG": "240",
+        "Pct": "36.1"
+      },
+      {
+        "Rank": "322",
+        "Team": "Stetson",
+        "GM": "32",
+        "Opp 3FGA": "850",
+        "Opp 3FG": "307",
+        "Pct": "36.1"
+      },
+      {
+        "Rank": "323",
+        "Team": "North Dakota",
+        "GM": "33",
+        "Opp 3FGA": "797",
+        "Opp 3FG": "288",
+        "Pct": "36.1"
+      },
+      {
+        "Rank": "324",
+        "Team": "Canisius",
+        "GM": "31",
+        "Opp 3FGA": "724",
+        "Opp 3FG": "262",
+        "Pct": "36.2"
+      },
+      {
+        "Rank": "325",
+        "Team": "Boston U.",
+        "GM": "32",
+        "Opp 3FGA": "695",
+        "Opp 3FG": "252",
+        "Pct": "36.3"
+      },
+      {
+        "Rank": "326",
+        "Team": "Air Force",
+        "GM": "32",
+        "Opp 3FGA": "637",
+        "Opp 3FG": "231",
+        "Pct": "36.3"
+      },
+      {
+        "Rank": "327",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "Opp 3FGA": "758",
+        "Opp 3FG": "275",
+        "Pct": "36.3"
+      },
+      {
+        "Rank": "328",
+        "Team": "Niagara",
+        "GM": "31",
+        "Opp 3FGA": "659",
+        "Opp 3FG": "240",
+        "Pct": "36.4"
+      },
+      {
+        "Rank": "329",
+        "Team": "New Orleans",
+        "GM": "31",
+        "Opp 3FGA": "840",
+        "Opp 3FG": "306",
+        "Pct": "36.4"
+      },
+      {
+        "Rank": "330",
+        "Team": "Buffalo",
+        "GM": "31",
+        "Opp 3FGA": "709",
+        "Opp 3FG": "259",
+        "Pct": "36.5"
+      },
+      {
+        "Rank": "331",
+        "Team": "Wright St.",
+        "GM": "33",
+        "Opp 3FGA": "703",
+        "Opp 3FG": "257",
+        "Pct": "36.6"
+      },
+      {
+        "Rank": "332",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "Opp 3FGA": "681",
+        "Opp 3FG": "249",
+        "Pct": "36.6"
+      },
+      {
+        "Rank": "333",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "Opp 3FGA": "722",
+        "Opp 3FG": "264",
+        "Pct": "36.6"
+      },
+      {
+        "Rank": "334",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "Opp 3FGA": "694",
+        "Opp 3FG": "254",
+        "Pct": "36.6"
+      },
+      {
+        "Rank": "335",
+        "Team": "NIU",
+        "GM": "31",
+        "Opp 3FGA": "680",
+        "Opp 3FG": "251",
+        "Pct": "36.9"
+      },
+      {
+        "Rank": "336",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "Opp 3FGA": "711",
+        "Opp 3FG": "263",
+        "Pct": "37.0"
+      },
+      {
+        "Rank": "337",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "Opp 3FGA": "738",
+        "Opp 3FG": "273",
+        "Pct": "37.0"
+      },
+      {
+        "Rank": "338",
+        "Team": "Ohio",
+        "GM": "32",
+        "Opp 3FGA": "625",
+        "Opp 3FG": "232",
+        "Pct": "37.1"
+      },
+      {
+        "Rank": "339",
+        "Team": "Green Bay",
+        "GM": "32",
+        "Opp 3FGA": "765",
+        "Opp 3FG": "285",
+        "Pct": "37.3"
+      },
+      {
+        "Rank": "340",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "Opp 3FGA": "684",
+        "Opp 3FG": "255",
+        "Pct": "37.3"
+      },
+      {
+        "Rank": "341",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "Opp 3FGA": "619",
+        "Opp 3FG": "231",
+        "Pct": "37.3"
+      },
+      {
+        "Rank": "342",
+        "Team": "Colgate",
+        "GM": "33",
+        "Opp 3FGA": "758",
+        "Opp 3FG": "283",
+        "Pct": "37.3"
+      },
+      {
+        "Rank": "343",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "Opp 3FGA": "676",
+        "Opp 3FG": "253",
+        "Pct": "37.4"
+      },
+      {
+        "Rank": "344",
+        "Team": "Penn",
+        "GM": "27",
+        "Opp 3FGA": "650",
+        "Opp 3FG": "244",
+        "Pct": "37.5"
+      },
+      {
+        "Rank": "345",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "Opp 3FGA": "687",
+        "Opp 3FG": "258",
+        "Pct": "37.6"
+      },
+      {
+        "Rank": "346",
+        "Team": "Portland",
+        "GM": "32",
+        "Opp 3FGA": "859",
+        "Opp 3FG": "323",
+        "Pct": "37.6"
+      },
+      {
+        "Rank": "347",
+        "Team": "California",
+        "GM": "33",
+        "Opp 3FGA": "638",
+        "Opp 3FG": "240",
+        "Pct": "37.6"
+      },
+      {
+        "Rank": "348",
+        "Team": "East Carolina",
+        "GM": "33",
+        "Opp 3FGA": "687",
+        "Opp 3FG": "260",
+        "Pct": "37.8"
+      },
+      {
+        "Rank": "349",
+        "Team": "Toledo",
+        "GM": "33",
+        "Opp 3FGA": "760",
+        "Opp 3FG": "289",
+        "Pct": "38.0"
+      },
+      {
+        "Rank": "350",
+        "Team": "Columbia",
+        "GM": "27",
+        "Opp 3FGA": "693",
+        "Opp 3FG": "264",
+        "Pct": "38.1"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Three Point Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "Opp 3FGA": "1052",
+        "Opp 3FG": "404",
+        "Pct": "38.4"
+      },
+      {
+        "Rank": "352",
+        "Team": "San Diego",
+        "GM": "33",
+        "Opp 3FGA": "707",
+        "Opp 3FG": "272",
+        "Pct": "38.5"
+      },
+      {
+        "Rank": "353",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "Opp 3FGA": "675",
+        "Opp 3FG": "260",
+        "Pct": "38.5"
+      },
+      {
+        "Rank": "354",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "Opp 3FGA": "827",
+        "Opp 3FG": "319",
+        "Pct": "38.6"
+      },
+      {
+        "Rank": "355",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "Opp 3FGA": "733",
+        "Opp 3FG": "291",
+        "Pct": "39.7"
+      }
+    ]
+  }
+]

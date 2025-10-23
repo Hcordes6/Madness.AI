@@ -1,0 +1,3624 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Duke",
+        "GM": "39",
+        "PTS": "3246",
+        "PPG": "83.2",
+        "OPP PTS": "2448",
+        "OPP PPG": "62.8",
+        "SCR MAR": "20"
+      },
+      {
+        "Rank": "2",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "PTS": "2777",
+        "PPG": "79.3",
+        "OPP PTS": "2163",
+        "OPP PPG": "61.8",
+        "SCR MAR": "17"
+      },
+      {
+        "Rank": "3",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "PTS": "3024",
+        "PPG": "86.4",
+        "OPP PTS": "2447",
+        "OPP PPG": "69.9",
+        "SCR MAR": "16"
+      },
+      {
+        "Rank": "4",
+        "Team": "Florida",
+        "GM": "40",
+        "PTS": "3391",
+        "PPG": "84.8",
+        "OPP PTS": "2784",
+        "OPP PPG": "69.6",
+        "SCR MAR": "15"
+      },
+      {
+        "Rank": "5",
+        "Team": "Houston",
+        "GM": "40",
+        "PTS": "2946",
+        "PPG": "73.6",
+        "OPP PTS": "2346",
+        "OPP PPG": "58.6",
+        "SCR MAR": "15"
+      },
+      {
+        "Rank": "6",
+        "Team": "VCU",
+        "GM": "35",
+        "PTS": "2693",
+        "PPG": "76.9",
+        "OPP PTS": "2201",
+        "OPP PPG": "62.9",
+        "SCR MAR": "14"
+      },
+      {
+        "Rank": "7",
+        "Team": "Maryland",
+        "GM": "36",
+        "PTS": "2919",
+        "PPG": "81.1",
+        "OPP PTS": "2418",
+        "OPP PPG": "67.2",
+        "SCR MAR": "13"
+      },
+      {
+        "Rank": "8",
+        "Team": "Auburn",
+        "GM": "38",
+        "PTS": "3153",
+        "PPG": "83.0",
+        "OPP PTS": "2638",
+        "OPP PPG": "69.4",
+        "SCR MAR": "13"
+      },
+      {
+        "Rank": "9",
+        "Team": "High Point",
+        "GM": "35",
+        "PTS": "2858",
+        "PPG": "81.7",
+        "OPP PTS": "2413",
+        "OPP PPG": "68.9",
+        "SCR MAR": "12"
+      },
+      {
+        "Rank": "10",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "PTS": "2825",
+        "PPG": "78.5",
+        "OPP PTS": "2368",
+        "OPP PPG": "65.8",
+        "SCR MAR": "12"
+      },
+      {
+        "Rank": "11",
+        "Team": "Liberty",
+        "GM": "35",
+        "PTS": "2655",
+        "PPG": "75.9",
+        "OPP PTS": "2219",
+        "OPP PPG": "63.4",
+        "SCR MAR": "12"
+      },
+      {
+        "Rank": "12",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "PTS": "2993",
+        "PPG": "80.9",
+        "OPP PTS": "2533",
+        "OPP PPG": "68.5",
+        "SCR MAR": "12"
+      },
+      {
+        "Rank": "13",
+        "Team": "McNeese",
+        "GM": "35",
+        "PTS": "2680",
+        "PPG": "76.6",
+        "OPP PTS": "2256",
+        "OPP PPG": "64.5",
+        "SCR MAR": "12"
+      },
+      {
+        "Rank": "14",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "PTS": "2812",
+        "PPG": "80.3",
+        "OPP PTS": "2392",
+        "OPP PPG": "68.3",
+        "SCR MAR": "12"
+      },
+      {
+        "Rank": "15",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "PTS": "2551",
+        "PPG": "72.9",
+        "OPP PTS": "2138",
+        "OPP PPG": "61.1",
+        "SCR MAR": "11"
+      },
+      {
+        "Rank": "16",
+        "Team": "Yale",
+        "GM": "30",
+        "PTS": "2439",
+        "PPG": "81.3",
+        "OPP PTS": "2102",
+        "OPP PPG": "70.1",
+        "SCR MAR": "11"
+      },
+      {
+        "Rank": "17",
+        "Team": "Tennessee",
+        "GM": "38",
+        "PTS": "2813",
+        "PPG": "74.0",
+        "OPP PTS": "2395",
+        "OPP PPG": "63.1",
+        "SCR MAR": "11"
+      },
+      {
+        "Rank": "18",
+        "Team": "Drake",
+        "GM": "35",
+        "PTS": "2444",
+        "PPG": "69.8",
+        "OPP PTS": "2062",
+        "OPP PPG": "58.9",
+        "SCR MAR": "10"
+      },
+      {
+        "Rank": "19",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "PTS": "2752",
+        "PPG": "78.6",
+        "OPP PTS": "2371",
+        "OPP PPG": "67.7",
+        "SCR MAR": "10"
+      },
+      {
+        "Rank": "20",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "PTS": "2874",
+        "PPG": "77.7",
+        "OPP PTS": "2484",
+        "OPP PPG": "67.1",
+        "SCR MAR": "10"
+      },
+      {
+        "Rank": "21",
+        "Team": "Clemson",
+        "GM": "34",
+        "PTS": "2586",
+        "PPG": "76.1",
+        "OPP PTS": "2236",
+        "OPP PPG": "65.8",
+        "SCR MAR": "10"
+      },
+      {
+        "Rank": "22",
+        "Team": "Missouri",
+        "GM": "34",
+        "PTS": "2844",
+        "PPG": "83.6",
+        "OPP PTS": "2504",
+        "OPP PPG": "73.6",
+        "SCR MAR": "10"
+      },
+      {
+        "Rank": "23",
+        "Team": "New Mexico",
+        "GM": "35",
+        "PTS": "2819",
+        "PPG": "80.5",
+        "OPP PTS": "2472",
+        "OPP PPG": "70.6",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "24",
+        "Team": "Utah St.",
+        "GM": "34",
+        "PTS": "2716",
+        "PPG": "79.9",
+        "OPP PTS": "2381",
+        "OPP PPG": "70.0",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "25",
+        "Team": "Alabama",
+        "GM": "37",
+        "PTS": "3355",
+        "PPG": "90.7",
+        "OPP PTS": "3007",
+        "OPP PPG": "81.3",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "26",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "PTS": "2312",
+        "PPG": "72.2",
+        "OPP PTS": "2012",
+        "OPP PPG": "62.9",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "27",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "PTS": "2964",
+        "PPG": "80.1",
+        "OPP PTS": "2622",
+        "OPP PPG": "70.9",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "28",
+        "Team": "Arizona",
+        "GM": "37",
+        "PTS": "3052",
+        "PPG": "82.5",
+        "OPP PTS": "2711",
+        "OPP PPG": "73.3",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "29",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "PTS": "2858",
+        "PPG": "79.4",
+        "OPP PTS": "2528",
+        "OPP PPG": "70.2",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "30",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "PTS": "2624",
+        "PPG": "79.5",
+        "OPP PTS": "2324",
+        "OPP PPG": "70.4",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "31",
+        "Team": "Louisville",
+        "GM": "35",
+        "PTS": "2747",
+        "PPG": "78.5",
+        "OPP PTS": "2432",
+        "OPP PPG": "69.5",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "UConn",
+        "GM": "35",
+        "PTS": "2696",
+        "PPG": "77.0",
+        "OPP PTS": "2381",
+        "OPP PPG": "68.0",
+        "SCR MAR": "9"
+      },
+      {
+        "Rank": "33",
+        "Team": "Akron",
+        "GM": "35",
+        "PTS": "2941",
+        "PPG": "84.0",
+        "OPP PTS": "2627",
+        "OPP PPG": "75.1",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "34",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "PTS": "2786",
+        "PPG": "81.9",
+        "OPP PTS": "2481",
+        "OPP PPG": "73.0",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "35",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "PTS": "2962",
+        "PPG": "75.9",
+        "OPP PTS": "2613",
+        "OPP PPG": "67.0",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "36",
+        "Team": "UNCW",
+        "GM": "35",
+        "PTS": "2771",
+        "PPG": "79.2",
+        "OPP PTS": "2459",
+        "OPP PPG": "70.3",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "37",
+        "Team": "UCLA",
+        "GM": "34",
+        "PTS": "2520",
+        "PPG": "74.2",
+        "OPP PTS": "2217",
+        "OPP PPG": "65.2",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "38",
+        "Team": "BYU",
+        "GM": "36",
+        "PTS": "2931",
+        "PPG": "81.4",
+        "OPP PTS": "2612",
+        "OPP PPG": "72.6",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "39",
+        "Team": "Illinois",
+        "GM": "35",
+        "PTS": "2927",
+        "PPG": "83.6",
+        "OPP PTS": "2619",
+        "OPP PPG": "74.8",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "40",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "PTS": "2661",
+        "PPG": "78.3",
+        "OPP PTS": "2362",
+        "OPP PPG": "69.5",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "41",
+        "Team": "Boise St.",
+        "GM": "37",
+        "PTS": "2802",
+        "PPG": "75.8",
+        "OPP PTS": "2477",
+        "OPP PPG": "66.9",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "42",
+        "Team": "SMU",
+        "GM": "35",
+        "PTS": "2797",
+        "PPG": "79.9",
+        "OPP PTS": "2495",
+        "OPP PPG": "71.3",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "43",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "PTS": "2576",
+        "PPG": "75.8",
+        "OPP PTS": "2291",
+        "OPP PPG": "67.4",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "44",
+        "Team": "South Alabama",
+        "GM": "32",
+        "PTS": "2334",
+        "PPG": "72.9",
+        "OPP PTS": "2066",
+        "OPP PPG": "64.6",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "45",
+        "Team": "North Ala.",
+        "GM": "35",
+        "PTS": "2753",
+        "PPG": "78.7",
+        "OPP PTS": "2471",
+        "OPP PPG": "70.6",
+        "SCR MAR": "8"
+      },
+      {
+        "Rank": "46",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "PTS": "2822",
+        "PPG": "80.6",
+        "OPP PTS": "2545",
+        "OPP PPG": "72.7",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "47",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "PTS": "2740",
+        "PPG": "80.6",
+        "OPP PTS": "2473",
+        "OPP PPG": "72.7",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "48",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "PTS": "2705",
+        "PPG": "75.2",
+        "OPP PTS": "2423",
+        "OPP PPG": "67.3",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Texas",
+        "GM": "36",
+        "PTS": "2447",
+        "PPG": "68.0",
+        "OPP PTS": "2165",
+        "OPP PPG": "60.1",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "50",
+        "Team": "Marquette",
+        "GM": "34",
+        "PTS": "2603",
+        "PPG": "76.6",
+        "OPP PTS": "2337",
+        "OPP PPG": "68.7",
+        "SCR MAR": "7"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "Bradley",
+        "GM": "37",
+        "PTS": "2823",
+        "PPG": "76.3",
+        "OPP PTS": "2535",
+        "OPP PPG": "68.5",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "52",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "PTS": "2584",
+        "PPG": "76.0",
+        "OPP PTS": "2322",
+        "OPP PPG": "68.3",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "53",
+        "Team": "Troy",
+        "GM": "34",
+        "PTS": "2495",
+        "PPG": "73.4",
+        "OPP PTS": "2235",
+        "OPP PPG": "65.7",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "54",
+        "Team": "Cornell",
+        "GM": "29",
+        "PTS": "2467",
+        "PPG": "85.1",
+        "OPP PTS": "2248",
+        "OPP PPG": "77.5",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "55",
+        "Team": "Bryant",
+        "GM": "35",
+        "PTS": "2862",
+        "PPG": "81.8",
+        "OPP PTS": "2598",
+        "OPP PPG": "74.2",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "56",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "PTS": "2332",
+        "PPG": "72.9",
+        "OPP PTS": "2092",
+        "OPP PPG": "65.4",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "57",
+        "Team": "George Mason",
+        "GM": "36",
+        "PTS": "2564",
+        "PPG": "71.2",
+        "OPP PTS": "2296",
+        "OPP PPG": "63.8",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "58",
+        "Team": "Furman",
+        "GM": "35",
+        "PTS": "2702",
+        "PPG": "77.2",
+        "OPP PTS": "2443",
+        "OPP PPG": "69.8",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "59",
+        "Team": "Samford",
+        "GM": "33",
+        "PTS": "2736",
+        "PPG": "82.9",
+        "OPP PTS": "2492",
+        "OPP PPG": "75.5",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "-",
+        "Team": "CSUN",
+        "GM": "33",
+        "PTS": "2650",
+        "PPG": "80.3",
+        "OPP PTS": "2406",
+        "OPP PPG": "72.9",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "61",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "PTS": "2696",
+        "PPG": "77.0",
+        "OPP PTS": "2440",
+        "OPP PPG": "69.7",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "62",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "PTS": "2516",
+        "PPG": "76.2",
+        "OPP PTS": "2276",
+        "OPP PPG": "69.0",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "63",
+        "Team": "Kentucky",
+        "GM": "36",
+        "PTS": "3040",
+        "PPG": "84.4",
+        "OPP PTS": "2780",
+        "OPP PPG": "77.2",
+        "SCR MAR": "7"
+      },
+      {
+        "Rank": "64",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "PTS": "2442",
+        "PPG": "74.0",
+        "OPP PTS": "2212",
+        "OPP PPG": "67.0",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "65",
+        "Team": "Purdue",
+        "GM": "36",
+        "PTS": "2781",
+        "PPG": "77.2",
+        "OPP PTS": "2533",
+        "OPP PPG": "70.4",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "66",
+        "Team": "San Francisco",
+        "GM": "35",
+        "PTS": "2660",
+        "PPG": "76.0",
+        "OPP PTS": "2420",
+        "OPP PPG": "69.1",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "67",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "PTS": "3030",
+        "PPG": "79.7",
+        "OPP PTS": "2772",
+        "OPP PPG": "72.9",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "68",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "PTS": "2510",
+        "PPG": "78.4",
+        "OPP PTS": "2295",
+        "OPP PPG": "71.7",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "69",
+        "Team": "Winthrop",
+        "GM": "34",
+        "PTS": "2879",
+        "PPG": "84.7",
+        "OPP PTS": "2651",
+        "OPP PPG": "78.0",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "70",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "PTS": "2631",
+        "PPG": "73.1",
+        "OPP PTS": "2395",
+        "OPP PPG": "66.5",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "71",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "PTS": "2595",
+        "PPG": "81.1",
+        "OPP PTS": "2386",
+        "OPP PPG": "74.6",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "72",
+        "Team": "Xavier",
+        "GM": "34",
+        "PTS": "2656",
+        "PPG": "78.1",
+        "OPP PTS": "2434",
+        "OPP PPG": "71.6",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Kansas",
+        "GM": "34",
+        "PTS": "2587",
+        "PPG": "76.1",
+        "OPP PTS": "2365",
+        "OPP PPG": "69.6",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "74",
+        "Team": "Michigan",
+        "GM": "37",
+        "PTS": "2885",
+        "PPG": "78.0",
+        "OPP PTS": "2644",
+        "OPP PPG": "71.5",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "75",
+        "Team": "Southern U.",
+        "GM": "32",
+        "PTS": "2392",
+        "PPG": "74.8",
+        "OPP PTS": "2184",
+        "OPP PPG": "68.2",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "76",
+        "Team": "Memphis",
+        "GM": "35",
+        "PTS": "2795",
+        "PPG": "79.9",
+        "OPP PTS": "2568",
+        "OPP PPG": "73.4",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "77",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "PTS": "2627",
+        "PPG": "75.1",
+        "OPP PTS": "2402",
+        "OPP PPG": "68.6",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "78",
+        "Team": "Baylor",
+        "GM": "35",
+        "PTS": "2664",
+        "PPG": "76.1",
+        "OPP PTS": "2443",
+        "OPP PPG": "69.8",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "79",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "PTS": "2192",
+        "PPG": "70.8",
+        "OPP PTS": "2002",
+        "OPP PPG": "64.6",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "80",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "PTS": "2583",
+        "PPG": "80.7",
+        "OPP PTS": "2388",
+        "OPP PPG": "74.6",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "81",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "PTS": "2546",
+        "PPG": "79.6",
+        "OPP PTS": "2352",
+        "OPP PPG": "73.5",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "82",
+        "Team": "North Carolina",
+        "GM": "37",
+        "PTS": "2987",
+        "PPG": "80.7",
+        "OPP PTS": "2763",
+        "OPP PPG": "74.7",
+        "SCR MAR": "6"
+      },
+      {
+        "Rank": "83",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "PTS": "2694",
+        "PPG": "77.0",
+        "OPP PTS": "2485",
+        "OPP PPG": "71.0",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "84",
+        "Team": "Portland St.",
+        "GM": "32",
+        "PTS": "2418",
+        "PPG": "75.6",
+        "OPP PTS": "2227",
+        "OPP PPG": "69.6",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "85",
+        "Team": "UAB",
+        "GM": "37",
+        "PTS": "3040",
+        "PPG": "82.2",
+        "OPP PTS": "2820",
+        "OPP PPG": "76.3",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "86",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "PTS": "2537",
+        "PPG": "74.6",
+        "OPP PTS": "2336",
+        "OPP PPG": "68.7",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "87",
+        "Team": "UNI",
+        "GM": "33",
+        "PTS": "2418",
+        "PPG": "73.3",
+        "OPP PTS": "2223",
+        "OPP PPG": "67.4",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "88",
+        "Team": "Penn St.",
+        "GM": "31",
+        "PTS": "2452",
+        "PPG": "79.1",
+        "OPP PTS": "2270",
+        "OPP PPG": "73.2",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "89",
+        "Team": "Villanova",
+        "GM": "36",
+        "PTS": "2664",
+        "PPG": "74.0",
+        "OPP PTS": "2454",
+        "OPP PPG": "68.2",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "90",
+        "Team": "Texas",
+        "GM": "35",
+        "PTS": "2745",
+        "PPG": "78.5",
+        "OPP PTS": "2542",
+        "OPP PPG": "72.6",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "91",
+        "Team": "Oregon",
+        "GM": "35",
+        "PTS": "2679",
+        "PPG": "76.5",
+        "OPP PTS": "2480",
+        "OPP PPG": "70.9",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "92",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "PTS": "2630",
+        "PPG": "82.2",
+        "OPP PTS": "2450",
+        "OPP PPG": "76.6",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "93",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "PTS": "2779",
+        "PPG": "77.2",
+        "OPP PTS": "2578",
+        "OPP PPG": "71.7",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "94",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "PTS": "2527",
+        "PPG": "74.3",
+        "OPP PTS": "2340",
+        "OPP PPG": "68.8",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "PTS": "2364",
+        "PPG": "73.9",
+        "OPP PTS": "2188",
+        "OPP PPG": "68.4",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "96",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "PTS": "2166",
+        "PPG": "77.4",
+        "OPP PTS": "2013",
+        "OPP PPG": "71.9",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "97",
+        "Team": "Creighton",
+        "GM": "36",
+        "PTS": "2717",
+        "PPG": "75.5",
+        "OPP PTS": "2521",
+        "OPP PPG": "70.0",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "98",
+        "Team": "Georgia",
+        "GM": "33",
+        "PTS": "2486",
+        "PPG": "75.3",
+        "OPP PTS": "2307",
+        "OPP PPG": "69.9",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "99",
+        "Team": "ETSU",
+        "GM": "32",
+        "PTS": "2301",
+        "PPG": "71.9",
+        "OPP PTS": "2128",
+        "OPP PPG": "66.5",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "100",
+        "Team": "Arkansas",
+        "GM": "36",
+        "PTS": "2765",
+        "PPG": "76.8",
+        "OPP PTS": "2571",
+        "OPP PPG": "71.4",
+        "SCR MAR": "5"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "PTS": "2543",
+        "PPG": "79.5",
+        "OPP PTS": "2371",
+        "OPP PPG": "74.1",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "102",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "PTS": "2704",
+        "PPG": "79.5",
+        "OPP PTS": "2522",
+        "OPP PPG": "74.2",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "103",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "PTS": "2522",
+        "PPG": "78.8",
+        "OPP PTS": "2353",
+        "OPP PPG": "73.5",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "104",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "PTS": "2653",
+        "PPG": "73.7",
+        "OPP PTS": "2464",
+        "OPP PPG": "68.4",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "105",
+        "Team": "Kent St.",
+        "GM": "36",
+        "PTS": "2647",
+        "PPG": "73.5",
+        "OPP PTS": "2459",
+        "OPP PPG": "68.3",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "106",
+        "Team": "SIUE",
+        "GM": "34",
+        "PTS": "2436",
+        "PPG": "71.6",
+        "OPP PTS": "2260",
+        "OPP PPG": "66.5",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "107",
+        "Team": "Kansas City",
+        "GM": "33",
+        "PTS": "2386",
+        "PPG": "72.3",
+        "OPP PTS": "2218",
+        "OPP PPG": "67.2",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "108",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "PTS": "2428",
+        "PPG": "75.9",
+        "OPP PTS": "2267",
+        "OPP PPG": "70.8",
+        "SCR MAR": "5"
+      },
+      {
+        "Rank": "109",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "PTS": "2491",
+        "PPG": "71.2",
+        "OPP PTS": "2318",
+        "OPP PPG": "66.2",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "110",
+        "Team": "Wofford",
+        "GM": "35",
+        "PTS": "2623",
+        "PPG": "74.9",
+        "OPP PTS": "2451",
+        "OPP PPG": "70.0",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "111",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "PTS": "2577",
+        "PPG": "78.1",
+        "OPP PTS": "2418",
+        "OPP PPG": "73.3",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "112",
+        "Team": "Maine",
+        "GM": "34",
+        "PTS": "2409",
+        "PPG": "70.9",
+        "OPP PTS": "2248",
+        "OPP PPG": "66.1",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "113",
+        "Team": "George Washington",
+        "GM": "34",
+        "PTS": "2487",
+        "PPG": "73.2",
+        "OPP PTS": "2327",
+        "OPP PPG": "68.4",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "114",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "PTS": "2604",
+        "PPG": "78.9",
+        "OPP PTS": "2452",
+        "OPP PPG": "74.3",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "115",
+        "Team": "Dayton",
+        "GM": "34",
+        "PTS": "2564",
+        "PPG": "75.4",
+        "OPP PTS": "2408",
+        "OPP PPG": "70.8",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "116",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "PTS": "2721",
+        "PPG": "73.5",
+        "OPP PTS": "2553",
+        "OPP PPG": "69.0",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "117",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "PTS": "2599",
+        "PPG": "76.4",
+        "OPP PTS": "2446",
+        "OPP PPG": "71.9",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "118",
+        "Team": "Nicholls",
+        "GM": "33",
+        "PTS": "2443",
+        "PPG": "74.0",
+        "OPP PTS": "2296",
+        "OPP PPG": "69.6",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "119",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "PTS": "2360",
+        "PPG": "78.7",
+        "OPP PTS": "2229",
+        "OPP PPG": "74.3",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "PTS": "2230",
+        "PPG": "74.3",
+        "OPP PTS": "2099",
+        "OPP PPG": "70.0",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "121",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "PTS": "2581",
+        "PPG": "75.9",
+        "OPP PTS": "2435",
+        "OPP PPG": "71.6",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "122",
+        "Team": "App State",
+        "GM": "31",
+        "PTS": "2102",
+        "PPG": "67.8",
+        "OPP PTS": "1970",
+        "OPP PPG": "63.5",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "123",
+        "Team": "Longwood",
+        "GM": "32",
+        "PTS": "2504",
+        "PPG": "78.2",
+        "OPP PTS": "2369",
+        "OPP PPG": "74.1",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "124",
+        "Team": "UIW",
+        "GM": "36",
+        "PTS": "2659",
+        "PPG": "73.9",
+        "OPP PTS": "2508",
+        "OPP PPG": "69.7",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "125",
+        "Team": "Nevada",
+        "GM": "33",
+        "PTS": "2386",
+        "PPG": "72.3",
+        "OPP PTS": "2248",
+        "OPP PPG": "68.1",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "126",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "PTS": "2608",
+        "PPG": "76.7",
+        "OPP PTS": "2466",
+        "OPP PPG": "72.5",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "127",
+        "Team": "Lamar University",
+        "GM": "33",
+        "PTS": "2306",
+        "PPG": "69.9",
+        "OPP PTS": "2170",
+        "OPP PPG": "65.8",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "128",
+        "Team": "Tulane",
+        "GM": "34",
+        "PTS": "2533",
+        "PPG": "74.5",
+        "OPP PTS": "2393",
+        "OPP PPG": "70.4",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "129",
+        "Team": "Seattle U",
+        "GM": "32",
+        "PTS": "2254",
+        "PPG": "70.4",
+        "OPP PTS": "2125",
+        "OPP PPG": "66.4",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "130",
+        "Team": "Marshall",
+        "GM": "33",
+        "PTS": "2499",
+        "PPG": "75.7",
+        "OPP PTS": "2366",
+        "OPP PPG": "71.7",
+        "SCR MAR": "4"
+      },
+      {
+        "Rank": "131",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "PTS": "2727",
+        "PPG": "75.8",
+        "OPP PTS": "2585",
+        "OPP PPG": "71.8",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "132",
+        "Team": "Radford",
+        "GM": "33",
+        "PTS": "2441",
+        "PPG": "74.0",
+        "OPP PTS": "2314",
+        "OPP PPG": "70.1",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "133",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "PTS": "2229",
+        "PPG": "69.7",
+        "OPP PTS": "2110",
+        "OPP PPG": "65.9",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "134",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "PTS": "2661",
+        "PPG": "78.3",
+        "OPP PTS": "2537",
+        "OPP PPG": "74.6",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "135",
+        "Team": "Elon",
+        "GM": "33",
+        "PTS": "2433",
+        "PPG": "73.7",
+        "OPP PTS": "2315",
+        "OPP PPG": "70.2",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "136",
+        "Team": "Drexel",
+        "GM": "33",
+        "PTS": "2322",
+        "PPG": "70.4",
+        "OPP PTS": "2207",
+        "OPP PPG": "66.9",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "137",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "PTS": "2334",
+        "PPG": "68.6",
+        "OPP PTS": "2218",
+        "OPP PPG": "65.2",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "138",
+        "Team": "James Madison",
+        "GM": "32",
+        "PTS": "2365",
+        "PPG": "73.9",
+        "OPP PTS": "2256",
+        "OPP PPG": "70.5",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "139",
+        "Team": "Nebraska",
+        "GM": "35",
+        "PTS": "2660",
+        "PPG": "76.0",
+        "OPP PTS": "2541",
+        "OPP PPG": "72.6",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "140",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "PTS": "2549",
+        "PPG": "77.2",
+        "OPP PTS": "2437",
+        "OPP PPG": "73.8",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "141",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "PTS": "2341",
+        "PPG": "75.5",
+        "OPP PTS": "2237",
+        "OPP PPG": "72.2",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "142",
+        "Team": "West Virginia",
+        "GM": "32",
+        "PTS": "2181",
+        "PPG": "68.2",
+        "OPP PTS": "2074",
+        "OPP PPG": "64.8",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "143",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "PTS": "2526",
+        "PPG": "76.5",
+        "OPP PTS": "2417",
+        "OPP PPG": "73.2",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "144",
+        "Team": "Montana",
+        "GM": "35",
+        "PTS": "2680",
+        "PPG": "76.6",
+        "OPP PTS": "2565",
+        "OPP PPG": "73.3",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "145",
+        "Team": "Ohio",
+        "GM": "32",
+        "PTS": "2554",
+        "PPG": "79.8",
+        "OPP PTS": "2449",
+        "OPP PPG": "76.5",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "146",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "PTS": "2449",
+        "PPG": "74.2",
+        "OPP PTS": "2341",
+        "OPP PPG": "70.9",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "-",
+        "Team": "Northwestern",
+        "GM": "33",
+        "PTS": "2390",
+        "PPG": "72.4",
+        "OPP PTS": "2282",
+        "OPP PPG": "69.2",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "-",
+        "Team": "Towson",
+        "GM": "33",
+        "PTS": "2309",
+        "PPG": "70.0",
+        "OPP PTS": "2201",
+        "OPP PPG": "66.7",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "149",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "PTS": "2677",
+        "PPG": "78.7",
+        "OPP PTS": "2569",
+        "OPP PPG": "75.6",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "150",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "PTS": "2527",
+        "PPG": "74.3",
+        "OPP PTS": "2423",
+        "OPP PPG": "71.3",
+        "SCR MAR": "3"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "PTS": "2600",
+        "PPG": "78.8",
+        "OPP PTS": "2501",
+        "OPP PPG": "75.8",
+        "SCR MAR": "3"
+      },
+      {
+        "Rank": "152",
+        "Team": "Utah",
+        "GM": "33",
+        "PTS": "2493",
+        "PPG": "75.5",
+        "OPP PTS": "2396",
+        "OPP PPG": "72.6",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "153",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "PTS": "2419",
+        "PPG": "78.0",
+        "OPP PTS": "2328",
+        "OPP PPG": "75.1",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "154",
+        "Team": "Texas St.",
+        "GM": "32",
+        "PTS": "2439",
+        "PPG": "76.2",
+        "OPP PTS": "2346",
+        "OPP PPG": "73.3",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "155",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "PTS": "2324",
+        "PPG": "72.6",
+        "OPP PTS": "2232",
+        "OPP PPG": "69.8",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "156",
+        "Team": "Vermont",
+        "GM": "33",
+        "PTS": "2199",
+        "PPG": "66.6",
+        "OPP PTS": "2106",
+        "OPP PPG": "63.8",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "157",
+        "Team": "Iowa",
+        "GM": "33",
+        "PTS": "2722",
+        "PPG": "82.5",
+        "OPP PTS": "2630",
+        "OPP PPG": "79.7",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "158",
+        "Team": "Stanford",
+        "GM": "35",
+        "PTS": "2571",
+        "PPG": "73.5",
+        "OPP PTS": "2476",
+        "OPP PPG": "70.7",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "159",
+        "Team": "UTRGV",
+        "GM": "31",
+        "PTS": "2378",
+        "PPG": "76.7",
+        "OPP PTS": "2294",
+        "OPP PPG": "74.0",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "160",
+        "Team": "Belmont",
+        "GM": "33",
+        "PTS": "2618",
+        "PPG": "79.3",
+        "OPP PTS": "2529",
+        "OPP PPG": "76.6",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Murray St.",
+        "GM": "33",
+        "PTS": "2371",
+        "PPG": "71.8",
+        "OPP PTS": "2282",
+        "OPP PPG": "69.2",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "162",
+        "Team": "Indiana",
+        "GM": "32",
+        "PTS": "2389",
+        "PPG": "74.7",
+        "OPP PTS": "2305",
+        "OPP PPG": "72.0",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "163",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "PTS": "2491",
+        "PPG": "77.8",
+        "OPP PTS": "2408",
+        "OPP PPG": "75.2",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "164",
+        "Team": "UT Martin",
+        "GM": "33",
+        "PTS": "2455",
+        "PPG": "74.4",
+        "OPP PTS": "2373",
+        "OPP PPG": "71.9",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "165",
+        "Team": "FGCU",
+        "GM": "34",
+        "PTS": "2454",
+        "PPG": "72.2",
+        "OPP PTS": "2370",
+        "OPP PPG": "69.7",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "166",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "PTS": "2439",
+        "PPG": "73.9",
+        "OPP PTS": "2358",
+        "OPP PPG": "71.5",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "167",
+        "Team": "Hampton",
+        "GM": "33",
+        "PTS": "2389",
+        "PPG": "72.5",
+        "OPP PTS": "2309",
+        "OPP PPG": "70.0",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "168",
+        "Team": "Georgetown",
+        "GM": "34",
+        "PTS": "2447",
+        "PPG": "72.0",
+        "OPP PTS": "2365",
+        "OPP PPG": "69.6",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "169",
+        "Team": "Campbell",
+        "GM": "32",
+        "PTS": "2246",
+        "PPG": "70.2",
+        "OPP PTS": "2169",
+        "OPP PPG": "67.8",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "170",
+        "Team": "LIU",
+        "GM": "33",
+        "PTS": "2235",
+        "PPG": "67.7",
+        "OPP PTS": "2156",
+        "OPP PPG": "65.3",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "171",
+        "Team": "UIC",
+        "GM": "31",
+        "PTS": "2357",
+        "PPG": "76.0",
+        "OPP PTS": "2286",
+        "OPP PPG": "73.7",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "172",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "PTS": "2246",
+        "PPG": "70.2",
+        "OPP PTS": "2177",
+        "OPP PPG": "68.0",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "173",
+        "Team": "Southern California",
+        "GM": "35",
+        "PTS": "2685",
+        "PPG": "76.7",
+        "OPP PTS": "2611",
+        "OPP PPG": "74.6",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "174",
+        "Team": "Omaha",
+        "GM": "35",
+        "PTS": "2707",
+        "PPG": "77.3",
+        "OPP PTS": "2634",
+        "OPP PPG": "75.3",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "175",
+        "Team": "East Carolina",
+        "GM": "33",
+        "PTS": "2502",
+        "PPG": "75.8",
+        "OPP PTS": "2434",
+        "OPP PPG": "73.8",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Little Rock",
+        "GM": "33",
+        "PTS": "2287",
+        "PPG": "69.3",
+        "OPP PTS": "2219",
+        "OPP PPG": "67.2",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "177",
+        "Team": "Florida St.",
+        "GM": "32",
+        "PTS": "2383",
+        "PPG": "74.5",
+        "OPP PTS": "2319",
+        "OPP PPG": "72.5",
+        "SCR MAR": "2"
+      },
+      {
+        "Rank": "178",
+        "Team": "Wagner",
+        "GM": "30",
+        "PTS": "1874",
+        "PPG": "62.5",
+        "OPP PTS": "1818",
+        "OPP PPG": "60.6",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "179",
+        "Team": "Hofstra",
+        "GM": "33",
+        "PTS": "2202",
+        "PPG": "66.7",
+        "OPP PTS": "2141",
+        "OPP PPG": "64.9",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "180",
+        "Team": "Davidson",
+        "GM": "33",
+        "PTS": "2393",
+        "PPG": "72.5",
+        "OPP PTS": "2334",
+        "OPP PPG": "70.7",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "181",
+        "Team": "Duquesne",
+        "GM": "32",
+        "PTS": "2212",
+        "PPG": "69.1",
+        "OPP PTS": "2155",
+        "OPP PPG": "67.3",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "182",
+        "Team": "UTEP",
+        "GM": "33",
+        "PTS": "2392",
+        "PPG": "72.5",
+        "OPP PTS": "2335",
+        "OPP PPG": "70.8",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "183",
+        "Team": "Montana St.",
+        "GM": "33",
+        "PTS": "2354",
+        "PPG": "71.3",
+        "OPP PTS": "2298",
+        "OPP PPG": "69.6",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "184",
+        "Team": "Princeton",
+        "GM": "30",
+        "PTS": "2209",
+        "PPG": "73.6",
+        "OPP PTS": "2162",
+        "OPP PPG": "72.1",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "185",
+        "Team": "Marist",
+        "GM": "30",
+        "PTS": "1979",
+        "PPG": "66.0",
+        "OPP PTS": "1934",
+        "OPP PPG": "64.5",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "186",
+        "Team": "South Dakota",
+        "GM": "33",
+        "PTS": "2812",
+        "PPG": "85.2",
+        "OPP PTS": "2763",
+        "OPP PPG": "83.7",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "187",
+        "Team": "Merrimack",
+        "GM": "33",
+        "PTS": "2166",
+        "PPG": "65.6",
+        "OPP PTS": "2120",
+        "OPP PPG": "64.2",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "188",
+        "Team": "William & Mary",
+        "GM": "32",
+        "PTS": "2487",
+        "PPG": "77.7",
+        "OPP PTS": "2445",
+        "OPP PPG": "76.4",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "189",
+        "Team": "Manhattan",
+        "GM": "31",
+        "PTS": "2365",
+        "PPG": "76.3",
+        "OPP PTS": "2325",
+        "OPP PPG": "75.1",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "190",
+        "Team": "California Baptist",
+        "GM": "32",
+        "PTS": "2280",
+        "PPG": "71.2",
+        "OPP PTS": "2241",
+        "OPP PPG": "70.0",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "191",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "PTS": "2337",
+        "PPG": "70.8",
+        "OPP PTS": "2297",
+        "OPP PPG": "69.6",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "192",
+        "Team": "Ball St.",
+        "GM": "31",
+        "PTS": "2336",
+        "PPG": "75.4",
+        "OPP PTS": "2300",
+        "OPP PPG": "74.2",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "193",
+        "Team": "UMBC",
+        "GM": "32",
+        "PTS": "2559",
+        "PPG": "80.0",
+        "OPP PTS": "2522",
+        "OPP PPG": "78.8",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "194",
+        "Team": "UNLV",
+        "GM": "33",
+        "PTS": "2285",
+        "PPG": "69.2",
+        "OPP PTS": "2248",
+        "OPP PPG": "68.1",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "195",
+        "Team": "Temple",
+        "GM": "32",
+        "PTS": "2520",
+        "PPG": "78.8",
+        "OPP PTS": "2487",
+        "OPP PPG": "77.7",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "196",
+        "Team": "American",
+        "GM": "35",
+        "PTS": "2406",
+        "PPG": "68.7",
+        "OPP PTS": "2370",
+        "OPP PPG": "67.7",
+        "SCR MAR": "1"
+      },
+      {
+        "Rank": "197",
+        "Team": "Wright St.",
+        "GM": "33",
+        "PTS": "2551",
+        "PPG": "77.3",
+        "OPP PTS": "2520",
+        "OPP PPG": "76.4",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "198",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "PTS": "2516",
+        "PPG": "74.0",
+        "OPP PTS": "2485",
+        "OPP PPG": "73.1",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "199",
+        "Team": "Bucknell",
+        "GM": "33",
+        "PTS": "2443",
+        "PPG": "74.0",
+        "OPP PTS": "2414",
+        "OPP PPG": "73.2",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "200",
+        "Team": "Mercer",
+        "GM": "33",
+        "PTS": "2511",
+        "PPG": "76.1",
+        "OPP PTS": "2485",
+        "OPP PPG": "75.3",
+        "SCR MAR": "0"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "-",
+        "Team": "UAlbany",
+        "GM": "33",
+        "PTS": "2463",
+        "PPG": "74.6",
+        "OPP PTS": "2437",
+        "OPP PPG": "73.8",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "202",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "PTS": "2539",
+        "PPG": "74.7",
+        "OPP PTS": "2513",
+        "OPP PPG": "73.9",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "203",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "PTS": "2630",
+        "PPG": "73.1",
+        "OPP PTS": "2607",
+        "OPP PPG": "72.4",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "204",
+        "Team": "Brown",
+        "GM": "27",
+        "PTS": "1950",
+        "PPG": "72.2",
+        "OPP PTS": "1933",
+        "OPP PPG": "71.6",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "205",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "PTS": "2500",
+        "PPG": "75.8",
+        "OPP PTS": "2481",
+        "OPP PPG": "75.2",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "PTS": "2379",
+        "PPG": "72.1",
+        "OPP PTS": "2360",
+        "OPP PPG": "71.5",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "207",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "PTS": "2563",
+        "PPG": "80.1",
+        "OPP PTS": "2545",
+        "OPP PPG": "79.5",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "PTS": "2325",
+        "PPG": "72.7",
+        "OPP PTS": "2307",
+        "OPP PPG": "72.1",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "209",
+        "Team": "FDU",
+        "GM": "33",
+        "PTS": "2431",
+        "PPG": "73.7",
+        "OPP PTS": "2415",
+        "OPP PPG": "73.2",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "210",
+        "Team": "Northeastern",
+        "GM": "32",
+        "PTS": "2243",
+        "PPG": "70.1",
+        "OPP PTS": "2229",
+        "OPP PPG": "69.7",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "211",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "PTS": "2485",
+        "PPG": "73.1",
+        "OPP PTS": "2471",
+        "OPP PPG": "72.7",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Navy",
+        "GM": "34",
+        "PTS": "2407",
+        "PPG": "70.8",
+        "OPP PTS": "2393",
+        "OPP PPG": "70.4",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "213",
+        "Team": "Washington St.",
+        "GM": "34",
+        "PTS": "2683",
+        "PPG": "78.9",
+        "OPP PTS": "2671",
+        "OPP PPG": "78.6",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "214",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "PTS": "2260",
+        "PPG": "70.6",
+        "OPP PTS": "2250",
+        "OPP PPG": "70.3",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "215",
+        "Team": "Columbia",
+        "GM": "27",
+        "PTS": "2117",
+        "PPG": "78.4",
+        "OPP PTS": "2109",
+        "OPP PPG": "78.1",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "216",
+        "Team": "LSU",
+        "GM": "32",
+        "PTS": "2363",
+        "PPG": "73.8",
+        "OPP PTS": "2355",
+        "OPP PPG": "73.6",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "217",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "PTS": "1848",
+        "PPG": "66.0",
+        "OPP PTS": "1842",
+        "OPP PPG": "65.8",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "218",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "PTS": "2397",
+        "PPG": "72.6",
+        "OPP PTS": "2392",
+        "OPP PPG": "72.5",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "219",
+        "Team": "VMI",
+        "GM": "34",
+        "PTS": "2492",
+        "PPG": "73.3",
+        "OPP PTS": "2487",
+        "OPP PPG": "73.1",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "220",
+        "Team": "Siena",
+        "GM": "32",
+        "PTS": "2311",
+        "PPG": "72.2",
+        "OPP PTS": "2307",
+        "OPP PPG": "72.1",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "221",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "PTS": "2434",
+        "PPG": "73.8",
+        "OPP PTS": "2430",
+        "OPP PPG": "73.6",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "222",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "PTS": "2395",
+        "PPG": "74.8",
+        "OPP PTS": "2392",
+        "OPP PPG": "74.8",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "223",
+        "Team": "Weber St.",
+        "GM": "34",
+        "PTS": "2443",
+        "PPG": "71.9",
+        "OPP PTS": "2443",
+        "OPP PPG": "71.9",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Rice",
+        "GM": "32",
+        "PTS": "2249",
+        "PPG": "70.3",
+        "OPP PTS": "2249",
+        "OPP PPG": "70.3",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "225",
+        "Team": "Butler",
+        "GM": "35",
+        "PTS": "2616",
+        "PPG": "74.7",
+        "OPP PTS": "2618",
+        "OPP PPG": "74.9",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "226",
+        "Team": "South Fla.",
+        "GM": "32",
+        "PTS": "2381",
+        "PPG": "74.4",
+        "OPP PTS": "2385",
+        "OPP PPG": "74.5",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "227",
+        "Team": "UTSA",
+        "GM": "31",
+        "PTS": "2378",
+        "PPG": "76.7",
+        "OPP PTS": "2382",
+        "OPP PPG": "76.8",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "228",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "PTS": "2371",
+        "PPG": "71.8",
+        "OPP PTS": "2377",
+        "OPP PPG": "72.0",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "229",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "PTS": "2542",
+        "PPG": "74.8",
+        "OPP PTS": "2550",
+        "OPP PPG": "75.0",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "230",
+        "Team": "Colgate",
+        "GM": "33",
+        "PTS": "2379",
+        "PPG": "72.1",
+        "OPP PTS": "2388",
+        "OPP PPG": "72.4",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "231",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "PTS": "2279",
+        "PPG": "71.2",
+        "OPP PTS": "2290",
+        "OPP PPG": "71.6",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "232",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "PTS": "2524",
+        "PPG": "70.1",
+        "OPP PTS": "2538",
+        "OPP PPG": "70.5",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "233",
+        "Team": "Lafayette",
+        "GM": "33",
+        "PTS": "2261",
+        "PPG": "68.5",
+        "OPP PTS": "2274",
+        "OPP PPG": "68.9",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "234",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "PTS": "2352",
+        "PPG": "73.5",
+        "OPP PTS": "2366",
+        "OPP PPG": "73.9",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "235",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "PTS": "2415",
+        "PPG": "71.0",
+        "OPP PTS": "2433",
+        "OPP PPG": "71.6",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "236",
+        "Team": "Rutgers",
+        "GM": "32",
+        "PTS": "2465",
+        "PPG": "77.0",
+        "OPP PTS": "2482",
+        "OPP PPG": "77.6",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "237",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "PTS": "2302",
+        "PPG": "74.3",
+        "OPP PTS": "2320",
+        "OPP PPG": "74.8",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "238",
+        "Team": "UCF",
+        "GM": "37",
+        "PTS": "2951",
+        "PPG": "79.8",
+        "OPP PTS": "2974",
+        "OPP PPG": "80.4",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "239",
+        "Team": "Delaware",
+        "GM": "36",
+        "PTS": "2780",
+        "PPG": "77.2",
+        "OPP PTS": "2803",
+        "OPP PPG": "77.9",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "240",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "PTS": "2411",
+        "PPG": "75.3",
+        "OPP PTS": "2433",
+        "OPP PPG": "76.0",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "241",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "PTS": "2559",
+        "PPG": "80.0",
+        "OPP PTS": "2584",
+        "OPP PPG": "80.8",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "242",
+        "Team": "Iona",
+        "GM": "34",
+        "PTS": "2369",
+        "PPG": "69.7",
+        "OPP PTS": "2396",
+        "OPP PPG": "70.5",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "243",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "PTS": "2873",
+        "PPG": "82.1",
+        "OPP PTS": "2901",
+        "OPP PPG": "82.9",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "244",
+        "Team": "NC State",
+        "GM": "31",
+        "PTS": "2158",
+        "PPG": "69.6",
+        "OPP PTS": "2183",
+        "OPP PPG": "70.4",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "245",
+        "Team": "Grambling",
+        "GM": "34",
+        "PTS": "2271",
+        "PPG": "66.8",
+        "OPP PTS": "2301",
+        "OPP PPG": "67.7",
+        "SCR MAR": "0"
+      },
+      {
+        "Rank": "246",
+        "Team": "Oakland",
+        "GM": "34",
+        "PTS": "2402",
+        "PPG": "70.6",
+        "OPP PTS": "2436",
+        "OPP PPG": "71.6",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "247",
+        "Team": "Lehigh",
+        "GM": "30",
+        "PTS": "2110",
+        "PPG": "70.3",
+        "OPP PTS": "2143",
+        "OPP PPG": "71.4",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "248",
+        "Team": "Hawaii",
+        "GM": "31",
+        "PTS": "2173",
+        "PPG": "70.1",
+        "OPP PTS": "2208",
+        "OPP PPG": "71.2",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "249",
+        "Team": "Providence",
+        "GM": "32",
+        "PTS": "2283",
+        "PPG": "71.3",
+        "OPP PTS": "2320",
+        "OPP PPG": "72.5",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "TCU",
+        "GM": "32",
+        "PTS": "2162",
+        "PPG": "67.6",
+        "OPP PTS": "2199",
+        "OPP PPG": "68.7",
+        "SCR MAR": "-1"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "PTS": "2525",
+        "PPG": "72.1",
+        "OPP PTS": "2566",
+        "OPP PPG": "73.4",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "252",
+        "Team": "California",
+        "GM": "33",
+        "PTS": "2494",
+        "PPG": "75.6",
+        "OPP PTS": "2534",
+        "OPP PPG": "76.8",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "253",
+        "Team": "Toledo",
+        "GM": "33",
+        "PTS": "2603",
+        "PPG": "78.9",
+        "OPP PTS": "2645",
+        "OPP PPG": "80.2",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "254",
+        "Team": "Boston U.",
+        "GM": "32",
+        "PTS": "2148",
+        "PPG": "67.1",
+        "OPP PTS": "2191",
+        "OPP PPG": "68.5",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "255",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "PTS": "2405",
+        "PPG": "72.9",
+        "OPP PTS": "2458",
+        "OPP PPG": "74.5",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "256",
+        "Team": "South Carolina",
+        "GM": "32",
+        "PTS": "2233",
+        "PPG": "69.8",
+        "OPP PTS": "2286",
+        "OPP PPG": "71.4",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Minnesota",
+        "GM": "32",
+        "PTS": "2178",
+        "PPG": "68.1",
+        "OPP PTS": "2231",
+        "OPP PPG": "69.7",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "258",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "PTS": "2449",
+        "PPG": "74.2",
+        "OPP PTS": "2505",
+        "OPP PPG": "75.9",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "259",
+        "Team": "SFA",
+        "GM": "31",
+        "PTS": "2065",
+        "PPG": "66.6",
+        "OPP PTS": "2118",
+        "OPP PPG": "68.3",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "260",
+        "Team": "Army West Point",
+        "GM": "33",
+        "PTS": "2416",
+        "PPG": "73.2",
+        "OPP PTS": "2473",
+        "OPP PPG": "74.9",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "261",
+        "Team": "IU Indy",
+        "GM": "32",
+        "PTS": "2402",
+        "PPG": "75.1",
+        "OPP PTS": "2458",
+        "OPP PPG": "76.8",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Binghamton",
+        "GM": "32",
+        "PTS": "2231",
+        "PPG": "69.8",
+        "OPP PTS": "2287",
+        "OPP PPG": "71.5",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "263",
+        "Team": "Howard",
+        "GM": "32",
+        "PTS": "2480",
+        "PPG": "77.5",
+        "OPP PTS": "2538",
+        "OPP PPG": "79.3",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "PTS": "2146",
+        "PPG": "67.1",
+        "OPP PTS": "2204",
+        "OPP PPG": "68.9",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "265",
+        "Team": "North Florida",
+        "GM": "32",
+        "PTS": "2651",
+        "PPG": "82.8",
+        "OPP PTS": "2712",
+        "OPP PPG": "84.8",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "266",
+        "Team": "Idaho",
+        "GM": "33",
+        "PTS": "2430",
+        "PPG": "73.6",
+        "OPP PTS": "2493",
+        "OPP PPG": "75.5",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "267",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "PTS": "2145",
+        "PPG": "69.2",
+        "OPP PTS": "2205",
+        "OPP PPG": "71.1",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "268",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "PTS": "2308",
+        "PPG": "72.1",
+        "OPP PTS": "2371",
+        "OPP PPG": "74.1",
+        "SCR MAR": "-1"
+      },
+      {
+        "Rank": "269",
+        "Team": "Virginia",
+        "GM": "32",
+        "PTS": "2073",
+        "PPG": "64.8",
+        "OPP PTS": "2137",
+        "OPP PPG": "66.8",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "270",
+        "Team": "DePaul",
+        "GM": "34",
+        "PTS": "2463",
+        "PPG": "72.4",
+        "OPP PTS": "2532",
+        "OPP PPG": "74.5",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "271",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "PTS": "2333",
+        "PPG": "72.9",
+        "OPP PTS": "2399",
+        "OPP PPG": "75.0",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "272",
+        "Team": "Colorado",
+        "GM": "35",
+        "PTS": "2441",
+        "PPG": "69.7",
+        "OPP PTS": "2515",
+        "OPP PPG": "71.9",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "273",
+        "Team": "North Dakota",
+        "GM": "33",
+        "PTS": "2550",
+        "PPG": "77.3",
+        "OPP PTS": "2624",
+        "OPP PPG": "79.5",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "274",
+        "Team": "UC Davis",
+        "GM": "32",
+        "PTS": "2175",
+        "PPG": "68.0",
+        "OPP PTS": "2249",
+        "OPP PPG": "70.3",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "275",
+        "Team": "Tulsa",
+        "GM": "33",
+        "PTS": "2350",
+        "PPG": "71.3",
+        "OPP PTS": "2430",
+        "OPP PPG": "73.6",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "276",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "PTS": "2227",
+        "PPG": "69.6",
+        "OPP PTS": "2307",
+        "OPP PPG": "72.1",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "277",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "PTS": "2062",
+        "PPG": "66.5",
+        "OPP PTS": "2140",
+        "OPP PPG": "69.0",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "278",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "PTS": "2116",
+        "PPG": "66.1",
+        "OPP PTS": "2199",
+        "OPP PPG": "68.7",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "279",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "PTS": "2130",
+        "PPG": "68.7",
+        "OPP PTS": "2211",
+        "OPP PPG": "71.3",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "280",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "PTS": "2444",
+        "PPG": "74.1",
+        "OPP PTS": "2533",
+        "OPP PPG": "76.8",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "-",
+        "Team": "La Salle",
+        "GM": "33",
+        "PTS": "2376",
+        "PPG": "72.0",
+        "OPP PTS": "2465",
+        "OPP PPG": "74.7",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "282",
+        "Team": "FIU",
+        "GM": "33",
+        "PTS": "2285",
+        "PPG": "69.2",
+        "OPP PTS": "2380",
+        "OPP PPG": "72.1",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "283",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "PTS": "2175",
+        "PPG": "68.0",
+        "OPP PTS": "2268",
+        "OPP PPG": "70.9",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "284",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "PTS": "2355",
+        "PPG": "73.6",
+        "OPP PTS": "2449",
+        "OPP PPG": "76.5",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "285",
+        "Team": "Niagara",
+        "GM": "31",
+        "PTS": "2122",
+        "PPG": "68.5",
+        "OPP PTS": "2214",
+        "OPP PPG": "71.4",
+        "SCR MAR": "-2"
+      },
+      {
+        "Rank": "286",
+        "Team": "Syracuse",
+        "GM": "33",
+        "PTS": "2464",
+        "PPG": "74.7",
+        "OPP PTS": "2566",
+        "OPP PPG": "77.8",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "287",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "PTS": "2428",
+        "PPG": "71.4",
+        "OPP PTS": "2535",
+        "OPP PPG": "74.6",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "288",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "PTS": "2479",
+        "PPG": "75.1",
+        "OPP PTS": "2583",
+        "OPP PPG": "78.3",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "289",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "PTS": "2235",
+        "PPG": "72.1",
+        "OPP PTS": "2334",
+        "OPP PPG": "75.3",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "290",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "PTS": "2556",
+        "PPG": "73.0",
+        "OPP PTS": "2671",
+        "OPP PPG": "76.3",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "291",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "PTS": "2362",
+        "PPG": "71.6",
+        "OPP PTS": "2472",
+        "OPP PPG": "74.9",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "292",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "PTS": "2111",
+        "PPG": "66.0",
+        "OPP PTS": "2220",
+        "OPP PPG": "69.4",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "293",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "PTS": "2560",
+        "PPG": "73.1",
+        "OPP PTS": "2681",
+        "OPP PPG": "76.6",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "294",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "PTS": "2265",
+        "PPG": "68.6",
+        "OPP PTS": "2381",
+        "OPP PPG": "72.2",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "295",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "PTS": "2376",
+        "PPG": "67.9",
+        "OPP PTS": "2500",
+        "OPP PPG": "71.5",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "296",
+        "Team": "Harvard",
+        "GM": "27",
+        "PTS": "1848",
+        "PPG": "68.4",
+        "OPP PTS": "1945",
+        "OPP PPG": "72.0",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "297",
+        "Team": "Fordham",
+        "GM": "33",
+        "PTS": "2452",
+        "PPG": "74.3",
+        "OPP PTS": "2573",
+        "OPP PPG": "78.0",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "298",
+        "Team": "Washington",
+        "GM": "31",
+        "PTS": "2219",
+        "PPG": "71.6",
+        "OPP PTS": "2339",
+        "OPP PPG": "75.5",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "299",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "PTS": "2163",
+        "PPG": "69.8",
+        "OPP PTS": "2285",
+        "OPP PPG": "73.7",
+        "SCR MAR": "-3"
+      },
+      {
+        "Rank": "300",
+        "Team": "Charlotte",
+        "GM": "33",
+        "PTS": "2328",
+        "PPG": "70.5",
+        "OPP PTS": "2460",
+        "OPP PPG": "74.5",
+        "SCR MAR": "-4"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "-",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "PTS": "2213",
+        "PPG": "69.2",
+        "OPP PTS": "2341",
+        "OPP PPG": "73.2",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wyoming",
+        "GM": "32",
+        "PTS": "2149",
+        "PPG": "67.2",
+        "OPP PTS": "2277",
+        "OPP PPG": "71.2",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "303",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "PTS": "2304",
+        "PPG": "72.1",
+        "OPP PTS": "2433",
+        "OPP PPG": "76.0",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "304",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "PTS": "2283",
+        "PPG": "71.3",
+        "OPP PTS": "2415",
+        "OPP PPG": "75.5",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "305",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "PTS": "2119",
+        "PPG": "66.2",
+        "OPP PTS": "2257",
+        "OPP PPG": "70.5",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "306",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "PTS": "2136",
+        "PPG": "66.8",
+        "OPP PTS": "2275",
+        "OPP PPG": "71.1",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "307",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "PTS": "2287",
+        "PPG": "73.8",
+        "OPP PTS": "2422",
+        "OPP PPG": "78.1",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "308",
+        "Team": "Evansville",
+        "GM": "32",
+        "PTS": "2113",
+        "PPG": "66.0",
+        "OPP PTS": "2263",
+        "OPP PPG": "70.7",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "309",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "PTS": "2352",
+        "PPG": "71.3",
+        "OPP PTS": "2507",
+        "OPP PPG": "76.0",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "310",
+        "Team": "Rider",
+        "GM": "33",
+        "PTS": "2211",
+        "PPG": "67.0",
+        "OPP PTS": "2370",
+        "OPP PPG": "71.8",
+        "SCR MAR": "-4"
+      },
+      {
+        "Rank": "311",
+        "Team": "Monmouth",
+        "GM": "33",
+        "PTS": "2321",
+        "PPG": "70.3",
+        "OPP PTS": "2487",
+        "OPP PPG": "75.4",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "312",
+        "Team": "Fairfield",
+        "GM": "32",
+        "PTS": "2161",
+        "PPG": "67.5",
+        "OPP PTS": "2324",
+        "OPP PPG": "72.6",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "313",
+        "Team": "Richmond",
+        "GM": "32",
+        "PTS": "2137",
+        "PPG": "66.8",
+        "OPP PTS": "2302",
+        "OPP PPG": "71.9",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "314",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "PTS": "2200",
+        "PPG": "73.3",
+        "OPP PTS": "2356",
+        "OPP PPG": "78.5",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "315",
+        "Team": "Denver",
+        "GM": "32",
+        "PTS": "2316",
+        "PPG": "72.4",
+        "OPP PTS": "2483",
+        "OPP PPG": "77.6",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "316",
+        "Team": "Boston College",
+        "GM": "31",
+        "PTS": "2182",
+        "PPG": "70.4",
+        "OPP PTS": "2349",
+        "OPP PPG": "75.8",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "317",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "PTS": "2337",
+        "PPG": "73.0",
+        "OPP PTS": "2519",
+        "OPP PPG": "78.8",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "318",
+        "Team": "NIU",
+        "GM": "31",
+        "PTS": "2199",
+        "PPG": "70.9",
+        "OPP PTS": "2383",
+        "OPP PPG": "76.9",
+        "SCR MAR": "-5"
+      },
+      {
+        "Rank": "319",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "PTS": "2307",
+        "PPG": "72.1",
+        "OPP PTS": "2503",
+        "OPP PPG": "78.2",
+        "SCR MAR": "-6"
+      },
+      {
+        "Rank": "320",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "PTS": "2305",
+        "PPG": "69.8",
+        "OPP PTS": "2508",
+        "OPP PPG": "76.0",
+        "SCR MAR": "-6"
+      },
+      {
+        "Rank": "321",
+        "Team": "Pacific",
+        "GM": "33",
+        "PTS": "2295",
+        "PPG": "69.5",
+        "OPP PTS": "2500",
+        "OPP PPG": "75.8",
+        "SCR MAR": "-6"
+      },
+      {
+        "Rank": "322",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "PTS": "2025",
+        "PPG": "63.3",
+        "OPP PTS": "2227",
+        "OPP PPG": "69.6",
+        "SCR MAR": "-6"
+      },
+      {
+        "Rank": "323",
+        "Team": "ULM",
+        "GM": "32",
+        "PTS": "2205",
+        "PPG": "68.9",
+        "OPP PTS": "2417",
+        "OPP PPG": "75.5",
+        "SCR MAR": "-6"
+      },
+      {
+        "Rank": "324",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "PTS": "2294",
+        "PPG": "74.0",
+        "OPP PTS": "2500",
+        "OPP PPG": "80.6",
+        "SCR MAR": "-6"
+      },
+      {
+        "Rank": "325",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "PTS": "2152",
+        "PPG": "67.2",
+        "OPP PTS": "2374",
+        "OPP PPG": "74.2",
+        "SCR MAR": "-6"
+      },
+      {
+        "Rank": "326",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "PTS": "2213",
+        "PPG": "69.2",
+        "OPP PTS": "2437",
+        "OPP PPG": "76.2",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "327",
+        "Team": "Alcorn",
+        "GM": "32",
+        "PTS": "2081",
+        "PPG": "65.0",
+        "OPP PTS": "2307",
+        "OPP PPG": "72.1",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "328",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "PTS": "2252",
+        "PPG": "72.6",
+        "OPP PTS": "2484",
+        "OPP PPG": "80.1",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "329",
+        "Team": "Portland",
+        "GM": "32",
+        "PTS": "2334",
+        "PPG": "72.9",
+        "OPP PTS": "2574",
+        "OPP PPG": "80.4",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "330",
+        "Team": "Louisiana",
+        "GM": "33",
+        "PTS": "2159",
+        "PPG": "65.4",
+        "OPP PTS": "2410",
+        "OPP PPG": "73.0",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "331",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "PTS": "2128",
+        "PPG": "66.5",
+        "OPP PTS": "2372",
+        "OPP PPG": "74.1",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "332",
+        "Team": "Penn",
+        "GM": "27",
+        "PTS": "1878",
+        "PPG": "69.6",
+        "OPP PTS": "2089",
+        "OPP PPG": "77.4",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "333",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "PTS": "2318",
+        "PPG": "70.2",
+        "OPP PTS": "2578",
+        "OPP PPG": "78.1",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "334",
+        "Team": "NJIT",
+        "GM": "31",
+        "PTS": "2023",
+        "PPG": "65.3",
+        "OPP PTS": "2269",
+        "OPP PPG": "73.2",
+        "SCR MAR": "-7"
+      },
+      {
+        "Rank": "335",
+        "Team": "The Citadel",
+        "GM": "30",
+        "PTS": "1997",
+        "PPG": "66.6",
+        "OPP PTS": "2251",
+        "OPP PPG": "75.0",
+        "SCR MAR": "-8"
+      },
+      {
+        "Rank": "336",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "PTS": "1970",
+        "PPG": "61.6",
+        "OPP PTS": "2246",
+        "OPP PPG": "70.2",
+        "SCR MAR": "-8"
+      },
+      {
+        "Rank": "337",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "PTS": "2393",
+        "PPG": "74.8",
+        "OPP PTS": "2673",
+        "OPP PPG": "83.5",
+        "SCR MAR": "-8"
+      },
+      {
+        "Rank": "338",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "PTS": "2146",
+        "PPG": "67.1",
+        "OPP PTS": "2428",
+        "OPP PPG": "75.9",
+        "SCR MAR": "-8"
+      },
+      {
+        "Rank": "339",
+        "Team": "Buffalo",
+        "GM": "31",
+        "PTS": "2226",
+        "PPG": "71.8",
+        "OPP PTS": "2508",
+        "OPP PPG": "80.9",
+        "SCR MAR": "-9"
+      },
+      {
+        "Rank": "340",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "PTS": "2090",
+        "PPG": "69.7",
+        "OPP PTS": "2371",
+        "OPP PPG": "79.0",
+        "SCR MAR": "-9"
+      },
+      {
+        "Rank": "341",
+        "Team": "San Diego",
+        "GM": "33",
+        "PTS": "2314",
+        "PPG": "70.1",
+        "OPP PTS": "2629",
+        "OPP PPG": "79.7",
+        "SCR MAR": "-9"
+      },
+      {
+        "Rank": "342",
+        "Team": "Stetson",
+        "GM": "32",
+        "PTS": "2293",
+        "PPG": "71.7",
+        "OPP PTS": "2608",
+        "OPP PPG": "81.5",
+        "SCR MAR": "-9"
+      },
+      {
+        "Rank": "343",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "PTS": "2262",
+        "PPG": "70.7",
+        "OPP PTS": "2582",
+        "OPP PPG": "80.7",
+        "SCR MAR": "-10"
+      },
+      {
+        "Rank": "344",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "PTS": "2124",
+        "PPG": "66.4",
+        "OPP PTS": "2450",
+        "OPP PPG": "76.6",
+        "SCR MAR": "-10"
+      },
+      {
+        "Rank": "345",
+        "Team": "UMES",
+        "GM": "31",
+        "PTS": "2090",
+        "PPG": "67.4",
+        "OPP PTS": "2410",
+        "OPP PPG": "77.7",
+        "SCR MAR": "-10"
+      },
+      {
+        "Rank": "346",
+        "Team": "Green Bay",
+        "GM": "32",
+        "PTS": "2237",
+        "PPG": "69.9",
+        "OPP PTS": "2570",
+        "OPP PPG": "80.3",
+        "SCR MAR": "-10"
+      },
+      {
+        "Rank": "347",
+        "Team": "Prairie View",
+        "GM": "32",
+        "PTS": "2286",
+        "PPG": "71.4",
+        "OPP PTS": "2637",
+        "OPP PPG": "82.4",
+        "SCR MAR": "-10"
+      },
+      {
+        "Rank": "348",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "PTS": "2242",
+        "PPG": "72.3",
+        "OPP PTS": "2602",
+        "OPP PPG": "83.9",
+        "SCR MAR": "-11"
+      },
+      {
+        "Rank": "349",
+        "Team": "Air Force",
+        "GM": "32",
+        "PTS": "1982",
+        "PPG": "61.9",
+        "OPP PTS": "2357",
+        "OPP PPG": "73.7",
+        "SCR MAR": "-11"
+      },
+      {
+        "Rank": "350",
+        "Team": "Canisius",
+        "GM": "31",
+        "PTS": "2008",
+        "PPG": "64.8",
+        "OPP PTS": "2437",
+        "OPP PPG": "78.6",
+        "SCR MAR": "-13"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Scoring Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "PTS": "2024",
+        "PPG": "63.2",
+        "OPP PTS": "2475",
+        "OPP PPG": "77.3",
+        "SCR MAR": "-14"
+      },
+      {
+        "Rank": "352",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "PTS": "1867",
+        "PPG": "62.2",
+        "OPP PTS": "2292",
+        "OPP PPG": "76.4",
+        "SCR MAR": "-14"
+      },
+      {
+        "Rank": "353",
+        "Team": "New Orleans",
+        "GM": "31",
+        "PTS": "2105",
+        "PPG": "67.9",
+        "OPP PTS": "2556",
+        "OPP PPG": "82.5",
+        "SCR MAR": "-14"
+      },
+      {
+        "Rank": "354",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "PTS": "2001",
+        "PPG": "62.5",
+        "OPP PTS": "2518",
+        "OPP PPG": "78.7",
+        "SCR MAR": "-16"
+      },
+      {
+        "Rank": "355",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "PTS": "1678",
+        "PPG": "54.1",
+        "OPP PTS": "2506",
+        "OPP PPG": "80.8",
+        "SCR MAR": "-26"
+      }
+    ]
+  }
+]

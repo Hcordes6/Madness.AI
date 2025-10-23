@@ -1,0 +1,3624 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "REB": "1390",
+        "RPG": "39.7",
+        "OPP REB": "1029",
+        "OPP RPG": "29.4",
+        "REB MAR": "10"
+      },
+      {
+        "Rank": "2",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "REB": "1253",
+        "RPG": "39.2",
+        "OPP REB": "954",
+        "OPP RPG": "29.8",
+        "REB MAR": "9"
+      },
+      {
+        "Rank": "3",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "REB": "1287",
+        "RPG": "40.2",
+        "OPP REB": "991",
+        "OPP RPG": "31.0",
+        "REB MAR": "9"
+      },
+      {
+        "Rank": "4",
+        "Team": "Illinois",
+        "GM": "35",
+        "REB": "1492",
+        "RPG": "42.6",
+        "OPP REB": "1174",
+        "OPP RPG": "33.5",
+        "REB MAR": "9"
+      },
+      {
+        "Rank": "5",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "REB": "1472",
+        "RPG": "39.8",
+        "OPP REB": "1144",
+        "OPP RPG": "30.9",
+        "REB MAR": "8"
+      },
+      {
+        "Rank": "6",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "REB": "1395",
+        "RPG": "41.0",
+        "OPP REB": "1100",
+        "OPP RPG": "32.4",
+        "REB MAR": "8"
+      },
+      {
+        "Rank": "7",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "REB": "1143",
+        "RPG": "38.1",
+        "OPP REB": "883",
+        "OPP RPG": "29.4",
+        "REB MAR": "8"
+      },
+      {
+        "Rank": "8",
+        "Team": "Florida",
+        "GM": "40",
+        "REB": "1673",
+        "RPG": "41.8",
+        "OPP REB": "1336",
+        "OPP RPG": "33.4",
+        "REB MAR": "8"
+      },
+      {
+        "Rank": "9",
+        "Team": "CSUN",
+        "GM": "33",
+        "REB": "1322",
+        "RPG": "40.1",
+        "OPP REB": "1045",
+        "OPP RPG": "31.7",
+        "REB MAR": "8"
+      },
+      {
+        "Rank": "10",
+        "Team": "Wofford",
+        "GM": "35",
+        "REB": "1337",
+        "RPG": "38.2",
+        "OPP REB": "1077",
+        "OPP RPG": "30.8",
+        "REB MAR": "7"
+      },
+      {
+        "Rank": "11",
+        "Team": "Boise St.",
+        "GM": "37",
+        "REB": "1336",
+        "RPG": "36.1",
+        "OPP REB": "1065",
+        "OPP RPG": "28.8",
+        "REB MAR": "7"
+      },
+      {
+        "Rank": "12",
+        "Team": "Arizona",
+        "GM": "37",
+        "REB": "1470",
+        "RPG": "39.7",
+        "OPP REB": "1202",
+        "OPP RPG": "32.5",
+        "REB MAR": "7"
+      },
+      {
+        "Rank": "13",
+        "Team": "Duke",
+        "GM": "39",
+        "REB": "1488",
+        "RPG": "38.2",
+        "OPP REB": "1207",
+        "OPP RPG": "30.9",
+        "REB MAR": "7"
+      },
+      {
+        "Rank": "14",
+        "Team": "UNCW",
+        "GM": "35",
+        "REB": "1358",
+        "RPG": "38.8",
+        "OPP REB": "1110",
+        "OPP RPG": "31.7",
+        "REB MAR": "7"
+      },
+      {
+        "Rank": "15",
+        "Team": "Elon",
+        "GM": "33",
+        "REB": "1314",
+        "RPG": "39.8",
+        "OPP REB": "1087",
+        "OPP RPG": "32.9",
+        "REB MAR": "6"
+      },
+      {
+        "Rank": "16",
+        "Team": "Yale",
+        "GM": "30",
+        "REB": "1151",
+        "RPG": "38.4",
+        "OPP REB": "951",
+        "OPP RPG": "31.7",
+        "REB MAR": "6"
+      },
+      {
+        "Rank": "17",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "REB": "1338",
+        "RPG": "40.5",
+        "OPP REB": "1130",
+        "OPP RPG": "34.2",
+        "REB MAR": "6"
+      },
+      {
+        "Rank": "18",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "REB": "1331",
+        "RPG": "40.3",
+        "OPP REB": "1124",
+        "OPP RPG": "34.1",
+        "REB MAR": "6"
+      },
+      {
+        "Rank": "19",
+        "Team": "UConn",
+        "GM": "35",
+        "REB": "1251",
+        "RPG": "35.7",
+        "OPP REB": "1041",
+        "OPP RPG": "29.7",
+        "REB MAR": "6"
+      },
+      {
+        "Rank": "20",
+        "Team": "BYU",
+        "GM": "36",
+        "REB": "1354",
+        "RPG": "37.6",
+        "OPP REB": "1140",
+        "OPP RPG": "31.7",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "21",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "REB": "1487",
+        "RPG": "41.3",
+        "OPP REB": "1280",
+        "OPP RPG": "35.6",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "22",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "REB": "1263",
+        "RPG": "38.3",
+        "OPP REB": "1080",
+        "OPP RPG": "32.7",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "23",
+        "Team": "SMU",
+        "GM": "35",
+        "REB": "1345",
+        "RPG": "38.4",
+        "OPP REB": "1152",
+        "OPP RPG": "32.9",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "24",
+        "Team": "Alabama",
+        "GM": "37",
+        "REB": "1567",
+        "RPG": "42.4",
+        "OPP REB": "1364",
+        "OPP RPG": "36.9",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "25",
+        "Team": "Drake",
+        "GM": "35",
+        "REB": "1079",
+        "RPG": "30.8",
+        "OPP REB": "887",
+        "OPP RPG": "25.3",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "26",
+        "Team": "Hawaii",
+        "GM": "31",
+        "REB": "1103",
+        "RPG": "35.6",
+        "OPP REB": "933",
+        "OPP RPG": "30.1",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "27",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "REB": "1383",
+        "RPG": "38.4",
+        "OPP REB": "1186",
+        "OPP RPG": "32.9",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "28",
+        "Team": "Boston U.",
+        "GM": "32",
+        "REB": "1124",
+        "RPG": "35.1",
+        "OPP REB": "949",
+        "OPP RPG": "29.7",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "29",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "REB": "1339",
+        "RPG": "38.3",
+        "OPP REB": "1149",
+        "OPP RPG": "32.8",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "30",
+        "Team": "Troy",
+        "GM": "34",
+        "REB": "1311",
+        "RPG": "38.6",
+        "OPP REB": "1128",
+        "OPP RPG": "33.2",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "31",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "REB": "1276",
+        "RPG": "37.5",
+        "OPP REB": "1095",
+        "OPP RPG": "32.2",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "32",
+        "Team": "Houston",
+        "GM": "40",
+        "REB": "1475",
+        "RPG": "36.9",
+        "OPP REB": "1263",
+        "OPP RPG": "31.6",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "33",
+        "Team": "UAB",
+        "GM": "37",
+        "REB": "1485",
+        "RPG": "40.1",
+        "OPP REB": "1289",
+        "OPP RPG": "34.8",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "34",
+        "Team": "Southern U.",
+        "GM": "32",
+        "REB": "1194",
+        "RPG": "37.3",
+        "OPP REB": "1030",
+        "OPP RPG": "32.2",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "35",
+        "Team": "Utah",
+        "GM": "33",
+        "REB": "1312",
+        "RPG": "39.8",
+        "OPP REB": "1145",
+        "OPP RPG": "34.7",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "36",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "REB": "1290",
+        "RPG": "37.9",
+        "OPP REB": "1119",
+        "OPP RPG": "32.9",
+        "REB MAR": "5"
+      },
+      {
+        "Rank": "37",
+        "Team": "High Point",
+        "GM": "35",
+        "REB": "1263",
+        "RPG": "36.1",
+        "OPP REB": "1089",
+        "OPP RPG": "31.1",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "38",
+        "Team": "Kent St.",
+        "GM": "36",
+        "REB": "1335",
+        "RPG": "37.1",
+        "OPP REB": "1159",
+        "OPP RPG": "32.2",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "39",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "REB": "1299",
+        "RPG": "38.2",
+        "OPP REB": "1133",
+        "OPP RPG": "33.3",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "40",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "REB": "1310",
+        "RPG": "37.4",
+        "OPP REB": "1141",
+        "OPP RPG": "32.6",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "41",
+        "Team": "Tennessee",
+        "GM": "38",
+        "REB": "1382",
+        "RPG": "36.4",
+        "OPP REB": "1202",
+        "OPP RPG": "31.6",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "42",
+        "Team": "Wagner",
+        "GM": "30",
+        "REB": "1046",
+        "RPG": "34.9",
+        "OPP REB": "905",
+        "OPP RPG": "30.2",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "43",
+        "Team": "VCU",
+        "GM": "35",
+        "REB": "1337",
+        "RPG": "38.2",
+        "OPP REB": "1173",
+        "OPP RPG": "33.5",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "44",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "REB": "1171",
+        "RPG": "36.6",
+        "OPP REB": "1024",
+        "OPP RPG": "32.0",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "45",
+        "Team": "Kansas City",
+        "GM": "33",
+        "REB": "1168",
+        "RPG": "35.4",
+        "OPP REB": "1018",
+        "OPP RPG": "30.8",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "46",
+        "Team": "Bryant",
+        "GM": "35",
+        "REB": "1439",
+        "RPG": "41.1",
+        "OPP REB": "1282",
+        "OPP RPG": "36.6",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "47",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "REB": "1043",
+        "RPG": "37.2",
+        "OPP REB": "918",
+        "OPP RPG": "32.8",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "48",
+        "Team": "UT Martin",
+        "GM": "33",
+        "REB": "1301",
+        "RPG": "39.4",
+        "OPP REB": "1156",
+        "OPP RPG": "35.0",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "49",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "REB": "1205",
+        "RPG": "34.4",
+        "OPP REB": "1053",
+        "OPP RPG": "30.1",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "50",
+        "Team": "Michigan",
+        "GM": "37",
+        "REB": "1422",
+        "RPG": "38.4",
+        "OPP REB": "1262",
+        "OPP RPG": "34.1",
+        "REB MAR": "4"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "Iona",
+        "GM": "34",
+        "REB": "1259",
+        "RPG": "37.0",
+        "OPP REB": "1112",
+        "OPP RPG": "32.7",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "52",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "REB": "1371",
+        "RPG": "37.1",
+        "OPP REB": "1213",
+        "OPP RPG": "32.8",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "53",
+        "Team": "Texas St.",
+        "GM": "32",
+        "REB": "1184",
+        "RPG": "37.0",
+        "OPP REB": "1048",
+        "OPP RPG": "32.8",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "54",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "REB": "1111",
+        "RPG": "33.7",
+        "OPP REB": "973",
+        "OPP RPG": "29.5",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "55",
+        "Team": "George Mason",
+        "GM": "36",
+        "REB": "1310",
+        "RPG": "36.4",
+        "OPP REB": "1160",
+        "OPP RPG": "32.2",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "56",
+        "Team": "Radford",
+        "GM": "33",
+        "REB": "1167",
+        "RPG": "35.4",
+        "OPP REB": "1030",
+        "OPP RPG": "31.2",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "57",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "REB": "1240",
+        "RPG": "36.5",
+        "OPP REB": "1099",
+        "OPP RPG": "32.3",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "58",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "REB": "1350",
+        "RPG": "37.5",
+        "OPP REB": "1201",
+        "OPP RPG": "33.4",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "59",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "REB": "1166",
+        "RPG": "36.4",
+        "OPP REB": "1035",
+        "OPP RPG": "32.3",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "60",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "REB": "1198",
+        "RPG": "37.4",
+        "OPP REB": "1069",
+        "OPP RPG": "33.4",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "61",
+        "Team": "Drexel",
+        "GM": "33",
+        "REB": "1214",
+        "RPG": "36.8",
+        "OPP REB": "1081",
+        "OPP RPG": "32.8",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "-",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "REB": "1173",
+        "RPG": "35.5",
+        "OPP REB": "1040",
+        "OPP RPG": "31.5",
+        "REB MAR": "4"
+      },
+      {
+        "Rank": "63",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "REB": "1238",
+        "RPG": "35.4",
+        "OPP REB": "1100",
+        "OPP RPG": "31.4",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "64",
+        "Team": "Providence",
+        "GM": "32",
+        "REB": "1186",
+        "RPG": "37.1",
+        "OPP REB": "1061",
+        "OPP RPG": "33.2",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "65",
+        "Team": "Auburn",
+        "GM": "38",
+        "REB": "1423",
+        "RPG": "37.4",
+        "OPP REB": "1276",
+        "OPP RPG": "33.6",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "66",
+        "Team": "Louisville",
+        "GM": "35",
+        "REB": "1305",
+        "RPG": "37.3",
+        "OPP REB": "1170",
+        "OPP RPG": "33.4",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "67",
+        "Team": "Kansas",
+        "GM": "34",
+        "REB": "1310",
+        "RPG": "38.5",
+        "OPP REB": "1180",
+        "OPP RPG": "34.7",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "68",
+        "Team": "Georgia",
+        "GM": "33",
+        "REB": "1203",
+        "RPG": "36.5",
+        "OPP REB": "1077",
+        "OPP RPG": "32.6",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "69",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "REB": "1495",
+        "RPG": "38.3",
+        "OPP REB": "1347",
+        "OPP RPG": "34.5",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "70",
+        "Team": "Syracuse",
+        "GM": "33",
+        "REB": "1224",
+        "RPG": "37.1",
+        "OPP REB": "1100",
+        "OPP RPG": "33.3",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "71",
+        "Team": "ETSU",
+        "GM": "32",
+        "REB": "1186",
+        "RPG": "37.1",
+        "OPP REB": "1066",
+        "OPP RPG": "33.3",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "72",
+        "Team": "New Mexico",
+        "GM": "35",
+        "REB": "1361",
+        "RPG": "38.9",
+        "OPP REB": "1230",
+        "OPP RPG": "35.1",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "73",
+        "Team": "LIU",
+        "GM": "33",
+        "REB": "1172",
+        "RPG": "35.5",
+        "OPP REB": "1049",
+        "OPP RPG": "31.8",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "74",
+        "Team": "Marist",
+        "GM": "30",
+        "REB": "1079",
+        "RPG": "36.0",
+        "OPP REB": "968",
+        "OPP RPG": "32.3",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "75",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "REB": "1120",
+        "RPG": "36.1",
+        "OPP REB": "1007",
+        "OPP RPG": "32.5",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "76",
+        "Team": "Towson",
+        "GM": "33",
+        "REB": "1213",
+        "RPG": "36.8",
+        "OPP REB": "1094",
+        "OPP RPG": "33.2",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "77",
+        "Team": "Lamar University",
+        "GM": "33",
+        "REB": "1277",
+        "RPG": "38.7",
+        "OPP REB": "1159",
+        "OPP RPG": "35.1",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "78",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "REB": "1266",
+        "RPG": "37.2",
+        "OPP REB": "1146",
+        "OPP RPG": "33.7",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "79",
+        "Team": "North Texas",
+        "GM": "36",
+        "REB": "1184",
+        "RPG": "32.9",
+        "OPP REB": "1057",
+        "OPP RPG": "29.4",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "80",
+        "Team": "FGCU",
+        "GM": "34",
+        "REB": "1208",
+        "RPG": "35.5",
+        "OPP REB": "1089",
+        "OPP RPG": "32.0",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "81",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "REB": "1165",
+        "RPG": "35.3",
+        "OPP REB": "1050",
+        "OPP RPG": "31.8",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "82",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "REB": "1122",
+        "RPG": "37.4",
+        "OPP REB": "1018",
+        "OPP RPG": "33.9",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "83",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "REB": "1137",
+        "RPG": "35.5",
+        "OPP REB": "1027",
+        "OPP RPG": "32.1",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "84",
+        "Team": "Akron",
+        "GM": "35",
+        "REB": "1347",
+        "RPG": "38.5",
+        "OPP REB": "1227",
+        "OPP RPG": "35.1",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Ala.",
+        "GM": "35",
+        "REB": "1336",
+        "RPG": "38.2",
+        "OPP REB": "1216",
+        "OPP RPG": "34.7",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "86",
+        "Team": "Hampton",
+        "GM": "33",
+        "REB": "1196",
+        "RPG": "36.2",
+        "OPP REB": "1083",
+        "OPP RPG": "32.8",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "87",
+        "Team": "Baylor",
+        "GM": "35",
+        "REB": "1256",
+        "RPG": "35.9",
+        "OPP REB": "1137",
+        "OPP RPG": "32.5",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "88",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "REB": "1201",
+        "RPG": "36.4",
+        "OPP REB": "1089",
+        "OPP RPG": "33.0",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "89",
+        "Team": "Portland St.",
+        "GM": "32",
+        "REB": "1179",
+        "RPG": "36.8",
+        "OPP REB": "1071",
+        "OPP RPG": "33.5",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "90",
+        "Team": "Rice",
+        "GM": "32",
+        "REB": "1223",
+        "RPG": "38.2",
+        "OPP REB": "1117",
+        "OPP RPG": "34.9",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "91",
+        "Team": "UIW",
+        "GM": "36",
+        "REB": "1263",
+        "RPG": "35.1",
+        "OPP REB": "1145",
+        "OPP RPG": "31.8",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "92",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "REB": "1311",
+        "RPG": "38.6",
+        "OPP REB": "1202",
+        "OPP RPG": "35.4",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "93",
+        "Team": "McNeese",
+        "GM": "35",
+        "REB": "1262",
+        "RPG": "36.1",
+        "OPP REB": "1150",
+        "OPP RPG": "32.9",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "94",
+        "Team": "Creighton",
+        "GM": "36",
+        "REB": "1346",
+        "RPG": "37.4",
+        "OPP REB": "1234",
+        "OPP RPG": "34.3",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "95",
+        "Team": "Memphis",
+        "GM": "35",
+        "REB": "1313",
+        "RPG": "37.5",
+        "OPP REB": "1205",
+        "OPP RPG": "34.4",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "96",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "REB": "1257",
+        "RPG": "34.9",
+        "OPP REB": "1147",
+        "OPP RPG": "31.9",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "97",
+        "Team": "Binghamton",
+        "GM": "32",
+        "REB": "1149",
+        "RPG": "35.9",
+        "OPP REB": "1053",
+        "OPP RPG": "32.9",
+        "REB MAR": "3"
+      },
+      {
+        "Rank": "98",
+        "Team": "North Carolina",
+        "GM": "37",
+        "REB": "1357",
+        "RPG": "36.7",
+        "OPP REB": "1248",
+        "OPP RPG": "33.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "99",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "REB": "1208",
+        "RPG": "37.8",
+        "OPP REB": "1114",
+        "OPP RPG": "34.8",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "100",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "REB": "1466",
+        "RPG": "40.7",
+        "OPP REB": "1361",
+        "OPP RPG": "37.8",
+        "REB MAR": "2"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "Longwood",
+        "GM": "32",
+        "REB": "1111",
+        "RPG": "34.7",
+        "OPP REB": "1018",
+        "OPP RPG": "31.8",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "102",
+        "Team": "Utah St.",
+        "GM": "34",
+        "REB": "1177",
+        "RPG": "34.6",
+        "OPP REB": "1080",
+        "OPP RPG": "31.8",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "103",
+        "Team": "Villanova",
+        "GM": "36",
+        "REB": "1231",
+        "RPG": "34.2",
+        "OPP REB": "1131",
+        "OPP RPG": "31.4",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "104",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "REB": "1174",
+        "RPG": "36.7",
+        "OPP REB": "1086",
+        "OPP RPG": "33.9",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "105",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "REB": "1129",
+        "RPG": "36.4",
+        "OPP REB": "1044",
+        "OPP RPG": "33.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "106",
+        "Team": "Kentucky",
+        "GM": "36",
+        "REB": "1369",
+        "RPG": "38.0",
+        "OPP REB": "1271",
+        "OPP RPG": "35.3",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "107",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "REB": "1187",
+        "RPG": "37.1",
+        "OPP REB": "1100",
+        "OPP RPG": "34.4",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Indiana",
+        "GM": "32",
+        "REB": "1166",
+        "RPG": "36.4",
+        "OPP REB": "1079",
+        "OPP RPG": "33.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "109",
+        "Team": "Omaha",
+        "GM": "35",
+        "REB": "1254",
+        "RPG": "35.8",
+        "OPP REB": "1159",
+        "OPP RPG": "33.1",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "110",
+        "Team": "Clemson",
+        "GM": "34",
+        "REB": "1202",
+        "RPG": "35.4",
+        "OPP REB": "1110",
+        "OPP RPG": "32.6",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "111",
+        "Team": "North Dakota",
+        "GM": "33",
+        "REB": "1245",
+        "RPG": "37.7",
+        "OPP REB": "1156",
+        "OPP RPG": "35.0",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "112",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "REB": "1145",
+        "RPG": "35.8",
+        "OPP REB": "1059",
+        "OPP RPG": "33.1",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "113",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "REB": "1305",
+        "RPG": "38.4",
+        "OPP REB": "1215",
+        "OPP RPG": "35.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "114",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "REB": "1158",
+        "RPG": "35.1",
+        "OPP REB": "1073",
+        "OPP RPG": "32.5",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "115",
+        "Team": "California",
+        "GM": "33",
+        "REB": "1238",
+        "RPG": "37.5",
+        "OPP REB": "1154",
+        "OPP RPG": "35.0",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "116",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "REB": "1350",
+        "RPG": "36.5",
+        "OPP REB": "1259",
+        "OPP RPG": "34.0",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "117",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "REB": "1345",
+        "RPG": "38.4",
+        "OPP REB": "1259",
+        "OPP RPG": "36.0",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "118",
+        "Team": "UIC",
+        "GM": "31",
+        "REB": "1119",
+        "RPG": "36.1",
+        "OPP REB": "1043",
+        "OPP RPG": "33.6",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "119",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "REB": "1264",
+        "RPG": "37.2",
+        "OPP REB": "1181",
+        "OPP RPG": "34.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "120",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "REB": "1299",
+        "RPG": "37.1",
+        "OPP REB": "1215",
+        "OPP RPG": "34.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "121",
+        "Team": "East Carolina",
+        "GM": "33",
+        "REB": "1226",
+        "RPG": "37.2",
+        "OPP REB": "1147",
+        "OPP RPG": "34.8",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "122",
+        "Team": "Winthrop",
+        "GM": "34",
+        "REB": "1312",
+        "RPG": "38.6",
+        "OPP REB": "1231",
+        "OPP RPG": "36.2",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "123",
+        "Team": "Marshall",
+        "GM": "33",
+        "REB": "1239",
+        "RPG": "37.5",
+        "OPP REB": "1161",
+        "OPP RPG": "35.2",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "124",
+        "Team": "Maryland",
+        "GM": "36",
+        "REB": "1305",
+        "RPG": "36.2",
+        "OPP REB": "1221",
+        "OPP RPG": "33.9",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "125",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "REB": "1173",
+        "RPG": "35.5",
+        "OPP REB": "1098",
+        "OPP RPG": "33.3",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "126",
+        "Team": "SIUE",
+        "GM": "34",
+        "REB": "1297",
+        "RPG": "38.1",
+        "OPP REB": "1220",
+        "OPP RPG": "35.9",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "127",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "REB": "1288",
+        "RPG": "37.9",
+        "OPP REB": "1213",
+        "OPP RPG": "35.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "128",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "REB": "1171",
+        "RPG": "36.6",
+        "OPP REB": "1102",
+        "OPP RPG": "34.4",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "129",
+        "Team": "Navy",
+        "GM": "34",
+        "REB": "1216",
+        "RPG": "35.8",
+        "OPP REB": "1143",
+        "OPP RPG": "33.6",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "130",
+        "Team": "Purdue",
+        "GM": "36",
+        "REB": "1183",
+        "RPG": "32.9",
+        "OPP REB": "1107",
+        "OPP RPG": "30.8",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "131",
+        "Team": "South Carolina",
+        "GM": "32",
+        "REB": "1100",
+        "RPG": "34.4",
+        "OPP REB": "1033",
+        "OPP RPG": "32.3",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "132",
+        "Team": "SFA",
+        "GM": "31",
+        "REB": "1165",
+        "RPG": "37.6",
+        "OPP REB": "1102",
+        "OPP RPG": "35.5",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "133",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "REB": "1147",
+        "RPG": "35.8",
+        "OPP REB": "1082",
+        "OPP RPG": "33.8",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "134",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "REB": "1255",
+        "RPG": "38.0",
+        "OPP REB": "1188",
+        "OPP RPG": "36.0",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "135",
+        "Team": "Oregon",
+        "GM": "35",
+        "REB": "1253",
+        "RPG": "35.8",
+        "OPP REB": "1182",
+        "OPP RPG": "33.8",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "136",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "REB": "1307",
+        "RPG": "35.3",
+        "OPP REB": "1233",
+        "OPP RPG": "33.3",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Furman",
+        "GM": "35",
+        "REB": "1269",
+        "RPG": "36.3",
+        "OPP REB": "1199",
+        "OPP RPG": "34.3",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "REB": "1208",
+        "RPG": "34.5",
+        "OPP REB": "1138",
+        "OPP RPG": "32.5",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "-",
+        "Team": "James Madison",
+        "GM": "32",
+        "REB": "1142",
+        "RPG": "35.7",
+        "OPP REB": "1078",
+        "OPP RPG": "33.7",
+        "REB MAR": "2"
+      },
+      {
+        "Rank": "140",
+        "Team": "Wyoming",
+        "GM": "32",
+        "REB": "1114",
+        "RPG": "34.8",
+        "OPP REB": "1051",
+        "OPP RPG": "32.8",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "141",
+        "Team": "Colorado",
+        "GM": "35",
+        "REB": "1227",
+        "RPG": "35.1",
+        "OPP REB": "1161",
+        "OPP RPG": "33.2",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "142",
+        "Team": "California Baptist",
+        "GM": "32",
+        "REB": "1152",
+        "RPG": "36.0",
+        "OPP REB": "1092",
+        "OPP RPG": "34.1",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "143",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "REB": "1160",
+        "RPG": "37.4",
+        "OPP REB": "1103",
+        "OPP RPG": "35.6",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "144",
+        "Team": "Wright St.",
+        "GM": "33",
+        "REB": "1139",
+        "RPG": "34.5",
+        "OPP REB": "1079",
+        "OPP RPG": "32.7",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "145",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "REB": "1269",
+        "RPG": "39.7",
+        "OPP REB": "1211",
+        "OPP RPG": "37.8",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "REB": "1207",
+        "RPG": "37.7",
+        "OPP REB": "1149",
+        "OPP RPG": "35.9",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "REB": "1111",
+        "RPG": "34.7",
+        "OPP REB": "1053",
+        "OPP RPG": "32.9",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "148",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "REB": "1046",
+        "RPG": "32.7",
+        "OPP REB": "994",
+        "OPP RPG": "31.1",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "149",
+        "Team": "Oakland",
+        "GM": "34",
+        "REB": "1203",
+        "RPG": "35.4",
+        "OPP REB": "1150",
+        "OPP RPG": "33.8",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "150",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "REB": "1241",
+        "RPG": "35.5",
+        "OPP REB": "1187",
+        "OPP RPG": "33.9",
+        "REB MAR": "1"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "REB": "1062",
+        "RPG": "37.9",
+        "OPP REB": "1020",
+        "OPP RPG": "36.4",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "152",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "REB": "1262",
+        "RPG": "37.1",
+        "OPP REB": "1212",
+        "OPP RPG": "35.6",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "153",
+        "Team": "UNI",
+        "GM": "33",
+        "REB": "1090",
+        "RPG": "33.0",
+        "OPP REB": "1042",
+        "OPP RPG": "31.6",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "154",
+        "Team": "Bradley",
+        "GM": "37",
+        "REB": "1274",
+        "RPG": "34.4",
+        "OPP REB": "1223",
+        "OPP RPG": "33.1",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "155",
+        "Team": "Murray St.",
+        "GM": "33",
+        "REB": "1121",
+        "RPG": "34.0",
+        "OPP REB": "1079",
+        "OPP RPG": "32.7",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "156",
+        "Team": "Missouri",
+        "GM": "34",
+        "REB": "1157",
+        "RPG": "34.0",
+        "OPP REB": "1114",
+        "OPP RPG": "32.8",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "157",
+        "Team": "Ball St.",
+        "GM": "31",
+        "REB": "1101",
+        "RPG": "35.5",
+        "OPP REB": "1062",
+        "OPP RPG": "34.3",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "158",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "REB": "1223",
+        "RPG": "37.1",
+        "OPP REB": "1182",
+        "OPP RPG": "35.8",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "159",
+        "Team": "Dayton",
+        "GM": "34",
+        "REB": "1158",
+        "RPG": "34.1",
+        "OPP REB": "1116",
+        "OPP RPG": "32.8",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "160",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "REB": "1218",
+        "RPG": "34.8",
+        "OPP REB": "1176",
+        "OPP RPG": "33.6",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "161",
+        "Team": "UCLA",
+        "GM": "34",
+        "REB": "1109",
+        "RPG": "32.6",
+        "OPP REB": "1069",
+        "OPP RPG": "31.4",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "162",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "REB": "1066",
+        "RPG": "33.3",
+        "OPP REB": "1029",
+        "OPP RPG": "32.2",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "163",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "REB": "1228",
+        "RPG": "34.1",
+        "OPP REB": "1187",
+        "OPP RPG": "33.0",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "164",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "REB": "1132",
+        "RPG": "36.5",
+        "OPP REB": "1097",
+        "OPP RPG": "35.4",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "165",
+        "Team": "UAlbany",
+        "GM": "33",
+        "REB": "1117",
+        "RPG": "33.8",
+        "OPP REB": "1080",
+        "OPP RPG": "32.7",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "166",
+        "Team": "Georgetown",
+        "GM": "34",
+        "REB": "1198",
+        "RPG": "35.2",
+        "OPP REB": "1161",
+        "OPP RPG": "34.1",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "167",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "REB": "1120",
+        "RPG": "35.0",
+        "OPP REB": "1086",
+        "OPP RPG": "33.9",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "168",
+        "Team": "Vermont",
+        "GM": "33",
+        "REB": "1125",
+        "RPG": "34.1",
+        "OPP REB": "1090",
+        "OPP RPG": "33.0",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "169",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "REB": "1163",
+        "RPG": "32.3",
+        "OPP REB": "1125",
+        "OPP RPG": "31.2",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "170",
+        "Team": "Manhattan",
+        "GM": "31",
+        "REB": "1139",
+        "RPG": "36.7",
+        "OPP REB": "1107",
+        "OPP RPG": "35.7",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "171",
+        "Team": "Seattle U",
+        "GM": "32",
+        "REB": "1099",
+        "RPG": "34.3",
+        "OPP REB": "1066",
+        "OPP RPG": "33.3",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "172",
+        "Team": "San Francisco",
+        "GM": "35",
+        "REB": "1246",
+        "RPG": "35.6",
+        "OPP REB": "1210",
+        "OPP RPG": "34.6",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "173",
+        "Team": "Texas",
+        "GM": "35",
+        "REB": "1248",
+        "RPG": "35.7",
+        "OPP REB": "1213",
+        "OPP RPG": "34.7",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Cornell",
+        "GM": "29",
+        "REB": "1015",
+        "RPG": "35.0",
+        "OPP REB": "986",
+        "OPP RPG": "34.0",
+        "REB MAR": "1"
+      },
+      {
+        "Rank": "175",
+        "Team": "Pacific",
+        "GM": "33",
+        "REB": "1156",
+        "RPG": "35.0",
+        "OPP REB": "1124",
+        "OPP RPG": "34.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "176",
+        "Team": "App State",
+        "GM": "31",
+        "REB": "1145",
+        "RPG": "36.9",
+        "OPP REB": "1115",
+        "OPP RPG": "36.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "177",
+        "Team": "Nevada",
+        "GM": "33",
+        "REB": "1071",
+        "RPG": "32.5",
+        "OPP REB": "1040",
+        "OPP RPG": "31.5",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "178",
+        "Team": "Temple",
+        "GM": "32",
+        "REB": "1165",
+        "RPG": "36.4",
+        "OPP REB": "1135",
+        "OPP RPG": "35.5",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "179",
+        "Team": "Stanford",
+        "GM": "35",
+        "REB": "1196",
+        "RPG": "34.2",
+        "OPP REB": "1164",
+        "OPP RPG": "33.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "180",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "REB": "1254",
+        "RPG": "36.9",
+        "OPP REB": "1223",
+        "OPP RPG": "36.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "181",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "REB": "1139",
+        "RPG": "35.6",
+        "OPP REB": "1110",
+        "OPP RPG": "34.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "182",
+        "Team": "Mercer",
+        "GM": "33",
+        "REB": "1297",
+        "RPG": "39.3",
+        "OPP REB": "1268",
+        "OPP RPG": "38.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "183",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "REB": "1153",
+        "RPG": "33.9",
+        "OPP REB": "1124",
+        "OPP RPG": "33.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "184",
+        "Team": "TCU",
+        "GM": "32",
+        "REB": "1114",
+        "RPG": "34.8",
+        "OPP REB": "1088",
+        "OPP RPG": "34.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Duquesne",
+        "GM": "32",
+        "REB": "1091",
+        "RPG": "34.1",
+        "OPP REB": "1065",
+        "OPP RPG": "33.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "186",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "REB": "1242",
+        "RPG": "36.5",
+        "OPP REB": "1215",
+        "OPP RPG": "35.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "187",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "REB": "1149",
+        "RPG": "37.1",
+        "OPP REB": "1125",
+        "OPP RPG": "36.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "188",
+        "Team": "Samford",
+        "GM": "33",
+        "REB": "1188",
+        "RPG": "36.0",
+        "OPP REB": "1163",
+        "OPP RPG": "35.2",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "189",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "REB": "1145",
+        "RPG": "33.7",
+        "OPP REB": "1120",
+        "OPP RPG": "32.9",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "190",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "REB": "1159",
+        "RPG": "34.1",
+        "OPP REB": "1140",
+        "OPP RPG": "33.5",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Xavier",
+        "GM": "34",
+        "REB": "1131",
+        "RPG": "33.3",
+        "OPP REB": "1112",
+        "OPP RPG": "32.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "192",
+        "Team": "Brown",
+        "GM": "27",
+        "REB": "979",
+        "RPG": "36.3",
+        "OPP REB": "965",
+        "OPP RPG": "35.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "193",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "REB": "1079",
+        "RPG": "34.8",
+        "OPP REB": "1063",
+        "OPP RPG": "34.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "194",
+        "Team": "Rider",
+        "GM": "33",
+        "REB": "1131",
+        "RPG": "34.3",
+        "OPP REB": "1114",
+        "OPP RPG": "33.8",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "195",
+        "Team": "FIU",
+        "GM": "33",
+        "REB": "1159",
+        "RPG": "35.1",
+        "OPP REB": "1145",
+        "OPP RPG": "34.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "196",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "REB": "1034",
+        "RPG": "33.4",
+        "OPP REB": "1021",
+        "OPP RPG": "32.9",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "197",
+        "Team": "Columbia",
+        "GM": "27",
+        "REB": "940",
+        "RPG": "34.8",
+        "OPP REB": "929",
+        "OPP RPG": "34.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "198",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "REB": "1129",
+        "RPG": "35.3",
+        "OPP REB": "1116",
+        "OPP RPG": "34.9",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "199",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "REB": "1231",
+        "RPG": "35.2",
+        "OPP REB": "1219",
+        "OPP RPG": "34.8",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "200",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "REB": "1198",
+        "RPG": "35.2",
+        "OPP REB": "1187",
+        "OPP RPG": "34.9",
+        "REB MAR": "0"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "201",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "REB": "1103",
+        "RPG": "33.4",
+        "OPP REB": "1093",
+        "OPP RPG": "33.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "202",
+        "Team": "UTRGV",
+        "GM": "31",
+        "REB": "1165",
+        "RPG": "37.6",
+        "OPP REB": "1156",
+        "OPP RPG": "37.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Penn St.",
+        "GM": "31",
+        "REB": "1045",
+        "RPG": "33.7",
+        "OPP REB": "1036",
+        "OPP RPG": "33.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "204",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "REB": "1070",
+        "RPG": "33.4",
+        "OPP REB": "1062",
+        "OPP RPG": "33.2",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "205",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "REB": "1193",
+        "RPG": "37.3",
+        "OPP REB": "1186",
+        "OPP RPG": "37.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "206",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "REB": "1246",
+        "RPG": "36.6",
+        "OPP REB": "1239",
+        "OPP RPG": "36.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "207",
+        "Team": "Northeastern",
+        "GM": "32",
+        "REB": "1090",
+        "RPG": "34.1",
+        "OPP REB": "1084",
+        "OPP RPG": "33.9",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "208",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "REB": "1189",
+        "RPG": "36.0",
+        "OPP REB": "1183",
+        "OPP RPG": "35.8",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "209",
+        "Team": "Butler",
+        "GM": "35",
+        "REB": "1220",
+        "RPG": "34.9",
+        "OPP REB": "1214",
+        "OPP RPG": "34.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "210",
+        "Team": "Nicholls",
+        "GM": "33",
+        "REB": "1247",
+        "RPG": "37.8",
+        "OPP REB": "1242",
+        "OPP RPG": "37.6",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "211",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "REB": "1081",
+        "RPG": "33.8",
+        "OPP REB": "1077",
+        "OPP RPG": "33.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "212",
+        "Team": "George Washington",
+        "GM": "34",
+        "REB": "1189",
+        "RPG": "35.0",
+        "OPP REB": "1185",
+        "OPP RPG": "34.9",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "213",
+        "Team": "Arkansas",
+        "GM": "36",
+        "REB": "1283",
+        "RPG": "35.6",
+        "OPP REB": "1279",
+        "OPP RPG": "35.5",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "214",
+        "Team": "Nebraska",
+        "GM": "35",
+        "REB": "1239",
+        "RPG": "35.4",
+        "OPP REB": "1236",
+        "OPP RPG": "35.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "215",
+        "Team": "La Salle",
+        "GM": "33",
+        "REB": "1217",
+        "RPG": "36.9",
+        "OPP REB": "1215",
+        "OPP RPG": "36.8",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "216",
+        "Team": "Princeton",
+        "GM": "30",
+        "REB": "1014",
+        "RPG": "33.8",
+        "OPP REB": "1013",
+        "OPP RPG": "33.8",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "217",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "REB": "1145",
+        "RPG": "34.7",
+        "OPP REB": "1144",
+        "OPP RPG": "34.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "218",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "REB": "1264",
+        "RPG": "33.3",
+        "OPP REB": "1264",
+        "OPP RPG": "33.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "219",
+        "Team": "Washington St.",
+        "GM": "34",
+        "REB": "1163",
+        "RPG": "34.2",
+        "OPP REB": "1164",
+        "OPP RPG": "34.2",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "220",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "REB": "1233",
+        "RPG": "37.4",
+        "OPP REB": "1234",
+        "OPP RPG": "37.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Fordham",
+        "GM": "33",
+        "REB": "1198",
+        "RPG": "36.3",
+        "OPP REB": "1199",
+        "OPP RPG": "36.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "222",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "REB": "1105",
+        "RPG": "33.5",
+        "OPP REB": "1107",
+        "OPP RPG": "33.5",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "223",
+        "Team": "Hofstra",
+        "GM": "33",
+        "REB": "1173",
+        "RPG": "35.5",
+        "OPP REB": "1176",
+        "OPP RPG": "35.6",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "224",
+        "Team": "Alcorn",
+        "GM": "32",
+        "REB": "1087",
+        "RPG": "34.0",
+        "OPP REB": "1090",
+        "OPP RPG": "34.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "225",
+        "Team": "Howard",
+        "GM": "32",
+        "REB": "1090",
+        "RPG": "34.1",
+        "OPP REB": "1094",
+        "OPP RPG": "34.2",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "226",
+        "Team": "Northwestern",
+        "GM": "33",
+        "REB": "1114",
+        "RPG": "33.8",
+        "OPP REB": "1121",
+        "OPP RPG": "34.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "227",
+        "Team": "Bucknell",
+        "GM": "33",
+        "REB": "1117",
+        "RPG": "33.8",
+        "OPP REB": "1125",
+        "OPP RPG": "34.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "228",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "REB": "1090",
+        "RPG": "35.2",
+        "OPP REB": "1099",
+        "OPP RPG": "35.5",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "229",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "REB": "1175",
+        "RPG": "35.6",
+        "OPP REB": "1185",
+        "OPP RPG": "35.9",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "230",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "REB": "1077",
+        "RPG": "33.7",
+        "OPP REB": "1089",
+        "OPP RPG": "34.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "231",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "REB": "1190",
+        "RPG": "34.0",
+        "OPP REB": "1204",
+        "OPP RPG": "34.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "232",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "REB": "1155",
+        "RPG": "34.0",
+        "OPP REB": "1169",
+        "OPP RPG": "34.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "233",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "REB": "1183",
+        "RPG": "37.0",
+        "OPP REB": "1197",
+        "OPP RPG": "37.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "234",
+        "Team": "Southern California",
+        "GM": "35",
+        "REB": "1110",
+        "RPG": "31.7",
+        "OPP REB": "1128",
+        "OPP RPG": "32.2",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "235",
+        "Team": "Idaho",
+        "GM": "33",
+        "REB": "1113",
+        "RPG": "33.7",
+        "OPP REB": "1131",
+        "OPP RPG": "34.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "236",
+        "Team": "DePaul",
+        "GM": "34",
+        "REB": "1170",
+        "RPG": "34.4",
+        "OPP REB": "1191",
+        "OPP RPG": "35.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "237",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "REB": "1068",
+        "RPG": "33.4",
+        "OPP REB": "1088",
+        "OPP RPG": "34.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "238",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "REB": "1100",
+        "RPG": "34.4",
+        "OPP REB": "1121",
+        "OPP RPG": "35.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "239",
+        "Team": "Davidson",
+        "GM": "33",
+        "REB": "1095",
+        "RPG": "33.2",
+        "OPP REB": "1117",
+        "OPP RPG": "33.8",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "240",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "REB": "1152",
+        "RPG": "38.4",
+        "OPP REB": "1173",
+        "OPP RPG": "39.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "241",
+        "Team": "South Alabama",
+        "GM": "32",
+        "REB": "1130",
+        "RPG": "35.3",
+        "OPP REB": "1154",
+        "OPP RPG": "36.1",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "242",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "REB": "1234",
+        "RPG": "37.4",
+        "OPP REB": "1259",
+        "OPP RPG": "38.2",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "243",
+        "Team": "Minnesota",
+        "GM": "32",
+        "REB": "1084",
+        "RPG": "33.9",
+        "OPP REB": "1109",
+        "OPP RPG": "34.7",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "244",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "REB": "1172",
+        "RPG": "36.6",
+        "OPP REB": "1198",
+        "OPP RPG": "37.4",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "-",
+        "Team": "IU Indy",
+        "GM": "32",
+        "REB": "1073",
+        "RPG": "33.5",
+        "OPP REB": "1099",
+        "OPP RPG": "34.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "246",
+        "Team": "Florida St.",
+        "GM": "32",
+        "REB": "1107",
+        "RPG": "34.6",
+        "OPP REB": "1136",
+        "OPP RPG": "35.5",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "247",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "REB": "1226",
+        "RPG": "35.0",
+        "OPP REB": "1258",
+        "OPP RPG": "35.9",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "248",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "REB": "1094",
+        "RPG": "35.3",
+        "OPP REB": "1124",
+        "OPP RPG": "36.3",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "249",
+        "Team": "Toledo",
+        "GM": "33",
+        "REB": "1123",
+        "RPG": "34.0",
+        "OPP REB": "1155",
+        "OPP RPG": "35.0",
+        "REB MAR": "0"
+      },
+      {
+        "Rank": "250",
+        "Team": "Weber St.",
+        "GM": "34",
+        "REB": "1140",
+        "RPG": "33.5",
+        "OPP REB": "1174",
+        "OPP RPG": "34.5",
+        "REB MAR": "-1"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "-",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "REB": "1058",
+        "RPG": "34.1",
+        "OPP REB": "1089",
+        "OPP RPG": "35.1",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "252",
+        "Team": "Montana",
+        "GM": "35",
+        "REB": "1108",
+        "RPG": "31.7",
+        "OPP REB": "1144",
+        "OPP RPG": "32.7",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "253",
+        "Team": "Grambling",
+        "GM": "34",
+        "REB": "1145",
+        "RPG": "33.7",
+        "OPP REB": "1180",
+        "OPP RPG": "34.7",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "254",
+        "Team": "Colgate",
+        "GM": "33",
+        "REB": "1067",
+        "RPG": "32.3",
+        "OPP REB": "1101",
+        "OPP RPG": "33.4",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "255",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "REB": "1180",
+        "RPG": "35.8",
+        "OPP REB": "1215",
+        "OPP RPG": "36.8",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "REB": "1093",
+        "RPG": "33.1",
+        "OPP REB": "1128",
+        "OPP RPG": "34.2",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "257",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "REB": "1043",
+        "RPG": "32.6",
+        "OPP REB": "1077",
+        "OPP RPG": "33.7",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "REB": "1042",
+        "RPG": "32.6",
+        "OPP REB": "1076",
+        "OPP RPG": "33.6",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "259",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "REB": "1172",
+        "RPG": "34.5",
+        "OPP REB": "1209",
+        "OPP RPG": "35.6",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "260",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "REB": "1110",
+        "RPG": "33.6",
+        "OPP REB": "1146",
+        "OPP RPG": "34.7",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "261",
+        "Team": "ULM",
+        "GM": "32",
+        "REB": "1155",
+        "RPG": "36.1",
+        "OPP REB": "1195",
+        "OPP RPG": "37.3",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "REB": "1125",
+        "RPG": "35.2",
+        "OPP REB": "1165",
+        "OPP RPG": "36.4",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "263",
+        "Team": "Tulsa",
+        "GM": "33",
+        "REB": "1178",
+        "RPG": "35.7",
+        "OPP REB": "1220",
+        "OPP RPG": "37.0",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "UNLV",
+        "GM": "33",
+        "REB": "1119",
+        "RPG": "33.9",
+        "OPP REB": "1161",
+        "OPP RPG": "35.2",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "265",
+        "Team": "Boston College",
+        "GM": "31",
+        "REB": "1065",
+        "RPG": "34.4",
+        "OPP REB": "1105",
+        "OPP RPG": "35.6",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "266",
+        "Team": "Belmont",
+        "GM": "33",
+        "REB": "1142",
+        "RPG": "34.6",
+        "OPP REB": "1185",
+        "OPP RPG": "35.9",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "267",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "REB": "1201",
+        "RPG": "37.5",
+        "OPP REB": "1243",
+        "OPP RPG": "38.8",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "268",
+        "Team": "Rutgers",
+        "GM": "32",
+        "REB": "1129",
+        "RPG": "35.3",
+        "OPP REB": "1172",
+        "OPP RPG": "36.6",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "-",
+        "Team": "William & Mary",
+        "GM": "32",
+        "REB": "1102",
+        "RPG": "34.4",
+        "OPP REB": "1145",
+        "OPP RPG": "35.8",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "270",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "REB": "971",
+        "RPG": "30.3",
+        "OPP REB": "1015",
+        "OPP RPG": "31.7",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "271",
+        "Team": "Tulane",
+        "GM": "34",
+        "REB": "1176",
+        "RPG": "34.6",
+        "OPP REB": "1223",
+        "OPP RPG": "36.0",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "272",
+        "Team": "Washington",
+        "GM": "31",
+        "REB": "1011",
+        "RPG": "32.6",
+        "OPP REB": "1056",
+        "OPP RPG": "34.1",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "273",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "REB": "1190",
+        "RPG": "34.0",
+        "OPP REB": "1242",
+        "OPP RPG": "35.5",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "274",
+        "Team": "Liberty",
+        "GM": "35",
+        "REB": "1150",
+        "RPG": "32.9",
+        "OPP REB": "1203",
+        "OPP RPG": "34.4",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "275",
+        "Team": "VMI",
+        "GM": "34",
+        "REB": "1180",
+        "RPG": "34.7",
+        "OPP REB": "1232",
+        "OPP RPG": "36.2",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "276",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "REB": "1059",
+        "RPG": "33.1",
+        "OPP REB": "1109",
+        "OPP RPG": "34.7",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "277",
+        "Team": "Siena",
+        "GM": "32",
+        "REB": "1030",
+        "RPG": "32.2",
+        "OPP REB": "1085",
+        "OPP RPG": "33.9",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "278",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "REB": "1118",
+        "RPG": "33.9",
+        "OPP REB": "1175",
+        "OPP RPG": "35.6",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "279",
+        "Team": "Marquette",
+        "GM": "34",
+        "REB": "1159",
+        "RPG": "34.1",
+        "OPP REB": "1221",
+        "OPP RPG": "35.9",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "280",
+        "Team": "Lafayette",
+        "GM": "33",
+        "REB": "1102",
+        "RPG": "33.4",
+        "OPP REB": "1166",
+        "OPP RPG": "35.3",
+        "REB MAR": "-1"
+      },
+      {
+        "Rank": "281",
+        "Team": "UCF",
+        "GM": "37",
+        "REB": "1366",
+        "RPG": "36.9",
+        "OPP REB": "1440",
+        "OPP RPG": "38.9",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "282",
+        "Team": "NJIT",
+        "GM": "31",
+        "REB": "1100",
+        "RPG": "35.5",
+        "OPP REB": "1163",
+        "OPP RPG": "37.5",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "283",
+        "Team": "American",
+        "GM": "35",
+        "REB": "1057",
+        "RPG": "30.2",
+        "OPP REB": "1129",
+        "OPP RPG": "32.3",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "284",
+        "Team": "The Citadel",
+        "GM": "30",
+        "REB": "1032",
+        "RPG": "34.4",
+        "OPP REB": "1095",
+        "OPP RPG": "36.5",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "285",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "REB": "1064",
+        "RPG": "33.2",
+        "OPP REB": "1132",
+        "OPP RPG": "35.4",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "286",
+        "Team": "Niagara",
+        "GM": "31",
+        "REB": "953",
+        "RPG": "30.7",
+        "OPP REB": "1020",
+        "OPP RPG": "32.9",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "287",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "REB": "1021",
+        "RPG": "31.9",
+        "OPP REB": "1091",
+        "OPP RPG": "34.1",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "288",
+        "Team": "Army West Point",
+        "GM": "33",
+        "REB": "1155",
+        "RPG": "35.0",
+        "OPP REB": "1228",
+        "OPP RPG": "37.2",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "289",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "REB": "1092",
+        "RPG": "32.1",
+        "OPP REB": "1168",
+        "OPP RPG": "34.4",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "290",
+        "Team": "LSU",
+        "GM": "32",
+        "REB": "1141",
+        "RPG": "35.7",
+        "OPP REB": "1214",
+        "OPP RPG": "37.9",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "REB": "1061",
+        "RPG": "33.2",
+        "OPP REB": "1134",
+        "OPP RPG": "35.4",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "292",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "REB": "977",
+        "RPG": "31.5",
+        "OPP REB": "1049",
+        "OPP RPG": "33.8",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "293",
+        "Team": "Penn",
+        "GM": "27",
+        "REB": "927",
+        "RPG": "34.3",
+        "OPP REB": "994",
+        "OPP RPG": "36.8",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "294",
+        "Team": "Little Rock",
+        "GM": "33",
+        "REB": "1112",
+        "RPG": "33.7",
+        "OPP REB": "1194",
+        "OPP RPG": "36.2",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "295",
+        "Team": "Ohio",
+        "GM": "32",
+        "REB": "1062",
+        "RPG": "33.2",
+        "OPP REB": "1146",
+        "OPP RPG": "35.8",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "296",
+        "Team": "Campbell",
+        "GM": "32",
+        "REB": "1016",
+        "RPG": "31.8",
+        "OPP REB": "1101",
+        "OPP RPG": "34.4",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "297",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "REB": "996",
+        "RPG": "31.1",
+        "OPP REB": "1088",
+        "OPP RPG": "34.0",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "298",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "REB": "1221",
+        "RPG": "34.9",
+        "OPP REB": "1323",
+        "OPP RPG": "37.8",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "299",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "REB": "1098",
+        "RPG": "34.3",
+        "OPP REB": "1192",
+        "OPP RPG": "37.2",
+        "REB MAR": "-2"
+      },
+      {
+        "Rank": "300",
+        "Team": "Portland",
+        "GM": "32",
+        "REB": "1083",
+        "RPG": "33.8",
+        "OPP REB": "1178",
+        "OPP RPG": "36.8",
+        "REB MAR": "-2"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "301",
+        "Team": "San Diego",
+        "GM": "33",
+        "REB": "1132",
+        "RPG": "34.3",
+        "OPP REB": "1232",
+        "OPP RPG": "37.3",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "302",
+        "Team": "Evansville",
+        "GM": "32",
+        "REB": "1054",
+        "RPG": "32.9",
+        "OPP REB": "1153",
+        "OPP RPG": "36.0",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "303",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "REB": "1123",
+        "RPG": "34.0",
+        "OPP REB": "1226",
+        "OPP RPG": "37.2",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "304",
+        "Team": "UC Davis",
+        "GM": "32",
+        "REB": "1057",
+        "RPG": "33.0",
+        "OPP REB": "1159",
+        "OPP RPG": "36.2",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "305",
+        "Team": "Denver",
+        "GM": "32",
+        "REB": "986",
+        "RPG": "30.8",
+        "OPP REB": "1089",
+        "OPP RPG": "34.0",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "306",
+        "Team": "Charlotte",
+        "GM": "33",
+        "REB": "1036",
+        "RPG": "31.4",
+        "OPP REB": "1143",
+        "OPP RPG": "34.6",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "307",
+        "Team": "FDU",
+        "GM": "33",
+        "REB": "1120",
+        "RPG": "33.9",
+        "OPP REB": "1229",
+        "OPP RPG": "37.2",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "308",
+        "Team": "West Virginia",
+        "GM": "32",
+        "REB": "1064",
+        "RPG": "33.2",
+        "OPP REB": "1171",
+        "OPP RPG": "36.6",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "309",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "REB": "1090",
+        "RPG": "33.0",
+        "OPP REB": "1201",
+        "OPP RPG": "36.4",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "310",
+        "Team": "Lehigh",
+        "GM": "30",
+        "REB": "947",
+        "RPG": "31.6",
+        "OPP REB": "1048",
+        "OPP RPG": "34.9",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "311",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "REB": "963",
+        "RPG": "30.1",
+        "OPP REB": "1071",
+        "OPP RPG": "33.5",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "312",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "REB": "1188",
+        "RPG": "37.1",
+        "OPP REB": "1297",
+        "OPP RPG": "40.5",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "313",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "REB": "1303",
+        "RPG": "36.2",
+        "OPP REB": "1426",
+        "OPP RPG": "39.6",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "314",
+        "Team": "UMES",
+        "GM": "31",
+        "REB": "1021",
+        "RPG": "32.9",
+        "OPP REB": "1127",
+        "OPP RPG": "36.4",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "315",
+        "Team": "Fairfield",
+        "GM": "32",
+        "REB": "1054",
+        "RPG": "32.9",
+        "OPP REB": "1164",
+        "OPP RPG": "36.4",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "316",
+        "Team": "Harvard",
+        "GM": "27",
+        "REB": "854",
+        "RPG": "31.6",
+        "OPP REB": "947",
+        "OPP RPG": "35.1",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "317",
+        "Team": "South Fla.",
+        "GM": "32",
+        "REB": "1107",
+        "RPG": "34.6",
+        "OPP REB": "1218",
+        "OPP RPG": "38.1",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "318",
+        "Team": "New Orleans",
+        "GM": "31",
+        "REB": "1104",
+        "RPG": "35.6",
+        "OPP REB": "1212",
+        "OPP RPG": "39.1",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "319",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "REB": "1148",
+        "RPG": "35.9",
+        "OPP REB": "1263",
+        "OPP RPG": "39.5",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "320",
+        "Team": "Virginia",
+        "GM": "32",
+        "REB": "937",
+        "RPG": "29.3",
+        "OPP REB": "1054",
+        "OPP RPG": "32.9",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "321",
+        "Team": "South Dakota",
+        "GM": "33",
+        "REB": "1179",
+        "RPG": "35.7",
+        "OPP REB": "1303",
+        "OPP RPG": "39.5",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "322",
+        "Team": "NC State",
+        "GM": "31",
+        "REB": "992",
+        "RPG": "32.0",
+        "OPP REB": "1111",
+        "OPP RPG": "35.8",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "323",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "REB": "1086",
+        "RPG": "33.9",
+        "OPP REB": "1209",
+        "OPP RPG": "37.8",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "324",
+        "Team": "Monmouth",
+        "GM": "33",
+        "REB": "1124",
+        "RPG": "34.1",
+        "OPP REB": "1252",
+        "OPP RPG": "37.9",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "325",
+        "Team": "Montana St.",
+        "GM": "33",
+        "REB": "1033",
+        "RPG": "31.3",
+        "OPP REB": "1164",
+        "OPP RPG": "35.3",
+        "REB MAR": "-3"
+      },
+      {
+        "Rank": "326",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "REB": "1193",
+        "RPG": "33.1",
+        "OPP REB": "1342",
+        "OPP RPG": "37.3",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "327",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "REB": "1000",
+        "RPG": "31.2",
+        "OPP REB": "1133",
+        "OPP RPG": "35.4",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "328",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "REB": "1068",
+        "RPG": "33.4",
+        "OPP REB": "1202",
+        "OPP RPG": "37.6",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "329",
+        "Team": "Buffalo",
+        "GM": "31",
+        "REB": "1069",
+        "RPG": "34.5",
+        "OPP REB": "1199",
+        "OPP RPG": "38.7",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "330",
+        "Team": "Delaware",
+        "GM": "36",
+        "REB": "1151",
+        "RPG": "32.0",
+        "OPP REB": "1307",
+        "OPP RPG": "36.3",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "331",
+        "Team": "North Florida",
+        "GM": "32",
+        "REB": "1145",
+        "RPG": "35.8",
+        "OPP REB": "1285",
+        "OPP RPG": "40.2",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Air Force",
+        "GM": "32",
+        "REB": "956",
+        "RPG": "29.9",
+        "OPP REB": "1096",
+        "OPP RPG": "34.2",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "333",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "REB": "909",
+        "RPG": "29.3",
+        "OPP REB": "1045",
+        "OPP RPG": "33.7",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "334",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "REB": "1110",
+        "RPG": "34.7",
+        "OPP REB": "1252",
+        "OPP RPG": "39.1",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "335",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "REB": "1085",
+        "RPG": "32.9",
+        "OPP REB": "1233",
+        "OPP RPG": "37.4",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "336",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "REB": "1053",
+        "RPG": "34.0",
+        "OPP REB": "1195",
+        "OPP RPG": "38.5",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "337",
+        "Team": "Richmond",
+        "GM": "32",
+        "REB": "996",
+        "RPG": "31.1",
+        "OPP REB": "1145",
+        "OPP RPG": "35.8",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "338",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "REB": "940",
+        "RPG": "31.3",
+        "OPP REB": "1083",
+        "OPP RPG": "36.1",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "339",
+        "Team": "Iowa",
+        "GM": "33",
+        "REB": "1056",
+        "RPG": "32.0",
+        "OPP REB": "1218",
+        "OPP RPG": "36.9",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "340",
+        "Team": "Stetson",
+        "GM": "32",
+        "REB": "1056",
+        "RPG": "33.0",
+        "OPP REB": "1215",
+        "OPP RPG": "38.0",
+        "REB MAR": "-4"
+      },
+      {
+        "Rank": "341",
+        "Team": "Maine",
+        "GM": "34",
+        "REB": "1030",
+        "RPG": "30.3",
+        "OPP REB": "1206",
+        "OPP RPG": "35.5",
+        "REB MAR": "-5"
+      },
+      {
+        "Rank": "342",
+        "Team": "UTEP",
+        "GM": "33",
+        "REB": "1029",
+        "RPG": "31.2",
+        "OPP REB": "1210",
+        "OPP RPG": "36.7",
+        "REB MAR": "-5"
+      },
+      {
+        "Rank": "343",
+        "Team": "UTSA",
+        "GM": "31",
+        "REB": "1003",
+        "RPG": "32.4",
+        "OPP REB": "1178",
+        "OPP RPG": "38.0",
+        "REB MAR": "-5"
+      },
+      {
+        "Rank": "344",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "REB": "1113",
+        "RPG": "34.8",
+        "OPP REB": "1313",
+        "OPP RPG": "41.0",
+        "REB MAR": "-6"
+      },
+      {
+        "Rank": "345",
+        "Team": "UMBC",
+        "GM": "32",
+        "REB": "1027",
+        "RPG": "32.1",
+        "OPP REB": "1230",
+        "OPP RPG": "38.4",
+        "REB MAR": "-6"
+      },
+      {
+        "Rank": "346",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "REB": "919",
+        "RPG": "30.6",
+        "OPP REB": "1114",
+        "OPP RPG": "37.1",
+        "REB MAR": "-6"
+      },
+      {
+        "Rank": "347",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "REB": "969",
+        "RPG": "30.3",
+        "OPP REB": "1182",
+        "OPP RPG": "36.9",
+        "REB MAR": "-6"
+      },
+      {
+        "Rank": "348",
+        "Team": "Green Bay",
+        "GM": "32",
+        "REB": "958",
+        "RPG": "29.9",
+        "OPP REB": "1185",
+        "OPP RPG": "37.0",
+        "REB MAR": "-7"
+      },
+      {
+        "Rank": "349",
+        "Team": "Louisiana",
+        "GM": "33",
+        "REB": "1013",
+        "RPG": "30.7",
+        "OPP REB": "1269",
+        "OPP RPG": "38.5",
+        "REB MAR": "-7"
+      },
+      {
+        "Rank": "350",
+        "Team": "NIU",
+        "GM": "31",
+        "REB": "1018",
+        "RPG": "32.8",
+        "OPP REB": "1274",
+        "OPP RPG": "41.1",
+        "REB MAR": "-8"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Rebound Margin",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "REB": "868",
+        "RPG": "28.0",
+        "OPP REB": "1145",
+        "OPP RPG": "36.9",
+        "REB MAR": "-8"
+      },
+      {
+        "Rank": "352",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "REB": "981",
+        "RPG": "30.7",
+        "OPP REB": "1295",
+        "OPP RPG": "40.5",
+        "REB MAR": "-9"
+      },
+      {
+        "Rank": "353",
+        "Team": "Canisius",
+        "GM": "31",
+        "REB": "802",
+        "RPG": "25.9",
+        "OPP REB": "1127",
+        "OPP RPG": "36.4",
+        "REB MAR": "-10"
+      },
+      {
+        "Rank": "354",
+        "Team": "Prairie View",
+        "GM": "32",
+        "REB": "894",
+        "RPG": "27.9",
+        "OPP REB": "1246",
+        "OPP RPG": "38.9",
+        "REB MAR": "-11"
+      },
+      {
+        "Rank": "355",
+        "Team": "Merrimack",
+        "GM": "33",
+        "REB": "932",
+        "RPG": "28.2",
+        "OPP REB": "1326",
+        "OPP RPG": "40.2",
+        "REB MAR": "-11"
+      }
+    ]
+  }
+]

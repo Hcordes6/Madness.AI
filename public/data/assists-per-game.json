@@ -1,0 +1,2559 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "AST": "691",
+        "APG": "19.7"
+      },
+      {
+        "Rank": "2",
+        "Team": "Cornell",
+        "GM": "29",
+        "AST": "554",
+        "APG": "19.1"
+      },
+      {
+        "Rank": "3",
+        "Team": "Iowa",
+        "GM": "33",
+        "AST": "605",
+        "APG": "18.3"
+      },
+      {
+        "Rank": "4",
+        "Team": "Akron",
+        "GM": "35",
+        "AST": "621",
+        "APG": "17.7"
+      },
+      {
+        "Rank": "5",
+        "Team": "Kansas",
+        "GM": "34",
+        "AST": "602",
+        "APG": "17.7"
+      },
+      {
+        "Rank": "6",
+        "Team": "Columbia",
+        "GM": "27",
+        "AST": "470",
+        "APG": "17.4"
+      },
+      {
+        "Rank": "7",
+        "Team": "Utah",
+        "GM": "33",
+        "AST": "574",
+        "APG": "17.4"
+      },
+      {
+        "Rank": "8",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "AST": "589",
+        "APG": "17.3"
+      },
+      {
+        "Rank": "9",
+        "Team": "UConn",
+        "GM": "35",
+        "AST": "606",
+        "APG": "17.3"
+      },
+      {
+        "Rank": "10",
+        "Team": "BYU",
+        "GM": "36",
+        "AST": "621",
+        "APG": "17.2"
+      },
+      {
+        "Rank": "11",
+        "Team": "UTRGV",
+        "GM": "31",
+        "AST": "534",
+        "APG": "17.2"
+      },
+      {
+        "Rank": "12",
+        "Team": "Belmont",
+        "GM": "33",
+        "AST": "568",
+        "APG": "17.2"
+      },
+      {
+        "Rank": "13",
+        "Team": "Alabama",
+        "GM": "37",
+        "AST": "636",
+        "APG": "17.2"
+      },
+      {
+        "Rank": "14",
+        "Team": "Utah St.",
+        "GM": "34",
+        "AST": "583",
+        "APG": "17.1"
+      },
+      {
+        "Rank": "15",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "AST": "651",
+        "APG": "17.1"
+      },
+      {
+        "Rank": "16",
+        "Team": "Creighton",
+        "GM": "36",
+        "AST": "615",
+        "APG": "17.1"
+      },
+      {
+        "Rank": "17",
+        "Team": "Duke",
+        "GM": "39",
+        "AST": "662",
+        "APG": "17.0"
+      },
+      {
+        "Rank": "18",
+        "Team": "Furman",
+        "GM": "35",
+        "AST": "593",
+        "APG": "16.9"
+      },
+      {
+        "Rank": "19",
+        "Team": "Washington St.",
+        "GM": "34",
+        "AST": "574",
+        "APG": "16.9"
+      },
+      {
+        "Rank": "20",
+        "Team": "Kentucky",
+        "GM": "36",
+        "AST": "607",
+        "APG": "16.9"
+      },
+      {
+        "Rank": "21",
+        "Team": "Liberty",
+        "GM": "35",
+        "AST": "588",
+        "APG": "16.8"
+      },
+      {
+        "Rank": "22",
+        "Team": "Xavier",
+        "GM": "34",
+        "AST": "568",
+        "APG": "16.7"
+      },
+      {
+        "Rank": "23",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "AST": "547",
+        "APG": "16.6"
+      },
+      {
+        "Rank": "24",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "AST": "613",
+        "APG": "16.6"
+      },
+      {
+        "Rank": "25",
+        "Team": "William & Mary",
+        "GM": "32",
+        "AST": "529",
+        "APG": "16.5"
+      },
+      {
+        "Rank": "26",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "AST": "594",
+        "APG": "16.5"
+      },
+      {
+        "Rank": "27",
+        "Team": "Samford",
+        "GM": "33",
+        "AST": "543",
+        "APG": "16.5"
+      },
+      {
+        "Rank": "28",
+        "Team": "Yale",
+        "GM": "30",
+        "AST": "492",
+        "APG": "16.4"
+      },
+      {
+        "Rank": "29",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "AST": "606",
+        "APG": "16.4"
+      },
+      {
+        "Rank": "30",
+        "Team": "CSUN",
+        "GM": "33",
+        "AST": "539",
+        "APG": "16.3"
+      },
+      {
+        "Rank": "31",
+        "Team": "UCLA",
+        "GM": "34",
+        "AST": "555",
+        "APG": "16.3"
+      },
+      {
+        "Rank": "32",
+        "Team": "North Florida",
+        "GM": "32",
+        "AST": "521",
+        "APG": "16.3"
+      },
+      {
+        "Rank": "33",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "AST": "550",
+        "APG": "16.2"
+      },
+      {
+        "Rank": "34",
+        "Team": "Arizona",
+        "GM": "37",
+        "AST": "598",
+        "APG": "16.2"
+      },
+      {
+        "Rank": "35",
+        "Team": "Auburn",
+        "GM": "38",
+        "AST": "613",
+        "APG": "16.1"
+      },
+      {
+        "Rank": "36",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "AST": "548",
+        "APG": "16.1"
+      },
+      {
+        "Rank": "37",
+        "Team": "UAB",
+        "GM": "37",
+        "AST": "596",
+        "APG": "16.1"
+      },
+      {
+        "Rank": "38",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "AST": "562",
+        "APG": "16.1"
+      },
+      {
+        "Rank": "39",
+        "Team": "Penn St.",
+        "GM": "31",
+        "AST": "496",
+        "APG": "16.0"
+      },
+      {
+        "Rank": "40",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "AST": "591",
+        "APG": "16.0"
+      },
+      {
+        "Rank": "41",
+        "Team": "Purdue",
+        "GM": "36",
+        "AST": "574",
+        "APG": "15.9"
+      },
+      {
+        "Rank": "42",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "AST": "525",
+        "APG": "15.9"
+      },
+      {
+        "Rank": "43",
+        "Team": "Indiana",
+        "GM": "32",
+        "AST": "509",
+        "APG": "15.9"
+      },
+      {
+        "Rank": "44",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "AST": "555",
+        "APG": "15.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "SMU",
+        "GM": "35",
+        "AST": "555",
+        "APG": "15.9"
+      },
+      {
+        "Rank": "46",
+        "Team": "Howard",
+        "GM": "32",
+        "AST": "507",
+        "APG": "15.8"
+      },
+      {
+        "Rank": "47",
+        "Team": "Michigan",
+        "GM": "37",
+        "AST": "586",
+        "APG": "15.8"
+      },
+      {
+        "Rank": "48",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "AST": "552",
+        "APG": "15.8"
+      },
+      {
+        "Rank": "49",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "AST": "520",
+        "APG": "15.8"
+      },
+      {
+        "Rank": "50",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "AST": "441",
+        "APG": "15.8"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "AST": "550",
+        "APG": "15.7"
+      },
+      {
+        "Rank": "52",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "AST": "565",
+        "APG": "15.7"
+      },
+      {
+        "Rank": "53",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "AST": "612",
+        "APG": "15.7"
+      },
+      {
+        "Rank": "54",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "AST": "502",
+        "APG": "15.7"
+      },
+      {
+        "Rank": "55",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "AST": "531",
+        "APG": "15.6"
+      },
+      {
+        "Rank": "56",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "AST": "514",
+        "APG": "15.6"
+      },
+      {
+        "Rank": "57",
+        "Team": "Portland",
+        "GM": "32",
+        "AST": "496",
+        "APG": "15.5"
+      },
+      {
+        "Rank": "58",
+        "Team": "Florida",
+        "GM": "40",
+        "AST": "619",
+        "APG": "15.5"
+      },
+      {
+        "Rank": "59",
+        "Team": "Southern California",
+        "GM": "35",
+        "AST": "541",
+        "APG": "15.5"
+      },
+      {
+        "Rank": "60",
+        "Team": "Tennessee",
+        "GM": "38",
+        "AST": "586",
+        "APG": "15.4"
+      },
+      {
+        "Rank": "61",
+        "Team": "DePaul",
+        "GM": "34",
+        "AST": "524",
+        "APG": "15.4"
+      },
+      {
+        "Rank": "62",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "AST": "492",
+        "APG": "15.4"
+      },
+      {
+        "Rank": "63",
+        "Team": "UNCW",
+        "GM": "35",
+        "AST": "538",
+        "APG": "15.4"
+      },
+      {
+        "Rank": "64",
+        "Team": "UIC",
+        "GM": "31",
+        "AST": "476",
+        "APG": "15.4"
+      },
+      {
+        "Rank": "65",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "AST": "505",
+        "APG": "15.3"
+      },
+      {
+        "Rank": "66",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "AST": "535",
+        "APG": "15.3"
+      },
+      {
+        "Rank": "67",
+        "Team": "Minnesota",
+        "GM": "32",
+        "AST": "488",
+        "APG": "15.2"
+      },
+      {
+        "Rank": "68",
+        "Team": "Dayton",
+        "GM": "34",
+        "AST": "518",
+        "APG": "15.2"
+      },
+      {
+        "Rank": "69",
+        "Team": "Wright St.",
+        "GM": "33",
+        "AST": "502",
+        "APG": "15.2"
+      },
+      {
+        "Rank": "70",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "AST": "517",
+        "APG": "15.2"
+      },
+      {
+        "Rank": "71",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "AST": "486",
+        "APG": "15.2"
+      },
+      {
+        "Rank": "72",
+        "Team": "Princeton",
+        "GM": "30",
+        "AST": "455",
+        "APG": "15.2"
+      },
+      {
+        "Rank": "73",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "AST": "485",
+        "APG": "15.2"
+      },
+      {
+        "Rank": "74",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "AST": "530",
+        "APG": "15.1"
+      },
+      {
+        "Rank": "75",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "AST": "529",
+        "APG": "15.1"
+      },
+      {
+        "Rank": "76",
+        "Team": "Nevada",
+        "GM": "33",
+        "AST": "497",
+        "APG": "15.1"
+      },
+      {
+        "Rank": "77",
+        "Team": "Lamar University",
+        "GM": "33",
+        "AST": "495",
+        "APG": "15.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "AST": "480",
+        "APG": "15.0"
+      },
+      {
+        "Rank": "79",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "AST": "524",
+        "APG": "15.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "VCU",
+        "GM": "35",
+        "AST": "524",
+        "APG": "15.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wofford",
+        "GM": "35",
+        "AST": "524",
+        "APG": "15.0"
+      },
+      {
+        "Rank": "82",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "AST": "509",
+        "APG": "15.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "AST": "509",
+        "APG": "15.0"
+      },
+      {
+        "Rank": "84",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "AST": "508",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "85",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "AST": "537",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "86",
+        "Team": "Bryant",
+        "GM": "35",
+        "AST": "522",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "87",
+        "Team": "Manhattan",
+        "GM": "31",
+        "AST": "462",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "88",
+        "Team": "New Mexico",
+        "GM": "35",
+        "AST": "521",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "89",
+        "Team": "Davidson",
+        "GM": "33",
+        "AST": "491",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "90",
+        "Team": "Illinois",
+        "GM": "35",
+        "AST": "520",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "91",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "AST": "505",
+        "APG": "14.9"
+      },
+      {
+        "Rank": "92",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "AST": "504",
+        "APG": "14.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Maine",
+        "GM": "34",
+        "AST": "504",
+        "APG": "14.8"
+      },
+      {
+        "Rank": "94",
+        "Team": "North Carolina",
+        "GM": "37",
+        "AST": "547",
+        "APG": "14.8"
+      },
+      {
+        "Rank": "95",
+        "Team": "Brown",
+        "GM": "27",
+        "AST": "398",
+        "APG": "14.7"
+      },
+      {
+        "Rank": "96",
+        "Team": "Lafayette",
+        "GM": "33",
+        "AST": "486",
+        "APG": "14.7"
+      },
+      {
+        "Rank": "97",
+        "Team": "Tulane",
+        "GM": "34",
+        "AST": "500",
+        "APG": "14.7"
+      },
+      {
+        "Rank": "98",
+        "Team": "Virginia",
+        "GM": "32",
+        "AST": "470",
+        "APG": "14.7"
+      },
+      {
+        "Rank": "99",
+        "Team": "UMBC",
+        "GM": "32",
+        "AST": "469",
+        "APG": "14.7"
+      },
+      {
+        "Rank": "100",
+        "Team": "Portland St.",
+        "GM": "32",
+        "AST": "468",
+        "APG": "14.6"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "Marshall",
+        "GM": "33",
+        "AST": "482",
+        "APG": "14.6"
+      },
+      {
+        "Rank": "102",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "AST": "452",
+        "APG": "14.6"
+      },
+      {
+        "Rank": "103",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "AST": "510",
+        "APG": "14.6"
+      },
+      {
+        "Rank": "104",
+        "Team": "Northwestern",
+        "GM": "33",
+        "AST": "480",
+        "APG": "14.5"
+      },
+      {
+        "Rank": "105",
+        "Team": "Texas St.",
+        "GM": "32",
+        "AST": "465",
+        "APG": "14.5"
+      },
+      {
+        "Rank": "106",
+        "Team": "Boise St.",
+        "GM": "37",
+        "AST": "537",
+        "APG": "14.5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "AST": "537",
+        "APG": "14.5"
+      },
+      {
+        "Rank": "108",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "AST": "478",
+        "APG": "14.5"
+      },
+      {
+        "Rank": "109",
+        "Team": "Iona",
+        "GM": "34",
+        "AST": "492",
+        "APG": "14.5"
+      },
+      {
+        "Rank": "110",
+        "Team": "Bradley",
+        "GM": "37",
+        "AST": "534",
+        "APG": "14.4"
+      },
+      {
+        "Rank": "111",
+        "Team": "Memphis",
+        "GM": "35",
+        "AST": "505",
+        "APG": "14.4"
+      },
+      {
+        "Rank": "112",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "AST": "476",
+        "APG": "14.4"
+      },
+      {
+        "Rank": "113",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "AST": "519",
+        "APG": "14.4"
+      },
+      {
+        "Rank": "114",
+        "Team": "South Alabama",
+        "GM": "32",
+        "AST": "461",
+        "APG": "14.4"
+      },
+      {
+        "Rank": "115",
+        "Team": "Baylor",
+        "GM": "35",
+        "AST": "504",
+        "APG": "14.4"
+      },
+      {
+        "Rank": "116",
+        "Team": "South Fla.",
+        "GM": "32",
+        "AST": "460",
+        "APG": "14.4"
+      },
+      {
+        "Rank": "117",
+        "Team": "Oregon",
+        "GM": "35",
+        "AST": "501",
+        "APG": "14.3"
+      },
+      {
+        "Rank": "118",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "AST": "457",
+        "APG": "14.3"
+      },
+      {
+        "Rank": "119",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "AST": "513",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "AST": "456",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "121",
+        "Team": "Clemson",
+        "GM": "34",
+        "AST": "484",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "AST": "484",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "123",
+        "Team": "Colorado",
+        "GM": "35",
+        "AST": "496",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Nebraska",
+        "GM": "35",
+        "AST": "496",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "125",
+        "Team": "Arkansas",
+        "GM": "36",
+        "AST": "510",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Delaware",
+        "GM": "36",
+        "AST": "510",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Maryland",
+        "GM": "36",
+        "AST": "510",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "AST": "510",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "129",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "AST": "439",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "130",
+        "Team": "Colgate",
+        "GM": "33",
+        "AST": "467",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "AST": "467",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "AST": "467",
+        "APG": "14.2"
+      },
+      {
+        "Rank": "133",
+        "Team": "Army West Point",
+        "GM": "33",
+        "AST": "466",
+        "APG": "14.1"
+      },
+      {
+        "Rank": "134",
+        "Team": "Georgetown",
+        "GM": "34",
+        "AST": "480",
+        "APG": "14.1"
+      },
+      {
+        "Rank": "135",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "AST": "451",
+        "APG": "14.1"
+      },
+      {
+        "Rank": "136",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "AST": "436",
+        "APG": "14.1"
+      },
+      {
+        "Rank": "137",
+        "Team": "Ohio",
+        "GM": "32",
+        "AST": "450",
+        "APG": "14.1"
+      },
+      {
+        "Rank": "138",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "AST": "449",
+        "APG": "14.0"
+      },
+      {
+        "Rank": "139",
+        "Team": "FGCU",
+        "GM": "34",
+        "AST": "476",
+        "APG": "14.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Marist",
+        "GM": "30",
+        "AST": "420",
+        "APG": "14.0"
+      },
+      {
+        "Rank": "141",
+        "Team": "McNeese",
+        "GM": "35",
+        "AST": "489",
+        "APG": "14.0"
+      },
+      {
+        "Rank": "142",
+        "Team": "Green Bay",
+        "GM": "32",
+        "AST": "447",
+        "APG": "14.0"
+      },
+      {
+        "Rank": "143",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "AST": "419",
+        "APG": "14.0"
+      },
+      {
+        "Rank": "144",
+        "Team": "UCF",
+        "GM": "37",
+        "AST": "516",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "145",
+        "Team": "Butler",
+        "GM": "35",
+        "AST": "487",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "146",
+        "Team": "Troy",
+        "GM": "34",
+        "AST": "473",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "147",
+        "Team": "UNI",
+        "GM": "33",
+        "AST": "459",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "AST": "459",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "149",
+        "Team": "Louisville",
+        "GM": "35",
+        "AST": "486",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "San Francisco",
+        "GM": "35",
+        "AST": "486",
+        "APG": "13.9"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "George Washington",
+        "GM": "34",
+        "AST": "472",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "152",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "AST": "430",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "153",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "AST": "485",
+        "APG": "13.9"
+      },
+      {
+        "Rank": "154",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "AST": "484",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "155",
+        "Team": "Duquesne",
+        "GM": "32",
+        "AST": "442",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "West Virginia",
+        "GM": "32",
+        "AST": "442",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "157",
+        "Team": "Stanford",
+        "GM": "35",
+        "AST": "483",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "158",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "AST": "469",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "AST": "469",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "160",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "AST": "455",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "AST": "455",
+        "APG": "13.8"
+      },
+      {
+        "Rank": "162",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "AST": "426",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "163",
+        "Team": "Penn",
+        "GM": "27",
+        "AST": "371",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "164",
+        "Team": "Marquette",
+        "GM": "34",
+        "AST": "467",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "-",
+        "Team": "Missouri",
+        "GM": "34",
+        "AST": "467",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "166",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "AST": "453",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "167",
+        "Team": "Fordham",
+        "GM": "33",
+        "AST": "452",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "168",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "AST": "438",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "169",
+        "Team": "Harvard",
+        "GM": "27",
+        "AST": "369",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "170",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "AST": "437",
+        "APG": "13.7"
+      },
+      {
+        "Rank": "171",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "AST": "450",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Tulsa",
+        "GM": "33",
+        "AST": "450",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "173",
+        "Team": "IU Indy",
+        "GM": "32",
+        "AST": "436",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "174",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "AST": "490",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "175",
+        "Team": "FDU",
+        "GM": "33",
+        "AST": "449",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "176",
+        "Team": "SIUE",
+        "GM": "34",
+        "AST": "462",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "177",
+        "Team": "Bucknell",
+        "GM": "33",
+        "AST": "448",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "AST": "448",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Syracuse",
+        "GM": "33",
+        "AST": "448",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "180",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "AST": "434",
+        "APG": "13.6"
+      },
+      {
+        "Rank": "181",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "AST": "420",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "182",
+        "Team": "Hofstra",
+        "GM": "33",
+        "AST": "447",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Little Rock",
+        "GM": "33",
+        "AST": "447",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "-",
+        "Team": "UT Martin",
+        "GM": "33",
+        "AST": "447",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "185",
+        "Team": "Drake",
+        "GM": "35",
+        "AST": "474",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Montana",
+        "GM": "35",
+        "AST": "474",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "187",
+        "Team": "Buffalo",
+        "GM": "31",
+        "AST": "419",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "188",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "AST": "432",
+        "APG": "13.5"
+      },
+      {
+        "Rank": "189",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "AST": "457",
+        "APG": "13.4"
+      },
+      {
+        "Rank": "190",
+        "Team": "Campbell",
+        "GM": "32",
+        "AST": "430",
+        "APG": "13.4"
+      },
+      {
+        "Rank": "191",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "AST": "429",
+        "APG": "13.4"
+      },
+      {
+        "Rank": "192",
+        "Team": "Air Force",
+        "GM": "32",
+        "AST": "428",
+        "APG": "13.4"
+      },
+      {
+        "Rank": "193",
+        "Team": "Lehigh",
+        "GM": "30",
+        "AST": "401",
+        "APG": "13.4"
+      },
+      {
+        "Rank": "194",
+        "Team": "Longwood",
+        "GM": "32",
+        "AST": "427",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "195",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "AST": "440",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "196",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "AST": "426",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "197",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "AST": "439",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "198",
+        "Team": "Navy",
+        "GM": "34",
+        "AST": "452",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "199",
+        "Team": "Omaha",
+        "GM": "35",
+        "AST": "465",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "200",
+        "Team": "East Carolina",
+        "GM": "33",
+        "AST": "438",
+        "APG": "13.3"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "-",
+        "Team": "Toledo",
+        "GM": "33",
+        "AST": "438",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "202",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "AST": "398",
+        "APG": "13.3"
+      },
+      {
+        "Rank": "203",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "AST": "423",
+        "APG": "13.2"
+      },
+      {
+        "Rank": "204",
+        "Team": "Mercer",
+        "GM": "33",
+        "AST": "436",
+        "APG": "13.2"
+      },
+      {
+        "Rank": "205",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "AST": "449",
+        "APG": "13.2"
+      },
+      {
+        "Rank": "206",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "AST": "422",
+        "APG": "13.2"
+      },
+      {
+        "Rank": "207",
+        "Team": "Montana St.",
+        "GM": "33",
+        "AST": "435",
+        "APG": "13.2"
+      },
+      {
+        "Rank": "208",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "AST": "421",
+        "APG": "13.2"
+      },
+      {
+        "Rank": "209",
+        "Team": "UTEP",
+        "GM": "33",
+        "AST": "434",
+        "APG": "13.2"
+      },
+      {
+        "Rank": "210",
+        "Team": "Ball St.",
+        "GM": "31",
+        "AST": "407",
+        "APG": "13.1"
+      },
+      {
+        "Rank": "211",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "AST": "418",
+        "APG": "13.1"
+      },
+      {
+        "Rank": "212",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "AST": "404",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "213",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "AST": "417",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Florida St.",
+        "GM": "32",
+        "AST": "417",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "215",
+        "Team": "Drexel",
+        "GM": "33",
+        "AST": "430",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "216",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "AST": "429",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "AST": "416",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "218",
+        "Team": "High Point",
+        "GM": "35",
+        "AST": "454",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "219",
+        "Team": "Binghamton",
+        "GM": "32",
+        "AST": "415",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "ETSU",
+        "GM": "32",
+        "AST": "415",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Northeastern",
+        "GM": "32",
+        "AST": "415",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southern U.",
+        "GM": "32",
+        "AST": "415",
+        "APG": "13.0"
+      },
+      {
+        "Rank": "223",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "AST": "414",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "224",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "AST": "452",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Texas",
+        "GM": "35",
+        "AST": "452",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "226",
+        "Team": "Oakland",
+        "GM": "34",
+        "AST": "439",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Winthrop",
+        "GM": "34",
+        "AST": "439",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "228",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "AST": "413",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Providence",
+        "GM": "32",
+        "AST": "413",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Rutgers",
+        "GM": "32",
+        "AST": "413",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "ULM",
+        "GM": "32",
+        "AST": "413",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "232",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "AST": "412",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "233",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "AST": "399",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Washington",
+        "GM": "31",
+        "AST": "399",
+        "APG": "12.9"
+      },
+      {
+        "Rank": "235",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "AST": "424",
+        "APG": "12.8"
+      },
+      {
+        "Rank": "236",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "AST": "423",
+        "APG": "12.8"
+      },
+      {
+        "Rank": "237",
+        "Team": "LSU",
+        "GM": "32",
+        "AST": "409",
+        "APG": "12.8"
+      },
+      {
+        "Rank": "238",
+        "Team": "Pacific",
+        "GM": "33",
+        "AST": "421",
+        "APG": "12.8"
+      },
+      {
+        "Rank": "239",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "AST": "407",
+        "APG": "12.7"
+      },
+      {
+        "Rank": "240",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "AST": "445",
+        "APG": "12.7"
+      },
+      {
+        "Rank": "241",
+        "Team": "NC State",
+        "GM": "31",
+        "AST": "394",
+        "APG": "12.7"
+      },
+      {
+        "Rank": "242",
+        "Team": "UTSA",
+        "GM": "31",
+        "AST": "393",
+        "APG": "12.7"
+      },
+      {
+        "Rank": "243",
+        "Team": "George Mason",
+        "GM": "36",
+        "AST": "456",
+        "APG": "12.7"
+      },
+      {
+        "Rank": "-",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "AST": "418",
+        "APG": "12.7"
+      },
+      {
+        "Rank": "245",
+        "Team": "South Carolina",
+        "GM": "32",
+        "AST": "405",
+        "APG": "12.7"
+      },
+      {
+        "Rank": "246",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "AST": "392",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "247",
+        "Team": "Fairfield",
+        "GM": "32",
+        "AST": "404",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "AST": "404",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "249",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "AST": "416",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Rider",
+        "GM": "33",
+        "AST": "416",
+        "APG": "12.6"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "American",
+        "GM": "35",
+        "AST": "441",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wagner",
+        "GM": "30",
+        "AST": "378",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "253",
+        "Team": "Evansville",
+        "GM": "32",
+        "AST": "403",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "254",
+        "Team": "Niagara",
+        "GM": "31",
+        "AST": "390",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "255",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "AST": "427",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "-",
+        "Team": "VMI",
+        "GM": "34",
+        "AST": "427",
+        "APG": "12.6"
+      },
+      {
+        "Rank": "257",
+        "Team": "App State",
+        "GM": "31",
+        "AST": "389",
+        "APG": "12.5"
+      },
+      {
+        "Rank": "258",
+        "Team": "UAlbany",
+        "GM": "33",
+        "AST": "414",
+        "APG": "12.5"
+      },
+      {
+        "Rank": "259",
+        "Team": "NIU",
+        "GM": "31",
+        "AST": "388",
+        "APG": "12.5"
+      },
+      {
+        "Rank": "-",
+        "Team": "SFA",
+        "GM": "31",
+        "AST": "388",
+        "APG": "12.5"
+      },
+      {
+        "Rank": "261",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "AST": "400",
+        "APG": "12.5"
+      },
+      {
+        "Rank": "262",
+        "Team": "Georgia",
+        "GM": "33",
+        "AST": "411",
+        "APG": "12.5"
+      },
+      {
+        "Rank": "263",
+        "Team": "Villanova",
+        "GM": "36",
+        "AST": "448",
+        "APG": "12.4"
+      },
+      {
+        "Rank": "264",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "AST": "398",
+        "APG": "12.4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "AST": "398",
+        "APG": "12.4"
+      },
+      {
+        "Rank": "266",
+        "Team": "Kent St.",
+        "GM": "36",
+        "AST": "446",
+        "APG": "12.4"
+      },
+      {
+        "Rank": "267",
+        "Team": "UIW",
+        "GM": "36",
+        "AST": "444",
+        "APG": "12.3"
+      },
+      {
+        "Rank": "-",
+        "Team": "Kansas City",
+        "GM": "33",
+        "AST": "407",
+        "APG": "12.3"
+      },
+      {
+        "Rank": "269",
+        "Team": "Charlotte",
+        "GM": "33",
+        "AST": "405",
+        "APG": "12.3"
+      },
+      {
+        "Rank": "-",
+        "Team": "Idaho",
+        "GM": "33",
+        "AST": "405",
+        "APG": "12.3"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Dakota",
+        "GM": "33",
+        "AST": "405",
+        "APG": "12.3"
+      },
+      {
+        "Rank": "272",
+        "Team": "The Citadel",
+        "GM": "30",
+        "AST": "368",
+        "APG": "12.3"
+      },
+      {
+        "Rank": "273",
+        "Team": "New Orleans",
+        "GM": "31",
+        "AST": "380",
+        "APG": "12.3"
+      },
+      {
+        "Rank": "274",
+        "Team": "Elon",
+        "GM": "33",
+        "AST": "404",
+        "APG": "12.2"
+      },
+      {
+        "Rank": "275",
+        "Team": "FIU",
+        "GM": "33",
+        "AST": "403",
+        "APG": "12.2"
+      },
+      {
+        "Rank": "276",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "AST": "415",
+        "APG": "12.2"
+      },
+      {
+        "Rank": "277",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "AST": "390",
+        "APG": "12.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Prairie View",
+        "GM": "32",
+        "AST": "390",
+        "APG": "12.2"
+      },
+      {
+        "Rank": "279",
+        "Team": "TCU",
+        "GM": "32",
+        "AST": "389",
+        "APG": "12.2"
+      },
+      {
+        "Rank": "280",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "AST": "401",
+        "APG": "12.2"
+      },
+      {
+        "Rank": "281",
+        "Team": "Houston",
+        "GM": "40",
+        "AST": "483",
+        "APG": "12.1"
+      },
+      {
+        "Rank": "282",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "AST": "362",
+        "APG": "12.1"
+      },
+      {
+        "Rank": "283",
+        "Team": "Seattle U",
+        "GM": "32",
+        "AST": "386",
+        "APG": "12.1"
+      },
+      {
+        "Rank": "284",
+        "Team": "UNLV",
+        "GM": "33",
+        "AST": "398",
+        "APG": "12.1"
+      },
+      {
+        "Rank": "-",
+        "Team": "Vermont",
+        "GM": "33",
+        "AST": "398",
+        "APG": "12.1"
+      },
+      {
+        "Rank": "286",
+        "Team": "North Ala.",
+        "GM": "35",
+        "AST": "422",
+        "APG": "12.1"
+      },
+      {
+        "Rank": "287",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "AST": "409",
+        "APG": "12.0"
+      },
+      {
+        "Rank": "288",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "AST": "371",
+        "APG": "12.0"
+      },
+      {
+        "Rank": "289",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "AST": "406",
+        "APG": "11.9"
+      },
+      {
+        "Rank": "290",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "AST": "382",
+        "APG": "11.9"
+      },
+      {
+        "Rank": "291",
+        "Team": "Boston U.",
+        "GM": "32",
+        "AST": "381",
+        "APG": "11.9"
+      },
+      {
+        "Rank": "292",
+        "Team": "Murray St.",
+        "GM": "33",
+        "AST": "392",
+        "APG": "11.9"
+      },
+      {
+        "Rank": "293",
+        "Team": "Hawaii",
+        "GM": "31",
+        "AST": "368",
+        "APG": "11.9"
+      },
+      {
+        "Rank": "294",
+        "Team": "Hampton",
+        "GM": "33",
+        "AST": "391",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Merrimack",
+        "GM": "33",
+        "AST": "391",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "296",
+        "Team": "Rice",
+        "GM": "32",
+        "AST": "379",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "297",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "AST": "402",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "298",
+        "Team": "Siena",
+        "GM": "32",
+        "AST": "378",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "AST": "378",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "300",
+        "Team": "Monmouth",
+        "GM": "33",
+        "AST": "389",
+        "APG": "11.8"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "301",
+        "Team": "LIU",
+        "GM": "33",
+        "AST": "388",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "La Salle",
+        "GM": "33",
+        "AST": "388",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "303",
+        "Team": "Stetson",
+        "GM": "32",
+        "AST": "376",
+        "APG": "11.8"
+      },
+      {
+        "Rank": "304",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "AST": "422",
+        "APG": "11.7"
+      },
+      {
+        "Rank": "305",
+        "Team": "California Baptist",
+        "GM": "32",
+        "AST": "373",
+        "APG": "11.7"
+      },
+      {
+        "Rank": "-",
+        "Team": "James Madison",
+        "GM": "32",
+        "AST": "373",
+        "APG": "11.7"
+      },
+      {
+        "Rank": "-",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "AST": "373",
+        "APG": "11.7"
+      },
+      {
+        "Rank": "-",
+        "Team": "Richmond",
+        "GM": "32",
+        "AST": "373",
+        "APG": "11.7"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wyoming",
+        "GM": "32",
+        "AST": "373",
+        "APG": "11.7"
+      },
+      {
+        "Rank": "310",
+        "Team": "UMES",
+        "GM": "31",
+        "AST": "361",
+        "APG": "11.6"
+      },
+      {
+        "Rank": "311",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "AST": "418",
+        "APG": "11.6"
+      },
+      {
+        "Rank": "312",
+        "Team": "South Dakota",
+        "GM": "33",
+        "AST": "382",
+        "APG": "11.6"
+      },
+      {
+        "Rank": "313",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "AST": "368",
+        "APG": "11.5"
+      },
+      {
+        "Rank": "314",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "AST": "367",
+        "APG": "11.5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "AST": "367",
+        "APG": "11.5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Denver",
+        "GM": "32",
+        "AST": "367",
+        "APG": "11.5"
+      },
+      {
+        "Rank": "317",
+        "Team": "Boston College",
+        "GM": "31",
+        "AST": "355",
+        "APG": "11.5"
+      },
+      {
+        "Rank": "318",
+        "Team": "Weber St.",
+        "GM": "34",
+        "AST": "389",
+        "APG": "11.4"
+      },
+      {
+        "Rank": "319",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "AST": "376",
+        "APG": "11.4"
+      },
+      {
+        "Rank": "-",
+        "Team": "San Diego",
+        "GM": "33",
+        "AST": "376",
+        "APG": "11.4"
+      },
+      {
+        "Rank": "321",
+        "Team": "Grambling",
+        "GM": "34",
+        "AST": "387",
+        "APG": "11.4"
+      },
+      {
+        "Rank": "322",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "AST": "364",
+        "APG": "11.4"
+      },
+      {
+        "Rank": "323",
+        "Team": "Radford",
+        "GM": "33",
+        "AST": "374",
+        "APG": "11.3"
+      },
+      {
+        "Rank": "324",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "AST": "362",
+        "APG": "11.3"
+      },
+      {
+        "Rank": "325",
+        "Team": "Nicholls",
+        "GM": "33",
+        "AST": "373",
+        "APG": "11.3"
+      },
+      {
+        "Rank": "326",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "AST": "350",
+        "APG": "11.3"
+      },
+      {
+        "Rank": "327",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "AST": "361",
+        "APG": "11.3"
+      },
+      {
+        "Rank": "328",
+        "Team": "Canisius",
+        "GM": "31",
+        "AST": "348",
+        "APG": "11.2"
+      },
+      {
+        "Rank": "329",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "AST": "359",
+        "APG": "11.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "AST": "359",
+        "APG": "11.2"
+      },
+      {
+        "Rank": "-",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "AST": "359",
+        "APG": "11.2"
+      },
+      {
+        "Rank": "332",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "AST": "336",
+        "APG": "11.2"
+      },
+      {
+        "Rank": "333",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "AST": "358",
+        "APG": "11.2"
+      },
+      {
+        "Rank": "334",
+        "Team": "UC Davis",
+        "GM": "32",
+        "AST": "354",
+        "APG": "11.1"
+      },
+      {
+        "Rank": "335",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "AST": "373",
+        "APG": "11.0"
+      },
+      {
+        "Rank": "336",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "AST": "348",
+        "APG": "10.9"
+      },
+      {
+        "Rank": "337",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "AST": "347",
+        "APG": "10.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Temple",
+        "GM": "32",
+        "AST": "347",
+        "APG": "10.8"
+      },
+      {
+        "Rank": "339",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "AST": "344",
+        "APG": "10.8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "AST": "344",
+        "APG": "10.8"
+      },
+      {
+        "Rank": "341",
+        "Team": "Towson",
+        "GM": "33",
+        "AST": "351",
+        "APG": "10.6"
+      },
+      {
+        "Rank": "342",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "AST": "338",
+        "APG": "10.6"
+      },
+      {
+        "Rank": "343",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "AST": "369",
+        "APG": "10.5"
+      },
+      {
+        "Rank": "344",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "AST": "325",
+        "APG": "10.5"
+      },
+      {
+        "Rank": "345",
+        "Team": "California",
+        "GM": "33",
+        "AST": "345",
+        "APG": "10.5"
+      },
+      {
+        "Rank": "346",
+        "Team": "North Texas",
+        "GM": "36",
+        "AST": "375",
+        "APG": "10.4"
+      },
+      {
+        "Rank": "347",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "AST": "289",
+        "APG": "10.3"
+      },
+      {
+        "Rank": "348",
+        "Team": "Louisiana",
+        "GM": "33",
+        "AST": "340",
+        "APG": "10.3"
+      },
+      {
+        "Rank": "349",
+        "Team": "Alcorn",
+        "GM": "32",
+        "AST": "329",
+        "APG": "10.3"
+      },
+      {
+        "Rank": "350",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "AST": "317",
+        "APG": "10.2"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Assists Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "AST": "306",
+        "APG": "10.2"
+      },
+      {
+        "Rank": "352",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "AST": "334",
+        "APG": "10.1"
+      },
+      {
+        "Rank": "353",
+        "Team": "NJIT",
+        "GM": "31",
+        "AST": "312",
+        "APG": "10.1"
+      },
+      {
+        "Rank": "354",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "AST": "288",
+        "APG": "9.0"
+      },
+      {
+        "Rank": "355",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "AST": "258",
+        "APG": "8.3"
+      }
+    ]
+  }
+]
