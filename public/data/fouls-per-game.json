@@ -1,0 +1,2914 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Creighton",
+        "GM": "36",
+        "Fouls": "400",
+        "PFPG": "11.1",
+        "DQ": "4"
+      },
+      {
+        "Rank": "2",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "Fouls": "360",
+        "PFPG": "11.2",
+        "DQ": "0"
+      },
+      {
+        "Rank": "3",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "Fouls": "437",
+        "PFPG": "12.5",
+        "DQ": "1"
+      },
+      {
+        "Rank": "4",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "Fouls": "424",
+        "PFPG": "13.2",
+        "DQ": "4"
+      },
+      {
+        "Rank": "5",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "Fouls": "427",
+        "PFPG": "13.3",
+        "DQ": "8"
+      },
+      {
+        "Rank": "6",
+        "Team": "App State",
+        "GM": "31",
+        "Fouls": "414",
+        "PFPG": "13.4",
+        "DQ": "5"
+      },
+      {
+        "Rank": "7",
+        "Team": "Liberty",
+        "GM": "35",
+        "Fouls": "469",
+        "PFPG": "13.4",
+        "DQ": "5"
+      },
+      {
+        "Rank": "8",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "Fouls": "456",
+        "PFPG": "13.4",
+        "DQ": "4"
+      },
+      {
+        "Rank": "9",
+        "Team": "South Alabama",
+        "GM": "32",
+        "Fouls": "430",
+        "PFPG": "13.4",
+        "DQ": "3"
+      },
+      {
+        "Rank": "10",
+        "Team": "Elon",
+        "GM": "33",
+        "Fouls": "447",
+        "PFPG": "13.5",
+        "DQ": "2"
+      },
+      {
+        "Rank": "11",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "Fouls": "448",
+        "PFPG": "13.6",
+        "DQ": "5"
+      },
+      {
+        "Rank": "12",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "Fouls": "435",
+        "PFPG": "13.6",
+        "DQ": "1"
+      },
+      {
+        "Rank": "13",
+        "Team": "Butler",
+        "GM": "35",
+        "Fouls": "477",
+        "PFPG": "13.6",
+        "DQ": "3"
+      },
+      {
+        "Rank": "14",
+        "Team": "Vermont",
+        "GM": "33",
+        "Fouls": "452",
+        "PFPG": "13.7",
+        "DQ": "4"
+      },
+      {
+        "Rank": "15",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "Fouls": "494",
+        "PFPG": "13.7",
+        "DQ": "6"
+      },
+      {
+        "Rank": "16",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "Fouls": "441",
+        "PFPG": "13.8",
+        "DQ": "5"
+      },
+      {
+        "Rank": "17",
+        "Team": "ULM",
+        "GM": "32",
+        "Fouls": "448",
+        "PFPG": "14.0",
+        "DQ": "7"
+      },
+      {
+        "Rank": "18",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "Fouls": "496",
+        "PFPG": "14.2",
+        "DQ": "7"
+      },
+      {
+        "Rank": "19",
+        "Team": "Harvard",
+        "GM": "27",
+        "Fouls": "383",
+        "PFPG": "14.2",
+        "DQ": "1"
+      },
+      {
+        "Rank": "20",
+        "Team": "Manhattan",
+        "GM": "31",
+        "Fouls": "440",
+        "PFPG": "14.2",
+        "DQ": "7"
+      },
+      {
+        "Rank": "21",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "Fouls": "443",
+        "PFPG": "14.3",
+        "DQ": "3"
+      },
+      {
+        "Rank": "22",
+        "Team": "Kansas",
+        "GM": "34",
+        "Fouls": "486",
+        "PFPG": "14.3",
+        "DQ": "8"
+      },
+      {
+        "Rank": "23",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "Fouls": "445",
+        "PFPG": "14.4",
+        "DQ": "5"
+      },
+      {
+        "Rank": "24",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "Fouls": "503",
+        "PFPG": "14.4",
+        "DQ": "6"
+      },
+      {
+        "Rank": "25",
+        "Team": "Rider",
+        "GM": "33",
+        "Fouls": "476",
+        "PFPG": "14.4",
+        "DQ": "9"
+      },
+      {
+        "Rank": "26",
+        "Team": "UNI",
+        "GM": "33",
+        "Fouls": "484",
+        "PFPG": "14.7",
+        "DQ": "5"
+      },
+      {
+        "Rank": "27",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "Fouls": "499",
+        "PFPG": "14.7",
+        "DQ": "10"
+      },
+      {
+        "Rank": "28",
+        "Team": "Stetson",
+        "GM": "32",
+        "Fouls": "470",
+        "PFPG": "14.7",
+        "DQ": "2"
+      },
+      {
+        "Rank": "29",
+        "Team": "Drexel",
+        "GM": "33",
+        "Fouls": "486",
+        "PFPG": "14.7",
+        "DQ": "6"
+      },
+      {
+        "Rank": "30",
+        "Team": "Davidson",
+        "GM": "33",
+        "Fouls": "488",
+        "PFPG": "14.8",
+        "DQ": "4"
+      },
+      {
+        "Rank": "31",
+        "Team": "North Ala.",
+        "GM": "35",
+        "Fouls": "520",
+        "PFPG": "14.9",
+        "DQ": "8"
+      },
+      {
+        "Rank": "32",
+        "Team": "FGCU",
+        "GM": "34",
+        "Fouls": "506",
+        "PFPG": "14.9",
+        "DQ": "8"
+      },
+      {
+        "Rank": "33",
+        "Team": "North Texas",
+        "GM": "36",
+        "Fouls": "536",
+        "PFPG": "14.9",
+        "DQ": "11"
+      },
+      {
+        "Rank": "34",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "Fouls": "417",
+        "PFPG": "14.9",
+        "DQ": "4"
+      },
+      {
+        "Rank": "35",
+        "Team": "Colgate",
+        "GM": "33",
+        "Fouls": "492",
+        "PFPG": "14.9",
+        "DQ": "5"
+      },
+      {
+        "Rank": "36",
+        "Team": "Furman",
+        "GM": "35",
+        "Fouls": "522",
+        "PFPG": "14.9",
+        "DQ": "8"
+      },
+      {
+        "Rank": "37",
+        "Team": "Marist",
+        "GM": "30",
+        "Fouls": "448",
+        "PFPG": "14.9",
+        "DQ": "4"
+      },
+      {
+        "Rank": "38",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "Fouls": "478",
+        "PFPG": "14.9",
+        "DQ": "7"
+      },
+      {
+        "Rank": "39",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "Fouls": "523",
+        "PFPG": "14.9",
+        "DQ": "9"
+      },
+      {
+        "Rank": "40",
+        "Team": "New Orleans",
+        "GM": "31",
+        "Fouls": "465",
+        "PFPG": "15.0",
+        "DQ": "9"
+      },
+      {
+        "Rank": "41",
+        "Team": "George Washington",
+        "GM": "34",
+        "Fouls": "511",
+        "PFPG": "15.0",
+        "DQ": "4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Maine",
+        "GM": "34",
+        "Fouls": "511",
+        "PFPG": "15.0",
+        "DQ": "4"
+      },
+      {
+        "Rank": "43",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "Fouls": "482",
+        "PFPG": "15.1",
+        "DQ": "9"
+      },
+      {
+        "Rank": "44",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "Fouls": "516",
+        "PFPG": "15.2",
+        "DQ": "6"
+      },
+      {
+        "Rank": "45",
+        "Team": "Portland",
+        "GM": "32",
+        "Fouls": "487",
+        "PFPG": "15.2",
+        "DQ": "4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "Fouls": "487",
+        "PFPG": "15.2",
+        "DQ": "6"
+      },
+      {
+        "Rank": "47",
+        "Team": "Clemson",
+        "GM": "34",
+        "Fouls": "518",
+        "PFPG": "15.2",
+        "DQ": "8"
+      },
+      {
+        "Rank": "48",
+        "Team": "Tennessee",
+        "GM": "38",
+        "Fouls": "579",
+        "PFPG": "15.2",
+        "DQ": "7"
+      },
+      {
+        "Rank": "49",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "Fouls": "519",
+        "PFPG": "15.3",
+        "DQ": "4"
+      },
+      {
+        "Rank": "50",
+        "Team": "Lamar University",
+        "GM": "33",
+        "Fouls": "504",
+        "PFPG": "15.3",
+        "DQ": "7"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "Virginia",
+        "GM": "32",
+        "Fouls": "489",
+        "PFPG": "15.3",
+        "DQ": "4"
+      },
+      {
+        "Rank": "52",
+        "Team": "Penn",
+        "GM": "27",
+        "Fouls": "413",
+        "PFPG": "15.3",
+        "DQ": "6"
+      },
+      {
+        "Rank": "53",
+        "Team": "UMBC",
+        "GM": "32",
+        "Fouls": "490",
+        "PFPG": "15.3",
+        "DQ": "8"
+      },
+      {
+        "Rank": "54",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "Fouls": "475",
+        "PFPG": "15.3",
+        "DQ": "6"
+      },
+      {
+        "Rank": "55",
+        "Team": "Maryland",
+        "GM": "36",
+        "Fouls": "552",
+        "PFPG": "15.3",
+        "DQ": "7"
+      },
+      {
+        "Rank": "56",
+        "Team": "Columbia",
+        "GM": "27",
+        "Fouls": "415",
+        "PFPG": "15.4",
+        "DQ": "5"
+      },
+      {
+        "Rank": "57",
+        "Team": "Iowa",
+        "GM": "33",
+        "Fouls": "509",
+        "PFPG": "15.4",
+        "DQ": "3"
+      },
+      {
+        "Rank": "58",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "Fouls": "494",
+        "PFPG": "15.4",
+        "DQ": "9"
+      },
+      {
+        "Rank": "59",
+        "Team": "Lafayette",
+        "GM": "33",
+        "Fouls": "512",
+        "PFPG": "15.5",
+        "DQ": "6"
+      },
+      {
+        "Rank": "60",
+        "Team": "Princeton",
+        "GM": "30",
+        "Fouls": "466",
+        "PFPG": "15.5",
+        "DQ": "5"
+      },
+      {
+        "Rank": "61",
+        "Team": "UAB",
+        "GM": "37",
+        "Fouls": "575",
+        "PFPG": "15.5",
+        "DQ": "8"
+      },
+      {
+        "Rank": "62",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "Fouls": "513",
+        "PFPG": "15.5",
+        "DQ": "7"
+      },
+      {
+        "Rank": "63",
+        "Team": "Louisville",
+        "GM": "35",
+        "Fouls": "545",
+        "PFPG": "15.6",
+        "DQ": "8"
+      },
+      {
+        "Rank": "64",
+        "Team": "Army West Point",
+        "GM": "33",
+        "Fouls": "514",
+        "PFPG": "15.6",
+        "DQ": "8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Belmont",
+        "GM": "33",
+        "Fouls": "514",
+        "PFPG": "15.6",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Tulsa",
+        "GM": "33",
+        "Fouls": "514",
+        "PFPG": "15.6",
+        "DQ": "9"
+      },
+      {
+        "Rank": "67",
+        "Team": "Georgetown",
+        "GM": "34",
+        "Fouls": "530",
+        "PFPG": "15.6",
+        "DQ": "12"
+      },
+      {
+        "Rank": "68",
+        "Team": "Nebraska",
+        "GM": "35",
+        "Fouls": "546",
+        "PFPG": "15.6",
+        "DQ": "8"
+      },
+      {
+        "Rank": "69",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "Fouls": "515",
+        "PFPG": "15.6",
+        "DQ": "2"
+      },
+      {
+        "Rank": "70",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "Fouls": "609",
+        "PFPG": "15.6",
+        "DQ": "1"
+      },
+      {
+        "Rank": "71",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "Fouls": "500",
+        "PFPG": "15.6",
+        "DQ": "7"
+      },
+      {
+        "Rank": "72",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "Fouls": "547",
+        "PFPG": "15.6",
+        "DQ": "5"
+      },
+      {
+        "Rank": "73",
+        "Team": "East Carolina",
+        "GM": "33",
+        "Fouls": "516",
+        "PFPG": "15.6",
+        "DQ": "9"
+      },
+      {
+        "Rank": "74",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "Fouls": "563",
+        "PFPG": "15.6",
+        "DQ": "11"
+      },
+      {
+        "Rank": "75",
+        "Team": "TCU",
+        "GM": "32",
+        "Fouls": "501",
+        "PFPG": "15.7",
+        "DQ": "4"
+      },
+      {
+        "Rank": "76",
+        "Team": "Bryant",
+        "GM": "35",
+        "Fouls": "548",
+        "PFPG": "15.7",
+        "DQ": "12"
+      },
+      {
+        "Rank": "77",
+        "Team": "Xavier",
+        "GM": "34",
+        "Fouls": "533",
+        "PFPG": "15.7",
+        "DQ": "7"
+      },
+      {
+        "Rank": "78",
+        "Team": "Villanova",
+        "GM": "36",
+        "Fouls": "565",
+        "PFPG": "15.7",
+        "DQ": "7"
+      },
+      {
+        "Rank": "79",
+        "Team": "Merrimack",
+        "GM": "33",
+        "Fouls": "518",
+        "PFPG": "15.7",
+        "DQ": "16"
+      },
+      {
+        "Rank": "-",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "Fouls": "518",
+        "PFPG": "15.7",
+        "DQ": "6"
+      },
+      {
+        "Rank": "81",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "Fouls": "581",
+        "PFPG": "15.7",
+        "DQ": "11"
+      },
+      {
+        "Rank": "82",
+        "Team": "Brown",
+        "GM": "27",
+        "Fouls": "424",
+        "PFPG": "15.7",
+        "DQ": "8"
+      },
+      {
+        "Rank": "83",
+        "Team": "Dayton",
+        "GM": "34",
+        "Fouls": "534",
+        "PFPG": "15.7",
+        "DQ": "8"
+      },
+      {
+        "Rank": "84",
+        "Team": "Niagara",
+        "GM": "31",
+        "Fouls": "487",
+        "PFPG": "15.7",
+        "DQ": "5"
+      },
+      {
+        "Rank": "85",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "Fouls": "550",
+        "PFPG": "15.7",
+        "DQ": "13"
+      },
+      {
+        "Rank": "86",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "Fouls": "503",
+        "PFPG": "15.7",
+        "DQ": "5"
+      },
+      {
+        "Rank": "87",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "Fouls": "520",
+        "PFPG": "15.8",
+        "DQ": "4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "Fouls": "520",
+        "PFPG": "15.8",
+        "DQ": "10"
+      },
+      {
+        "Rank": "89",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "Fouls": "505",
+        "PFPG": "15.8",
+        "DQ": "10"
+      },
+      {
+        "Rank": "90",
+        "Team": "La Salle",
+        "GM": "33",
+        "Fouls": "521",
+        "PFPG": "15.8",
+        "DQ": "9"
+      },
+      {
+        "Rank": "91",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "Fouls": "537",
+        "PFPG": "15.8",
+        "DQ": "12"
+      },
+      {
+        "Rank": "92",
+        "Team": "Drake",
+        "GM": "35",
+        "Fouls": "553",
+        "PFPG": "15.8",
+        "DQ": "6"
+      },
+      {
+        "Rank": "93",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "Fouls": "506",
+        "PFPG": "15.8",
+        "DQ": "4"
+      },
+      {
+        "Rank": "94",
+        "Team": "Purdue",
+        "GM": "36",
+        "Fouls": "570",
+        "PFPG": "15.8",
+        "DQ": "6"
+      },
+      {
+        "Rank": "95",
+        "Team": "Duke",
+        "GM": "39",
+        "Fouls": "618",
+        "PFPG": "15.8",
+        "DQ": "6"
+      },
+      {
+        "Rank": "96",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "Fouls": "523",
+        "PFPG": "15.8",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Toledo",
+        "GM": "33",
+        "Fouls": "523",
+        "PFPG": "15.8",
+        "DQ": "8"
+      },
+      {
+        "Rank": "98",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "Fouls": "540",
+        "PFPG": "15.9",
+        "DQ": "7"
+      },
+      {
+        "Rank": "99",
+        "Team": "UNLV",
+        "GM": "33",
+        "Fouls": "526",
+        "PFPG": "15.9",
+        "DQ": "5"
+      },
+      {
+        "Rank": "100",
+        "Team": "Canisius",
+        "GM": "31",
+        "Fouls": "495",
+        "PFPG": "16.0",
+        "DQ": "12"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "Montana St.",
+        "GM": "33",
+        "Fouls": "528",
+        "PFPG": "16.0",
+        "DQ": "3"
+      },
+      {
+        "Rank": "-",
+        "Team": "Towson",
+        "GM": "33",
+        "Fouls": "528",
+        "PFPG": "16.0",
+        "DQ": "9"
+      },
+      {
+        "Rank": "103",
+        "Team": "Boise St.",
+        "GM": "37",
+        "Fouls": "593",
+        "PFPG": "16.0",
+        "DQ": "9"
+      },
+      {
+        "Rank": "104",
+        "Team": "Marquette",
+        "GM": "34",
+        "Fouls": "545",
+        "PFPG": "16.0",
+        "DQ": "4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Oakland",
+        "GM": "34",
+        "Fouls": "545",
+        "PFPG": "16.0",
+        "DQ": "11"
+      },
+      {
+        "Rank": "106",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "Fouls": "529",
+        "PFPG": "16.0",
+        "DQ": "9"
+      },
+      {
+        "Rank": "107",
+        "Team": "FDU",
+        "GM": "33",
+        "Fouls": "530",
+        "PFPG": "16.1",
+        "DQ": "10"
+      },
+      {
+        "Rank": "108",
+        "Team": "South Carolina",
+        "GM": "32",
+        "Fouls": "514",
+        "PFPG": "16.1",
+        "DQ": "12"
+      },
+      {
+        "Rank": "109",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "Fouls": "531",
+        "PFPG": "16.1",
+        "DQ": "7"
+      },
+      {
+        "Rank": "110",
+        "Team": "Boston U.",
+        "GM": "32",
+        "Fouls": "515",
+        "PFPG": "16.1",
+        "DQ": "6"
+      },
+      {
+        "Rank": "111",
+        "Team": "The Citadel",
+        "GM": "30",
+        "Fouls": "483",
+        "PFPG": "16.1",
+        "DQ": "9"
+      },
+      {
+        "Rank": "112",
+        "Team": "Montana",
+        "GM": "35",
+        "Fouls": "564",
+        "PFPG": "16.1",
+        "DQ": "11"
+      },
+      {
+        "Rank": "113",
+        "Team": "Campbell",
+        "GM": "32",
+        "Fouls": "516",
+        "PFPG": "16.1",
+        "DQ": "6"
+      },
+      {
+        "Rank": "-",
+        "Team": "Northeastern",
+        "GM": "32",
+        "Fouls": "516",
+        "PFPG": "16.1",
+        "DQ": "5"
+      },
+      {
+        "Rank": "115",
+        "Team": "VMI",
+        "GM": "34",
+        "Fouls": "549",
+        "PFPG": "16.1",
+        "DQ": "12"
+      },
+      {
+        "Rank": "116",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "Fouls": "614",
+        "PFPG": "16.2",
+        "DQ": "8"
+      },
+      {
+        "Rank": "117",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "Fouls": "566",
+        "PFPG": "16.2",
+        "DQ": "5"
+      },
+      {
+        "Rank": "118",
+        "Team": "Siena",
+        "GM": "32",
+        "Fouls": "518",
+        "PFPG": "16.2",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "Fouls": "518",
+        "PFPG": "16.2",
+        "DQ": "4"
+      },
+      {
+        "Rank": "120",
+        "Team": "Arkansas",
+        "GM": "36",
+        "Fouls": "583",
+        "PFPG": "16.2",
+        "DQ": "6"
+      },
+      {
+        "Rank": "121",
+        "Team": "Illinois",
+        "GM": "35",
+        "Fouls": "567",
+        "PFPG": "16.2",
+        "DQ": "5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Lehigh",
+        "GM": "30",
+        "Fouls": "486",
+        "PFPG": "16.2",
+        "DQ": "8"
+      },
+      {
+        "Rank": "123",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "Fouls": "519",
+        "PFPG": "16.2",
+        "DQ": "5"
+      },
+      {
+        "Rank": "124",
+        "Team": "Oregon",
+        "GM": "35",
+        "Fouls": "569",
+        "PFPG": "16.3",
+        "DQ": "9"
+      },
+      {
+        "Rank": "125",
+        "Team": "Houston",
+        "GM": "40",
+        "Fouls": "651",
+        "PFPG": "16.3",
+        "DQ": "13"
+      },
+      {
+        "Rank": "126",
+        "Team": "ETSU",
+        "GM": "32",
+        "Fouls": "521",
+        "PFPG": "16.3",
+        "DQ": "11"
+      },
+      {
+        "Rank": "127",
+        "Team": "Baylor",
+        "GM": "35",
+        "Fouls": "570",
+        "PFPG": "16.3",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "McNeese",
+        "GM": "35",
+        "Fouls": "570",
+        "PFPG": "16.3",
+        "DQ": "6"
+      },
+      {
+        "Rank": "129",
+        "Team": "Yale",
+        "GM": "30",
+        "Fouls": "489",
+        "PFPG": "16.3",
+        "DQ": "7"
+      },
+      {
+        "Rank": "130",
+        "Team": "BYU",
+        "GM": "36",
+        "Fouls": "587",
+        "PFPG": "16.3",
+        "DQ": "2"
+      },
+      {
+        "Rank": "131",
+        "Team": "Cornell",
+        "GM": "29",
+        "Fouls": "473",
+        "PFPG": "16.3",
+        "DQ": "5"
+      },
+      {
+        "Rank": "132",
+        "Team": "Fairfield",
+        "GM": "32",
+        "Fouls": "522",
+        "PFPG": "16.3",
+        "DQ": "6"
+      },
+      {
+        "Rank": "133",
+        "Team": "DePaul",
+        "GM": "34",
+        "Fouls": "555",
+        "PFPG": "16.3",
+        "DQ": "8"
+      },
+      {
+        "Rank": "134",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "Fouls": "539",
+        "PFPG": "16.3",
+        "DQ": "12"
+      },
+      {
+        "Rank": "135",
+        "Team": "James Madison",
+        "GM": "32",
+        "Fouls": "523",
+        "PFPG": "16.3",
+        "DQ": "9"
+      },
+      {
+        "Rank": "136",
+        "Team": "Ball St.",
+        "GM": "31",
+        "Fouls": "507",
+        "PFPG": "16.4",
+        "DQ": "8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "Fouls": "507",
+        "PFPG": "16.4",
+        "DQ": "11"
+      },
+      {
+        "Rank": "138",
+        "Team": "Grambling",
+        "GM": "34",
+        "Fouls": "557",
+        "PFPG": "16.4",
+        "DQ": "4"
+      },
+      {
+        "Rank": "-",
+        "Team": "Navy",
+        "GM": "34",
+        "Fouls": "557",
+        "PFPG": "16.4",
+        "DQ": "5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "Fouls": "557",
+        "PFPG": "16.4",
+        "DQ": "11"
+      },
+      {
+        "Rank": "-",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "Fouls": "557",
+        "PFPG": "16.4",
+        "DQ": "13"
+      },
+      {
+        "Rank": "142",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "Fouls": "508",
+        "PFPG": "16.4",
+        "DQ": "10"
+      },
+      {
+        "Rank": "143",
+        "Team": "Binghamton",
+        "GM": "32",
+        "Fouls": "525",
+        "PFPG": "16.4",
+        "DQ": "9"
+      },
+      {
+        "Rank": "144",
+        "Team": "Syracuse",
+        "GM": "33",
+        "Fouls": "542",
+        "PFPG": "16.4",
+        "DQ": "9"
+      },
+      {
+        "Rank": "145",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "Fouls": "526",
+        "PFPG": "16.4",
+        "DQ": "11"
+      },
+      {
+        "Rank": "146",
+        "Team": "UTRGV",
+        "GM": "31",
+        "Fouls": "510",
+        "PFPG": "16.5",
+        "DQ": "5"
+      },
+      {
+        "Rank": "147",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "Fouls": "576",
+        "PFPG": "16.5",
+        "DQ": "16"
+      },
+      {
+        "Rank": "148",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "Fouls": "494",
+        "PFPG": "16.5",
+        "DQ": "12"
+      },
+      {
+        "Rank": "149",
+        "Team": "Evansville",
+        "GM": "32",
+        "Fouls": "527",
+        "PFPG": "16.5",
+        "DQ": "12"
+      },
+      {
+        "Rank": "-",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "Fouls": "527",
+        "PFPG": "16.5",
+        "DQ": "10"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "-",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "Fouls": "527",
+        "PFPG": "16.5",
+        "DQ": "8"
+      },
+      {
+        "Rank": "152",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "Fouls": "560",
+        "PFPG": "16.5",
+        "DQ": "11"
+      },
+      {
+        "Rank": "-",
+        "Team": "SIUE",
+        "GM": "34",
+        "Fouls": "560",
+        "PFPG": "16.5",
+        "DQ": "5"
+      },
+      {
+        "Rank": "-",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "Fouls": "560",
+        "PFPG": "16.5",
+        "DQ": "6"
+      },
+      {
+        "Rank": "155",
+        "Team": "California",
+        "GM": "33",
+        "Fouls": "544",
+        "PFPG": "16.5",
+        "DQ": "10"
+      },
+      {
+        "Rank": "156",
+        "Team": "George Mason",
+        "GM": "36",
+        "Fouls": "594",
+        "PFPG": "16.5",
+        "DQ": "10"
+      },
+      {
+        "Rank": "157",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "Fouls": "611",
+        "PFPG": "16.5",
+        "DQ": "10"
+      },
+      {
+        "Rank": "158",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "Fouls": "512",
+        "PFPG": "16.5",
+        "DQ": "17"
+      },
+      {
+        "Rank": "-",
+        "Team": "Penn St.",
+        "GM": "31",
+        "Fouls": "512",
+        "PFPG": "16.5",
+        "DQ": "7"
+      },
+      {
+        "Rank": "160",
+        "Team": "Troy",
+        "GM": "34",
+        "Fouls": "562",
+        "PFPG": "16.5",
+        "DQ": "10"
+      },
+      {
+        "Rank": "161",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "Fouls": "529",
+        "PFPG": "16.5",
+        "DQ": "7"
+      },
+      {
+        "Rank": "162",
+        "Team": "Colorado",
+        "GM": "35",
+        "Fouls": "579",
+        "PFPG": "16.5",
+        "DQ": "5"
+      },
+      {
+        "Rank": "163",
+        "Team": "Mercer",
+        "GM": "33",
+        "Fouls": "547",
+        "PFPG": "16.6",
+        "DQ": "9"
+      },
+      {
+        "Rank": "164",
+        "Team": "SFA",
+        "GM": "31",
+        "Fouls": "514",
+        "PFPG": "16.6",
+        "DQ": "5"
+      },
+      {
+        "Rank": "165",
+        "Team": "Delaware",
+        "GM": "36",
+        "Fouls": "597",
+        "PFPG": "16.6",
+        "DQ": "8"
+      },
+      {
+        "Rank": "166",
+        "Team": "Indiana",
+        "GM": "32",
+        "Fouls": "531",
+        "PFPG": "16.6",
+        "DQ": "7"
+      },
+      {
+        "Rank": "167",
+        "Team": "Georgia",
+        "GM": "33",
+        "Fouls": "548",
+        "PFPG": "16.6",
+        "DQ": "10"
+      },
+      {
+        "Rank": "168",
+        "Team": "NC State",
+        "GM": "31",
+        "Fouls": "515",
+        "PFPG": "16.6",
+        "DQ": "6"
+      },
+      {
+        "Rank": "169",
+        "Team": "West Virginia",
+        "GM": "32",
+        "Fouls": "532",
+        "PFPG": "16.6",
+        "DQ": "10"
+      },
+      {
+        "Rank": "170",
+        "Team": "North Dakota",
+        "GM": "33",
+        "Fouls": "549",
+        "PFPG": "16.6",
+        "DQ": "9"
+      },
+      {
+        "Rank": "171",
+        "Team": "UIW",
+        "GM": "36",
+        "Fouls": "600",
+        "PFPG": "16.7",
+        "DQ": "12"
+      },
+      {
+        "Rank": "172",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "Fouls": "617",
+        "PFPG": "16.7",
+        "DQ": "6"
+      },
+      {
+        "Rank": "173",
+        "Team": "Buffalo",
+        "GM": "31",
+        "Fouls": "517",
+        "PFPG": "16.7",
+        "DQ": "9"
+      },
+      {
+        "Rank": "174",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "Fouls": "601",
+        "PFPG": "16.7",
+        "DQ": "3"
+      },
+      {
+        "Rank": "-",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "Fouls": "601",
+        "PFPG": "16.7",
+        "DQ": "7"
+      },
+      {
+        "Rank": "176",
+        "Team": "Bradley",
+        "GM": "37",
+        "Fouls": "618",
+        "PFPG": "16.7",
+        "DQ": "16"
+      },
+      {
+        "Rank": "177",
+        "Team": "UNCW",
+        "GM": "35",
+        "Fouls": "585",
+        "PFPG": "16.7",
+        "DQ": "6"
+      },
+      {
+        "Rank": "178",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "Fouls": "535",
+        "PFPG": "16.7",
+        "DQ": "6"
+      },
+      {
+        "Rank": "179",
+        "Team": "Kansas City",
+        "GM": "33",
+        "Fouls": "552",
+        "PFPG": "16.7",
+        "DQ": "7"
+      },
+      {
+        "Rank": "180",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "Fouls": "586",
+        "PFPG": "16.7",
+        "DQ": "12"
+      },
+      {
+        "Rank": "-",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "Fouls": "586",
+        "PFPG": "16.7",
+        "DQ": "15"
+      },
+      {
+        "Rank": "182",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "Fouls": "570",
+        "PFPG": "16.8",
+        "DQ": "6"
+      },
+      {
+        "Rank": "183",
+        "Team": "SMU",
+        "GM": "35",
+        "Fouls": "587",
+        "PFPG": "16.8",
+        "DQ": "8"
+      },
+      {
+        "Rank": "184",
+        "Team": "LSU",
+        "GM": "32",
+        "Fouls": "537",
+        "PFPG": "16.8",
+        "DQ": "9"
+      },
+      {
+        "Rank": "185",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "Fouls": "554",
+        "PFPG": "16.8",
+        "DQ": "14"
+      },
+      {
+        "Rank": "186",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "Fouls": "538",
+        "PFPG": "16.8",
+        "DQ": "12"
+      },
+      {
+        "Rank": "187",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "Fouls": "589",
+        "PFPG": "16.8",
+        "DQ": "3"
+      },
+      {
+        "Rank": "188",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "Fouls": "522",
+        "PFPG": "16.8",
+        "DQ": "10"
+      },
+      {
+        "Rank": "189",
+        "Team": "UT Martin",
+        "GM": "33",
+        "Fouls": "556",
+        "PFPG": "16.8",
+        "DQ": "7"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wright St.",
+        "GM": "33",
+        "Fouls": "556",
+        "PFPG": "16.8",
+        "DQ": "10"
+      },
+      {
+        "Rank": "191",
+        "Team": "Arizona",
+        "GM": "37",
+        "Fouls": "625",
+        "PFPG": "16.9",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Carolina",
+        "GM": "37",
+        "Fouls": "625",
+        "PFPG": "16.9",
+        "DQ": "11"
+      },
+      {
+        "Rank": "193",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "Fouls": "558",
+        "PFPG": "16.9",
+        "DQ": "5"
+      },
+      {
+        "Rank": "194",
+        "Team": "Wofford",
+        "GM": "35",
+        "Fouls": "592",
+        "PFPG": "16.9",
+        "DQ": "6"
+      },
+      {
+        "Rank": "195",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "Fouls": "509",
+        "PFPG": "17.0",
+        "DQ": "9"
+      },
+      {
+        "Rank": "196",
+        "Team": "FIU",
+        "GM": "33",
+        "Fouls": "560",
+        "PFPG": "17.0",
+        "DQ": "10"
+      },
+      {
+        "Rank": "197",
+        "Team": "Alcorn",
+        "GM": "32",
+        "Fouls": "544",
+        "PFPG": "17.0",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "Fouls": "544",
+        "PFPG": "17.0",
+        "DQ": "4"
+      },
+      {
+        "Rank": "199",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "Fouls": "562",
+        "PFPG": "17.0",
+        "DQ": "16"
+      },
+      {
+        "Rank": "200",
+        "Team": "Little Rock",
+        "GM": "33",
+        "Fouls": "563",
+        "PFPG": "17.1",
+        "DQ": "20"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "201",
+        "Team": "Wagner",
+        "GM": "30",
+        "Fouls": "512",
+        "PFPG": "17.1",
+        "DQ": "3"
+      },
+      {
+        "Rank": "202",
+        "Team": "Florida",
+        "GM": "40",
+        "Fouls": "683",
+        "PFPG": "17.1",
+        "DQ": "9"
+      },
+      {
+        "Rank": "203",
+        "Team": "Tulane",
+        "GM": "34",
+        "Fouls": "581",
+        "PFPG": "17.1",
+        "DQ": "13"
+      },
+      {
+        "Rank": "204",
+        "Team": "Radford",
+        "GM": "33",
+        "Fouls": "564",
+        "PFPG": "17.1",
+        "DQ": "6"
+      },
+      {
+        "Rank": "205",
+        "Team": "Rutgers",
+        "GM": "32",
+        "Fouls": "547",
+        "PFPG": "17.1",
+        "DQ": "12"
+      },
+      {
+        "Rank": "206",
+        "Team": "Michigan",
+        "GM": "37",
+        "Fouls": "633",
+        "PFPG": "17.1",
+        "DQ": "4"
+      },
+      {
+        "Rank": "207",
+        "Team": "South Fla.",
+        "GM": "32",
+        "Fouls": "548",
+        "PFPG": "17.1",
+        "DQ": "10"
+      },
+      {
+        "Rank": "208",
+        "Team": "Stanford",
+        "GM": "35",
+        "Fouls": "600",
+        "PFPG": "17.1",
+        "DQ": "9"
+      },
+      {
+        "Rank": "209",
+        "Team": "Providence",
+        "GM": "32",
+        "Fouls": "550",
+        "PFPG": "17.2",
+        "DQ": "12"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "Fouls": "550",
+        "PFPG": "17.2",
+        "DQ": "7"
+      },
+      {
+        "Rank": "211",
+        "Team": "California Baptist",
+        "GM": "32",
+        "Fouls": "551",
+        "PFPG": "17.2",
+        "DQ": "11"
+      },
+      {
+        "Rank": "212",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "Fouls": "620",
+        "PFPG": "17.2",
+        "DQ": "11"
+      },
+      {
+        "Rank": "-",
+        "Team": "Kentucky",
+        "GM": "36",
+        "Fouls": "620",
+        "PFPG": "17.2",
+        "DQ": "10"
+      },
+      {
+        "Rank": "214",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "Fouls": "586",
+        "PFPG": "17.2",
+        "DQ": "12"
+      },
+      {
+        "Rank": "-",
+        "Team": "UCLA",
+        "GM": "34",
+        "Fouls": "586",
+        "PFPG": "17.2",
+        "DQ": "10"
+      },
+      {
+        "Rank": "216",
+        "Team": "Nicholls",
+        "GM": "33",
+        "Fouls": "569",
+        "PFPG": "17.2",
+        "DQ": "9"
+      },
+      {
+        "Rank": "217",
+        "Team": "UCF",
+        "GM": "37",
+        "Fouls": "638",
+        "PFPG": "17.2",
+        "DQ": "8"
+      },
+      {
+        "Rank": "218",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "Fouls": "588",
+        "PFPG": "17.3",
+        "DQ": "8"
+      },
+      {
+        "Rank": "219",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "Fouls": "520",
+        "PFPG": "17.3",
+        "DQ": "10"
+      },
+      {
+        "Rank": "220",
+        "Team": "Charlotte",
+        "GM": "33",
+        "Fouls": "573",
+        "PFPG": "17.4",
+        "DQ": "7"
+      },
+      {
+        "Rank": "-",
+        "Team": "Murray St.",
+        "GM": "33",
+        "Fouls": "573",
+        "PFPG": "17.4",
+        "DQ": "13"
+      },
+      {
+        "Rank": "222",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "Fouls": "556",
+        "PFPG": "17.4",
+        "DQ": "7"
+      },
+      {
+        "Rank": "223",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "Fouls": "591",
+        "PFPG": "17.4",
+        "DQ": "11"
+      },
+      {
+        "Rank": "224",
+        "Team": "UAlbany",
+        "GM": "33",
+        "Fouls": "575",
+        "PFPG": "17.4",
+        "DQ": "10"
+      },
+      {
+        "Rank": "225",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "Fouls": "610",
+        "PFPG": "17.4",
+        "DQ": "14"
+      },
+      {
+        "Rank": "226",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "Fouls": "558",
+        "PFPG": "17.4",
+        "DQ": "19"
+      },
+      {
+        "Rank": "227",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "Fouls": "576",
+        "PFPG": "17.5",
+        "DQ": "8"
+      },
+      {
+        "Rank": "228",
+        "Team": "Ohio",
+        "GM": "32",
+        "Fouls": "559",
+        "PFPG": "17.5",
+        "DQ": "12"
+      },
+      {
+        "Rank": "229",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "Fouls": "594",
+        "PFPG": "17.5",
+        "DQ": "17"
+      },
+      {
+        "Rank": "-",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "Fouls": "594",
+        "PFPG": "17.5",
+        "DQ": "12"
+      },
+      {
+        "Rank": "231",
+        "Team": "IU Indy",
+        "GM": "32",
+        "Fouls": "560",
+        "PFPG": "17.5",
+        "DQ": "11"
+      },
+      {
+        "Rank": "-",
+        "Team": "Portland St.",
+        "GM": "32",
+        "Fouls": "560",
+        "PFPG": "17.5",
+        "DQ": "8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Richmond",
+        "GM": "32",
+        "Fouls": "560",
+        "PFPG": "17.5",
+        "DQ": "9"
+      },
+      {
+        "Rank": "234",
+        "Team": "Louisiana",
+        "GM": "33",
+        "Fouls": "578",
+        "PFPG": "17.5",
+        "DQ": "13"
+      },
+      {
+        "Rank": "-",
+        "Team": "Nevada",
+        "GM": "33",
+        "Fouls": "578",
+        "PFPG": "17.5",
+        "DQ": "9"
+      },
+      {
+        "Rank": "236",
+        "Team": "Minnesota",
+        "GM": "32",
+        "Fouls": "561",
+        "PFPG": "17.5",
+        "DQ": "9"
+      },
+      {
+        "Rank": "237",
+        "Team": "New Mexico",
+        "GM": "35",
+        "Fouls": "614",
+        "PFPG": "17.5",
+        "DQ": "10"
+      },
+      {
+        "Rank": "238",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "Fouls": "562",
+        "PFPG": "17.6",
+        "DQ": "12"
+      },
+      {
+        "Rank": "239",
+        "Team": "Hofstra",
+        "GM": "33",
+        "Fouls": "580",
+        "PFPG": "17.6",
+        "DQ": "13"
+      },
+      {
+        "Rank": "240",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "Fouls": "546",
+        "PFPG": "17.6",
+        "DQ": "4"
+      },
+      {
+        "Rank": "241",
+        "Team": "Duquesne",
+        "GM": "32",
+        "Fouls": "564",
+        "PFPG": "17.6",
+        "DQ": "10"
+      },
+      {
+        "Rank": "242",
+        "Team": "Northwestern",
+        "GM": "33",
+        "Fouls": "582",
+        "PFPG": "17.6",
+        "DQ": "5"
+      },
+      {
+        "Rank": "243",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "Fouls": "565",
+        "PFPG": "17.7",
+        "DQ": "9"
+      },
+      {
+        "Rank": "244",
+        "Team": "Southern California",
+        "GM": "35",
+        "Fouls": "618",
+        "PFPG": "17.7",
+        "DQ": "14"
+      },
+      {
+        "Rank": "245",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "Fouls": "601",
+        "PFPG": "17.7",
+        "DQ": "12"
+      },
+      {
+        "Rank": "246",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "Fouls": "548",
+        "PFPG": "17.7",
+        "DQ": "8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Hawaii",
+        "GM": "31",
+        "Fouls": "548",
+        "PFPG": "17.7",
+        "DQ": "6"
+      },
+      {
+        "Rank": "-",
+        "Team": "UIC",
+        "GM": "31",
+        "Fouls": "548",
+        "PFPG": "17.7",
+        "DQ": "15"
+      },
+      {
+        "Rank": "249",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "Fouls": "566",
+        "PFPG": "17.7",
+        "DQ": "12"
+      },
+      {
+        "Rank": "250",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "Fouls": "602",
+        "PFPG": "17.7",
+        "DQ": "4"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "Fouls": "656",
+        "PFPG": "17.7",
+        "DQ": "9"
+      },
+      {
+        "Rank": "252",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "Fouls": "532",
+        "PFPG": "17.7",
+        "DQ": "11"
+      },
+      {
+        "Rank": "253",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "Fouls": "568",
+        "PFPG": "17.8",
+        "DQ": "5"
+      },
+      {
+        "Rank": "254",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "Fouls": "622",
+        "PFPG": "17.8",
+        "DQ": "10"
+      },
+      {
+        "Rank": "255",
+        "Team": "Bucknell",
+        "GM": "33",
+        "Fouls": "587",
+        "PFPG": "17.8",
+        "DQ": "19"
+      },
+      {
+        "Rank": "256",
+        "Team": "Akron",
+        "GM": "35",
+        "Fouls": "623",
+        "PFPG": "17.8",
+        "DQ": "9"
+      },
+      {
+        "Rank": "257",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "Fouls": "641",
+        "PFPG": "17.8",
+        "DQ": "8"
+      },
+      {
+        "Rank": "258",
+        "Team": "William & Mary",
+        "GM": "32",
+        "Fouls": "570",
+        "PFPG": "17.8",
+        "DQ": "8"
+      },
+      {
+        "Rank": "259",
+        "Team": "Weber St.",
+        "GM": "34",
+        "Fouls": "606",
+        "PFPG": "17.8",
+        "DQ": "10"
+      },
+      {
+        "Rank": "260",
+        "Team": "Memphis",
+        "GM": "35",
+        "Fouls": "624",
+        "PFPG": "17.8",
+        "DQ": "19"
+      },
+      {
+        "Rank": "261",
+        "Team": "Air Force",
+        "GM": "32",
+        "Fouls": "571",
+        "PFPG": "17.8",
+        "DQ": "11"
+      },
+      {
+        "Rank": "-",
+        "Team": "Rice",
+        "GM": "32",
+        "Fouls": "571",
+        "PFPG": "17.8",
+        "DQ": "13"
+      },
+      {
+        "Rank": "263",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "Fouls": "589",
+        "PFPG": "17.8",
+        "DQ": "13"
+      },
+      {
+        "Rank": "-",
+        "Team": "Idaho",
+        "GM": "33",
+        "Fouls": "589",
+        "PFPG": "17.8",
+        "DQ": "11"
+      },
+      {
+        "Rank": "265",
+        "Team": "American",
+        "GM": "35",
+        "Fouls": "625",
+        "PFPG": "17.9",
+        "DQ": "15"
+      },
+      {
+        "Rank": "266",
+        "Team": "North Florida",
+        "GM": "32",
+        "Fouls": "573",
+        "PFPG": "17.9",
+        "DQ": "11"
+      },
+      {
+        "Rank": "267",
+        "Team": "Seattle U",
+        "GM": "32",
+        "Fouls": "574",
+        "PFPG": "17.9",
+        "DQ": "12"
+      },
+      {
+        "Rank": "-",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "Fouls": "574",
+        "PFPG": "17.9",
+        "DQ": "11"
+      },
+      {
+        "Rank": "269",
+        "Team": "Monmouth",
+        "GM": "33",
+        "Fouls": "592",
+        "PFPG": "17.9",
+        "DQ": "8"
+      },
+      {
+        "Rank": "-",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "Fouls": "592",
+        "PFPG": "17.9",
+        "DQ": "11"
+      },
+      {
+        "Rank": "271",
+        "Team": "UMES",
+        "GM": "31",
+        "Fouls": "557",
+        "PFPG": "18.0",
+        "DQ": "15"
+      },
+      {
+        "Rank": "272",
+        "Team": "Temple",
+        "GM": "32",
+        "Fouls": "575",
+        "PFPG": "18.0",
+        "DQ": "11"
+      },
+      {
+        "Rank": "273",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "Fouls": "630",
+        "PFPG": "18.0",
+        "DQ": "23"
+      },
+      {
+        "Rank": "-",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "Fouls": "594",
+        "PFPG": "18.0",
+        "DQ": "19"
+      },
+      {
+        "Rank": "-",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "Fouls": "558",
+        "PFPG": "18.0",
+        "DQ": "12"
+      },
+      {
+        "Rank": "276",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "Fouls": "613",
+        "PFPG": "18.0",
+        "DQ": "16"
+      },
+      {
+        "Rank": "277",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "Fouls": "577",
+        "PFPG": "18.0",
+        "DQ": "14"
+      },
+      {
+        "Rank": "-",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "Fouls": "577",
+        "PFPG": "18.0",
+        "DQ": "10"
+      },
+      {
+        "Rank": "-",
+        "Team": "UC Davis",
+        "GM": "32",
+        "Fouls": "577",
+        "PFPG": "18.0",
+        "DQ": "13"
+      },
+      {
+        "Rank": "280",
+        "Team": "VCU",
+        "GM": "35",
+        "Fouls": "632",
+        "PFPG": "18.1",
+        "DQ": "11"
+      },
+      {
+        "Rank": "281",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "Fouls": "596",
+        "PFPG": "18.1",
+        "DQ": "15"
+      },
+      {
+        "Rank": "-",
+        "Team": "UTEP",
+        "GM": "33",
+        "Fouls": "596",
+        "PFPG": "18.1",
+        "DQ": "8"
+      },
+      {
+        "Rank": "283",
+        "Team": "High Point",
+        "GM": "35",
+        "Fouls": "633",
+        "PFPG": "18.1",
+        "DQ": "10"
+      },
+      {
+        "Rank": "284",
+        "Team": "Kent St.",
+        "GM": "36",
+        "Fouls": "652",
+        "PFPG": "18.1",
+        "DQ": "7"
+      },
+      {
+        "Rank": "285",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "Fouls": "580",
+        "PFPG": "18.1",
+        "DQ": "16"
+      },
+      {
+        "Rank": "-",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "Fouls": "580",
+        "PFPG": "18.1",
+        "DQ": "11"
+      },
+      {
+        "Rank": "287",
+        "Team": "Utah St.",
+        "GM": "34",
+        "Fouls": "617",
+        "PFPG": "18.1",
+        "DQ": "6"
+      },
+      {
+        "Rank": "288",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "Fouls": "545",
+        "PFPG": "18.2",
+        "DQ": "6"
+      },
+      {
+        "Rank": "289",
+        "Team": "UTSA",
+        "GM": "31",
+        "Fouls": "564",
+        "PFPG": "18.2",
+        "DQ": "16"
+      },
+      {
+        "Rank": "290",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "Fouls": "583",
+        "PFPG": "18.2",
+        "DQ": "15"
+      },
+      {
+        "Rank": "-",
+        "Team": "Green Bay",
+        "GM": "32",
+        "Fouls": "583",
+        "PFPG": "18.2",
+        "DQ": "14"
+      },
+      {
+        "Rank": "292",
+        "Team": "Missouri",
+        "GM": "34",
+        "Fouls": "620",
+        "PFPG": "18.2",
+        "DQ": "6"
+      },
+      {
+        "Rank": "293",
+        "Team": "Hampton",
+        "GM": "33",
+        "Fouls": "602",
+        "PFPG": "18.2",
+        "DQ": "13"
+      },
+      {
+        "Rank": "294",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "Fouls": "657",
+        "PFPG": "18.2",
+        "DQ": "7"
+      },
+      {
+        "Rank": "-",
+        "Team": "Texas St.",
+        "GM": "32",
+        "Fouls": "584",
+        "PFPG": "18.2",
+        "DQ": "11"
+      },
+      {
+        "Rank": "296",
+        "Team": "Omaha",
+        "GM": "35",
+        "Fouls": "639",
+        "PFPG": "18.3",
+        "DQ": "6"
+      },
+      {
+        "Rank": "-",
+        "Team": "UConn",
+        "GM": "35",
+        "Fouls": "639",
+        "PFPG": "18.3",
+        "DQ": "12"
+      },
+      {
+        "Rank": "298",
+        "Team": "Iona",
+        "GM": "34",
+        "Fouls": "621",
+        "PFPG": "18.3",
+        "DQ": "9"
+      },
+      {
+        "Rank": "299",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "Fouls": "658",
+        "PFPG": "18.3",
+        "DQ": "11"
+      },
+      {
+        "Rank": "300",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "Fouls": "585",
+        "PFPG": "18.3",
+        "DQ": "7"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "-",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "Fouls": "585",
+        "PFPG": "18.3",
+        "DQ": "13"
+      },
+      {
+        "Rank": "302",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "Fouls": "586",
+        "PFPG": "18.3",
+        "DQ": "8"
+      },
+      {
+        "Rank": "303",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "Fouls": "624",
+        "PFPG": "18.4",
+        "DQ": "18"
+      },
+      {
+        "Rank": "304",
+        "Team": "Washington",
+        "GM": "31",
+        "Fouls": "569",
+        "PFPG": "18.4",
+        "DQ": "10"
+      },
+      {
+        "Rank": "305",
+        "Team": "NJIT",
+        "GM": "31",
+        "Fouls": "570",
+        "PFPG": "18.4",
+        "DQ": "15"
+      },
+      {
+        "Rank": "306",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "Fouls": "662",
+        "PFPG": "18.4",
+        "DQ": "13"
+      },
+      {
+        "Rank": "307",
+        "Team": "Boston College",
+        "GM": "31",
+        "Fouls": "571",
+        "PFPG": "18.4",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "Fouls": "571",
+        "PFPG": "18.4",
+        "DQ": "10"
+      },
+      {
+        "Rank": "309",
+        "Team": "Longwood",
+        "GM": "32",
+        "Fouls": "590",
+        "PFPG": "18.4",
+        "DQ": "2"
+      },
+      {
+        "Rank": "310",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "Fouls": "591",
+        "PFPG": "18.5",
+        "DQ": "9"
+      },
+      {
+        "Rank": "311",
+        "Team": "Auburn",
+        "GM": "38",
+        "Fouls": "702",
+        "PFPG": "18.5",
+        "DQ": "8"
+      },
+      {
+        "Rank": "312",
+        "Team": "Pacific",
+        "GM": "33",
+        "Fouls": "610",
+        "PFPG": "18.5",
+        "DQ": "12"
+      },
+      {
+        "Rank": "313",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "Fouls": "629",
+        "PFPG": "18.5",
+        "DQ": "10"
+      },
+      {
+        "Rank": "-",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "Fouls": "592",
+        "PFPG": "18.5",
+        "DQ": "17"
+      },
+      {
+        "Rank": "315",
+        "Team": "Utah",
+        "GM": "33",
+        "Fouls": "611",
+        "PFPG": "18.5",
+        "DQ": "11"
+      },
+      {
+        "Rank": "316",
+        "Team": "South Dakota",
+        "GM": "33",
+        "Fouls": "613",
+        "PFPG": "18.6",
+        "DQ": "10"
+      },
+      {
+        "Rank": "317",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "Fouls": "595",
+        "PFPG": "18.6",
+        "DQ": "9"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southern U.",
+        "GM": "32",
+        "Fouls": "595",
+        "PFPG": "18.6",
+        "DQ": "8"
+      },
+      {
+        "Rank": "319",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "Fouls": "577",
+        "PFPG": "18.6",
+        "DQ": "16"
+      },
+      {
+        "Rank": "320",
+        "Team": "Texas",
+        "GM": "35",
+        "Fouls": "654",
+        "PFPG": "18.7",
+        "DQ": "10"
+      },
+      {
+        "Rank": "321",
+        "Team": "Fordham",
+        "GM": "33",
+        "Fouls": "618",
+        "PFPG": "18.7",
+        "DQ": "13"
+      },
+      {
+        "Rank": "-",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "Fouls": "618",
+        "PFPG": "18.7",
+        "DQ": "17"
+      },
+      {
+        "Rank": "323",
+        "Team": "San Francisco",
+        "GM": "35",
+        "Fouls": "657",
+        "PFPG": "18.8",
+        "DQ": "11"
+      },
+      {
+        "Rank": "324",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "Fouls": "583",
+        "PFPG": "18.8",
+        "DQ": "8"
+      },
+      {
+        "Rank": "325",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "Fouls": "528",
+        "PFPG": "18.9",
+        "DQ": "14"
+      },
+      {
+        "Rank": "326",
+        "Team": "Prairie View",
+        "GM": "32",
+        "Fouls": "604",
+        "PFPG": "18.9",
+        "DQ": "15"
+      },
+      {
+        "Rank": "327",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "Fouls": "605",
+        "PFPG": "18.9",
+        "DQ": "15"
+      },
+      {
+        "Rank": "328",
+        "Team": "Alabama",
+        "GM": "37",
+        "Fouls": "700",
+        "PFPG": "18.9",
+        "DQ": "12"
+      },
+      {
+        "Rank": "329",
+        "Team": "LIU",
+        "GM": "33",
+        "Fouls": "625",
+        "PFPG": "18.9",
+        "DQ": "17"
+      },
+      {
+        "Rank": "-",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "Fouls": "625",
+        "PFPG": "18.9",
+        "DQ": "14"
+      },
+      {
+        "Rank": "331",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "Fouls": "588",
+        "PFPG": "19.0",
+        "DQ": "15"
+      },
+      {
+        "Rank": "332",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "Fouls": "607",
+        "PFPG": "19.0",
+        "DQ": "12"
+      },
+      {
+        "Rank": "333",
+        "Team": "Washington St.",
+        "GM": "34",
+        "Fouls": "645",
+        "PFPG": "19.0",
+        "DQ": "17"
+      },
+      {
+        "Rank": "334",
+        "Team": "Florida St.",
+        "GM": "32",
+        "Fouls": "611",
+        "PFPG": "19.1",
+        "DQ": "9"
+      },
+      {
+        "Rank": "335",
+        "Team": "Howard",
+        "GM": "32",
+        "Fouls": "612",
+        "PFPG": "19.1",
+        "DQ": "20"
+      },
+      {
+        "Rank": "-",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "Fouls": "612",
+        "PFPG": "19.1",
+        "DQ": "29"
+      },
+      {
+        "Rank": "337",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "Fouls": "634",
+        "PFPG": "19.2",
+        "DQ": "14"
+      },
+      {
+        "Rank": "338",
+        "Team": "Marshall",
+        "GM": "33",
+        "Fouls": "636",
+        "PFPG": "19.3",
+        "DQ": "17"
+      },
+      {
+        "Rank": "339",
+        "Team": "Wyoming",
+        "GM": "32",
+        "Fouls": "617",
+        "PFPG": "19.3",
+        "DQ": "12"
+      },
+      {
+        "Rank": "340",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "Fouls": "618",
+        "PFPG": "19.3",
+        "DQ": "16"
+      },
+      {
+        "Rank": "341",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "Fouls": "619",
+        "PFPG": "19.3",
+        "DQ": "14"
+      },
+      {
+        "Rank": "342",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "Fouls": "680",
+        "PFPG": "19.4",
+        "DQ": "12"
+      },
+      {
+        "Rank": "343",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "Fouls": "626",
+        "PFPG": "19.6",
+        "DQ": "18"
+      },
+      {
+        "Rank": "344",
+        "Team": "Samford",
+        "GM": "33",
+        "Fouls": "647",
+        "PFPG": "19.6",
+        "DQ": "13"
+      },
+      {
+        "Rank": "345",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "Fouls": "648",
+        "PFPG": "19.6",
+        "DQ": "23"
+      },
+      {
+        "Rank": "346",
+        "Team": "NIU",
+        "GM": "31",
+        "Fouls": "612",
+        "PFPG": "19.7",
+        "DQ": "21"
+      },
+      {
+        "Rank": "347",
+        "Team": "Winthrop",
+        "GM": "34",
+        "Fouls": "672",
+        "PFPG": "19.8",
+        "DQ": "11"
+      },
+      {
+        "Rank": "348",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "Fouls": "658",
+        "PFPG": "19.9",
+        "DQ": "21"
+      },
+      {
+        "Rank": "349",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "Fouls": "671",
+        "PFPG": "20.3",
+        "DQ": "15"
+      },
+      {
+        "Rank": "350",
+        "Team": "CSUN",
+        "GM": "33",
+        "Fouls": "679",
+        "PFPG": "20.6",
+        "DQ": "19"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Fouls Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "Fouls": "670",
+        "PFPG": "20.9",
+        "DQ": "22"
+      },
+      {
+        "Rank": "352",
+        "Team": "San Diego",
+        "GM": "33",
+        "Fouls": "693",
+        "PFPG": "21.0",
+        "DQ": "19"
+      },
+      {
+        "Rank": "353",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "Fouls": "695",
+        "PFPG": "21.1",
+        "DQ": "19"
+      },
+      {
+        "Rank": "354",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "Fouls": "687",
+        "PFPG": "21.5",
+        "DQ": "14"
+      },
+      {
+        "Rank": "355",
+        "Team": "Denver",
+        "GM": "32",
+        "Fouls": "718",
+        "PFPG": "22.4",
+        "DQ": "16"
+      }
+    ]
+  }
+]

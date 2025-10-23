@@ -1,0 +1,2559 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "Opp TO": "547",
+        "Avg": "17.09"
+      },
+      {
+        "Rank": "2",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "Opp TO": "533",
+        "Avg": "16.66"
+      },
+      {
+        "Rank": "3",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "Opp TO": "547",
+        "Avg": "16.58"
+      },
+      {
+        "Rank": "4",
+        "Team": "Samford",
+        "GM": "33",
+        "Opp TO": "532",
+        "Avg": "16.12"
+      },
+      {
+        "Rank": "5",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "Opp TO": "514",
+        "Avg": "16.06"
+      },
+      {
+        "Rank": "6",
+        "Team": "UTEP",
+        "GM": "33",
+        "Opp TO": "529",
+        "Avg": "16.03"
+      },
+      {
+        "Rank": "7",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "Opp TO": "528",
+        "Avg": "16.00"
+      },
+      {
+        "Rank": "8",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "Opp TO": "557",
+        "Avg": "15.91"
+      },
+      {
+        "Rank": "9",
+        "Team": "Iona",
+        "GM": "34",
+        "Opp TO": "536",
+        "Avg": "15.76"
+      },
+      {
+        "Rank": "10",
+        "Team": "Southern U.",
+        "GM": "32",
+        "Opp TO": "495",
+        "Avg": "15.47"
+      },
+      {
+        "Rank": "11",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "Opp TO": "533",
+        "Avg": "15.23"
+      },
+      {
+        "Rank": "12",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "Opp TO": "547",
+        "Avg": "15.19"
+      },
+      {
+        "Rank": "13",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "Opp TO": "546",
+        "Avg": "15.17"
+      },
+      {
+        "Rank": "14",
+        "Team": "UTSA",
+        "GM": "31",
+        "Opp TO": "470",
+        "Avg": "15.16"
+      },
+      {
+        "Rank": "15",
+        "Team": "Merrimack",
+        "GM": "33",
+        "Opp TO": "499",
+        "Avg": "15.12"
+      },
+      {
+        "Rank": "16",
+        "Team": "UCLA",
+        "GM": "34",
+        "Opp TO": "514",
+        "Avg": "15.12"
+      },
+      {
+        "Rank": "17",
+        "Team": "UC Davis",
+        "GM": "32",
+        "Opp TO": "482",
+        "Avg": "15.06"
+      },
+      {
+        "Rank": "18",
+        "Team": "New Mexico",
+        "GM": "35",
+        "Opp TO": "527",
+        "Avg": "15.06"
+      },
+      {
+        "Rank": "19",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "Opp TO": "464",
+        "Avg": "14.97"
+      },
+      {
+        "Rank": "20",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "Opp TO": "507",
+        "Avg": "14.91"
+      },
+      {
+        "Rank": "21",
+        "Team": "Little Rock",
+        "GM": "33",
+        "Opp TO": "492",
+        "Avg": "14.91"
+      },
+      {
+        "Rank": "22",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "Opp TO": "477",
+        "Avg": "14.91"
+      },
+      {
+        "Rank": "23",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "Opp TO": "447",
+        "Avg": "14.90"
+      },
+      {
+        "Rank": "24",
+        "Team": "Maine",
+        "GM": "34",
+        "Opp TO": "506",
+        "Avg": "14.88"
+      },
+      {
+        "Rank": "25",
+        "Team": "Longwood",
+        "GM": "32",
+        "Opp TO": "474",
+        "Avg": "14.81"
+      },
+      {
+        "Rank": "26",
+        "Team": "CSUN",
+        "GM": "33",
+        "Opp TO": "486",
+        "Avg": "14.73"
+      },
+      {
+        "Rank": "-",
+        "Team": "FIU",
+        "GM": "33",
+        "Opp TO": "486",
+        "Avg": "14.73"
+      },
+      {
+        "Rank": "28",
+        "Team": "Marquette",
+        "GM": "34",
+        "Opp TO": "500",
+        "Avg": "14.71"
+      },
+      {
+        "Rank": "29",
+        "Team": "McNeese",
+        "GM": "35",
+        "Opp TO": "512",
+        "Avg": "14.63"
+      },
+      {
+        "Rank": "30",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "Opp TO": "511",
+        "Avg": "14.60"
+      },
+      {
+        "Rank": "31",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "Opp TO": "466",
+        "Avg": "14.56"
+      },
+      {
+        "Rank": "32",
+        "Team": "Portland St.",
+        "GM": "32",
+        "Opp TO": "464",
+        "Avg": "14.50"
+      },
+      {
+        "Rank": "33",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "Opp TO": "434",
+        "Avg": "14.47"
+      },
+      {
+        "Rank": "34",
+        "Team": "Winthrop",
+        "GM": "34",
+        "Opp TO": "489",
+        "Avg": "14.38"
+      },
+      {
+        "Rank": "35",
+        "Team": "Prairie View",
+        "GM": "32",
+        "Opp TO": "460",
+        "Avg": "14.38"
+      },
+      {
+        "Rank": "-",
+        "Team": "Seattle U",
+        "GM": "32",
+        "Opp TO": "460",
+        "Avg": "14.38"
+      },
+      {
+        "Rank": "37",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "Opp TO": "501",
+        "Avg": "14.31"
+      },
+      {
+        "Rank": "38",
+        "Team": "Maryland",
+        "GM": "36",
+        "Opp TO": "511",
+        "Avg": "14.19"
+      },
+      {
+        "Rank": "39",
+        "Team": "SFA",
+        "GM": "31",
+        "Opp TO": "439",
+        "Avg": "14.16"
+      },
+      {
+        "Rank": "40",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "Opp TO": "480",
+        "Avg": "14.12"
+      },
+      {
+        "Rank": "41",
+        "Team": "Missouri",
+        "GM": "34",
+        "Opp TO": "479",
+        "Avg": "14.09"
+      },
+      {
+        "Rank": "42",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "Opp TO": "507",
+        "Avg": "14.08"
+      },
+      {
+        "Rank": "43",
+        "Team": "Penn St.",
+        "GM": "31",
+        "Opp TO": "436",
+        "Avg": "14.06"
+      },
+      {
+        "Rank": "44",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "Opp TO": "450",
+        "Avg": "14.06"
+      },
+      {
+        "Rank": "45",
+        "Team": "South Alabama",
+        "GM": "32",
+        "Opp TO": "449",
+        "Avg": "14.03"
+      },
+      {
+        "Rank": "46",
+        "Team": "UAlbany",
+        "GM": "33",
+        "Opp TO": "460",
+        "Avg": "13.94"
+      },
+      {
+        "Rank": "47",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "Opp TO": "459",
+        "Avg": "13.91"
+      },
+      {
+        "Rank": "48",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "Opp TO": "457",
+        "Avg": "13.85"
+      },
+      {
+        "Rank": "49",
+        "Team": "Utah St.",
+        "GM": "34",
+        "Opp TO": "469",
+        "Avg": "13.79"
+      },
+      {
+        "Rank": "50",
+        "Team": "VCU",
+        "GM": "35",
+        "Opp TO": "481",
+        "Avg": "13.74"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "Opp TO": "452",
+        "Avg": "13.70"
+      },
+      {
+        "Rank": "52",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "Opp TO": "438",
+        "Avg": "13.69"
+      },
+      {
+        "Rank": "53",
+        "Team": "Memphis",
+        "GM": "35",
+        "Opp TO": "477",
+        "Avg": "13.63"
+      },
+      {
+        "Rank": "54",
+        "Team": "Drake",
+        "GM": "35",
+        "Opp TO": "476",
+        "Avg": "13.60"
+      },
+      {
+        "Rank": "55",
+        "Team": "Troy",
+        "GM": "34",
+        "Opp TO": "462",
+        "Avg": "13.59"
+      },
+      {
+        "Rank": "56",
+        "Team": "Florida St.",
+        "GM": "32",
+        "Opp TO": "431",
+        "Avg": "13.47"
+      },
+      {
+        "Rank": "57",
+        "Team": "Duquesne",
+        "GM": "32",
+        "Opp TO": "430",
+        "Avg": "13.44"
+      },
+      {
+        "Rank": "-",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "Opp TO": "430",
+        "Avg": "13.44"
+      },
+      {
+        "Rank": "59",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "Opp TO": "456",
+        "Avg": "13.41"
+      },
+      {
+        "Rank": "60",
+        "Team": "LIU",
+        "GM": "33",
+        "Opp TO": "442",
+        "Avg": "13.39"
+      },
+      {
+        "Rank": "-",
+        "Team": "South Dakota",
+        "GM": "33",
+        "Opp TO": "442",
+        "Avg": "13.39"
+      },
+      {
+        "Rank": "62",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "Opp TO": "427",
+        "Avg": "13.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "Opp TO": "427",
+        "Avg": "13.34"
+      },
+      {
+        "Rank": "64",
+        "Team": "Northwestern",
+        "GM": "33",
+        "Opp TO": "439",
+        "Avg": "13.30"
+      },
+      {
+        "Rank": "65",
+        "Team": "Clemson",
+        "GM": "34",
+        "Opp TO": "452",
+        "Avg": "13.29"
+      },
+      {
+        "Rank": "-",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "Opp TO": "452",
+        "Avg": "13.29"
+      },
+      {
+        "Rank": "67",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "Opp TO": "412",
+        "Avg": "13.29"
+      },
+      {
+        "Rank": "68",
+        "Team": "San Diego",
+        "GM": "33",
+        "Opp TO": "438",
+        "Avg": "13.27"
+      },
+      {
+        "Rank": "69",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "Opp TO": "451",
+        "Avg": "13.26"
+      },
+      {
+        "Rank": "70",
+        "Team": "George Washington",
+        "GM": "34",
+        "Opp TO": "450",
+        "Avg": "13.24"
+      },
+      {
+        "Rank": "-",
+        "Team": "Georgetown",
+        "GM": "34",
+        "Opp TO": "450",
+        "Avg": "13.24"
+      },
+      {
+        "Rank": "72",
+        "Team": "Houston",
+        "GM": "40",
+        "Opp TO": "529",
+        "Avg": "13.22"
+      },
+      {
+        "Rank": "73",
+        "Team": "UT Martin",
+        "GM": "33",
+        "Opp TO": "436",
+        "Avg": "13.21"
+      },
+      {
+        "Rank": "74",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "Opp TO": "461",
+        "Avg": "13.17"
+      },
+      {
+        "Rank": "75",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "Opp TO": "474",
+        "Avg": "13.17"
+      },
+      {
+        "Rank": "76",
+        "Team": "South Fla.",
+        "GM": "32",
+        "Opp TO": "421",
+        "Avg": "13.16"
+      },
+      {
+        "Rank": "-",
+        "Team": "TCU",
+        "GM": "32",
+        "Opp TO": "421",
+        "Avg": "13.16"
+      },
+      {
+        "Rank": "78",
+        "Team": "Campbell",
+        "GM": "32",
+        "Opp TO": "420",
+        "Avg": "13.12"
+      },
+      {
+        "Rank": "79",
+        "Team": "Louisiana",
+        "GM": "33",
+        "Opp TO": "433",
+        "Avg": "13.12"
+      },
+      {
+        "Rank": "80",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "Opp TO": "406",
+        "Avg": "13.10"
+      },
+      {
+        "Rank": "81",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "Opp TO": "419",
+        "Avg": "13.09"
+      },
+      {
+        "Rank": "82",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "Opp TO": "418",
+        "Avg": "13.06"
+      },
+      {
+        "Rank": "83",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "Opp TO": "431",
+        "Avg": "13.06"
+      },
+      {
+        "Rank": "84",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "Opp TO": "457",
+        "Avg": "13.06"
+      },
+      {
+        "Rank": "-",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "Opp TO": "457",
+        "Avg": "13.06"
+      },
+      {
+        "Rank": "86",
+        "Team": "UCF",
+        "GM": "37",
+        "Opp TO": "482",
+        "Avg": "13.03"
+      },
+      {
+        "Rank": "87",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "Opp TO": "416",
+        "Avg": "13.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "Opp TO": "429",
+        "Avg": "13.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "Opp TO": "429",
+        "Avg": "13.00"
+      },
+      {
+        "Rank": "90",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "Opp TO": "428",
+        "Avg": "12.97"
+      },
+      {
+        "Rank": "91",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "Opp TO": "415",
+        "Avg": "12.97"
+      },
+      {
+        "Rank": "92",
+        "Team": "Hampton",
+        "GM": "33",
+        "Opp TO": "427",
+        "Avg": "12.94"
+      },
+      {
+        "Rank": "93",
+        "Team": "Denver",
+        "GM": "32",
+        "Opp TO": "414",
+        "Avg": "12.94"
+      },
+      {
+        "Rank": "-",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "Opp TO": "414",
+        "Avg": "12.94"
+      },
+      {
+        "Rank": "95",
+        "Team": "Mercer",
+        "GM": "33",
+        "Opp TO": "426",
+        "Avg": "12.91"
+      },
+      {
+        "Rank": "96",
+        "Team": "William & Mary",
+        "GM": "32",
+        "Opp TO": "413",
+        "Avg": "12.91"
+      },
+      {
+        "Rank": "97",
+        "Team": "Ohio",
+        "GM": "32",
+        "Opp TO": "412",
+        "Avg": "12.88"
+      },
+      {
+        "Rank": "98",
+        "Team": "West Virginia",
+        "GM": "32",
+        "Opp TO": "411",
+        "Avg": "12.84"
+      },
+      {
+        "Rank": "99",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "Opp TO": "449",
+        "Avg": "12.83"
+      },
+      {
+        "Rank": "100",
+        "Team": "Iowa",
+        "GM": "33",
+        "Opp TO": "423",
+        "Avg": "12.82"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "Opp TO": "410",
+        "Avg": "12.81"
+      },
+      {
+        "Rank": "102",
+        "Team": "George Mason",
+        "GM": "36",
+        "Opp TO": "461",
+        "Avg": "12.81"
+      },
+      {
+        "Rank": "103",
+        "Team": "Louisville",
+        "GM": "35",
+        "Opp TO": "448",
+        "Avg": "12.80"
+      },
+      {
+        "Rank": "104",
+        "Team": "UMBC",
+        "GM": "32",
+        "Opp TO": "409",
+        "Avg": "12.78"
+      },
+      {
+        "Rank": "105",
+        "Team": "UTRGV",
+        "GM": "31",
+        "Opp TO": "396",
+        "Avg": "12.77"
+      },
+      {
+        "Rank": "106",
+        "Team": "ETSU",
+        "GM": "32",
+        "Opp TO": "408",
+        "Avg": "12.75"
+      },
+      {
+        "Rank": "107",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "Opp TO": "433",
+        "Avg": "12.74"
+      },
+      {
+        "Rank": "108",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "Opp TO": "432",
+        "Avg": "12.71"
+      },
+      {
+        "Rank": "109",
+        "Team": "FDU",
+        "GM": "33",
+        "Opp TO": "419",
+        "Avg": "12.70"
+      },
+      {
+        "Rank": "110",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "Opp TO": "406",
+        "Avg": "12.69"
+      },
+      {
+        "Rank": "111",
+        "Team": "Akron",
+        "GM": "35",
+        "Opp TO": "444",
+        "Avg": "12.69"
+      },
+      {
+        "Rank": "112",
+        "Team": "NIU",
+        "GM": "31",
+        "Opp TO": "392",
+        "Avg": "12.65"
+      },
+      {
+        "Rank": "113",
+        "Team": "Kent St.",
+        "GM": "36",
+        "Opp TO": "455",
+        "Avg": "12.64"
+      },
+      {
+        "Rank": "114",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "Opp TO": "404",
+        "Avg": "12.62"
+      },
+      {
+        "Rank": "115",
+        "Team": "Wagner",
+        "GM": "30",
+        "Opp TO": "378",
+        "Avg": "12.60"
+      },
+      {
+        "Rank": "116",
+        "Team": "Lamar University",
+        "GM": "33",
+        "Opp TO": "415",
+        "Avg": "12.58"
+      },
+      {
+        "Rank": "117",
+        "Team": "Baylor",
+        "GM": "35",
+        "Opp TO": "440",
+        "Avg": "12.57"
+      },
+      {
+        "Rank": "118",
+        "Team": "VMI",
+        "GM": "34",
+        "Opp TO": "427",
+        "Avg": "12.56"
+      },
+      {
+        "Rank": "119",
+        "Team": "Buffalo",
+        "GM": "31",
+        "Opp TO": "389",
+        "Avg": "12.55"
+      },
+      {
+        "Rank": "120",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "Opp TO": "401",
+        "Avg": "12.53"
+      },
+      {
+        "Rank": "121",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "Opp TO": "400",
+        "Avg": "12.50"
+      },
+      {
+        "Rank": "-",
+        "Team": "SIUE",
+        "GM": "34",
+        "Opp TO": "425",
+        "Avg": "12.50"
+      },
+      {
+        "Rank": "-",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "Opp TO": "425",
+        "Avg": "12.50"
+      },
+      {
+        "Rank": "124",
+        "Team": "Siena",
+        "GM": "32",
+        "Opp TO": "399",
+        "Avg": "12.47"
+      },
+      {
+        "Rank": "125",
+        "Team": "San Francisco",
+        "GM": "35",
+        "Opp TO": "436",
+        "Avg": "12.46"
+      },
+      {
+        "Rank": "126",
+        "Team": "Nicholls",
+        "GM": "33",
+        "Opp TO": "411",
+        "Avg": "12.45"
+      },
+      {
+        "Rank": "127",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "Opp TO": "485",
+        "Avg": "12.44"
+      },
+      {
+        "Rank": "128",
+        "Team": "SMU",
+        "GM": "35",
+        "Opp TO": "435",
+        "Avg": "12.43"
+      },
+      {
+        "Rank": "129",
+        "Team": "Kansas City",
+        "GM": "33",
+        "Opp TO": "410",
+        "Avg": "12.42"
+      },
+      {
+        "Rank": "-",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "Opp TO": "410",
+        "Avg": "12.42"
+      },
+      {
+        "Rank": "131",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "Opp TO": "385",
+        "Avg": "12.42"
+      },
+      {
+        "Rank": "132",
+        "Team": "Fairfield",
+        "GM": "32",
+        "Opp TO": "397",
+        "Avg": "12.41"
+      },
+      {
+        "Rank": "133",
+        "Team": "Belmont",
+        "GM": "33",
+        "Opp TO": "409",
+        "Avg": "12.39"
+      },
+      {
+        "Rank": "134",
+        "Team": "Grambling",
+        "GM": "34",
+        "Opp TO": "420",
+        "Avg": "12.35"
+      },
+      {
+        "Rank": "-",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "Opp TO": "420",
+        "Avg": "12.35"
+      },
+      {
+        "Rank": "136",
+        "Team": "California Baptist",
+        "GM": "32",
+        "Opp TO": "395",
+        "Avg": "12.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "Opp TO": "395",
+        "Avg": "12.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "Opp TO": "395",
+        "Avg": "12.34"
+      },
+      {
+        "Rank": "139",
+        "Team": "Georgia",
+        "GM": "33",
+        "Opp TO": "407",
+        "Avg": "12.33"
+      },
+      {
+        "Rank": "-",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "Opp TO": "407",
+        "Avg": "12.33"
+      },
+      {
+        "Rank": "-",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "Opp TO": "407",
+        "Avg": "12.33"
+      },
+      {
+        "Rank": "142",
+        "Team": "Washington St.",
+        "GM": "34",
+        "Opp TO": "419",
+        "Avg": "12.32"
+      },
+      {
+        "Rank": "143",
+        "Team": "Nebraska",
+        "GM": "35",
+        "Opp TO": "431",
+        "Avg": "12.31"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southern California",
+        "GM": "35",
+        "Opp TO": "431",
+        "Avg": "12.31"
+      },
+      {
+        "Rank": "145",
+        "Team": "Rutgers",
+        "GM": "32",
+        "Opp TO": "394",
+        "Avg": "12.31"
+      },
+      {
+        "Rank": "-",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "Opp TO": "394",
+        "Avg": "12.31"
+      },
+      {
+        "Rank": "147",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "Opp TO": "406",
+        "Avg": "12.30"
+      },
+      {
+        "Rank": "148",
+        "Team": "Xavier",
+        "GM": "34",
+        "Opp TO": "418",
+        "Avg": "12.29"
+      },
+      {
+        "Rank": "149",
+        "Team": "NC State",
+        "GM": "31",
+        "Opp TO": "381",
+        "Avg": "12.29"
+      },
+      {
+        "Rank": "150",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "Opp TO": "393",
+        "Avg": "12.28"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "Nevada",
+        "GM": "33",
+        "Opp TO": "404",
+        "Avg": "12.24"
+      },
+      {
+        "Rank": "152",
+        "Team": "Northeastern",
+        "GM": "32",
+        "Opp TO": "391",
+        "Avg": "12.22"
+      },
+      {
+        "Rank": "153",
+        "Team": "Arkansas",
+        "GM": "36",
+        "Opp TO": "439",
+        "Avg": "12.19"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Texas",
+        "GM": "36",
+        "Opp TO": "439",
+        "Avg": "12.19"
+      },
+      {
+        "Rank": "155",
+        "Team": "Alcorn",
+        "GM": "32",
+        "Opp TO": "390",
+        "Avg": "12.19"
+      },
+      {
+        "Rank": "156",
+        "Team": "Murray St.",
+        "GM": "33",
+        "Opp TO": "402",
+        "Avg": "12.18"
+      },
+      {
+        "Rank": "157",
+        "Team": "Oregon",
+        "GM": "35",
+        "Opp TO": "425",
+        "Avg": "12.14"
+      },
+      {
+        "Rank": "158",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "Opp TO": "364",
+        "Avg": "12.13"
+      },
+      {
+        "Rank": "-",
+        "Team": "Princeton",
+        "GM": "30",
+        "Opp TO": "364",
+        "Avg": "12.13"
+      },
+      {
+        "Rank": "160",
+        "Team": "Bryant",
+        "GM": "35",
+        "Opp TO": "424",
+        "Avg": "12.11"
+      },
+      {
+        "Rank": "161",
+        "Team": "Liberty",
+        "GM": "35",
+        "Opp TO": "423",
+        "Avg": "12.09"
+      },
+      {
+        "Rank": "162",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "Opp TO": "435",
+        "Avg": "12.08"
+      },
+      {
+        "Rank": "163",
+        "Team": "Fordham",
+        "GM": "33",
+        "Opp TO": "398",
+        "Avg": "12.06"
+      },
+      {
+        "Rank": "-",
+        "Team": "Marshall",
+        "GM": "33",
+        "Opp TO": "398",
+        "Avg": "12.06"
+      },
+      {
+        "Rank": "165",
+        "Team": "Auburn",
+        "GM": "38",
+        "Opp TO": "458",
+        "Avg": "12.05"
+      },
+      {
+        "Rank": "166",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "Opp TO": "337",
+        "Avg": "12.04"
+      },
+      {
+        "Rank": "167",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "Opp TO": "397",
+        "Avg": "12.03"
+      },
+      {
+        "Rank": "168",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "Opp TO": "445",
+        "Avg": "12.03"
+      },
+      {
+        "Rank": "169",
+        "Team": "Columbia",
+        "GM": "27",
+        "Opp TO": "324",
+        "Avg": "12.00"
+      },
+      {
+        "Rank": "170",
+        "Team": "Navy",
+        "GM": "34",
+        "Opp TO": "407",
+        "Avg": "11.97"
+      },
+      {
+        "Rank": "171",
+        "Team": "Bucknell",
+        "GM": "33",
+        "Opp TO": "395",
+        "Avg": "11.97"
+      },
+      {
+        "Rank": "172",
+        "Team": "American",
+        "GM": "35",
+        "Opp TO": "418",
+        "Avg": "11.94"
+      },
+      {
+        "Rank": "173",
+        "Team": "Tulane",
+        "GM": "34",
+        "Opp TO": "406",
+        "Avg": "11.94"
+      },
+      {
+        "Rank": "-",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "Opp TO": "406",
+        "Avg": "11.94"
+      },
+      {
+        "Rank": "175",
+        "Team": "East Carolina",
+        "GM": "33",
+        "Opp TO": "393",
+        "Avg": "11.91"
+      },
+      {
+        "Rank": "176",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "Opp TO": "381",
+        "Avg": "11.91"
+      },
+      {
+        "Rank": "177",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "Opp TO": "368",
+        "Avg": "11.87"
+      },
+      {
+        "Rank": "178",
+        "Team": "Dayton",
+        "GM": "34",
+        "Opp TO": "403",
+        "Avg": "11.85"
+      },
+      {
+        "Rank": "179",
+        "Team": "Washington",
+        "GM": "31",
+        "Opp TO": "367",
+        "Avg": "11.84"
+      },
+      {
+        "Rank": "180",
+        "Team": "UIW",
+        "GM": "36",
+        "Opp TO": "426",
+        "Avg": "11.83"
+      },
+      {
+        "Rank": "181",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "Opp TO": "402",
+        "Avg": "11.82"
+      },
+      {
+        "Rank": "182",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "Opp TO": "390",
+        "Avg": "11.82"
+      },
+      {
+        "Rank": "183",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "Opp TO": "378",
+        "Avg": "11.81"
+      },
+      {
+        "Rank": "184",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "Opp TO": "401",
+        "Avg": "11.79"
+      },
+      {
+        "Rank": "185",
+        "Team": "Howard",
+        "GM": "32",
+        "Opp TO": "377",
+        "Avg": "11.78"
+      },
+      {
+        "Rank": "186",
+        "Team": "UNLV",
+        "GM": "33",
+        "Opp TO": "388",
+        "Avg": "11.76"
+      },
+      {
+        "Rank": "187",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "Opp TO": "376",
+        "Avg": "11.75"
+      },
+      {
+        "Rank": "-",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "Opp TO": "376",
+        "Avg": "11.75"
+      },
+      {
+        "Rank": "189",
+        "Team": "Florida",
+        "GM": "40",
+        "Opp TO": "469",
+        "Avg": "11.72"
+      },
+      {
+        "Rank": "190",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "Opp TO": "375",
+        "Avg": "11.72"
+      },
+      {
+        "Rank": "-",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "Opp TO": "375",
+        "Avg": "11.72"
+      },
+      {
+        "Rank": "192",
+        "Team": "Harvard",
+        "GM": "27",
+        "Opp TO": "316",
+        "Avg": "11.70"
+      },
+      {
+        "Rank": "193",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "Opp TO": "386",
+        "Avg": "11.70"
+      },
+      {
+        "Rank": "194",
+        "Team": "BYU",
+        "GM": "36",
+        "Opp TO": "421",
+        "Avg": "11.69"
+      },
+      {
+        "Rank": "195",
+        "Team": "La Salle",
+        "GM": "33",
+        "Opp TO": "385",
+        "Avg": "11.67"
+      },
+      {
+        "Rank": "196",
+        "Team": "Stanford",
+        "GM": "35",
+        "Opp TO": "408",
+        "Avg": "11.66"
+      },
+      {
+        "Rank": "197",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "Opp TO": "373",
+        "Avg": "11.66"
+      },
+      {
+        "Rank": "198",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "Opp TO": "384",
+        "Avg": "11.64"
+      },
+      {
+        "Rank": "-",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "Opp TO": "384",
+        "Avg": "11.64"
+      },
+      {
+        "Rank": "-",
+        "Team": "UNI",
+        "GM": "33",
+        "Opp TO": "384",
+        "Avg": "11.64"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "201",
+        "Team": "LSU",
+        "GM": "32",
+        "Opp TO": "372",
+        "Avg": "11.62"
+      },
+      {
+        "Rank": "-",
+        "Team": "Texas St.",
+        "GM": "32",
+        "Opp TO": "372",
+        "Avg": "11.62"
+      },
+      {
+        "Rank": "203",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "Opp TO": "395",
+        "Avg": "11.62"
+      },
+      {
+        "Rank": "-",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "Opp TO": "395",
+        "Avg": "11.62"
+      },
+      {
+        "Rank": "205",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "Opp TO": "360",
+        "Avg": "11.61"
+      },
+      {
+        "Rank": "206",
+        "Team": "Purdue",
+        "GM": "36",
+        "Opp TO": "418",
+        "Avg": "11.61"
+      },
+      {
+        "Rank": "207",
+        "Team": "Army West Point",
+        "GM": "33",
+        "Opp TO": "383",
+        "Avg": "11.61"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "Opp TO": "383",
+        "Avg": "11.61"
+      },
+      {
+        "Rank": "209",
+        "Team": "High Point",
+        "GM": "35",
+        "Opp TO": "405",
+        "Avg": "11.57"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Ala.",
+        "GM": "35",
+        "Opp TO": "405",
+        "Avg": "11.57"
+      },
+      {
+        "Rank": "211",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "Opp TO": "370",
+        "Avg": "11.56"
+      },
+      {
+        "Rank": "212",
+        "Team": "UNCW",
+        "GM": "35",
+        "Opp TO": "404",
+        "Avg": "11.54"
+      },
+      {
+        "Rank": "213",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "Opp TO": "427",
+        "Avg": "11.54"
+      },
+      {
+        "Rank": "214",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "Opp TO": "357",
+        "Avg": "11.52"
+      },
+      {
+        "Rank": "-",
+        "Team": "UIC",
+        "GM": "31",
+        "Opp TO": "357",
+        "Avg": "11.52"
+      },
+      {
+        "Rank": "216",
+        "Team": "Towson",
+        "GM": "33",
+        "Opp TO": "380",
+        "Avg": "11.52"
+      },
+      {
+        "Rank": "217",
+        "Team": "Arizona",
+        "GM": "37",
+        "Opp TO": "425",
+        "Avg": "11.49"
+      },
+      {
+        "Rank": "218",
+        "Team": "Lafayette",
+        "GM": "33",
+        "Opp TO": "379",
+        "Avg": "11.48"
+      },
+      {
+        "Rank": "219",
+        "Team": "Tennessee",
+        "GM": "38",
+        "Opp TO": "436",
+        "Avg": "11.47"
+      },
+      {
+        "Rank": "220",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "Opp TO": "389",
+        "Avg": "11.44"
+      },
+      {
+        "Rank": "221",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "Opp TO": "377",
+        "Avg": "11.42"
+      },
+      {
+        "Rank": "222",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "Opp TO": "364",
+        "Avg": "11.38"
+      },
+      {
+        "Rank": "-",
+        "Team": "ULM",
+        "GM": "32",
+        "Opp TO": "364",
+        "Avg": "11.38"
+      },
+      {
+        "Rank": "224",
+        "Team": "Texas",
+        "GM": "35",
+        "Opp TO": "398",
+        "Avg": "11.37"
+      },
+      {
+        "Rank": "225",
+        "Team": "California",
+        "GM": "33",
+        "Opp TO": "375",
+        "Avg": "11.36"
+      },
+      {
+        "Rank": "226",
+        "Team": "Duke",
+        "GM": "39",
+        "Opp TO": "443",
+        "Avg": "11.36"
+      },
+      {
+        "Rank": "227",
+        "Team": "Cornell",
+        "GM": "29",
+        "Opp TO": "329",
+        "Avg": "11.34"
+      },
+      {
+        "Rank": "228",
+        "Team": "Indiana",
+        "GM": "32",
+        "Opp TO": "363",
+        "Avg": "11.34"
+      },
+      {
+        "Rank": "229",
+        "Team": "Monmouth",
+        "GM": "33",
+        "Opp TO": "373",
+        "Avg": "11.30"
+      },
+      {
+        "Rank": "230",
+        "Team": "Yale",
+        "GM": "30",
+        "Opp TO": "339",
+        "Avg": "11.30"
+      },
+      {
+        "Rank": "231",
+        "Team": "Niagara",
+        "GM": "31",
+        "Opp TO": "350",
+        "Avg": "11.29"
+      },
+      {
+        "Rank": "232",
+        "Team": "Michigan",
+        "GM": "37",
+        "Opp TO": "417",
+        "Avg": "11.27"
+      },
+      {
+        "Rank": "233",
+        "Team": "New Orleans",
+        "GM": "31",
+        "Opp TO": "349",
+        "Avg": "11.26"
+      },
+      {
+        "Rank": "234",
+        "Team": "Furman",
+        "GM": "35",
+        "Opp TO": "394",
+        "Avg": "11.26"
+      },
+      {
+        "Rank": "235",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "Opp TO": "371",
+        "Avg": "11.24"
+      },
+      {
+        "Rank": "236",
+        "Team": "Weber St.",
+        "GM": "34",
+        "Opp TO": "382",
+        "Avg": "11.24"
+      },
+      {
+        "Rank": "237",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "Opp TO": "403",
+        "Avg": "11.19"
+      },
+      {
+        "Rank": "238",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "Opp TO": "425",
+        "Avg": "11.18"
+      },
+      {
+        "Rank": "239",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "Opp TO": "391",
+        "Avg": "11.17"
+      },
+      {
+        "Rank": "-",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "Opp TO": "391",
+        "Avg": "11.17"
+      },
+      {
+        "Rank": "241",
+        "Team": "Colorado",
+        "GM": "35",
+        "Opp TO": "390",
+        "Avg": "11.14"
+      },
+      {
+        "Rank": "242",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "Opp TO": "345",
+        "Avg": "11.13"
+      },
+      {
+        "Rank": "243",
+        "Team": "Evansville",
+        "GM": "32",
+        "Opp TO": "355",
+        "Avg": "11.09"
+      },
+      {
+        "Rank": "-",
+        "Team": "IU Indy",
+        "GM": "32",
+        "Opp TO": "355",
+        "Avg": "11.09"
+      },
+      {
+        "Rank": "245",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "Opp TO": "377",
+        "Avg": "11.09"
+      },
+      {
+        "Rank": "246",
+        "Team": "Bradley",
+        "GM": "37",
+        "Opp TO": "410",
+        "Avg": "11.08"
+      },
+      {
+        "Rank": "247",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "Opp TO": "354",
+        "Avg": "11.06"
+      },
+      {
+        "Rank": "248",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "Opp TO": "376",
+        "Avg": "11.06"
+      },
+      {
+        "Rank": "249",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "Opp TO": "387",
+        "Avg": "11.06"
+      },
+      {
+        "Rank": "250",
+        "Team": "UAB",
+        "GM": "37",
+        "Opp TO": "409",
+        "Avg": "11.05"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "Colgate",
+        "GM": "33",
+        "Opp TO": "364",
+        "Avg": "11.03"
+      },
+      {
+        "Rank": "-",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "Opp TO": "364",
+        "Avg": "11.03"
+      },
+      {
+        "Rank": "-",
+        "Team": "Radford",
+        "GM": "33",
+        "Opp TO": "364",
+        "Avg": "11.03"
+      },
+      {
+        "Rank": "254",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "Opp TO": "375",
+        "Avg": "11.03"
+      },
+      {
+        "Rank": "255",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "Opp TO": "408",
+        "Avg": "11.03"
+      },
+      {
+        "Rank": "256",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "Opp TO": "396",
+        "Avg": "11.00"
+      },
+      {
+        "Rank": "257",
+        "Team": "Boise St.",
+        "GM": "37",
+        "Opp TO": "406",
+        "Avg": "10.97"
+      },
+      {
+        "Rank": "258",
+        "Team": "Delaware",
+        "GM": "36",
+        "Opp TO": "395",
+        "Avg": "10.97"
+      },
+      {
+        "Rank": "259",
+        "Team": "Hofstra",
+        "GM": "33",
+        "Opp TO": "362",
+        "Avg": "10.97"
+      },
+      {
+        "Rank": "-",
+        "Team": "Toledo",
+        "GM": "33",
+        "Opp TO": "362",
+        "Avg": "10.97"
+      },
+      {
+        "Rank": "261",
+        "Team": "Brown",
+        "GM": "27",
+        "Opp TO": "296",
+        "Avg": "10.96"
+      },
+      {
+        "Rank": "262",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "Opp TO": "383",
+        "Avg": "10.94"
+      },
+      {
+        "Rank": "263",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "Opp TO": "372",
+        "Avg": "10.94"
+      },
+      {
+        "Rank": "264",
+        "Team": "Boston U.",
+        "GM": "32",
+        "Opp TO": "350",
+        "Avg": "10.94"
+      },
+      {
+        "Rank": "-",
+        "Team": "North Florida",
+        "GM": "32",
+        "Opp TO": "350",
+        "Avg": "10.94"
+      },
+      {
+        "Rank": "-",
+        "Team": "Temple",
+        "GM": "32",
+        "Opp TO": "350",
+        "Avg": "10.94"
+      },
+      {
+        "Rank": "-",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "Opp TO": "350",
+        "Avg": "10.94"
+      },
+      {
+        "Rank": "268",
+        "Team": "Kansas",
+        "GM": "34",
+        "Opp TO": "371",
+        "Avg": "10.91"
+      },
+      {
+        "Rank": "269",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "Opp TO": "349",
+        "Avg": "10.91"
+      },
+      {
+        "Rank": "270",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "Opp TO": "338",
+        "Avg": "10.90"
+      },
+      {
+        "Rank": "271",
+        "Team": "North Carolina",
+        "GM": "37",
+        "Opp TO": "403",
+        "Avg": "10.89"
+      },
+      {
+        "Rank": "272",
+        "Team": "Montana",
+        "GM": "35",
+        "Opp TO": "381",
+        "Avg": "10.89"
+      },
+      {
+        "Rank": "273",
+        "Team": "Canisius",
+        "GM": "31",
+        "Opp TO": "337",
+        "Avg": "10.87"
+      },
+      {
+        "Rank": "274",
+        "Team": "Lehigh",
+        "GM": "30",
+        "Opp TO": "326",
+        "Avg": "10.87"
+      },
+      {
+        "Rank": "-",
+        "Team": "The Citadel",
+        "GM": "30",
+        "Opp TO": "326",
+        "Avg": "10.87"
+      },
+      {
+        "Rank": "276",
+        "Team": "Utah",
+        "GM": "33",
+        "Opp TO": "358",
+        "Avg": "10.85"
+      },
+      {
+        "Rank": "277",
+        "Team": "UMES",
+        "GM": "31",
+        "Opp TO": "336",
+        "Avg": "10.84"
+      },
+      {
+        "Rank": "278",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "Opp TO": "357",
+        "Avg": "10.82"
+      },
+      {
+        "Rank": "279",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "Opp TO": "346",
+        "Avg": "10.81"
+      },
+      {
+        "Rank": "280",
+        "Team": "North Dakota",
+        "GM": "33",
+        "Opp TO": "356",
+        "Avg": "10.79"
+      },
+      {
+        "Rank": "281",
+        "Team": "Oakland",
+        "GM": "34",
+        "Opp TO": "366",
+        "Avg": "10.76"
+      },
+      {
+        "Rank": "282",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "Opp TO": "387",
+        "Avg": "10.75"
+      },
+      {
+        "Rank": "-",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "Opp TO": "344",
+        "Avg": "10.75"
+      },
+      {
+        "Rank": "284",
+        "Team": "DePaul",
+        "GM": "34",
+        "Opp TO": "365",
+        "Avg": "10.74"
+      },
+      {
+        "Rank": "-",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "Opp TO": "365",
+        "Avg": "10.74"
+      },
+      {
+        "Rank": "286",
+        "Team": "Vermont",
+        "GM": "33",
+        "Opp TO": "353",
+        "Avg": "10.70"
+      },
+      {
+        "Rank": "287",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "Opp TO": "342",
+        "Avg": "10.69"
+      },
+      {
+        "Rank": "288",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "Opp TO": "374",
+        "Avg": "10.69"
+      },
+      {
+        "Rank": "289",
+        "Team": "Boston College",
+        "GM": "31",
+        "Opp TO": "330",
+        "Avg": "10.65"
+      },
+      {
+        "Rank": "290",
+        "Team": "Idaho",
+        "GM": "33",
+        "Opp TO": "351",
+        "Avg": "10.64"
+      },
+      {
+        "Rank": "-",
+        "Team": "Pacific",
+        "GM": "33",
+        "Opp TO": "351",
+        "Avg": "10.64"
+      },
+      {
+        "Rank": "292",
+        "Team": "Marist",
+        "GM": "30",
+        "Opp TO": "319",
+        "Avg": "10.63"
+      },
+      {
+        "Rank": "293",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "Opp TO": "372",
+        "Avg": "10.63"
+      },
+      {
+        "Rank": "294",
+        "Team": "Minnesota",
+        "GM": "32",
+        "Opp TO": "339",
+        "Avg": "10.59"
+      },
+      {
+        "Rank": "295",
+        "Team": "Montana St.",
+        "GM": "33",
+        "Opp TO": "349",
+        "Avg": "10.58"
+      },
+      {
+        "Rank": "296",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "Opp TO": "370",
+        "Avg": "10.57"
+      },
+      {
+        "Rank": "297",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "Opp TO": "338",
+        "Avg": "10.56"
+      },
+      {
+        "Rank": "298",
+        "Team": "Davidson",
+        "GM": "33",
+        "Opp TO": "348",
+        "Avg": "10.55"
+      },
+      {
+        "Rank": "299",
+        "Team": "South Carolina",
+        "GM": "32",
+        "Opp TO": "335",
+        "Avg": "10.47"
+      },
+      {
+        "Rank": "-",
+        "Team": "Wyoming",
+        "GM": "32",
+        "Opp TO": "335",
+        "Avg": "10.47"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "301",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "Opp TO": "292",
+        "Avg": "10.43"
+      },
+      {
+        "Rank": "302",
+        "Team": "Rider",
+        "GM": "33",
+        "Opp TO": "344",
+        "Avg": "10.42"
+      },
+      {
+        "Rank": "303",
+        "Team": "Richmond",
+        "GM": "32",
+        "Opp TO": "333",
+        "Avg": "10.41"
+      },
+      {
+        "Rank": "-",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "Opp TO": "333",
+        "Avg": "10.41"
+      },
+      {
+        "Rank": "305",
+        "Team": "Manhattan",
+        "GM": "31",
+        "Opp TO": "322",
+        "Avg": "10.39"
+      },
+      {
+        "Rank": "306",
+        "Team": "James Madison",
+        "GM": "32",
+        "Opp TO": "332",
+        "Avg": "10.38"
+      },
+      {
+        "Rank": "307",
+        "Team": "Omaha",
+        "GM": "35",
+        "Opp TO": "363",
+        "Avg": "10.37"
+      },
+      {
+        "Rank": "308",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "Opp TO": "321",
+        "Avg": "10.35"
+      },
+      {
+        "Rank": "309",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "Opp TO": "352",
+        "Avg": "10.35"
+      },
+      {
+        "Rank": "310",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "Opp TO": "331",
+        "Avg": "10.34"
+      },
+      {
+        "Rank": "311",
+        "Team": "Alabama",
+        "GM": "37",
+        "Opp TO": "382",
+        "Avg": "10.32"
+      },
+      {
+        "Rank": "312",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "Opp TO": "320",
+        "Avg": "10.32"
+      },
+      {
+        "Rank": "-",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "Opp TO": "320",
+        "Avg": "10.32"
+      },
+      {
+        "Rank": "314",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "Opp TO": "309",
+        "Avg": "10.30"
+      },
+      {
+        "Rank": "315",
+        "Team": "UConn",
+        "GM": "35",
+        "Opp TO": "359",
+        "Avg": "10.26"
+      },
+      {
+        "Rank": "316",
+        "Team": "Kentucky",
+        "GM": "36",
+        "Opp TO": "369",
+        "Avg": "10.25"
+      },
+      {
+        "Rank": "317",
+        "Team": "Air Force",
+        "GM": "32",
+        "Opp TO": "327",
+        "Avg": "10.22"
+      },
+      {
+        "Rank": "318",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "Opp TO": "316",
+        "Avg": "10.19"
+      },
+      {
+        "Rank": "319",
+        "Team": "Wright St.",
+        "GM": "33",
+        "Opp TO": "336",
+        "Avg": "10.18"
+      },
+      {
+        "Rank": "320",
+        "Team": "Wofford",
+        "GM": "35",
+        "Opp TO": "356",
+        "Avg": "10.17"
+      },
+      {
+        "Rank": "321",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "Opp TO": "305",
+        "Avg": "10.17"
+      },
+      {
+        "Rank": "322",
+        "Team": "Villanova",
+        "GM": "36",
+        "Opp TO": "364",
+        "Avg": "10.11"
+      },
+      {
+        "Rank": "323",
+        "Team": "Ball St.",
+        "GM": "31",
+        "Opp TO": "313",
+        "Avg": "10.10"
+      },
+      {
+        "Rank": "324",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "Opp TO": "331",
+        "Avg": "10.03"
+      },
+      {
+        "Rank": "-",
+        "Team": "Tulsa",
+        "GM": "33",
+        "Opp TO": "331",
+        "Avg": "10.03"
+      },
+      {
+        "Rank": "326",
+        "Team": "Green Bay",
+        "GM": "32",
+        "Opp TO": "320",
+        "Avg": "10.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "Opp TO": "320",
+        "Avg": "10.00"
+      },
+      {
+        "Rank": "328",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "Opp TO": "369",
+        "Avg": "9.97"
+      },
+      {
+        "Rank": "329",
+        "Team": "Syracuse",
+        "GM": "33",
+        "Opp TO": "324",
+        "Avg": "9.82"
+      },
+      {
+        "Rank": "330",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "Opp TO": "312",
+        "Avg": "9.75"
+      },
+      {
+        "Rank": "331",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "Opp TO": "310",
+        "Avg": "9.69"
+      },
+      {
+        "Rank": "332",
+        "Team": "Charlotte",
+        "GM": "33",
+        "Opp TO": "319",
+        "Avg": "9.67"
+      },
+      {
+        "Rank": "333",
+        "Team": "Virginia",
+        "GM": "32",
+        "Opp TO": "309",
+        "Avg": "9.66"
+      },
+      {
+        "Rank": "334",
+        "Team": "Portland",
+        "GM": "32",
+        "Opp TO": "305",
+        "Avg": "9.53"
+      },
+      {
+        "Rank": "335",
+        "Team": "App State",
+        "GM": "31",
+        "Opp TO": "295",
+        "Avg": "9.52"
+      },
+      {
+        "Rank": "-",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "Opp TO": "295",
+        "Avg": "9.52"
+      },
+      {
+        "Rank": "337",
+        "Team": "Drexel",
+        "GM": "33",
+        "Opp TO": "313",
+        "Avg": "9.48"
+      },
+      {
+        "Rank": "338",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "Opp TO": "301",
+        "Avg": "9.41"
+      },
+      {
+        "Rank": "339",
+        "Team": "FGCU",
+        "GM": "34",
+        "Opp TO": "319",
+        "Avg": "9.38"
+      },
+      {
+        "Rank": "340",
+        "Team": "NJIT",
+        "GM": "31",
+        "Opp TO": "290",
+        "Avg": "9.35"
+      },
+      {
+        "Rank": "341",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "Opp TO": "299",
+        "Avg": "9.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "Rice",
+        "GM": "32",
+        "Opp TO": "299",
+        "Avg": "9.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "Stetson",
+        "GM": "32",
+        "Opp TO": "299",
+        "Avg": "9.34"
+      },
+      {
+        "Rank": "344",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "Opp TO": "308",
+        "Avg": "9.33"
+      },
+      {
+        "Rank": "345",
+        "Team": "Providence",
+        "GM": "32",
+        "Opp TO": "295",
+        "Avg": "9.22"
+      },
+      {
+        "Rank": "346",
+        "Team": "Penn",
+        "GM": "27",
+        "Opp TO": "246",
+        "Avg": "9.11"
+      },
+      {
+        "Rank": "347",
+        "Team": "Binghamton",
+        "GM": "32",
+        "Opp TO": "289",
+        "Avg": "9.03"
+      },
+      {
+        "Rank": "348",
+        "Team": "Illinois",
+        "GM": "35",
+        "Opp TO": "315",
+        "Avg": "9.00"
+      },
+      {
+        "Rank": "349",
+        "Team": "Elon",
+        "GM": "33",
+        "Opp TO": "296",
+        "Avg": "8.97"
+      },
+      {
+        "Rank": "350",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "Opp TO": "322",
+        "Avg": "8.94"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Turnovers Forced Per Game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Hawaii",
+        "GM": "31",
+        "Opp TO": "277",
+        "Avg": "8.94"
+      },
+      {
+        "Rank": "352",
+        "Team": "Creighton",
+        "GM": "36",
+        "Opp TO": "285",
+        "Avg": "7.92"
+      },
+      {
+        "Rank": "353",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "Opp TO": "252",
+        "Avg": "7.88"
+      },
+      {
+        "Rank": "354",
+        "Team": "Butler",
+        "GM": "35",
+        "Opp TO": "271",
+        "Avg": "7.74"
+      },
+      {
+        "Rank": "355",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "Opp TO": "224",
+        "Avg": "7.00"
+      }
+    ]
+  }
+]

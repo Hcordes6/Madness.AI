@@ -1,0 +1,2559 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Southern U.",
+        "GM": "32",
+        "Bench": "1253",
+        "PPG": "39.16"
+      },
+      {
+        "Rank": "2",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "Bench": "1197",
+        "PPG": "36.27"
+      },
+      {
+        "Rank": "3",
+        "Team": "Missouri",
+        "GM": "34",
+        "Bench": "1206",
+        "PPG": "35.47"
+      },
+      {
+        "Rank": "4",
+        "Team": "Hampton",
+        "GM": "33",
+        "Bench": "1140",
+        "PPG": "34.55"
+      },
+      {
+        "Rank": "5",
+        "Team": "Akron",
+        "GM": "35",
+        "Bench": "1189",
+        "PPG": "33.97"
+      },
+      {
+        "Rank": "6",
+        "Team": "Alabama",
+        "GM": "37",
+        "Bench": "1252",
+        "PPG": "33.84"
+      },
+      {
+        "Rank": "7",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "Bench": "1244",
+        "PPG": "33.62"
+      },
+      {
+        "Rank": "8",
+        "Team": "William & Mary",
+        "GM": "32",
+        "Bench": "1021",
+        "PPG": "31.91"
+      },
+      {
+        "Rank": "9",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "Bench": "1075",
+        "PPG": "31.62"
+      },
+      {
+        "Rank": "10",
+        "Team": "South Dakota",
+        "GM": "33",
+        "Bench": "1019",
+        "PPG": "30.88"
+      },
+      {
+        "Rank": "11",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "Bench": "985",
+        "PPG": "30.78"
+      },
+      {
+        "Rank": "12",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "Bench": "1015",
+        "PPG": "30.76"
+      },
+      {
+        "Rank": "13",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "Bench": "1070",
+        "PPG": "30.57"
+      },
+      {
+        "Rank": "14",
+        "Team": "Radford",
+        "GM": "33",
+        "Bench": "994",
+        "PPG": "30.12"
+      },
+      {
+        "Rank": "15",
+        "Team": "BYU",
+        "GM": "36",
+        "Bench": "1084",
+        "PPG": "30.11"
+      },
+      {
+        "Rank": "16",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "Bench": "1023",
+        "PPG": "30.09"
+      },
+      {
+        "Rank": "17",
+        "Team": "UT Martin",
+        "GM": "33",
+        "Bench": "981",
+        "PPG": "29.73"
+      },
+      {
+        "Rank": "18",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "Bench": "1008",
+        "PPG": "29.65"
+      },
+      {
+        "Rank": "19",
+        "Team": "Arizona",
+        "GM": "37",
+        "Bench": "1094",
+        "PPG": "29.57"
+      },
+      {
+        "Rank": "20",
+        "Team": "UNCW",
+        "GM": "35",
+        "Bench": "1031",
+        "PPG": "29.46"
+      },
+      {
+        "Rank": "21",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "Bench": "961",
+        "PPG": "29.12"
+      },
+      {
+        "Rank": "22",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "Bench": "930",
+        "PPG": "29.06"
+      },
+      {
+        "Rank": "23",
+        "Team": "Niagara",
+        "GM": "31",
+        "Bench": "885",
+        "PPG": "28.55"
+      },
+      {
+        "Rank": "24",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "Bench": "970",
+        "PPG": "28.53"
+      },
+      {
+        "Rank": "25",
+        "Team": "High Point",
+        "GM": "35",
+        "Bench": "998",
+        "PPG": "28.51"
+      },
+      {
+        "Rank": "26",
+        "Team": "Samford",
+        "GM": "33",
+        "Bench": "940",
+        "PPG": "28.48"
+      },
+      {
+        "Rank": "-",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "Bench": "940",
+        "PPG": "28.48"
+      },
+      {
+        "Rank": "28",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "Bench": "964",
+        "PPG": "28.35"
+      },
+      {
+        "Rank": "29",
+        "Team": "Hawaii",
+        "GM": "31",
+        "Bench": "874",
+        "PPG": "28.19"
+      },
+      {
+        "Rank": "30",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "Bench": "870",
+        "PPG": "28.06"
+      },
+      {
+        "Rank": "31",
+        "Team": "San Diego",
+        "GM": "33",
+        "Bench": "921",
+        "PPG": "27.91"
+      },
+      {
+        "Rank": "32",
+        "Team": "Utah St.",
+        "GM": "34",
+        "Bench": "941",
+        "PPG": "27.68"
+      },
+      {
+        "Rank": "33",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "Bench": "884",
+        "PPG": "27.62"
+      },
+      {
+        "Rank": "34",
+        "Team": "South Fla.",
+        "GM": "32",
+        "Bench": "880",
+        "PPG": "27.50"
+      },
+      {
+        "Rank": "35",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "Bench": "931",
+        "PPG": "27.38"
+      },
+      {
+        "Rank": "36",
+        "Team": "North Florida",
+        "GM": "32",
+        "Bench": "872",
+        "PPG": "27.25"
+      },
+      {
+        "Rank": "37",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "Bench": "840",
+        "PPG": "27.10"
+      },
+      {
+        "Rank": "38",
+        "Team": "Duquesne",
+        "GM": "32",
+        "Bench": "864",
+        "PPG": "27.00"
+      },
+      {
+        "Rank": "39",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "Bench": "941",
+        "PPG": "26.89"
+      },
+      {
+        "Rank": "40",
+        "Team": "Denver",
+        "GM": "32",
+        "Bench": "859",
+        "PPG": "26.84"
+      },
+      {
+        "Rank": "41",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "Bench": "851",
+        "PPG": "26.59"
+      },
+      {
+        "Rank": "42",
+        "Team": "Auburn",
+        "GM": "38",
+        "Bench": "1006",
+        "PPG": "26.47"
+      },
+      {
+        "Rank": "43",
+        "Team": "McNeese",
+        "GM": "35",
+        "Bench": "925",
+        "PPG": "26.43"
+      },
+      {
+        "Rank": "44",
+        "Team": "North Texas",
+        "GM": "36",
+        "Bench": "948",
+        "PPG": "26.33"
+      },
+      {
+        "Rank": "45",
+        "Team": "Montana St.",
+        "GM": "33",
+        "Bench": "866",
+        "PPG": "26.24"
+      },
+      {
+        "Rank": "46",
+        "Team": "UIC",
+        "GM": "31",
+        "Bench": "809",
+        "PPG": "26.10"
+      },
+      {
+        "Rank": "47",
+        "Team": "UCLA",
+        "GM": "34",
+        "Bench": "882",
+        "PPG": "25.94"
+      },
+      {
+        "Rank": "48",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "Bench": "926",
+        "PPG": "25.72"
+      },
+      {
+        "Rank": "49",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "Bench": "823",
+        "PPG": "25.72"
+      },
+      {
+        "Rank": "50",
+        "Team": "Utah",
+        "GM": "33",
+        "Bench": "848",
+        "PPG": "25.70"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "Longwood",
+        "GM": "32",
+        "Bench": "820",
+        "PPG": "25.62"
+      },
+      {
+        "Rank": "52",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "Bench": "816",
+        "PPG": "25.50"
+      },
+      {
+        "Rank": "-",
+        "Team": "Kent St.",
+        "GM": "36",
+        "Bench": "918",
+        "PPG": "25.50"
+      },
+      {
+        "Rank": "54",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "Bench": "813",
+        "PPG": "25.41"
+      },
+      {
+        "Rank": "55",
+        "Team": "UAB",
+        "GM": "37",
+        "Bench": "927",
+        "PPG": "25.05"
+      },
+      {
+        "Rank": "56",
+        "Team": "Temple",
+        "GM": "32",
+        "Bench": "799",
+        "PPG": "24.97"
+      },
+      {
+        "Rank": "57",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "Bench": "844",
+        "PPG": "24.82"
+      },
+      {
+        "Rank": "58",
+        "Team": "Columbia",
+        "GM": "27",
+        "Bench": "668",
+        "PPG": "24.74"
+      },
+      {
+        "Rank": "59",
+        "Team": "Fordham",
+        "GM": "33",
+        "Bench": "812",
+        "PPG": "24.61"
+      },
+      {
+        "Rank": "60",
+        "Team": "DePaul",
+        "GM": "34",
+        "Bench": "835",
+        "PPG": "24.56"
+      },
+      {
+        "Rank": "61",
+        "Team": "Liberty",
+        "GM": "35",
+        "Bench": "856",
+        "PPG": "24.46"
+      },
+      {
+        "Rank": "62",
+        "Team": "Wagner",
+        "GM": "30",
+        "Bench": "733",
+        "PPG": "24.43"
+      },
+      {
+        "Rank": "63",
+        "Team": "Buffalo",
+        "GM": "31",
+        "Bench": "756",
+        "PPG": "24.39"
+      },
+      {
+        "Rank": "64",
+        "Team": "James Madison",
+        "GM": "32",
+        "Bench": "779",
+        "PPG": "24.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "South Alabama",
+        "GM": "32",
+        "Bench": "779",
+        "PPG": "24.34"
+      },
+      {
+        "Rank": "66",
+        "Team": "Nicholls",
+        "GM": "33",
+        "Bench": "802",
+        "PPG": "24.30"
+      },
+      {
+        "Rank": "-",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "Bench": "802",
+        "PPG": "24.30"
+      },
+      {
+        "Rank": "68",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "Bench": "776",
+        "PPG": "24.25"
+      },
+      {
+        "Rank": "69",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "Bench": "870",
+        "PPG": "24.17"
+      },
+      {
+        "Rank": "70",
+        "Team": "Fairfield",
+        "GM": "32",
+        "Bench": "771",
+        "PPG": "24.09"
+      },
+      {
+        "Rank": "71",
+        "Team": "Tulsa",
+        "GM": "33",
+        "Bench": "795",
+        "PPG": "24.09"
+      },
+      {
+        "Rank": "72",
+        "Team": "SMU",
+        "GM": "35",
+        "Bench": "841",
+        "PPG": "24.03"
+      },
+      {
+        "Rank": "73",
+        "Team": "North Carolina",
+        "GM": "37",
+        "Bench": "886",
+        "PPG": "23.95"
+      },
+      {
+        "Rank": "74",
+        "Team": "Colorado",
+        "GM": "35",
+        "Bench": "838",
+        "PPG": "23.94"
+      },
+      {
+        "Rank": "75",
+        "Team": "UTEP",
+        "GM": "33",
+        "Bench": "790",
+        "PPG": "23.94"
+      },
+      {
+        "Rank": "76",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "Bench": "765",
+        "PPG": "23.91"
+      },
+      {
+        "Rank": "77",
+        "Team": "Belmont",
+        "GM": "33",
+        "Bench": "788",
+        "PPG": "23.88"
+      },
+      {
+        "Rank": "-",
+        "Team": "Towson",
+        "GM": "33",
+        "Bench": "788",
+        "PPG": "23.88"
+      },
+      {
+        "Rank": "79",
+        "Team": "Syracuse",
+        "GM": "33",
+        "Bench": "785",
+        "PPG": "23.79"
+      },
+      {
+        "Rank": "80",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "Bench": "761",
+        "PPG": "23.78"
+      },
+      {
+        "Rank": "81",
+        "Team": "Furman",
+        "GM": "35",
+        "Bench": "832",
+        "PPG": "23.77"
+      },
+      {
+        "Rank": "82",
+        "Team": "Illinois",
+        "GM": "35",
+        "Bench": "831",
+        "PPG": "23.74"
+      },
+      {
+        "Rank": "83",
+        "Team": "Rutgers",
+        "GM": "32",
+        "Bench": "759",
+        "PPG": "23.72"
+      },
+      {
+        "Rank": "84",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "Bench": "801",
+        "PPG": "23.56"
+      },
+      {
+        "Rank": "85",
+        "Team": "Boise St.",
+        "GM": "37",
+        "Bench": "871",
+        "PPG": "23.54"
+      },
+      {
+        "Rank": "86",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "Bench": "843",
+        "PPG": "23.42"
+      },
+      {
+        "Rank": "87",
+        "Team": "Iowa",
+        "GM": "33",
+        "Bench": "772",
+        "PPG": "23.39"
+      },
+      {
+        "Rank": "88",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "Bench": "724",
+        "PPG": "23.35"
+      },
+      {
+        "Rank": "89",
+        "Team": "Princeton",
+        "GM": "30",
+        "Bench": "699",
+        "PPG": "23.30"
+      },
+      {
+        "Rank": "90",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "Bench": "766",
+        "PPG": "23.21"
+      },
+      {
+        "Rank": "91",
+        "Team": "Rice",
+        "GM": "32",
+        "Bench": "742",
+        "PPG": "23.19"
+      },
+      {
+        "Rank": "92",
+        "Team": "Troy",
+        "GM": "34",
+        "Bench": "788",
+        "PPG": "23.18"
+      },
+      {
+        "Rank": "93",
+        "Team": "Nebraska",
+        "GM": "35",
+        "Bench": "806",
+        "PPG": "23.03"
+      },
+      {
+        "Rank": "94",
+        "Team": "Bradley",
+        "GM": "37",
+        "Bench": "848",
+        "PPG": "22.92"
+      },
+      {
+        "Rank": "95",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "Bench": "801",
+        "PPG": "22.89"
+      },
+      {
+        "Rank": "96",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "Bench": "708",
+        "PPG": "22.84"
+      },
+      {
+        "Rank": "97",
+        "Team": "LSU",
+        "GM": "32",
+        "Bench": "730",
+        "PPG": "22.81"
+      },
+      {
+        "Rank": "98",
+        "Team": "Idaho",
+        "GM": "33",
+        "Bench": "752",
+        "PPG": "22.79"
+      },
+      {
+        "Rank": "99",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "Bench": "774",
+        "PPG": "22.76"
+      },
+      {
+        "Rank": "100",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "Bench": "727",
+        "PPG": "22.72"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "Georgia",
+        "GM": "33",
+        "Bench": "749",
+        "PPG": "22.70"
+      },
+      {
+        "Rank": "102",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "Bench": "748",
+        "PPG": "22.67"
+      },
+      {
+        "Rank": "103",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "Bench": "770",
+        "PPG": "22.65"
+      },
+      {
+        "Rank": "104",
+        "Team": "UAlbany",
+        "GM": "33",
+        "Bench": "747",
+        "PPG": "22.64"
+      },
+      {
+        "Rank": "105",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "Bench": "791",
+        "PPG": "22.60"
+      },
+      {
+        "Rank": "106",
+        "Team": "Wyoming",
+        "GM": "32",
+        "Bench": "723",
+        "PPG": "22.59"
+      },
+      {
+        "Rank": "107",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "Bench": "722",
+        "PPG": "22.56"
+      },
+      {
+        "Rank": "108",
+        "Team": "CSUN",
+        "GM": "33",
+        "Bench": "744",
+        "PPG": "22.55"
+      },
+      {
+        "Rank": "109",
+        "Team": "Ball St.",
+        "GM": "31",
+        "Bench": "694",
+        "PPG": "22.39"
+      },
+      {
+        "Rank": "110",
+        "Team": "Cornell",
+        "GM": "29",
+        "Bench": "648",
+        "PPG": "22.34"
+      },
+      {
+        "Rank": "111",
+        "Team": "Winthrop",
+        "GM": "34",
+        "Bench": "758",
+        "PPG": "22.29"
+      },
+      {
+        "Rank": "112",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "Bench": "668",
+        "PPG": "22.27"
+      },
+      {
+        "Rank": "113",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "Bench": "734",
+        "PPG": "22.24"
+      },
+      {
+        "Rank": "114",
+        "Team": "Kentucky",
+        "GM": "36",
+        "Bench": "799",
+        "PPG": "22.19"
+      },
+      {
+        "Rank": "115",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "Bench": "774",
+        "PPG": "22.11"
+      },
+      {
+        "Rank": "116",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "Bench": "705",
+        "PPG": "22.03"
+      },
+      {
+        "Rank": "117",
+        "Team": "VCU",
+        "GM": "35",
+        "Bench": "771",
+        "PPG": "22.03"
+      },
+      {
+        "Rank": "118",
+        "Team": "George Mason",
+        "GM": "36",
+        "Bench": "792",
+        "PPG": "22.00"
+      },
+      {
+        "Rank": "119",
+        "Team": "Florida",
+        "GM": "40",
+        "Bench": "879",
+        "PPG": "21.98"
+      },
+      {
+        "Rank": "120",
+        "Team": "Oregon",
+        "GM": "35",
+        "Bench": "768",
+        "PPG": "21.94"
+      },
+      {
+        "Rank": "121",
+        "Team": "NC State",
+        "GM": "31",
+        "Bench": "680",
+        "PPG": "21.94"
+      },
+      {
+        "Rank": "122",
+        "Team": "Texas St.",
+        "GM": "32",
+        "Bench": "701",
+        "PPG": "21.91"
+      },
+      {
+        "Rank": "123",
+        "Team": "Florida St.",
+        "GM": "32",
+        "Bench": "700",
+        "PPG": "21.88"
+      },
+      {
+        "Rank": "124",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "Bench": "742",
+        "PPG": "21.82"
+      },
+      {
+        "Rank": "125",
+        "Team": "SFA",
+        "GM": "31",
+        "Bench": "675",
+        "PPG": "21.77"
+      },
+      {
+        "Rank": "126",
+        "Team": "Louisiana",
+        "GM": "33",
+        "Bench": "717",
+        "PPG": "21.73"
+      },
+      {
+        "Rank": "127",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "Bench": "781",
+        "PPG": "21.69"
+      },
+      {
+        "Rank": "128",
+        "Team": "Lehigh",
+        "GM": "30",
+        "Bench": "649",
+        "PPG": "21.63"
+      },
+      {
+        "Rank": "129",
+        "Team": "Alcorn",
+        "GM": "32",
+        "Bench": "691",
+        "PPG": "21.59"
+      },
+      {
+        "Rank": "130",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "Bench": "689",
+        "PPG": "21.53"
+      },
+      {
+        "Rank": "131",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "Bench": "710",
+        "PPG": "21.52"
+      },
+      {
+        "Rank": "132",
+        "Team": "TCU",
+        "GM": "32",
+        "Bench": "688",
+        "PPG": "21.50"
+      },
+      {
+        "Rank": "133",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "Bench": "666",
+        "PPG": "21.48"
+      },
+      {
+        "Rank": "134",
+        "Team": "Seattle U",
+        "GM": "32",
+        "Bench": "685",
+        "PPG": "21.41"
+      },
+      {
+        "Rank": "135",
+        "Team": "Iona",
+        "GM": "34",
+        "Bench": "727",
+        "PPG": "21.38"
+      },
+      {
+        "Rank": "136",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "Bench": "683",
+        "PPG": "21.34"
+      },
+      {
+        "Rank": "137",
+        "Team": "Washington",
+        "GM": "31",
+        "Bench": "661",
+        "PPG": "21.32"
+      },
+      {
+        "Rank": "138",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "Bench": "805",
+        "PPG": "21.18"
+      },
+      {
+        "Rank": "139",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "Bench": "656",
+        "PPG": "21.16"
+      },
+      {
+        "Rank": "140",
+        "Team": "Grambling",
+        "GM": "34",
+        "Bench": "719",
+        "PPG": "21.15"
+      },
+      {
+        "Rank": "141",
+        "Team": "UMBC",
+        "GM": "32",
+        "Bench": "676",
+        "PPG": "21.12"
+      },
+      {
+        "Rank": "142",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "Bench": "736",
+        "PPG": "21.03"
+      },
+      {
+        "Rank": "143",
+        "Team": "Montana",
+        "GM": "35",
+        "Bench": "735",
+        "PPG": "21.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "UTRGV",
+        "GM": "31",
+        "Bench": "651",
+        "PPG": "21.00"
+      },
+      {
+        "Rank": "145",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "Bench": "712",
+        "PPG": "20.94"
+      },
+      {
+        "Rank": "146",
+        "Team": "Prairie View",
+        "GM": "32",
+        "Bench": "670",
+        "PPG": "20.94"
+      },
+      {
+        "Rank": "147",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "Bench": "586",
+        "PPG": "20.93"
+      },
+      {
+        "Rank": "148",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "Bench": "668",
+        "PPG": "20.88"
+      },
+      {
+        "Rank": "149",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "Bench": "667",
+        "PPG": "20.84"
+      },
+      {
+        "Rank": "150",
+        "Team": "Kansas",
+        "GM": "34",
+        "Bench": "707",
+        "PPG": "20.79"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "Bench": "644",
+        "PPG": "20.77"
+      },
+      {
+        "Rank": "152",
+        "Team": "UConn",
+        "GM": "35",
+        "Bench": "726",
+        "PPG": "20.74"
+      },
+      {
+        "Rank": "153",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "Bench": "684",
+        "PPG": "20.73"
+      },
+      {
+        "Rank": "154",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "Bench": "746",
+        "PPG": "20.72"
+      },
+      {
+        "Rank": "155",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "Bench": "663",
+        "PPG": "20.72"
+      },
+      {
+        "Rank": "156",
+        "Team": "Omaha",
+        "GM": "35",
+        "Bench": "725",
+        "PPG": "20.71"
+      },
+      {
+        "Rank": "157",
+        "Team": "Stetson",
+        "GM": "32",
+        "Bench": "662",
+        "PPG": "20.69"
+      },
+      {
+        "Rank": "158",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "Bench": "578",
+        "PPG": "20.64"
+      },
+      {
+        "Rank": "159",
+        "Team": "North Dakota",
+        "GM": "33",
+        "Bench": "680",
+        "PPG": "20.61"
+      },
+      {
+        "Rank": "160",
+        "Team": "FIU",
+        "GM": "33",
+        "Bench": "679",
+        "PPG": "20.58"
+      },
+      {
+        "Rank": "161",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "Bench": "699",
+        "PPG": "20.56"
+      },
+      {
+        "Rank": "162",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "Bench": "636",
+        "PPG": "20.52"
+      },
+      {
+        "Rank": "163",
+        "Team": "Duke",
+        "GM": "39",
+        "Bench": "800",
+        "PPG": "20.51"
+      },
+      {
+        "Rank": "164",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "Bench": "615",
+        "PPG": "20.50"
+      },
+      {
+        "Rank": "165",
+        "Team": "Boston U.",
+        "GM": "32",
+        "Bench": "653",
+        "PPG": "20.41"
+      },
+      {
+        "Rank": "166",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "Bench": "651",
+        "PPG": "20.34"
+      },
+      {
+        "Rank": "167",
+        "Team": "Air Force",
+        "GM": "32",
+        "Bench": "650",
+        "PPG": "20.31"
+      },
+      {
+        "Rank": "168",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "Bench": "746",
+        "PPG": "20.16"
+      },
+      {
+        "Rank": "169",
+        "Team": "Penn St.",
+        "GM": "31",
+        "Bench": "625",
+        "PPG": "20.16"
+      },
+      {
+        "Rank": "170",
+        "Team": "Wright St.",
+        "GM": "33",
+        "Bench": "663",
+        "PPG": "20.09"
+      },
+      {
+        "Rank": "171",
+        "Team": "Mercer",
+        "GM": "33",
+        "Bench": "662",
+        "PPG": "20.06"
+      },
+      {
+        "Rank": "172",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "Bench": "722",
+        "PPG": "20.06"
+      },
+      {
+        "Rank": "173",
+        "Team": "Campbell",
+        "GM": "32",
+        "Bench": "640",
+        "PPG": "20.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "The Citadel",
+        "GM": "30",
+        "Bench": "600",
+        "PPG": "20.00"
+      },
+      {
+        "Rank": "175",
+        "Team": "Portland St.",
+        "GM": "32",
+        "Bench": "639",
+        "PPG": "19.97"
+      },
+      {
+        "Rank": "176",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "Bench": "738",
+        "PPG": "19.95"
+      },
+      {
+        "Rank": "177",
+        "Team": "Boston College",
+        "GM": "31",
+        "Bench": "618",
+        "PPG": "19.94"
+      },
+      {
+        "Rank": "178",
+        "Team": "Tennessee",
+        "GM": "38",
+        "Bench": "757",
+        "PPG": "19.92"
+      },
+      {
+        "Rank": "179",
+        "Team": "Indiana",
+        "GM": "32",
+        "Bench": "637",
+        "PPG": "19.91"
+      },
+      {
+        "Rank": "-",
+        "Team": "Providence",
+        "GM": "32",
+        "Bench": "637",
+        "PPG": "19.91"
+      },
+      {
+        "Rank": "181",
+        "Team": "Drake",
+        "GM": "35",
+        "Bench": "696",
+        "PPG": "19.89"
+      },
+      {
+        "Rank": "182",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "Bench": "636",
+        "PPG": "19.88"
+      },
+      {
+        "Rank": "183",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "Bench": "635",
+        "PPG": "19.84"
+      },
+      {
+        "Rank": "184",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "Bench": "613",
+        "PPG": "19.77"
+      },
+      {
+        "Rank": "185",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "Bench": "652",
+        "PPG": "19.76"
+      },
+      {
+        "Rank": "186",
+        "Team": "Nevada",
+        "GM": "33",
+        "Bench": "651",
+        "PPG": "19.73"
+      },
+      {
+        "Rank": "187",
+        "Team": "Manhattan",
+        "GM": "31",
+        "Bench": "611",
+        "PPG": "19.71"
+      },
+      {
+        "Rank": "188",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "Bench": "610",
+        "PPG": "19.68"
+      },
+      {
+        "Rank": "189",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "Bench": "708",
+        "PPG": "19.67"
+      },
+      {
+        "Rank": "190",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "Bench": "629",
+        "PPG": "19.66"
+      },
+      {
+        "Rank": "191",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "Bench": "625",
+        "PPG": "19.53"
+      },
+      {
+        "Rank": "192",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "Bench": "664",
+        "PPG": "19.53"
+      },
+      {
+        "Rank": "193",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "Bench": "643",
+        "PPG": "19.48"
+      },
+      {
+        "Rank": "194",
+        "Team": "Weber St.",
+        "GM": "34",
+        "Bench": "661",
+        "PPG": "19.44"
+      },
+      {
+        "Rank": "195",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "Bench": "641",
+        "PPG": "19.42"
+      },
+      {
+        "Rank": "196",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "Bench": "621",
+        "PPG": "19.41"
+      },
+      {
+        "Rank": "197",
+        "Team": "Wofford",
+        "GM": "35",
+        "Bench": "679",
+        "PPG": "19.40"
+      },
+      {
+        "Rank": "198",
+        "Team": "Xavier",
+        "GM": "34",
+        "Bench": "659",
+        "PPG": "19.38"
+      },
+      {
+        "Rank": "199",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "Bench": "677",
+        "PPG": "19.34"
+      },
+      {
+        "Rank": "200",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "Bench": "617",
+        "PPG": "19.28"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "201",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "Bench": "616",
+        "PPG": "19.25"
+      },
+      {
+        "Rank": "202",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "Bench": "632",
+        "PPG": "19.15"
+      },
+      {
+        "Rank": "203",
+        "Team": "North Ala.",
+        "GM": "35",
+        "Bench": "670",
+        "PPG": "19.14"
+      },
+      {
+        "Rank": "204",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "Bench": "689",
+        "PPG": "19.14"
+      },
+      {
+        "Rank": "205",
+        "Team": "Kansas City",
+        "GM": "33",
+        "Bench": "631",
+        "PPG": "19.12"
+      },
+      {
+        "Rank": "206",
+        "Team": "California",
+        "GM": "33",
+        "Bench": "630",
+        "PPG": "19.09"
+      },
+      {
+        "Rank": "207",
+        "Team": "George Washington",
+        "GM": "34",
+        "Bench": "649",
+        "PPG": "19.09"
+      },
+      {
+        "Rank": "208",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "Bench": "647",
+        "PPG": "19.03"
+      },
+      {
+        "Rank": "209",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "Bench": "665",
+        "PPG": "19.00"
+      },
+      {
+        "Rank": "210",
+        "Team": "Michigan",
+        "GM": "37",
+        "Bench": "702",
+        "PPG": "18.97"
+      },
+      {
+        "Rank": "211",
+        "Team": "Colgate",
+        "GM": "33",
+        "Bench": "626",
+        "PPG": "18.97"
+      },
+      {
+        "Rank": "212",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "Bench": "607",
+        "PPG": "18.97"
+      },
+      {
+        "Rank": "213",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "Bench": "644",
+        "PPG": "18.94"
+      },
+      {
+        "Rank": "214",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "Bench": "606",
+        "PPG": "18.94"
+      },
+      {
+        "Rank": "215",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "Bench": "605",
+        "PPG": "18.91"
+      },
+      {
+        "Rank": "216",
+        "Team": "Yale",
+        "GM": "30",
+        "Bench": "564",
+        "PPG": "18.80"
+      },
+      {
+        "Rank": "217",
+        "Team": "Lamar University",
+        "GM": "33",
+        "Bench": "619",
+        "PPG": "18.76"
+      },
+      {
+        "Rank": "218",
+        "Team": "Oakland",
+        "GM": "34",
+        "Bench": "637",
+        "PPG": "18.74"
+      },
+      {
+        "Rank": "219",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "Bench": "618",
+        "PPG": "18.73"
+      },
+      {
+        "Rank": "220",
+        "Team": "Houston",
+        "GM": "40",
+        "Bench": "749",
+        "PPG": "18.72"
+      },
+      {
+        "Rank": "221",
+        "Team": "Southern California",
+        "GM": "35",
+        "Bench": "655",
+        "PPG": "18.71"
+      },
+      {
+        "Rank": "222",
+        "Team": "UTSA",
+        "GM": "31",
+        "Bench": "574",
+        "PPG": "18.52"
+      },
+      {
+        "Rank": "223",
+        "Team": "New Mexico",
+        "GM": "35",
+        "Bench": "648",
+        "PPG": "18.51"
+      },
+      {
+        "Rank": "224",
+        "Team": "Howard",
+        "GM": "32",
+        "Bench": "591",
+        "PPG": "18.47"
+      },
+      {
+        "Rank": "225",
+        "Team": "Maine",
+        "GM": "34",
+        "Bench": "627",
+        "PPG": "18.44"
+      },
+      {
+        "Rank": "226",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "Bench": "570",
+        "PPG": "18.39"
+      },
+      {
+        "Rank": "227",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "Bench": "585",
+        "PPG": "18.28"
+      },
+      {
+        "Rank": "-",
+        "Team": "Ohio",
+        "GM": "32",
+        "Bench": "585",
+        "PPG": "18.28"
+      },
+      {
+        "Rank": "229",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "Bench": "548",
+        "PPG": "18.27"
+      },
+      {
+        "Rank": "230",
+        "Team": "Portland",
+        "GM": "32",
+        "Bench": "584",
+        "PPG": "18.25"
+      },
+      {
+        "Rank": "231",
+        "Team": "Texas",
+        "GM": "35",
+        "Bench": "638",
+        "PPG": "18.23"
+      },
+      {
+        "Rank": "232",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "Bench": "619",
+        "PPG": "18.21"
+      },
+      {
+        "Rank": "233",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "Bench": "582",
+        "PPG": "18.19"
+      },
+      {
+        "Rank": "234",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "Bench": "581",
+        "PPG": "18.16"
+      },
+      {
+        "Rank": "235",
+        "Team": "UMES",
+        "GM": "31",
+        "Bench": "561",
+        "PPG": "18.10"
+      },
+      {
+        "Rank": "236",
+        "Team": "La Salle",
+        "GM": "33",
+        "Bench": "596",
+        "PPG": "18.06"
+      },
+      {
+        "Rank": "237",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "Bench": "576",
+        "PPG": "18.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "Lafayette",
+        "GM": "33",
+        "Bench": "594",
+        "PPG": "18.00"
+      },
+      {
+        "Rank": "239",
+        "Team": "Elon",
+        "GM": "33",
+        "Bench": "592",
+        "PPG": "17.94"
+      },
+      {
+        "Rank": "240",
+        "Team": "UCF",
+        "GM": "37",
+        "Bench": "662",
+        "PPG": "17.89"
+      },
+      {
+        "Rank": "241",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "Bench": "620",
+        "PPG": "17.71"
+      },
+      {
+        "Rank": "242",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "Bench": "584",
+        "PPG": "17.70"
+      },
+      {
+        "Rank": "243",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "Bench": "601",
+        "PPG": "17.68"
+      },
+      {
+        "Rank": "244",
+        "Team": "Baylor",
+        "GM": "35",
+        "Bench": "618",
+        "PPG": "17.66"
+      },
+      {
+        "Rank": "245",
+        "Team": "SIUE",
+        "GM": "34",
+        "Bench": "600",
+        "PPG": "17.65"
+      },
+      {
+        "Rank": "246",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "Bench": "581",
+        "PPG": "17.61"
+      },
+      {
+        "Rank": "247",
+        "Team": "FDU",
+        "GM": "33",
+        "Bench": "576",
+        "PPG": "17.45"
+      },
+      {
+        "Rank": "-",
+        "Team": "Hofstra",
+        "GM": "33",
+        "Bench": "576",
+        "PPG": "17.45"
+      },
+      {
+        "Rank": "249",
+        "Team": "Rider",
+        "GM": "33",
+        "Bench": "574",
+        "PPG": "17.39"
+      },
+      {
+        "Rank": "250",
+        "Team": "South Carolina",
+        "GM": "32",
+        "Bench": "556",
+        "PPG": "17.38"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "Bench": "538",
+        "PPG": "17.35"
+      },
+      {
+        "Rank": "252",
+        "Team": "Navy",
+        "GM": "34",
+        "Bench": "590",
+        "PPG": "17.35"
+      },
+      {
+        "Rank": "253",
+        "Team": "California Baptist",
+        "GM": "32",
+        "Bench": "555",
+        "PPG": "17.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "Bench": "555",
+        "PPG": "17.34"
+      },
+      {
+        "Rank": "-",
+        "Team": "Virginia",
+        "GM": "32",
+        "Bench": "555",
+        "PPG": "17.34"
+      },
+      {
+        "Rank": "256",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "Bench": "520",
+        "PPG": "17.33"
+      },
+      {
+        "Rank": "257",
+        "Team": "Minnesota",
+        "GM": "32",
+        "Bench": "554",
+        "PPG": "17.31"
+      },
+      {
+        "Rank": "258",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "Bench": "605",
+        "PPG": "17.29"
+      },
+      {
+        "Rank": "259",
+        "Team": "Charlotte",
+        "GM": "33",
+        "Bench": "570",
+        "PPG": "17.27"
+      },
+      {
+        "Rank": "260",
+        "Team": "UNLV",
+        "GM": "33",
+        "Bench": "569",
+        "PPG": "17.24"
+      },
+      {
+        "Rank": "261",
+        "Team": "Butler",
+        "GM": "35",
+        "Bench": "603",
+        "PPG": "17.23"
+      },
+      {
+        "Rank": "262",
+        "Team": "NIU",
+        "GM": "31",
+        "Bench": "534",
+        "PPG": "17.23"
+      },
+      {
+        "Rank": "263",
+        "Team": "Toledo",
+        "GM": "33",
+        "Bench": "567",
+        "PPG": "17.18"
+      },
+      {
+        "Rank": "264",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "Bench": "547",
+        "PPG": "17.09"
+      },
+      {
+        "Rank": "-",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "Bench": "547",
+        "PPG": "17.09"
+      },
+      {
+        "Rank": "266",
+        "Team": "Purdue",
+        "GM": "36",
+        "Bench": "613",
+        "PPG": "17.03"
+      },
+      {
+        "Rank": "267",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "Bench": "544",
+        "PPG": "17.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "Louisville",
+        "GM": "35",
+        "Bench": "595",
+        "PPG": "17.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "Bench": "544",
+        "PPG": "17.00"
+      },
+      {
+        "Rank": "270",
+        "Team": "Brown",
+        "GM": "27",
+        "Bench": "457",
+        "PPG": "16.93"
+      },
+      {
+        "Rank": "271",
+        "Team": "Stanford",
+        "GM": "35",
+        "Bench": "592",
+        "PPG": "16.91"
+      },
+      {
+        "Rank": "272",
+        "Team": "Memphis",
+        "GM": "35",
+        "Bench": "590",
+        "PPG": "16.86"
+      },
+      {
+        "Rank": "273",
+        "Team": "Marshall",
+        "GM": "33",
+        "Bench": "553",
+        "PPG": "16.76"
+      },
+      {
+        "Rank": "274",
+        "Team": "Green Bay",
+        "GM": "32",
+        "Bench": "536",
+        "PPG": "16.75"
+      },
+      {
+        "Rank": "-",
+        "Team": "Richmond",
+        "GM": "32",
+        "Bench": "536",
+        "PPG": "16.75"
+      },
+      {
+        "Rank": "276",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "Bench": "502",
+        "PPG": "16.73"
+      },
+      {
+        "Rank": "277",
+        "Team": "Arkansas",
+        "GM": "36",
+        "Bench": "600",
+        "PPG": "16.67"
+      },
+      {
+        "Rank": "278",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "Bench": "612",
+        "PPG": "16.54"
+      },
+      {
+        "Rank": "279",
+        "Team": "Bryant",
+        "GM": "35",
+        "Bench": "578",
+        "PPG": "16.51"
+      },
+      {
+        "Rank": "280",
+        "Team": "VMI",
+        "GM": "34",
+        "Bench": "560",
+        "PPG": "16.47"
+      },
+      {
+        "Rank": "281",
+        "Team": "Army West Point",
+        "GM": "33",
+        "Bench": "540",
+        "PPG": "16.36"
+      },
+      {
+        "Rank": "282",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "Bench": "572",
+        "PPG": "16.34"
+      },
+      {
+        "Rank": "283",
+        "Team": "UNI",
+        "GM": "33",
+        "Bench": "539",
+        "PPG": "16.33"
+      },
+      {
+        "Rank": "284",
+        "Team": "San Francisco",
+        "GM": "35",
+        "Bench": "571",
+        "PPG": "16.31"
+      },
+      {
+        "Rank": "285",
+        "Team": "Monmouth",
+        "GM": "33",
+        "Bench": "538",
+        "PPG": "16.30"
+      },
+      {
+        "Rank": "286",
+        "Team": "Dayton",
+        "GM": "34",
+        "Bench": "550",
+        "PPG": "16.18"
+      },
+      {
+        "Rank": "287",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "Bench": "533",
+        "PPG": "16.15"
+      },
+      {
+        "Rank": "288",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "Bench": "516",
+        "PPG": "16.12"
+      },
+      {
+        "Rank": "289",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "Bench": "497",
+        "PPG": "16.03"
+      },
+      {
+        "Rank": "290",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "Bench": "529",
+        "PPG": "16.03"
+      },
+      {
+        "Rank": "291",
+        "Team": "West Virginia",
+        "GM": "32",
+        "Bench": "511",
+        "PPG": "15.97"
+      },
+      {
+        "Rank": "292",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "Bench": "507",
+        "PPG": "15.84"
+      },
+      {
+        "Rank": "293",
+        "Team": "American",
+        "GM": "35",
+        "Bench": "551",
+        "PPG": "15.74"
+      },
+      {
+        "Rank": "294",
+        "Team": "ULM",
+        "GM": "32",
+        "Bench": "503",
+        "PPG": "15.72"
+      },
+      {
+        "Rank": "295",
+        "Team": "East Carolina",
+        "GM": "33",
+        "Bench": "518",
+        "PPG": "15.70"
+      },
+      {
+        "Rank": "296",
+        "Team": "LIU",
+        "GM": "33",
+        "Bench": "517",
+        "PPG": "15.67"
+      },
+      {
+        "Rank": "297",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "Bench": "501",
+        "PPG": "15.66"
+      },
+      {
+        "Rank": "298",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "Bench": "516",
+        "PPG": "15.64"
+      },
+      {
+        "Rank": "-",
+        "Team": "Drexel",
+        "GM": "33",
+        "Bench": "516",
+        "PPG": "15.64"
+      },
+      {
+        "Rank": "300",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "Bench": "507",
+        "PPG": "15.36"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "301",
+        "Team": "Clemson",
+        "GM": "34",
+        "Bench": "522",
+        "PPG": "15.35"
+      },
+      {
+        "Rank": "302",
+        "Team": "Binghamton",
+        "GM": "32",
+        "Bench": "491",
+        "PPG": "15.34"
+      },
+      {
+        "Rank": "303",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "Bench": "552",
+        "PPG": "15.33"
+      },
+      {
+        "Rank": "304",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "Bench": "518",
+        "PPG": "15.24"
+      },
+      {
+        "Rank": "305",
+        "Team": "Siena",
+        "GM": "32",
+        "Bench": "486",
+        "PPG": "15.19"
+      },
+      {
+        "Rank": "306",
+        "Team": "Marist",
+        "GM": "30",
+        "Bench": "455",
+        "PPG": "15.17"
+      },
+      {
+        "Rank": "307",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "Bench": "485",
+        "PPG": "15.16"
+      },
+      {
+        "Rank": "308",
+        "Team": "Northwestern",
+        "GM": "33",
+        "Bench": "500",
+        "PPG": "15.15"
+      },
+      {
+        "Rank": "309",
+        "Team": "IU Indy",
+        "GM": "32",
+        "Bench": "483",
+        "PPG": "15.09"
+      },
+      {
+        "Rank": "310",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "Bench": "482",
+        "PPG": "15.06"
+      },
+      {
+        "Rank": "311",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "Bench": "496",
+        "PPG": "15.03"
+      },
+      {
+        "Rank": "312",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "Bench": "522",
+        "PPG": "14.91"
+      },
+      {
+        "Rank": "313",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "Bench": "492",
+        "PPG": "14.91"
+      },
+      {
+        "Rank": "314",
+        "Team": "FGCU",
+        "GM": "34",
+        "Bench": "502",
+        "PPG": "14.76"
+      },
+      {
+        "Rank": "315",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "Bench": "454",
+        "PPG": "14.65"
+      },
+      {
+        "Rank": "316",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "Bench": "511",
+        "PPG": "14.60"
+      },
+      {
+        "Rank": "-",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "Bench": "511",
+        "PPG": "14.60"
+      },
+      {
+        "Rank": "318",
+        "Team": "Marquette",
+        "GM": "34",
+        "Bench": "496",
+        "PPG": "14.59"
+      },
+      {
+        "Rank": "319",
+        "Team": "Murray St.",
+        "GM": "33",
+        "Bench": "481",
+        "PPG": "14.58"
+      },
+      {
+        "Rank": "320",
+        "Team": "Harvard",
+        "GM": "27",
+        "Bench": "392",
+        "PPG": "14.52"
+      },
+      {
+        "Rank": "321",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "Bench": "565",
+        "PPG": "14.49"
+      },
+      {
+        "Rank": "322",
+        "Team": "Bucknell",
+        "GM": "33",
+        "Bench": "478",
+        "PPG": "14.48"
+      },
+      {
+        "Rank": "323",
+        "Team": "ETSU",
+        "GM": "32",
+        "Bench": "462",
+        "PPG": "14.44"
+      },
+      {
+        "Rank": "324",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "Bench": "461",
+        "PPG": "14.41"
+      },
+      {
+        "Rank": "325",
+        "Team": "UIW",
+        "GM": "36",
+        "Bench": "518",
+        "PPG": "14.39"
+      },
+      {
+        "Rank": "326",
+        "Team": "Davidson",
+        "GM": "33",
+        "Bench": "473",
+        "PPG": "14.33"
+      },
+      {
+        "Rank": "327",
+        "Team": "Northeastern",
+        "GM": "32",
+        "Bench": "458",
+        "PPG": "14.31"
+      },
+      {
+        "Rank": "328",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "Bench": "470",
+        "PPG": "14.24"
+      },
+      {
+        "Rank": "329",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "Bench": "452",
+        "PPG": "14.12"
+      },
+      {
+        "Rank": "330",
+        "Team": "Penn",
+        "GM": "27",
+        "Bench": "381",
+        "PPG": "14.11"
+      },
+      {
+        "Rank": "331",
+        "Team": "Delaware",
+        "GM": "36",
+        "Bench": "505",
+        "PPG": "14.03"
+      },
+      {
+        "Rank": "332",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "Bench": "462",
+        "PPG": "14.00"
+      },
+      {
+        "Rank": "333",
+        "Team": "Washington St.",
+        "GM": "34",
+        "Bench": "471",
+        "PPG": "13.85"
+      },
+      {
+        "Rank": "334",
+        "Team": "UC Davis",
+        "GM": "32",
+        "Bench": "439",
+        "PPG": "13.72"
+      },
+      {
+        "Rank": "335",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "Bench": "437",
+        "PPG": "13.66"
+      },
+      {
+        "Rank": "336",
+        "Team": "App State",
+        "GM": "31",
+        "Bench": "423",
+        "PPG": "13.65"
+      },
+      {
+        "Rank": "337",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "Bench": "469",
+        "PPG": "13.40"
+      },
+      {
+        "Rank": "338",
+        "Team": "Creighton",
+        "GM": "36",
+        "Bench": "479",
+        "PPG": "13.31"
+      },
+      {
+        "Rank": "339",
+        "Team": "Pacific",
+        "GM": "33",
+        "Bench": "436",
+        "PPG": "13.21"
+      },
+      {
+        "Rank": "340",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "Bench": "415",
+        "PPG": "12.97"
+      },
+      {
+        "Rank": "341",
+        "Team": "Tulane",
+        "GM": "34",
+        "Bench": "440",
+        "PPG": "12.94"
+      },
+      {
+        "Rank": "342",
+        "Team": "Vermont",
+        "GM": "33",
+        "Bench": "409",
+        "PPG": "12.39"
+      },
+      {
+        "Rank": "343",
+        "Team": "New Orleans",
+        "GM": "31",
+        "Bench": "383",
+        "PPG": "12.35"
+      },
+      {
+        "Rank": "344",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "Bench": "395",
+        "PPG": "12.34"
+      },
+      {
+        "Rank": "345",
+        "Team": "NJIT",
+        "GM": "31",
+        "Bench": "378",
+        "PPG": "12.19"
+      },
+      {
+        "Rank": "346",
+        "Team": "Maryland",
+        "GM": "36",
+        "Bench": "435",
+        "PPG": "12.08"
+      },
+      {
+        "Rank": "347",
+        "Team": "Georgetown",
+        "GM": "34",
+        "Bench": "389",
+        "PPG": "11.44"
+      },
+      {
+        "Rank": "348",
+        "Team": "Villanova",
+        "GM": "36",
+        "Bench": "400",
+        "PPG": "11.11"
+      },
+      {
+        "Rank": "349",
+        "Team": "Canisius",
+        "GM": "31",
+        "Bench": "344",
+        "PPG": "11.10"
+      },
+      {
+        "Rank": "350",
+        "Team": "Little Rock",
+        "GM": "33",
+        "Bench": "358",
+        "PPG": "10.85"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Bench Points per game",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "Bench": "330",
+        "PPG": "10.31"
+      },
+      {
+        "Rank": "352",
+        "Team": "Merrimack",
+        "GM": "33",
+        "Bench": "332",
+        "PPG": "10.06"
+      },
+      {
+        "Rank": "353",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "Bench": "320",
+        "PPG": "9.41"
+      },
+      {
+        "Rank": "354",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "Bench": "313",
+        "PPG": "9.21"
+      },
+      {
+        "Rank": "355",
+        "Team": "Evansville",
+        "GM": "32",
+        "Bench": "257",
+        "PPG": "8.03"
+      }
+    ]
+  }
+]

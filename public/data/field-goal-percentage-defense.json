@@ -1,0 +1,2914 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Houston",
+        "GM": "40",
+        "OPP FG": "786",
+        "OPP FGA": "2054",
+        "OPP FG%": "38.267"
+      },
+      {
+        "Rank": "2",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "OPP FG": "654",
+        "OPP FGA": "1709",
+        "OPP FG%": "38.268"
+      },
+      {
+        "Rank": "3",
+        "Team": "George Mason",
+        "GM": "36",
+        "OPP FG": "778",
+        "OPP FGA": "2031",
+        "OPP FG%": "38.306"
+      },
+      {
+        "Rank": "4",
+        "Team": "Duke",
+        "GM": "39",
+        "OPP FG": "879",
+        "OPP FGA": "2287",
+        "OPP FG%": "38.435"
+      },
+      {
+        "Rank": "5",
+        "Team": "South Alabama",
+        "GM": "32",
+        "OPP FG": "702",
+        "OPP FGA": "1822",
+        "OPP FG%": "38.529"
+      },
+      {
+        "Rank": "6",
+        "Team": "Hofstra",
+        "GM": "33",
+        "OPP FG": "707",
+        "OPP FGA": "1833",
+        "OPP FG%": "38.571"
+      },
+      {
+        "Rank": "7",
+        "Team": "Tennessee",
+        "GM": "38",
+        "OPP FG": "834",
+        "OPP FGA": "2161",
+        "OPP FG%": "38.593"
+      },
+      {
+        "Rank": "8",
+        "Team": "VCU",
+        "GM": "35",
+        "OPP FG": "747",
+        "OPP FGA": "1911",
+        "OPP FG%": "39.089"
+      },
+      {
+        "Rank": "9",
+        "Team": "App State",
+        "GM": "31",
+        "OPP FG": "728",
+        "OPP FGA": "1862",
+        "OPP FG%": "39.098"
+      },
+      {
+        "Rank": "10",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "OPP FG": "957",
+        "OPP FGA": "2434",
+        "OPP FG%": "39.318"
+      },
+      {
+        "Rank": "11",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "OPP FG": "703",
+        "OPP FGA": "1775",
+        "OPP FG%": "39.606"
+      },
+      {
+        "Rank": "12",
+        "Team": "Little Rock",
+        "GM": "33",
+        "OPP FG": "732",
+        "OPP FGA": "1848",
+        "OPP FG%": "39.610"
+      },
+      {
+        "Rank": "13",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "OPP FG": "743",
+        "OPP FGA": "1873",
+        "OPP FG%": "39.669"
+      },
+      {
+        "Rank": "14",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "OPP FG": "836",
+        "OPP FGA": "2107",
+        "OPP FG%": "39.677"
+      },
+      {
+        "Rank": "15",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "OPP FG": "717",
+        "OPP FGA": "1794",
+        "OPP FG%": "39.967"
+      },
+      {
+        "Rank": "16",
+        "Team": "Florida",
+        "GM": "40",
+        "OPP FG": "976",
+        "OPP FGA": "2441",
+        "OPP FG%": "39.984"
+      },
+      {
+        "Rank": "17",
+        "Team": "Kansas",
+        "GM": "34",
+        "OPP FG": "837",
+        "OPP FGA": "2091",
+        "OPP FG%": "40.029"
+      },
+      {
+        "Rank": "18",
+        "Team": "Michigan",
+        "GM": "37",
+        "OPP FG": "938",
+        "OPP FGA": "2340",
+        "OPP FG%": "40.085"
+      },
+      {
+        "Rank": "19",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "OPP FG": "737",
+        "OPP FGA": "1835",
+        "OPP FG%": "40.163"
+      },
+      {
+        "Rank": "20",
+        "Team": "SIUE",
+        "GM": "34",
+        "OPP FG": "786",
+        "OPP FGA": "1954",
+        "OPP FG%": "40.225"
+      },
+      {
+        "Rank": "21",
+        "Team": "McNeese",
+        "GM": "35",
+        "OPP FG": "772",
+        "OPP FGA": "1918",
+        "OPP FG%": "40.250"
+      },
+      {
+        "Rank": "22",
+        "Team": "Elon",
+        "GM": "33",
+        "OPP FG": "832",
+        "OPP FGA": "2058",
+        "OPP FG%": "40.428"
+      },
+      {
+        "Rank": "23",
+        "Team": "CSUN",
+        "GM": "33",
+        "OPP FG": "740",
+        "OPP FGA": "1830",
+        "OPP FG%": "40.437"
+      },
+      {
+        "Rank": "24",
+        "Team": "Bradley",
+        "GM": "37",
+        "OPP FG": "856",
+        "OPP FGA": "2115",
+        "OPP FG%": "40.473"
+      },
+      {
+        "Rank": "25",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "OPP FG": "873",
+        "OPP FGA": "2156",
+        "OPP FG%": "40.492"
+      },
+      {
+        "Rank": "26",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "OPP FG": "876",
+        "OPP FGA": "2163",
+        "OPP FG%": "40.499"
+      },
+      {
+        "Rank": "27",
+        "Team": "Liberty",
+        "GM": "35",
+        "OPP FG": "823",
+        "OPP FGA": "2032",
+        "OPP FG%": "40.502"
+      },
+      {
+        "Rank": "28",
+        "Team": "Troy",
+        "GM": "34",
+        "OPP FG": "791",
+        "OPP FGA": "1950",
+        "OPP FG%": "40.564"
+      },
+      {
+        "Rank": "29",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "OPP FG": "792",
+        "OPP FGA": "1952",
+        "OPP FG%": "40.574"
+      },
+      {
+        "Rank": "30",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "OPP FG": "765",
+        "OPP FGA": "1884",
+        "OPP FG%": "40.605"
+      },
+      {
+        "Rank": "31",
+        "Team": "Auburn",
+        "GM": "38",
+        "OPP FG": "894",
+        "OPP FGA": "2192",
+        "OPP FG%": "40.785"
+      },
+      {
+        "Rank": "32",
+        "Team": "Lamar University",
+        "GM": "33",
+        "OPP FG": "763",
+        "OPP FGA": "1870",
+        "OPP FG%": "40.802"
+      },
+      {
+        "Rank": "33",
+        "Team": "West Virginia",
+        "GM": "32",
+        "OPP FG": "728",
+        "OPP FGA": "1780",
+        "OPP FG%": "40.899"
+      },
+      {
+        "Rank": "34",
+        "Team": "Marist",
+        "GM": "30",
+        "OPP FG": "672",
+        "OPP FGA": "1642",
+        "OPP FG%": "40.926"
+      },
+      {
+        "Rank": "35",
+        "Team": "Yale",
+        "GM": "30",
+        "OPP FG": "723",
+        "OPP FGA": "1766",
+        "OPP FG%": "40.940"
+      },
+      {
+        "Rank": "36",
+        "Team": "LIU",
+        "GM": "33",
+        "OPP FG": "698",
+        "OPP FGA": "1703",
+        "OPP FG%": "40.986"
+      },
+      {
+        "Rank": "37",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "OPP FG": "624",
+        "OPP FGA": "1522",
+        "OPP FG%": "40.999"
+      },
+      {
+        "Rank": "38",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "OPP FG": "790",
+        "OPP FGA": "1926",
+        "OPP FG%": "41.018"
+      },
+      {
+        "Rank": "39",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "OPP FG": "882",
+        "OPP FGA": "2146",
+        "OPP FG%": "41.100"
+      },
+      {
+        "Rank": "40",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "OPP FG": "797",
+        "OPP FGA": "1939",
+        "OPP FG%": "41.104"
+      },
+      {
+        "Rank": "41",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "OPP FG": "903",
+        "OPP FGA": "2196",
+        "OPP FG%": "41.120"
+      },
+      {
+        "Rank": "42",
+        "Team": "Tulane",
+        "GM": "34",
+        "OPP FG": "824",
+        "OPP FGA": "2003",
+        "OPP FG%": "41.138"
+      },
+      {
+        "Rank": "43",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "OPP FG": "770",
+        "OPP FGA": "1871",
+        "OPP FG%": "41.154"
+      },
+      {
+        "Rank": "44",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "OPP FG": "836",
+        "OPP FGA": "2027",
+        "OPP FG%": "41.243"
+      },
+      {
+        "Rank": "45",
+        "Team": "Merrimack",
+        "GM": "33",
+        "OPP FG": "759",
+        "OPP FGA": "1838",
+        "OPP FG%": "41.295"
+      },
+      {
+        "Rank": "46",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "OPP FG": "779",
+        "OPP FGA": "1886",
+        "OPP FG%": "41.304"
+      },
+      {
+        "Rank": "47",
+        "Team": "SMU",
+        "GM": "35",
+        "OPP FG": "856",
+        "OPP FGA": "2072",
+        "OPP FG%": "41.313"
+      },
+      {
+        "Rank": "48",
+        "Team": "North Texas",
+        "GM": "36",
+        "OPP FG": "738",
+        "OPP FGA": "1785",
+        "OPP FG%": "41.345"
+      },
+      {
+        "Rank": "49",
+        "Team": "Georgia",
+        "GM": "33",
+        "OPP FG": "810",
+        "OPP FGA": "1959",
+        "OPP FG%": "41.348"
+      },
+      {
+        "Rank": "50",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "OPP FG": "878",
+        "OPP FGA": "2122",
+        "OPP FG%": "41.376"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "OPP FG": "871",
+        "OPP FGA": "2105",
+        "OPP FG%": "41.378"
+      },
+      {
+        "Rank": "52",
+        "Team": "Creighton",
+        "GM": "36",
+        "OPP FG": "979",
+        "OPP FGA": "2364",
+        "OPP FG%": "41.413"
+      },
+      {
+        "Rank": "53",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "OPP FG": "831",
+        "OPP FGA": "2006",
+        "OPP FG%": "41.426"
+      },
+      {
+        "Rank": "54",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "OPP FG": "815",
+        "OPP FGA": "1967",
+        "OPP FG%": "41.434"
+      },
+      {
+        "Rank": "55",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "OPP FG": "755",
+        "OPP FGA": "1822",
+        "OPP FG%": "41.438"
+      },
+      {
+        "Rank": "56",
+        "Team": "Arkansas",
+        "GM": "36",
+        "OPP FG": "916",
+        "OPP FGA": "2208",
+        "OPP FG%": "41.486"
+      },
+      {
+        "Rank": "57",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "OPP FG": "830",
+        "OPP FGA": "1999",
+        "OPP FG%": "41.521"
+      },
+      {
+        "Rank": "58",
+        "Team": "Drexel",
+        "GM": "33",
+        "OPP FG": "808",
+        "OPP FGA": "1944",
+        "OPP FG%": "41.564"
+      },
+      {
+        "Rank": "59",
+        "Team": "Maryland",
+        "GM": "36",
+        "OPP FG": "886",
+        "OPP FGA": "2131",
+        "OPP FG%": "41.577"
+      },
+      {
+        "Rank": "60",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "OPP FG": "937",
+        "OPP FGA": "2252",
+        "OPP FG%": "41.607"
+      },
+      {
+        "Rank": "61",
+        "Team": "Nicholls",
+        "GM": "33",
+        "OPP FG": "806",
+        "OPP FGA": "1937",
+        "OPP FG%": "41.611"
+      },
+      {
+        "Rank": "62",
+        "Team": "Bryant",
+        "GM": "35",
+        "OPP FG": "936",
+        "OPP FGA": "2248",
+        "OPP FG%": "41.637"
+      },
+      {
+        "Rank": "63",
+        "Team": "SFA",
+        "GM": "31",
+        "OPP FG": "747",
+        "OPP FGA": "1793",
+        "OPP FG%": "41.662"
+      },
+      {
+        "Rank": "64",
+        "Team": "Vermont",
+        "GM": "33",
+        "OPP FG": "765",
+        "OPP FGA": "1834",
+        "OPP FG%": "41.712"
+      },
+      {
+        "Rank": "65",
+        "Team": "Grambling",
+        "GM": "34",
+        "OPP FG": "816",
+        "OPP FGA": "1955",
+        "OPP FG%": "41.739"
+      },
+      {
+        "Rank": "66",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "OPP FG": "839",
+        "OPP FGA": "2010",
+        "OPP FG%": "41.741"
+      },
+      {
+        "Rank": "67",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "OPP FG": "784",
+        "OPP FGA": "1876",
+        "OPP FG%": "41.791"
+      },
+      {
+        "Rank": "68",
+        "Team": "Florida St.",
+        "GM": "32",
+        "OPP FG": "779",
+        "OPP FGA": "1864",
+        "OPP FG%": "41.792"
+      },
+      {
+        "Rank": "69",
+        "Team": "Mercer",
+        "GM": "33",
+        "OPP FG": "853",
+        "OPP FGA": "2037",
+        "OPP FG%": "41.875"
+      },
+      {
+        "Rank": "70",
+        "Team": "Arizona",
+        "GM": "37",
+        "OPP FG": "953",
+        "OPP FGA": "2274",
+        "OPP FG%": "41.909"
+      },
+      {
+        "Rank": "71",
+        "Team": "Memphis",
+        "GM": "35",
+        "OPP FG": "888",
+        "OPP FGA": "2118",
+        "OPP FG%": "41.926"
+      },
+      {
+        "Rank": "72",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "OPP FG": "881",
+        "OPP FGA": "2101",
+        "OPP FG%": "41.932"
+      },
+      {
+        "Rank": "73",
+        "Team": "Rice",
+        "GM": "32",
+        "OPP FG": "775",
+        "OPP FGA": "1847",
+        "OPP FG%": "41.960"
+      },
+      {
+        "Rank": "74",
+        "Team": "Kent St.",
+        "GM": "36",
+        "OPP FG": "826",
+        "OPP FGA": "1968",
+        "OPP FG%": "41.972"
+      },
+      {
+        "Rank": "75",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "OPP FG": "841",
+        "OPP FGA": "2001",
+        "OPP FG%": "42.029"
+      },
+      {
+        "Rank": "76",
+        "Team": "Southern U.",
+        "GM": "32",
+        "OPP FG": "727",
+        "OPP FGA": "1729",
+        "OPP FG%": "42.047"
+      },
+      {
+        "Rank": "77",
+        "Team": "Evansville",
+        "GM": "32",
+        "OPP FG": "767",
+        "OPP FGA": "1824",
+        "OPP FG%": "42.050"
+      },
+      {
+        "Rank": "78",
+        "Team": "UConn",
+        "GM": "35",
+        "OPP FG": "795",
+        "OPP FGA": "1889",
+        "OPP FG%": "42.086"
+      },
+      {
+        "Rank": "79",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "OPP FG": "875",
+        "OPP FGA": "2079",
+        "OPP FG%": "42.088"
+      },
+      {
+        "Rank": "80",
+        "Team": "Utah",
+        "GM": "33",
+        "OPP FG": "832",
+        "OPP FGA": "1975",
+        "OPP FG%": "42.127"
+      },
+      {
+        "Rank": "81",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "OPP FG": "854",
+        "OPP FGA": "2025",
+        "OPP FG%": "42.173"
+      },
+      {
+        "Rank": "82",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "OPP FG": "893",
+        "OPP FGA": "2117",
+        "OPP FG%": "42.182"
+      },
+      {
+        "Rank": "83",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "OPP FG": "783",
+        "OPP FGA": "1855",
+        "OPP FG%": "42.210"
+      },
+      {
+        "Rank": "84",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "OPP FG": "847",
+        "OPP FGA": "2006",
+        "OPP FG%": "42.223"
+      },
+      {
+        "Rank": "85",
+        "Team": "Wagner",
+        "GM": "30",
+        "OPP FG": "610",
+        "OPP FGA": "1444",
+        "OPP FG%": "42.244"
+      },
+      {
+        "Rank": "86",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "OPP FG": "798",
+        "OPP FGA": "1889",
+        "OPP FG%": "42.245"
+      },
+      {
+        "Rank": "87",
+        "Team": "Furman",
+        "GM": "35",
+        "OPP FG": "877",
+        "OPP FGA": "2076",
+        "OPP FG%": "42.245"
+      },
+      {
+        "Rank": "88",
+        "Team": "George Washington",
+        "GM": "34",
+        "OPP FG": "846",
+        "OPP FGA": "2001",
+        "OPP FG%": "42.279"
+      },
+      {
+        "Rank": "89",
+        "Team": "Illinois",
+        "GM": "35",
+        "OPP FG": "972",
+        "OPP FGA": "2298",
+        "OPP FG%": "42.298"
+      },
+      {
+        "Rank": "90",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "OPP FG": "765",
+        "OPP FGA": "1805",
+        "OPP FG%": "42.382"
+      },
+      {
+        "Rank": "91",
+        "Team": "UNLV",
+        "GM": "33",
+        "OPP FG": "785",
+        "OPP FGA": "1851",
+        "OPP FG%": "42.410"
+      },
+      {
+        "Rank": "92",
+        "Team": "UT Martin",
+        "GM": "33",
+        "OPP FG": "807",
+        "OPP FGA": "1902",
+        "OPP FG%": "42.429"
+      },
+      {
+        "Rank": "93",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "OPP FG": "714",
+        "OPP FGA": "1680",
+        "OPP FG%": "42.500"
+      },
+      {
+        "Rank": "94",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "OPP FG": "862",
+        "OPP FGA": "2028",
+        "OPP FG%": "42.505"
+      },
+      {
+        "Rank": "95",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "OPP FG": "821",
+        "OPP FGA": "1931",
+        "OPP FG%": "42.517"
+      },
+      {
+        "Rank": "96",
+        "Team": "ETSU",
+        "GM": "32",
+        "OPP FG": "750",
+        "OPP FGA": "1764",
+        "OPP FG%": "42.517"
+      },
+      {
+        "Rank": "97",
+        "Team": "LSU",
+        "GM": "32",
+        "OPP FG": "853",
+        "OPP FGA": "2006",
+        "OPP FG%": "42.522"
+      },
+      {
+        "Rank": "98",
+        "Team": "FGCU",
+        "GM": "34",
+        "OPP FG": "830",
+        "OPP FGA": "1951",
+        "OPP FG%": "42.542"
+      },
+      {
+        "Rank": "99",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "OPP FG": "897",
+        "OPP FGA": "2108",
+        "OPP FG%": "42.552"
+      },
+      {
+        "Rank": "100",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "OPP FG": "823",
+        "OPP FGA": "1934",
+        "OPP FG%": "42.554"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "Alabama",
+        "GM": "37",
+        "OPP FG": "1074",
+        "OPP FGA": "2523",
+        "OPP FG%": "42.568"
+      },
+      {
+        "Rank": "102",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "OPP FG": "881",
+        "OPP FGA": "2069",
+        "OPP FG%": "42.581"
+      },
+      {
+        "Rank": "103",
+        "Team": "UCLA",
+        "GM": "34",
+        "OPP FG": "753",
+        "OPP FGA": "1765",
+        "OPP FG%": "42.663"
+      },
+      {
+        "Rank": "104",
+        "Team": "Binghamton",
+        "GM": "32",
+        "OPP FG": "809",
+        "OPP FGA": "1896",
+        "OPP FG%": "42.669"
+      },
+      {
+        "Rank": "105",
+        "Team": "High Point",
+        "GM": "35",
+        "OPP FG": "846",
+        "OPP FGA": "1982",
+        "OPP FG%": "42.684"
+      },
+      {
+        "Rank": "106",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "OPP FG": "911",
+        "OPP FGA": "2134",
+        "OPP FG%": "42.690"
+      },
+      {
+        "Rank": "107",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "OPP FG": "826",
+        "OPP FGA": "1934",
+        "OPP FG%": "42.709"
+      },
+      {
+        "Rank": "108",
+        "Team": "Portland St.",
+        "GM": "32",
+        "OPP FG": "777",
+        "OPP FGA": "1819",
+        "OPP FG%": "42.716"
+      },
+      {
+        "Rank": "109",
+        "Team": "Texas",
+        "GM": "35",
+        "OPP FG": "869",
+        "OPP FGA": "2034",
+        "OPP FG%": "42.724"
+      },
+      {
+        "Rank": "110",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "OPP FG": "825",
+        "OPP FGA": "1931",
+        "OPP FG%": "42.724"
+      },
+      {
+        "Rank": "111",
+        "Team": "Nebraska",
+        "GM": "35",
+        "OPP FG": "905",
+        "OPP FGA": "2117",
+        "OPP FG%": "42.749"
+      },
+      {
+        "Rank": "112",
+        "Team": "Clemson",
+        "GM": "34",
+        "OPP FG": "819",
+        "OPP FGA": "1915",
+        "OPP FG%": "42.768"
+      },
+      {
+        "Rank": "113",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "OPP FG": "829",
+        "OPP FGA": "1938",
+        "OPP FG%": "42.776"
+      },
+      {
+        "Rank": "114",
+        "Team": "UNCW",
+        "GM": "35",
+        "OPP FG": "875",
+        "OPP FGA": "2045",
+        "OPP FG%": "42.787"
+      },
+      {
+        "Rank": "115",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "OPP FG": "793",
+        "OPP FGA": "1851",
+        "OPP FG%": "42.842"
+      },
+      {
+        "Rank": "116",
+        "Team": "New Mexico",
+        "GM": "35",
+        "OPP FG": "871",
+        "OPP FGA": "2033",
+        "OPP FG%": "42.843"
+      },
+      {
+        "Rank": "117",
+        "Team": "Louisville",
+        "GM": "35",
+        "OPP FG": "879",
+        "OPP FGA": "2050",
+        "OPP FG%": "42.878"
+      },
+      {
+        "Rank": "118",
+        "Team": "Oregon",
+        "GM": "35",
+        "OPP FG": "905",
+        "OPP FGA": "2109",
+        "OPP FG%": "42.911"
+      },
+      {
+        "Rank": "119",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "OPP FG": "766",
+        "OPP FGA": "1785",
+        "OPP FG%": "42.913"
+      },
+      {
+        "Rank": "120",
+        "Team": "UC Davis",
+        "GM": "32",
+        "OPP FG": "758",
+        "OPP FGA": "1766",
+        "OPP FG%": "42.922"
+      },
+      {
+        "Rank": "121",
+        "Team": "Brown",
+        "GM": "27",
+        "OPP FG": "698",
+        "OPP FGA": "1626",
+        "OPP FG%": "42.927"
+      },
+      {
+        "Rank": "122",
+        "Team": "North Ala.",
+        "GM": "35",
+        "OPP FG": "893",
+        "OPP FGA": "2079",
+        "OPP FG%": "42.953"
+      },
+      {
+        "Rank": "123",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "OPP FG": "846",
+        "OPP FGA": "1968",
+        "OPP FG%": "42.988"
+      },
+      {
+        "Rank": "124",
+        "Team": "Georgetown",
+        "GM": "34",
+        "OPP FG": "834",
+        "OPP FGA": "1938",
+        "OPP FG%": "43.034"
+      },
+      {
+        "Rank": "125",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "OPP FG": "822",
+        "OPP FGA": "1910",
+        "OPP FG%": "43.037"
+      },
+      {
+        "Rank": "126",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "OPP FG": "816",
+        "OPP FGA": "1896",
+        "OPP FG%": "43.038"
+      },
+      {
+        "Rank": "127",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "OPP FG": "858",
+        "OPP FGA": "1993",
+        "OPP FG%": "43.051"
+      },
+      {
+        "Rank": "128",
+        "Team": "Texas St.",
+        "GM": "32",
+        "OPP FG": "788",
+        "OPP FGA": "1830",
+        "OPP FG%": "43.060"
+      },
+      {
+        "Rank": "129",
+        "Team": "BYU",
+        "GM": "36",
+        "OPP FG": "910",
+        "OPP FGA": "2109",
+        "OPP FG%": "43.148"
+      },
+      {
+        "Rank": "130",
+        "Team": "Villanova",
+        "GM": "36",
+        "OPP FG": "860",
+        "OPP FGA": "1993",
+        "OPP FG%": "43.151"
+      },
+      {
+        "Rank": "131",
+        "Team": "North Carolina",
+        "GM": "37",
+        "OPP FG": "980",
+        "OPP FGA": "2271",
+        "OPP FG%": "43.153"
+      },
+      {
+        "Rank": "132",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "OPP FG": "812",
+        "OPP FGA": "1880",
+        "OPP FG%": "43.191"
+      },
+      {
+        "Rank": "133",
+        "Team": "Colorado",
+        "GM": "35",
+        "OPP FG": "876",
+        "OPP FGA": "2028",
+        "OPP FG%": "43.195"
+      },
+      {
+        "Rank": "134",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "OPP FG": "880",
+        "OPP FGA": "2037",
+        "OPP FG%": "43.201"
+      },
+      {
+        "Rank": "135",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "OPP FG": "807",
+        "OPP FGA": "1868",
+        "OPP FG%": "43.201"
+      },
+      {
+        "Rank": "136",
+        "Team": "Bucknell",
+        "GM": "33",
+        "OPP FG": "836",
+        "OPP FGA": "1934",
+        "OPP FG%": "43.226"
+      },
+      {
+        "Rank": "137",
+        "Team": "Maine",
+        "GM": "34",
+        "OPP FG": "819",
+        "OPP FGA": "1894",
+        "OPP FG%": "43.242"
+      },
+      {
+        "Rank": "138",
+        "Team": "Northwestern",
+        "GM": "33",
+        "OPP FG": "776",
+        "OPP FGA": "1793",
+        "OPP FG%": "43.279"
+      },
+      {
+        "Rank": "139",
+        "Team": "Akron",
+        "GM": "35",
+        "OPP FG": "934",
+        "OPP FGA": "2158",
+        "OPP FG%": "43.281"
+      },
+      {
+        "Rank": "140",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "OPP FG": "883",
+        "OPP FGA": "2040",
+        "OPP FG%": "43.284"
+      },
+      {
+        "Rank": "141",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "OPP FG": "895",
+        "OPP FGA": "2067",
+        "OPP FG%": "43.299"
+      },
+      {
+        "Rank": "142",
+        "Team": "Providence",
+        "GM": "32",
+        "OPP FG": "818",
+        "OPP FGA": "1889",
+        "OPP FG%": "43.303"
+      },
+      {
+        "Rank": "143",
+        "Team": "South Fla.",
+        "GM": "32",
+        "OPP FG": "822",
+        "OPP FGA": "1898",
+        "OPP FG%": "43.309"
+      },
+      {
+        "Rank": "144",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "OPP FG": "909",
+        "OPP FGA": "2098",
+        "OPP FG%": "43.327"
+      },
+      {
+        "Rank": "145",
+        "Team": "Richmond",
+        "GM": "32",
+        "OPP FG": "770",
+        "OPP FGA": "1777",
+        "OPP FG%": "43.331"
+      },
+      {
+        "Rank": "146",
+        "Team": "Kansas City",
+        "GM": "33",
+        "OPP FG": "778",
+        "OPP FGA": "1795",
+        "OPP FG%": "43.343"
+      },
+      {
+        "Rank": "147",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "OPP FG": "837",
+        "OPP FGA": "1931",
+        "OPP FG%": "43.345"
+      },
+      {
+        "Rank": "148",
+        "Team": "San Francisco",
+        "GM": "35",
+        "OPP FG": "857",
+        "OPP FGA": "1977",
+        "OPP FG%": "43.349"
+      },
+      {
+        "Rank": "149",
+        "Team": "Duquesne",
+        "GM": "32",
+        "OPP FG": "730",
+        "OPP FGA": "1684",
+        "OPP FG%": "43.349"
+      },
+      {
+        "Rank": "150",
+        "Team": "Nevada",
+        "GM": "33",
+        "OPP FG": "750",
+        "OPP FGA": "1730",
+        "OPP FG%": "43.353"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "Montana St.",
+        "GM": "33",
+        "OPP FG": "828",
+        "OPP FGA": "1908",
+        "OPP FG%": "43.396"
+      },
+      {
+        "Rank": "152",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "OPP FG": "869",
+        "OPP FGA": "2002",
+        "OPP FG%": "43.407"
+      },
+      {
+        "Rank": "153",
+        "Team": "Indiana",
+        "GM": "32",
+        "OPP FG": "827",
+        "OPP FGA": "1904",
+        "OPP FG%": "43.435"
+      },
+      {
+        "Rank": "154",
+        "Team": "UTRGV",
+        "GM": "31",
+        "OPP FG": "834",
+        "OPP FGA": "1920",
+        "OPP FG%": "43.438"
+      },
+      {
+        "Rank": "155",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "OPP FG": "801",
+        "OPP FGA": "1844",
+        "OPP FG%": "43.438"
+      },
+      {
+        "Rank": "156",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "OPP FG": "836",
+        "OPP FGA": "1924",
+        "OPP FG%": "43.451"
+      },
+      {
+        "Rank": "157",
+        "Team": "Lafayette",
+        "GM": "33",
+        "OPP FG": "821",
+        "OPP FGA": "1889",
+        "OPP FG%": "43.462"
+      },
+      {
+        "Rank": "158",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "OPP FG": "792",
+        "OPP FGA": "1821",
+        "OPP FG%": "43.493"
+      },
+      {
+        "Rank": "159",
+        "Team": "Radford",
+        "GM": "33",
+        "OPP FG": "790",
+        "OPP FGA": "1816",
+        "OPP FG%": "43.502"
+      },
+      {
+        "Rank": "160",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "OPP FG": "898",
+        "OPP FGA": "2063",
+        "OPP FG%": "43.529"
+      },
+      {
+        "Rank": "161",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "OPP FG": "887",
+        "OPP FGA": "2037",
+        "OPP FG%": "43.544"
+      },
+      {
+        "Rank": "162",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "OPP FG": "774",
+        "OPP FGA": "1776",
+        "OPP FG%": "43.581"
+      },
+      {
+        "Rank": "163",
+        "Team": "Wofford",
+        "GM": "35",
+        "OPP FG": "839",
+        "OPP FGA": "1925",
+        "OPP FG%": "43.584"
+      },
+      {
+        "Rank": "164",
+        "Team": "Hawaii",
+        "GM": "31",
+        "OPP FG": "782",
+        "OPP FGA": "1794",
+        "OPP FG%": "43.590"
+      },
+      {
+        "Rank": "165",
+        "Team": "Weber St.",
+        "GM": "34",
+        "OPP FG": "833",
+        "OPP FGA": "1910",
+        "OPP FG%": "43.613"
+      },
+      {
+        "Rank": "166",
+        "Team": "Marquette",
+        "GM": "34",
+        "OPP FG": "835",
+        "OPP FGA": "1913",
+        "OPP FG%": "43.649"
+      },
+      {
+        "Rank": "167",
+        "Team": "Kentucky",
+        "GM": "36",
+        "OPP FG": "990",
+        "OPP FGA": "2268",
+        "OPP FG%": "43.651"
+      },
+      {
+        "Rank": "168",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "OPP FG": "895",
+        "OPP FGA": "2050",
+        "OPP FG%": "43.659"
+      },
+      {
+        "Rank": "169",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "OPP FG": "799",
+        "OPP FGA": "1830",
+        "OPP FG%": "43.661"
+      },
+      {
+        "Rank": "170",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "OPP FG": "893",
+        "OPP FGA": "2044",
+        "OPP FG%": "43.689"
+      },
+      {
+        "Rank": "171",
+        "Team": "UNI",
+        "GM": "33",
+        "OPP FG": "799",
+        "OPP FGA": "1828",
+        "OPP FG%": "43.709"
+      },
+      {
+        "Rank": "172",
+        "Team": "Boise St.",
+        "GM": "37",
+        "OPP FG": "891",
+        "OPP FGA": "2038",
+        "OPP FG%": "43.719"
+      },
+      {
+        "Rank": "173",
+        "Team": "Marshall",
+        "GM": "33",
+        "OPP FG": "820",
+        "OPP FGA": "1875",
+        "OPP FG%": "43.733"
+      },
+      {
+        "Rank": "174",
+        "Team": "Towson",
+        "GM": "33",
+        "OPP FG": "790",
+        "OPP FGA": "1806",
+        "OPP FG%": "43.743"
+      },
+      {
+        "Rank": "175",
+        "Team": "Dayton",
+        "GM": "34",
+        "OPP FG": "847",
+        "OPP FGA": "1935",
+        "OPP FG%": "43.773"
+      },
+      {
+        "Rank": "176",
+        "Team": "Oakland",
+        "GM": "34",
+        "OPP FG": "872",
+        "OPP FGA": "1992",
+        "OPP FG%": "43.775"
+      },
+      {
+        "Rank": "177",
+        "Team": "James Madison",
+        "GM": "32",
+        "OPP FG": "801",
+        "OPP FGA": "1829",
+        "OPP FG%": "43.794"
+      },
+      {
+        "Rank": "178",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "OPP FG": "851",
+        "OPP FGA": "1943",
+        "OPP FG%": "43.798"
+      },
+      {
+        "Rank": "179",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "OPP FG": "778",
+        "OPP FGA": "1776",
+        "OPP FG%": "43.806"
+      },
+      {
+        "Rank": "180",
+        "Team": "Monmouth",
+        "GM": "33",
+        "OPP FG": "853",
+        "OPP FGA": "1947",
+        "OPP FG%": "43.811"
+      },
+      {
+        "Rank": "181",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "OPP FG": "905",
+        "OPP FGA": "2065",
+        "OPP FG%": "43.826"
+      },
+      {
+        "Rank": "182",
+        "Team": "Winthrop",
+        "GM": "34",
+        "OPP FG": "916",
+        "OPP FGA": "2088",
+        "OPP FG%": "43.870"
+      },
+      {
+        "Rank": "183",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "OPP FG": "790",
+        "OPP FGA": "1800",
+        "OPP FG%": "43.889"
+      },
+      {
+        "Rank": "184",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "OPP FG": "864",
+        "OPP FGA": "1968",
+        "OPP FG%": "43.902"
+      },
+      {
+        "Rank": "185",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "OPP FG": "972",
+        "OPP FGA": "2212",
+        "OPP FG%": "43.942"
+      },
+      {
+        "Rank": "186",
+        "Team": "Manhattan",
+        "GM": "31",
+        "OPP FG": "848",
+        "OPP FGA": "1928",
+        "OPP FG%": "43.983"
+      },
+      {
+        "Rank": "187",
+        "Team": "NJIT",
+        "GM": "31",
+        "OPP FG": "801",
+        "OPP FGA": "1821",
+        "OPP FG%": "43.987"
+      },
+      {
+        "Rank": "188",
+        "Team": "Baylor",
+        "GM": "35",
+        "OPP FG": "853",
+        "OPP FGA": "1938",
+        "OPP FG%": "44.014"
+      },
+      {
+        "Rank": "189",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "OPP FG": "898",
+        "OPP FGA": "2040",
+        "OPP FG%": "44.020"
+      },
+      {
+        "Rank": "190",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "OPP FG": "884",
+        "OPP FGA": "2007",
+        "OPP FG%": "44.046"
+      },
+      {
+        "Rank": "191",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "OPP FG": "786",
+        "OPP FGA": "1784",
+        "OPP FG%": "44.058"
+      },
+      {
+        "Rank": "192",
+        "Team": "Tulsa",
+        "GM": "33",
+        "OPP FG": "876",
+        "OPP FGA": "1988",
+        "OPP FG%": "44.064"
+      },
+      {
+        "Rank": "193",
+        "Team": "Utah St.",
+        "GM": "34",
+        "OPP FG": "818",
+        "OPP FGA": "1856",
+        "OPP FG%": "44.073"
+      },
+      {
+        "Rank": "194",
+        "Team": "FDU",
+        "GM": "33",
+        "OPP FG": "877",
+        "OPP FGA": "1989",
+        "OPP FG%": "44.093"
+      },
+      {
+        "Rank": "195",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "OPP FG": "891",
+        "OPP FGA": "2020",
+        "OPP FG%": "44.109"
+      },
+      {
+        "Rank": "196",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "OPP FG": "893",
+        "OPP FGA": "2024",
+        "OPP FG%": "44.121"
+      },
+      {
+        "Rank": "197",
+        "Team": "Seattle U",
+        "GM": "32",
+        "OPP FG": "742",
+        "OPP FGA": "1681",
+        "OPP FG%": "44.140"
+      },
+      {
+        "Rank": "198",
+        "Team": "TCU",
+        "GM": "32",
+        "OPP FG": "792",
+        "OPP FGA": "1794",
+        "OPP FG%": "44.147"
+      },
+      {
+        "Rank": "199",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "OPP FG": "944",
+        "OPP FGA": "2138",
+        "OPP FG%": "44.153"
+      },
+      {
+        "Rank": "200",
+        "Team": "Minnesota",
+        "GM": "32",
+        "OPP FG": "790",
+        "OPP FGA": "1789",
+        "OPP FG%": "44.159"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "201",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "OPP FG": "902",
+        "OPP FGA": "2042",
+        "OPP FG%": "44.172"
+      },
+      {
+        "Rank": "202",
+        "Team": "Butler",
+        "GM": "35",
+        "OPP FG": "995",
+        "OPP FGA": "2252",
+        "OPP FG%": "44.183"
+      },
+      {
+        "Rank": "203",
+        "Team": "East Carolina",
+        "GM": "33",
+        "OPP FG": "863",
+        "OPP FGA": "1953",
+        "OPP FG%": "44.188"
+      },
+      {
+        "Rank": "204",
+        "Team": "Northeastern",
+        "GM": "32",
+        "OPP FG": "810",
+        "OPP FGA": "1832",
+        "OPP FG%": "44.214"
+      },
+      {
+        "Rank": "205",
+        "Team": "Drake",
+        "GM": "35",
+        "OPP FG": "723",
+        "OPP FGA": "1635",
+        "OPP FG%": "44.220"
+      },
+      {
+        "Rank": "206",
+        "Team": "Virginia",
+        "GM": "32",
+        "OPP FG": "766",
+        "OPP FGA": "1732",
+        "OPP FG%": "44.226"
+      },
+      {
+        "Rank": "207",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "OPP FG": "833",
+        "OPP FGA": "1881",
+        "OPP FG%": "44.285"
+      },
+      {
+        "Rank": "208",
+        "Team": "FIU",
+        "GM": "33",
+        "OPP FG": "823",
+        "OPP FGA": "1858",
+        "OPP FG%": "44.295"
+      },
+      {
+        "Rank": "209",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "OPP FG": "876",
+        "OPP FGA": "1977",
+        "OPP FG%": "44.310"
+      },
+      {
+        "Rank": "210",
+        "Team": "VMI",
+        "GM": "34",
+        "OPP FG": "895",
+        "OPP FGA": "2017",
+        "OPP FG%": "44.373"
+      },
+      {
+        "Rank": "211",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "OPP FG": "722",
+        "OPP FGA": "1627",
+        "OPP FG%": "44.376"
+      },
+      {
+        "Rank": "212",
+        "Team": "Ball St.",
+        "GM": "31",
+        "OPP FG": "829",
+        "OPP FGA": "1867",
+        "OPP FG%": "44.403"
+      },
+      {
+        "Rank": "213",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "OPP FG": "810",
+        "OPP FGA": "1824",
+        "OPP FG%": "44.408"
+      },
+      {
+        "Rank": "214",
+        "Team": "Lehigh",
+        "GM": "30",
+        "OPP FG": "766",
+        "OPP FGA": "1724",
+        "OPP FG%": "44.432"
+      },
+      {
+        "Rank": "215",
+        "Team": "Iona",
+        "GM": "34",
+        "OPP FG": "820",
+        "OPP FGA": "1845",
+        "OPP FG%": "44.444"
+      },
+      {
+        "Rank": "216",
+        "Team": "NIU",
+        "GM": "31",
+        "OPP FG": "794",
+        "OPP FGA": "1786",
+        "OPP FG%": "44.457"
+      },
+      {
+        "Rank": "217",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "OPP FG": "747",
+        "OPP FGA": "1677",
+        "OPP FG%": "44.544"
+      },
+      {
+        "Rank": "218",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "OPP FG": "874",
+        "OPP FGA": "1962",
+        "OPP FG%": "44.546"
+      },
+      {
+        "Rank": "219",
+        "Team": "Missouri",
+        "GM": "34",
+        "OPP FG": "867",
+        "OPP FGA": "1946",
+        "OPP FG%": "44.553"
+      },
+      {
+        "Rank": "220",
+        "Team": "Xavier",
+        "GM": "34",
+        "OPP FG": "883",
+        "OPP FGA": "1981",
+        "OPP FG%": "44.573"
+      },
+      {
+        "Rank": "221",
+        "Team": "Wyoming",
+        "GM": "32",
+        "OPP FG": "773",
+        "OPP FGA": "1734",
+        "OPP FG%": "44.579"
+      },
+      {
+        "Rank": "222",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "OPP FG": "769",
+        "OPP FGA": "1724",
+        "OPP FG%": "44.606"
+      },
+      {
+        "Rank": "223",
+        "Team": "Temple",
+        "GM": "32",
+        "OPP FG": "874",
+        "OPP FGA": "1959",
+        "OPP FG%": "44.615"
+      },
+      {
+        "Rank": "224",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "OPP FG": "885",
+        "OPP FGA": "1983",
+        "OPP FG%": "44.629"
+      },
+      {
+        "Rank": "225",
+        "Team": "Washington St.",
+        "GM": "34",
+        "OPP FG": "950",
+        "OPP FGA": "2128",
+        "OPP FG%": "44.643"
+      },
+      {
+        "Rank": "226",
+        "Team": "UIC",
+        "GM": "31",
+        "OPP FG": "826",
+        "OPP FGA": "1850",
+        "OPP FG%": "44.649"
+      },
+      {
+        "Rank": "227",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "OPP FG": "861",
+        "OPP FGA": "1928",
+        "OPP FG%": "44.658"
+      },
+      {
+        "Rank": "228",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "OPP FG": "837",
+        "OPP FGA": "1874",
+        "OPP FG%": "44.664"
+      },
+      {
+        "Rank": "229",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "OPP FG": "871",
+        "OPP FGA": "1950",
+        "OPP FG%": "44.667"
+      },
+      {
+        "Rank": "230",
+        "Team": "Navy",
+        "GM": "34",
+        "OPP FG": "843",
+        "OPP FGA": "1887",
+        "OPP FG%": "44.674"
+      },
+      {
+        "Rank": "231",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "OPP FG": "852",
+        "OPP FGA": "1907",
+        "OPP FG%": "44.678"
+      },
+      {
+        "Rank": "232",
+        "Team": "UTEP",
+        "GM": "33",
+        "OPP FG": "799",
+        "OPP FGA": "1787",
+        "OPP FG%": "44.712"
+      },
+      {
+        "Rank": "233",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "OPP FG": "816",
+        "OPP FGA": "1825",
+        "OPP FG%": "44.712"
+      },
+      {
+        "Rank": "234",
+        "Team": "UAB",
+        "GM": "37",
+        "OPP FG": "1033",
+        "OPP FGA": "2310",
+        "OPP FG%": "44.719"
+      },
+      {
+        "Rank": "235",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "OPP FG": "765",
+        "OPP FGA": "1710",
+        "OPP FG%": "44.737"
+      },
+      {
+        "Rank": "236",
+        "Team": "Omaha",
+        "GM": "35",
+        "OPP FG": "899",
+        "OPP FGA": "2007",
+        "OPP FG%": "44.793"
+      },
+      {
+        "Rank": "237",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "OPP FG": "847",
+        "OPP FGA": "1890",
+        "OPP FG%": "44.815"
+      },
+      {
+        "Rank": "238",
+        "Team": "Samford",
+        "GM": "33",
+        "OPP FG": "835",
+        "OPP FGA": "1863",
+        "OPP FG%": "44.820"
+      },
+      {
+        "Rank": "239",
+        "Team": "Stanford",
+        "GM": "35",
+        "OPP FG": "872",
+        "OPP FGA": "1945",
+        "OPP FG%": "44.833"
+      },
+      {
+        "Rank": "240",
+        "Team": "Alcorn",
+        "GM": "32",
+        "OPP FG": "805",
+        "OPP FGA": "1795",
+        "OPP FG%": "44.847"
+      },
+      {
+        "Rank": "241",
+        "Team": "Cornell",
+        "GM": "29",
+        "OPP FG": "813",
+        "OPP FGA": "1812",
+        "OPP FG%": "44.868"
+      },
+      {
+        "Rank": "242",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "OPP FG": "856",
+        "OPP FGA": "1907",
+        "OPP FG%": "44.887"
+      },
+      {
+        "Rank": "243",
+        "Team": "Boston U.",
+        "GM": "32",
+        "OPP FG": "766",
+        "OPP FGA": "1706",
+        "OPP FG%": "44.900"
+      },
+      {
+        "Rank": "244",
+        "Team": "UIW",
+        "GM": "36",
+        "OPP FG": "890",
+        "OPP FGA": "1982",
+        "OPP FG%": "44.904"
+      },
+      {
+        "Rank": "-",
+        "Team": "ULM",
+        "GM": "32",
+        "OPP FG": "890",
+        "OPP FGA": "1982",
+        "OPP FG%": "44.904"
+      },
+      {
+        "Rank": "246",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "OPP FG": "897",
+        "OPP FGA": "1997",
+        "OPP FG%": "44.917"
+      },
+      {
+        "Rank": "247",
+        "Team": "Davidson",
+        "GM": "33",
+        "OPP FG": "849",
+        "OPP FGA": "1890",
+        "OPP FG%": "44.921"
+      },
+      {
+        "Rank": "248",
+        "Team": "UCF",
+        "GM": "37",
+        "OPP FG": "1069",
+        "OPP FGA": "2379",
+        "OPP FG%": "44.935"
+      },
+      {
+        "Rank": "249",
+        "Team": "California Baptist",
+        "GM": "32",
+        "OPP FG": "818",
+        "OPP FGA": "1820",
+        "OPP FG%": "44.945"
+      },
+      {
+        "Rank": "250",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "OPP FG": "904",
+        "OPP FGA": "2010",
+        "OPP FG%": "44.975"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "Pacific",
+        "GM": "33",
+        "OPP FG": "852",
+        "OPP FGA": "1894",
+        "OPP FG%": "44.984"
+      },
+      {
+        "Rank": "252",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "OPP FG": "840",
+        "OPP FGA": "1864",
+        "OPP FG%": "45.064"
+      },
+      {
+        "Rank": "253",
+        "Team": "La Salle",
+        "GM": "33",
+        "OPP FG": "894",
+        "OPP FGA": "1983",
+        "OPP FG%": "45.083"
+      },
+      {
+        "Rank": "254",
+        "Team": "William & Mary",
+        "GM": "32",
+        "OPP FG": "856",
+        "OPP FGA": "1898",
+        "OPP FG%": "45.100"
+      },
+      {
+        "Rank": "255",
+        "Team": "Penn St.",
+        "GM": "31",
+        "OPP FG": "819",
+        "OPP FGA": "1815",
+        "OPP FG%": "45.124"
+      },
+      {
+        "Rank": "256",
+        "Team": "Purdue",
+        "GM": "36",
+        "OPP FG": "914",
+        "OPP FGA": "2024",
+        "OPP FG%": "45.158"
+      },
+      {
+        "Rank": "257",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "OPP FG": "906",
+        "OPP FGA": "2000",
+        "OPP FG%": "45.300"
+      },
+      {
+        "Rank": "258",
+        "Team": "Stetson",
+        "GM": "32",
+        "OPP FG": "939",
+        "OPP FGA": "2072",
+        "OPP FG%": "45.319"
+      },
+      {
+        "Rank": "259",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "OPP FG": "825",
+        "OPP FGA": "1819",
+        "OPP FG%": "45.355"
+      },
+      {
+        "Rank": "260",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "OPP FG": "869",
+        "OPP FGA": "1916",
+        "OPP FG%": "45.355"
+      },
+      {
+        "Rank": "261",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "OPP FG": "904",
+        "OPP FGA": "1992",
+        "OPP FG%": "45.382"
+      },
+      {
+        "Rank": "262",
+        "Team": "Murray St.",
+        "GM": "33",
+        "OPP FG": "817",
+        "OPP FGA": "1800",
+        "OPP FG%": "45.389"
+      },
+      {
+        "Rank": "263",
+        "Team": "NC State",
+        "GM": "31",
+        "OPP FG": "783",
+        "OPP FGA": "1725",
+        "OPP FG%": "45.391"
+      },
+      {
+        "Rank": "264",
+        "Team": "Louisiana",
+        "GM": "33",
+        "OPP FG": "815",
+        "OPP FGA": "1795",
+        "OPP FG%": "45.404"
+      },
+      {
+        "Rank": "265",
+        "Team": "DePaul",
+        "GM": "34",
+        "OPP FG": "934",
+        "OPP FGA": "2056",
+        "OPP FG%": "45.428"
+      },
+      {
+        "Rank": "266",
+        "Team": "South Carolina",
+        "GM": "32",
+        "OPP FG": "834",
+        "OPP FGA": "1835",
+        "OPP FG%": "45.450"
+      },
+      {
+        "Rank": "267",
+        "Team": "Southern California",
+        "GM": "35",
+        "OPP FG": "916",
+        "OPP FGA": "2014",
+        "OPP FG%": "45.482"
+      },
+      {
+        "Rank": "268",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "OPP FG": "922",
+        "OPP FGA": "2027",
+        "OPP FG%": "45.486"
+      },
+      {
+        "Rank": "269",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "OPP FG": "980",
+        "OPP FGA": "2154",
+        "OPP FG%": "45.497"
+      },
+      {
+        "Rank": "270",
+        "Team": "Delaware",
+        "GM": "36",
+        "OPP FG": "1008",
+        "OPP FGA": "2214",
+        "OPP FG%": "45.528"
+      },
+      {
+        "Rank": "271",
+        "Team": "Howard",
+        "GM": "32",
+        "OPP FG": "871",
+        "OPP FGA": "1913",
+        "OPP FG%": "45.531"
+      },
+      {
+        "Rank": "272",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "OPP FG": "823",
+        "OPP FGA": "1807",
+        "OPP FG%": "45.545"
+      },
+      {
+        "Rank": "273",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "OPP FG": "829",
+        "OPP FGA": "1820",
+        "OPP FG%": "45.549"
+      },
+      {
+        "Rank": "274",
+        "Team": "Boston College",
+        "GM": "31",
+        "OPP FG": "821",
+        "OPP FGA": "1802",
+        "OPP FG%": "45.560"
+      },
+      {
+        "Rank": "275",
+        "Team": "Hampton",
+        "GM": "33",
+        "OPP FG": "791",
+        "OPP FGA": "1736",
+        "OPP FG%": "45.565"
+      },
+      {
+        "Rank": "276",
+        "Team": "Princeton",
+        "GM": "30",
+        "OPP FG": "766",
+        "OPP FGA": "1680",
+        "OPP FG%": "45.595"
+      },
+      {
+        "Rank": "277",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "OPP FG": "798",
+        "OPP FGA": "1750",
+        "OPP FG%": "45.600"
+      },
+      {
+        "Rank": "278",
+        "Team": "Penn",
+        "GM": "27",
+        "OPP FG": "757",
+        "OPP FGA": "1660",
+        "OPP FG%": "45.602"
+      },
+      {
+        "Rank": "279",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "OPP FG": "758",
+        "OPP FGA": "1662",
+        "OPP FG%": "45.608"
+      },
+      {
+        "Rank": "280",
+        "Team": "Colgate",
+        "GM": "33",
+        "OPP FG": "876",
+        "OPP FGA": "1920",
+        "OPP FG%": "45.625"
+      },
+      {
+        "Rank": "281",
+        "Team": "Campbell",
+        "GM": "32",
+        "OPP FG": "803",
+        "OPP FGA": "1758",
+        "OPP FG%": "45.677"
+      },
+      {
+        "Rank": "282",
+        "Team": "Ohio",
+        "GM": "32",
+        "OPP FG": "872",
+        "OPP FGA": "1909",
+        "OPP FG%": "45.678"
+      },
+      {
+        "Rank": "283",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "OPP FG": "962",
+        "OPP FGA": "2106",
+        "OPP FG%": "45.679"
+      },
+      {
+        "Rank": "284",
+        "Team": "Niagara",
+        "GM": "31",
+        "OPP FG": "786",
+        "OPP FGA": "1720",
+        "OPP FG%": "45.698"
+      },
+      {
+        "Rank": "285",
+        "Team": "Montana",
+        "GM": "35",
+        "OPP FG": "936",
+        "OPP FGA": "2047",
+        "OPP FG%": "45.725"
+      },
+      {
+        "Rank": "286",
+        "Team": "American",
+        "GM": "35",
+        "OPP FG": "852",
+        "OPP FGA": "1863",
+        "OPP FG%": "45.733"
+      },
+      {
+        "Rank": "287",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "OPP FG": "870",
+        "OPP FGA": "1902",
+        "OPP FG%": "45.741"
+      },
+      {
+        "Rank": "288",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "OPP FG": "856",
+        "OPP FGA": "1869",
+        "OPP FG%": "45.800"
+      },
+      {
+        "Rank": "289",
+        "Team": "Rider",
+        "GM": "33",
+        "OPP FG": "868",
+        "OPP FGA": "1895",
+        "OPP FG%": "45.805"
+      },
+      {
+        "Rank": "290",
+        "Team": "Army West Point",
+        "GM": "33",
+        "OPP FG": "910",
+        "OPP FGA": "1986",
+        "OPP FG%": "45.821"
+      },
+      {
+        "Rank": "291",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "OPP FG": "844",
+        "OPP FGA": "1841",
+        "OPP FG%": "45.845"
+      },
+      {
+        "Rank": "292",
+        "Team": "Siena",
+        "GM": "32",
+        "OPP FG": "833",
+        "OPP FGA": "1817",
+        "OPP FG%": "45.845"
+      },
+      {
+        "Rank": "293",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "OPP FG": "872",
+        "OPP FGA": "1902",
+        "OPP FG%": "45.846"
+      },
+      {
+        "Rank": "294",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "OPP FG": "853",
+        "OPP FGA": "1859",
+        "OPP FG%": "45.885"
+      },
+      {
+        "Rank": "295",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "OPP FG": "1029",
+        "OPP FGA": "2241",
+        "OPP FG%": "45.917"
+      },
+      {
+        "Rank": "296",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "OPP FG": "928",
+        "OPP FGA": "2021",
+        "OPP FG%": "45.918"
+      },
+      {
+        "Rank": "297",
+        "Team": "Belmont",
+        "GM": "33",
+        "OPP FG": "917",
+        "OPP FGA": "1997",
+        "OPP FG%": "45.919"
+      },
+      {
+        "Rank": "298",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "OPP FG": "834",
+        "OPP FGA": "1816",
+        "OPP FG%": "45.925"
+      },
+      {
+        "Rank": "299",
+        "Team": "Harvard",
+        "GM": "27",
+        "OPP FG": "729",
+        "OPP FGA": "1587",
+        "OPP FG%": "45.936"
+      },
+      {
+        "Rank": "300",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "OPP FG": "838",
+        "OPP FGA": "1823",
+        "OPP FG%": "45.968"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "301",
+        "Team": "The Citadel",
+        "GM": "30",
+        "OPP FG": "794",
+        "OPP FGA": "1725",
+        "OPP FG%": "46.029"
+      },
+      {
+        "Rank": "302",
+        "Team": "Wright St.",
+        "GM": "33",
+        "OPP FG": "899",
+        "OPP FGA": "1953",
+        "OPP FG%": "46.032"
+      },
+      {
+        "Rank": "303",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "OPP FG": "871",
+        "OPP FGA": "1887",
+        "OPP FG%": "46.158"
+      },
+      {
+        "Rank": "304",
+        "Team": "Portland",
+        "GM": "32",
+        "OPP FG": "959",
+        "OPP FGA": "2077",
+        "OPP FG%": "46.172"
+      },
+      {
+        "Rank": "305",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "OPP FG": "893",
+        "OPP FGA": "1934",
+        "OPP FG%": "46.174"
+      },
+      {
+        "Rank": "306",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "OPP FG": "901",
+        "OPP FGA": "1951",
+        "OPP FG%": "46.181"
+      },
+      {
+        "Rank": "307",
+        "Team": "Rutgers",
+        "GM": "32",
+        "OPP FG": "904",
+        "OPP FGA": "1957",
+        "OPP FG%": "46.193"
+      },
+      {
+        "Rank": "308",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "OPP FG": "806",
+        "OPP FGA": "1744",
+        "OPP FG%": "46.216"
+      },
+      {
+        "Rank": "309",
+        "Team": "UTSA",
+        "GM": "31",
+        "OPP FG": "804",
+        "OPP FGA": "1738",
+        "OPP FG%": "46.260"
+      },
+      {
+        "Rank": "310",
+        "Team": "UMBC",
+        "GM": "32",
+        "OPP FG": "942",
+        "OPP FGA": "2034",
+        "OPP FG%": "46.313"
+      },
+      {
+        "Rank": "311",
+        "Team": "Syracuse",
+        "GM": "33",
+        "OPP FG": "918",
+        "OPP FGA": "1982",
+        "OPP FG%": "46.317"
+      },
+      {
+        "Rank": "312",
+        "Team": "Fairfield",
+        "GM": "32",
+        "OPP FG": "835",
+        "OPP FGA": "1797",
+        "OPP FG%": "46.466"
+      },
+      {
+        "Rank": "313",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "OPP FG": "868",
+        "OPP FGA": "1867",
+        "OPP FG%": "46.492"
+      },
+      {
+        "Rank": "314",
+        "Team": "San Diego",
+        "GM": "33",
+        "OPP FG": "865",
+        "OPP FGA": "1860",
+        "OPP FG%": "46.505"
+      },
+      {
+        "Rank": "315",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "OPP FG": "757",
+        "OPP FGA": "1627",
+        "OPP FG%": "46.527"
+      },
+      {
+        "Rank": "316",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "OPP FG": "964",
+        "OPP FGA": "2068",
+        "OPP FG%": "46.615"
+      },
+      {
+        "Rank": "317",
+        "Team": "Idaho",
+        "GM": "33",
+        "OPP FG": "882",
+        "OPP FGA": "1892",
+        "OPP FG%": "46.617"
+      },
+      {
+        "Rank": "318",
+        "Team": "South Dakota",
+        "GM": "33",
+        "OPP FG": "980",
+        "OPP FGA": "2100",
+        "OPP FG%": "46.667"
+      },
+      {
+        "Rank": "319",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "OPP FG": "869",
+        "OPP FGA": "1860",
+        "OPP FG%": "46.720"
+      },
+      {
+        "Rank": "320",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "OPP FG": "820",
+        "OPP FGA": "1755",
+        "OPP FG%": "46.724"
+      },
+      {
+        "Rank": "321",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "OPP FG": "835",
+        "OPP FGA": "1787",
+        "OPP FG%": "46.726"
+      },
+      {
+        "Rank": "322",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "OPP FG": "792",
+        "OPP FGA": "1694",
+        "OPP FG%": "46.753"
+      },
+      {
+        "Rank": "323",
+        "Team": "Columbia",
+        "GM": "27",
+        "OPP FG": "774",
+        "OPP FGA": "1655",
+        "OPP FG%": "46.767"
+      },
+      {
+        "Rank": "324",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "OPP FG": "884",
+        "OPP FGA": "1889",
+        "OPP FG%": "46.797"
+      },
+      {
+        "Rank": "325",
+        "Team": "California",
+        "GM": "33",
+        "OPP FG": "911",
+        "OPP FGA": "1945",
+        "OPP FG%": "46.838"
+      },
+      {
+        "Rank": "326",
+        "Team": "Washington",
+        "GM": "31",
+        "OPP FG": "823",
+        "OPP FGA": "1757",
+        "OPP FG%": "46.841"
+      },
+      {
+        "Rank": "327",
+        "Team": "Fordham",
+        "GM": "33",
+        "OPP FG": "911",
+        "OPP FGA": "1942",
+        "OPP FG%": "46.910"
+      },
+      {
+        "Rank": "328",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "OPP FG": "885",
+        "OPP FGA": "1886",
+        "OPP FG%": "46.925"
+      },
+      {
+        "Rank": "329",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "OPP FG": "838",
+        "OPP FGA": "1782",
+        "OPP FG%": "47.026"
+      },
+      {
+        "Rank": "330",
+        "Team": "Buffalo",
+        "GM": "31",
+        "OPP FG": "916",
+        "OPP FGA": "1947",
+        "OPP FG%": "47.047"
+      },
+      {
+        "Rank": "331",
+        "Team": "New Orleans",
+        "GM": "31",
+        "OPP FG": "935",
+        "OPP FGA": "1981",
+        "OPP FG%": "47.198"
+      },
+      {
+        "Rank": "332",
+        "Team": "Green Bay",
+        "GM": "32",
+        "OPP FG": "909",
+        "OPP FGA": "1923",
+        "OPP FG%": "47.270"
+      },
+      {
+        "Rank": "333",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "OPP FG": "894",
+        "OPP FGA": "1888",
+        "OPP FG%": "47.352"
+      },
+      {
+        "Rank": "334",
+        "Team": "North Dakota",
+        "GM": "33",
+        "OPP FG": "936",
+        "OPP FGA": "1976",
+        "OPP FG%": "47.368"
+      },
+      {
+        "Rank": "335",
+        "Team": "UMES",
+        "GM": "31",
+        "OPP FG": "849",
+        "OPP FGA": "1787",
+        "OPP FG%": "47.510"
+      },
+      {
+        "Rank": "336",
+        "Team": "IU Indy",
+        "GM": "32",
+        "OPP FG": "866",
+        "OPP FGA": "1822",
+        "OPP FG%": "47.530"
+      },
+      {
+        "Rank": "337",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "OPP FG": "869",
+        "OPP FGA": "1827",
+        "OPP FG%": "47.564"
+      },
+      {
+        "Rank": "338",
+        "Team": "Iowa",
+        "GM": "33",
+        "OPP FG": "975",
+        "OPP FGA": "2042",
+        "OPP FG%": "47.747"
+      },
+      {
+        "Rank": "339",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "OPP FG": "933",
+        "OPP FGA": "1951",
+        "OPP FG%": "47.822"
+      },
+      {
+        "Rank": "340",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "OPP FG": "883",
+        "OPP FGA": "1846",
+        "OPP FG%": "47.833"
+      },
+      {
+        "Rank": "341",
+        "Team": "Longwood",
+        "GM": "32",
+        "OPP FG": "840",
+        "OPP FGA": "1756",
+        "OPP FG%": "47.836"
+      },
+      {
+        "Rank": "342",
+        "Team": "Denver",
+        "GM": "32",
+        "OPP FG": "818",
+        "OPP FGA": "1708",
+        "OPP FG%": "47.892"
+      },
+      {
+        "Rank": "343",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "OPP FG": "882",
+        "OPP FGA": "1837",
+        "OPP FG%": "48.013"
+      },
+      {
+        "Rank": "344",
+        "Team": "Air Force",
+        "GM": "32",
+        "OPP FG": "845",
+        "OPP FGA": "1758",
+        "OPP FG%": "48.066"
+      },
+      {
+        "Rank": "345",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "OPP FG": "940",
+        "OPP FGA": "1955",
+        "OPP FG%": "48.082"
+      },
+      {
+        "Rank": "346",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "OPP FG": "857",
+        "OPP FGA": "1782",
+        "OPP FG%": "48.092"
+      },
+      {
+        "Rank": "347",
+        "Team": "North Florida",
+        "GM": "32",
+        "OPP FG": "1015",
+        "OPP FGA": "2110",
+        "OPP FG%": "48.104"
+      },
+      {
+        "Rank": "348",
+        "Team": "Charlotte",
+        "GM": "33",
+        "OPP FG": "890",
+        "OPP FGA": "1848",
+        "OPP FG%": "48.160"
+      },
+      {
+        "Rank": "349",
+        "Team": "UAlbany",
+        "GM": "33",
+        "OPP FG": "873",
+        "OPP FGA": "1806",
+        "OPP FG%": "48.339"
+      },
+      {
+        "Rank": "350",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "OPP FG": "808",
+        "OPP FGA": "1670",
+        "OPP FG%": "48.383"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage Defense",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Toledo",
+        "GM": "33",
+        "OPP FG": "982",
+        "OPP FGA": "2018",
+        "OPP FG%": "48.662"
+      },
+      {
+        "Rank": "352",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "OPP FG": "908",
+        "OPP FGA": "1836",
+        "OPP FG%": "49.455"
+      },
+      {
+        "Rank": "353",
+        "Team": "Canisius",
+        "GM": "31",
+        "OPP FG": "876",
+        "OPP FGA": "1770",
+        "OPP FG%": "49.492"
+      },
+      {
+        "Rank": "354",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "OPP FG": "898",
+        "OPP FGA": "1798",
+        "OPP FG%": "49.944"
+      },
+      {
+        "Rank": "355",
+        "Team": "Prairie View",
+        "GM": "32",
+        "OPP FG": "944",
+        "OPP FGA": "1869",
+        "OPP FG%": "50.508"
+      }
+    ]
+  }
+]

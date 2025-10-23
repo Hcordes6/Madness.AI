@@ -1,0 +1,2914 @@
+[
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 1,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "1",
+        "Team": "Northern Colo.",
+        "GM": "35",
+        "FGM": "1024",
+        "FGA": "2019",
+        "FG%": "50.72"
+      },
+      {
+        "Rank": "2",
+        "Team": "Gonzaga",
+        "GM": "35",
+        "FGM": "1108",
+        "FGA": "2212",
+        "FG%": "50.09"
+      },
+      {
+        "Rank": "3",
+        "Team": "Cornell",
+        "GM": "29",
+        "FGM": "886",
+        "FGA": "1770",
+        "FG%": "50.06"
+      },
+      {
+        "Rank": "4",
+        "Team": "Montana",
+        "GM": "35",
+        "FGM": "964",
+        "FGA": "1934",
+        "FG%": "49.84"
+      },
+      {
+        "Rank": "5",
+        "Team": "UMass Lowell",
+        "GM": "32",
+        "FGM": "916",
+        "FGA": "1843",
+        "FG%": "49.70"
+      },
+      {
+        "Rank": "6",
+        "Team": "Wright St.",
+        "GM": "33",
+        "FGM": "952",
+        "FGA": "1928",
+        "FG%": "49.38"
+      },
+      {
+        "Rank": "7",
+        "Team": "Duke",
+        "GM": "39",
+        "FGM": "1129",
+        "FGA": "2289",
+        "FG%": "49.32"
+      },
+      {
+        "Rank": "8",
+        "Team": "High Point",
+        "GM": "35",
+        "FGM": "1000",
+        "FGA": "2031",
+        "FG%": "49.24"
+      },
+      {
+        "Rank": "9",
+        "Team": "Washington St.",
+        "GM": "34",
+        "FGM": "968",
+        "FGA": "1971",
+        "FG%": "49.11"
+      },
+      {
+        "Rank": "10",
+        "Team": "A&M-Corpus Christi",
+        "GM": "34",
+        "FGM": "968",
+        "FGA": "1976",
+        "FG%": "48.99"
+      },
+      {
+        "Rank": "11",
+        "Team": "Yale",
+        "GM": "30",
+        "FGM": "896",
+        "FGA": "1830",
+        "FG%": "48.96"
+      },
+      {
+        "Rank": "12",
+        "Team": "Iowa",
+        "GM": "33",
+        "FGM": "1011",
+        "FGA": "2065",
+        "FG%": "48.96"
+      },
+      {
+        "Rank": "13",
+        "Team": "Liberty",
+        "GM": "35",
+        "FGM": "958",
+        "FGA": "1959",
+        "FG%": "48.90"
+      },
+      {
+        "Rank": "14",
+        "Team": "Norfolk St.",
+        "GM": "35",
+        "FGM": "968",
+        "FGA": "1983",
+        "FG%": "48.81"
+      },
+      {
+        "Rank": "15",
+        "Team": "UNI",
+        "GM": "33",
+        "FGM": "872",
+        "FGA": "1792",
+        "FG%": "48.66"
+      },
+      {
+        "Rank": "16",
+        "Team": "Purdue",
+        "GM": "36",
+        "FGM": "985",
+        "FGA": "2027",
+        "FG%": "48.59"
+      },
+      {
+        "Rank": "17",
+        "Team": "UMBC",
+        "GM": "32",
+        "FGM": "929",
+        "FGA": "1917",
+        "FG%": "48.46"
+      },
+      {
+        "Rank": "18",
+        "Team": "Southern California",
+        "GM": "35",
+        "FGM": "957",
+        "FGA": "1975",
+        "FG%": "48.46"
+      },
+      {
+        "Rank": "19",
+        "Team": "Alabama",
+        "GM": "37",
+        "FGM": "1147",
+        "FGA": "2371",
+        "FG%": "48.38"
+      },
+      {
+        "Rank": "20",
+        "Team": "Utah St.",
+        "GM": "34",
+        "FGM": "953",
+        "FGA": "1970",
+        "FG%": "48.38"
+      },
+      {
+        "Rank": "21",
+        "Team": "Oregon St.",
+        "GM": "33",
+        "FGM": "872",
+        "FGA": "1804",
+        "FG%": "48.34"
+      },
+      {
+        "Rank": "22",
+        "Team": "Bradley",
+        "GM": "37",
+        "FGM": "993",
+        "FGA": "2056",
+        "FG%": "48.30"
+      },
+      {
+        "Rank": "23",
+        "Team": "Iowa St.",
+        "GM": "35",
+        "FGM": "982",
+        "FGA": "2034",
+        "FG%": "48.28"
+      },
+      {
+        "Rank": "24",
+        "Team": "BYU",
+        "GM": "36",
+        "FGM": "1042",
+        "FGA": "2161",
+        "FG%": "48.22"
+      },
+      {
+        "Rank": "25",
+        "Team": "Missouri",
+        "GM": "34",
+        "FGM": "939",
+        "FGA": "1949",
+        "FG%": "48.18"
+      },
+      {
+        "Rank": "26",
+        "Team": "Kentucky",
+        "GM": "36",
+        "FGM": "1065",
+        "FGA": "2211",
+        "FG%": "48.17"
+      },
+      {
+        "Rank": "27",
+        "Team": "Illinois St.",
+        "GM": "36",
+        "FGM": "956",
+        "FGA": "1985",
+        "FG%": "48.16"
+      },
+      {
+        "Rank": "28",
+        "Team": "Miami (OH)",
+        "GM": "34",
+        "FGM": "985",
+        "FGA": "2046",
+        "FG%": "48.14"
+      },
+      {
+        "Rank": "29",
+        "Team": "Drake",
+        "GM": "35",
+        "FGM": "846",
+        "FGA": "1759",
+        "FG%": "48.10"
+      },
+      {
+        "Rank": "30",
+        "Team": "Penn St.",
+        "GM": "31",
+        "FGM": "858",
+        "FGA": "1792",
+        "FG%": "47.88"
+      },
+      {
+        "Rank": "31",
+        "Team": "Chattanooga",
+        "GM": "38",
+        "FGM": "1072",
+        "FGA": "2239",
+        "FG%": "47.88"
+      },
+      {
+        "Rank": "32",
+        "Team": "SMU",
+        "GM": "35",
+        "FGM": "990",
+        "FGA": "2069",
+        "FG%": "47.85"
+      },
+      {
+        "Rank": "33",
+        "Team": "Colorado St.",
+        "GM": "36",
+        "FGM": "953",
+        "FGA": "1996",
+        "FG%": "47.75"
+      },
+      {
+        "Rank": "34",
+        "Team": "Creighton",
+        "GM": "36",
+        "FGM": "974",
+        "FGA": "2041",
+        "FG%": "47.72"
+      },
+      {
+        "Rank": "35",
+        "Team": "North Dakota St.",
+        "GM": "32",
+        "FGM": "871",
+        "FGA": "1826",
+        "FG%": "47.70"
+      },
+      {
+        "Rank": "36",
+        "Team": "McNeese",
+        "GM": "35",
+        "FGM": "963",
+        "FGA": "2019",
+        "FG%": "47.70"
+      },
+      {
+        "Rank": "37",
+        "Team": "Morgan St.",
+        "GM": "32",
+        "FGM": "948",
+        "FGA": "1988",
+        "FG%": "47.69"
+      },
+      {
+        "Rank": "38",
+        "Team": "Saint Louis",
+        "GM": "34",
+        "FGM": "899",
+        "FGA": "1886",
+        "FG%": "47.67"
+      },
+      {
+        "Rank": "39",
+        "Team": "Central Conn. St.",
+        "GM": "32",
+        "FGM": "870",
+        "FGA": "1827",
+        "FG%": "47.62"
+      },
+      {
+        "Rank": "40",
+        "Team": "Auburn",
+        "GM": "38",
+        "FGM": "1116",
+        "FGA": "2344",
+        "FG%": "47.61"
+      },
+      {
+        "Rank": "41",
+        "Team": "UConn",
+        "GM": "35",
+        "FGM": "954",
+        "FGA": "2008",
+        "FG%": "47.51"
+      },
+      {
+        "Rank": "42",
+        "Team": "North Carolina",
+        "GM": "37",
+        "FGM": "1059",
+        "FGA": "2230",
+        "FG%": "47.49"
+      },
+      {
+        "Rank": "43",
+        "Team": "Delaware",
+        "GM": "36",
+        "FGM": "988",
+        "FGA": "2081",
+        "FG%": "47.48"
+      },
+      {
+        "Rank": "44",
+        "Team": "Arizona",
+        "GM": "37",
+        "FGM": "1076",
+        "FGA": "2268",
+        "FG%": "47.44"
+      },
+      {
+        "Rank": "45",
+        "Team": "Winthrop",
+        "GM": "34",
+        "FGM": "978",
+        "FGA": "2064",
+        "FG%": "47.38"
+      },
+      {
+        "Rank": "46",
+        "Team": "Nevada",
+        "GM": "33",
+        "FGM": "845",
+        "FGA": "1785",
+        "FG%": "47.34"
+      },
+      {
+        "Rank": "47",
+        "Team": "UNC Asheville",
+        "GM": "32",
+        "FGM": "942",
+        "FGA": "1993",
+        "FG%": "47.27"
+      },
+      {
+        "Rank": "48",
+        "Team": "Portland St.",
+        "GM": "32",
+        "FGM": "913",
+        "FGA": "1932",
+        "FG%": "47.26"
+      },
+      {
+        "Rank": "49",
+        "Team": "Memphis",
+        "GM": "35",
+        "FGM": "981",
+        "FGA": "2078",
+        "FG%": "47.21"
+      },
+      {
+        "Rank": "50",
+        "Team": "Santa Clara",
+        "GM": "34",
+        "FGM": "990",
+        "FGA": "2099",
+        "FG%": "47.17"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 2,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "51",
+        "Team": "South Dakota St.",
+        "GM": "32",
+        "FGM": "913",
+        "FGA": "1937",
+        "FG%": "47.13"
+      },
+      {
+        "Rank": "52",
+        "Team": "Florida",
+        "GM": "40",
+        "FGM": "1182",
+        "FGA": "2510",
+        "FG%": "47.09"
+      },
+      {
+        "Rank": "53",
+        "Team": "Lipscomb",
+        "GM": "35",
+        "FGM": "958",
+        "FGA": "2035",
+        "FG%": "47.08"
+      },
+      {
+        "Rank": "54",
+        "Team": "Kansas",
+        "GM": "34",
+        "FGM": "984",
+        "FGA": "2093",
+        "FG%": "47.01"
+      },
+      {
+        "Rank": "55",
+        "Team": "UNCW",
+        "GM": "35",
+        "FGM": "971",
+        "FGA": "2067",
+        "FG%": "46.98"
+      },
+      {
+        "Rank": "56",
+        "Team": "Maryland",
+        "GM": "36",
+        "FGM": "1039",
+        "FGA": "2212",
+        "FG%": "46.97"
+      },
+      {
+        "Rank": "57",
+        "Team": "Purdue Fort Wayne",
+        "GM": "32",
+        "FGM": "918",
+        "FGA": "1955",
+        "FG%": "46.96"
+      },
+      {
+        "Rank": "58",
+        "Team": "Ohio",
+        "GM": "32",
+        "FGM": "899",
+        "FGA": "1915",
+        "FG%": "46.95"
+      },
+      {
+        "Rank": "59",
+        "Team": "FGCU",
+        "GM": "34",
+        "FGM": "934",
+        "FGA": "1990",
+        "FG%": "46.93"
+      },
+      {
+        "Rank": "60",
+        "Team": "Akron",
+        "GM": "35",
+        "FGM": "1060",
+        "FGA": "2260",
+        "FG%": "46.90"
+      },
+      {
+        "Rank": "61",
+        "Team": "South Carolina St.",
+        "GM": "33",
+        "FGM": "902",
+        "FGA": "1926",
+        "FG%": "46.83"
+      },
+      {
+        "Rank": "62",
+        "Team": "Utah Valley",
+        "GM": "34",
+        "FGM": "912",
+        "FGA": "1948",
+        "FG%": "46.82"
+      },
+      {
+        "Rank": "63",
+        "Team": "Colgate",
+        "GM": "33",
+        "FGM": "888",
+        "FGA": "1897",
+        "FG%": "46.81"
+      },
+      {
+        "Rank": "64",
+        "Team": "Michigan",
+        "GM": "37",
+        "FGM": "1011",
+        "FGA": "2160",
+        "FG%": "46.81"
+      },
+      {
+        "Rank": "65",
+        "Team": "UIW",
+        "GM": "36",
+        "FGM": "982",
+        "FGA": "2099",
+        "FG%": "46.78"
+      },
+      {
+        "Rank": "66",
+        "Team": "Presbyterian",
+        "GM": "33",
+        "FGM": "894",
+        "FGA": "1911",
+        "FG%": "46.78"
+      },
+      {
+        "Rank": "67",
+        "Team": "CSUN",
+        "GM": "33",
+        "FGM": "952",
+        "FGA": "2035",
+        "FG%": "46.78"
+      },
+      {
+        "Rank": "68",
+        "Team": "Oklahoma",
+        "GM": "34",
+        "FGM": "886",
+        "FGA": "1894",
+        "FG%": "46.78"
+      },
+      {
+        "Rank": "69",
+        "Team": "Milwaukee",
+        "GM": "32",
+        "FGM": "907",
+        "FGA": "1939",
+        "FG%": "46.78"
+      },
+      {
+        "Rank": "70",
+        "Team": "Bellarmine",
+        "GM": "31",
+        "FGM": "814",
+        "FGA": "1743",
+        "FG%": "46.70"
+      },
+      {
+        "Rank": "71",
+        "Team": "Xavier",
+        "GM": "34",
+        "FGM": "905",
+        "FGA": "1938",
+        "FG%": "46.70"
+      },
+      {
+        "Rank": "72",
+        "Team": "Louisiana Tech",
+        "GM": "32",
+        "FGM": "830",
+        "FGA": "1780",
+        "FG%": "46.63"
+      },
+      {
+        "Rank": "73",
+        "Team": "Ohio St.",
+        "GM": "32",
+        "FGM": "878",
+        "FGA": "1884",
+        "FG%": "46.60"
+      },
+      {
+        "Rank": "74",
+        "Team": "Bucknell",
+        "GM": "33",
+        "FGM": "862",
+        "FGA": "1850",
+        "FG%": "46.59"
+      },
+      {
+        "Rank": "75",
+        "Team": "Columbia",
+        "GM": "27",
+        "FGM": "771",
+        "FGA": "1655",
+        "FG%": "46.59"
+      },
+      {
+        "Rank": "76",
+        "Team": "Texas Tech",
+        "GM": "37",
+        "FGM": "1059",
+        "FGA": "2274",
+        "FG%": "46.57"
+      },
+      {
+        "Rank": "77",
+        "Team": "Indiana St.",
+        "GM": "32",
+        "FGM": "877",
+        "FGA": "1884",
+        "FG%": "46.55"
+      },
+      {
+        "Rank": "78",
+        "Team": "Howard",
+        "GM": "32",
+        "FGM": "854",
+        "FGA": "1837",
+        "FG%": "46.49"
+      },
+      {
+        "Rank": "79",
+        "Team": "Belmont",
+        "GM": "33",
+        "FGM": "945",
+        "FGA": "2033",
+        "FG%": "46.48"
+      },
+      {
+        "Rank": "80",
+        "Team": "Rhode Island",
+        "GM": "31",
+        "FGM": "828",
+        "FGA": "1782",
+        "FG%": "46.46"
+      },
+      {
+        "Rank": "81",
+        "Team": "Gardner-Webb",
+        "GM": "31",
+        "FGM": "824",
+        "FGA": "1775",
+        "FG%": "46.42"
+      },
+      {
+        "Rank": "82",
+        "Team": "Toledo",
+        "GM": "33",
+        "FGM": "937",
+        "FGA": "2019",
+        "FG%": "46.41"
+      },
+      {
+        "Rank": "83",
+        "Team": "Texas St.",
+        "GM": "32",
+        "FGM": "867",
+        "FGA": "1869",
+        "FG%": "46.39"
+      },
+      {
+        "Rank": "84",
+        "Team": "UCLA",
+        "GM": "34",
+        "FGM": "909",
+        "FGA": "1960",
+        "FG%": "46.38"
+      },
+      {
+        "Rank": "85",
+        "Team": "UC San Diego",
+        "GM": "35",
+        "FGM": "954",
+        "FGA": "2058",
+        "FG%": "46.36"
+      },
+      {
+        "Rank": "86",
+        "Team": "Fla. Atlantic",
+        "GM": "34",
+        "FGM": "954",
+        "FGA": "2059",
+        "FG%": "46.33"
+      },
+      {
+        "Rank": "87",
+        "Team": "Maine",
+        "GM": "34",
+        "FGM": "893",
+        "FGA": "1929",
+        "FG%": "46.29"
+      },
+      {
+        "Rank": "88",
+        "Team": "Longwood",
+        "GM": "32",
+        "FGM": "847",
+        "FGA": "1830",
+        "FG%": "46.28"
+      },
+      {
+        "Rank": "89",
+        "Team": "Tennessee St.",
+        "GM": "33",
+        "FGM": "909",
+        "FGA": "1964",
+        "FG%": "46.28"
+      },
+      {
+        "Rank": "90",
+        "Team": "UC Santa Barbara",
+        "GM": "34",
+        "FGM": "875",
+        "FGA": "1891",
+        "FG%": "46.27"
+      },
+      {
+        "Rank": "91",
+        "Team": "Boise St.",
+        "GM": "37",
+        "FGM": "958",
+        "FGA": "2071",
+        "FG%": "46.26"
+      },
+      {
+        "Rank": "92",
+        "Team": "Texas",
+        "GM": "35",
+        "FGM": "956",
+        "FGA": "2067",
+        "FG%": "46.25"
+      },
+      {
+        "Rank": "93",
+        "Team": "Arkansas",
+        "GM": "36",
+        "FGM": "978",
+        "FGA": "2115",
+        "FG%": "46.24"
+      },
+      {
+        "Rank": "94",
+        "Team": "Cal Poly",
+        "GM": "35",
+        "FGM": "1011",
+        "FGA": "2187",
+        "FG%": "46.23"
+      },
+      {
+        "Rank": "95",
+        "Team": "Clemson",
+        "GM": "34",
+        "FGM": "930",
+        "FGA": "2012",
+        "FG%": "46.22"
+      },
+      {
+        "Rank": "96",
+        "Team": "Central Mich.",
+        "GM": "31",
+        "FGM": "835",
+        "FGA": "1807",
+        "FG%": "46.21"
+      },
+      {
+        "Rank": "97",
+        "Team": "Saint Francis",
+        "GM": "34",
+        "FGM": "902",
+        "FGA": "1952",
+        "FG%": "46.21"
+      },
+      {
+        "Rank": "98",
+        "Team": "Southern Ill.",
+        "GM": "33",
+        "FGM": "875",
+        "FGA": "1896",
+        "FG%": "46.15"
+      },
+      {
+        "Rank": "99",
+        "Team": "Binghamton",
+        "GM": "32",
+        "FGM": "800",
+        "FGA": "1735",
+        "FG%": "46.11"
+      },
+      {
+        "Rank": "100",
+        "Team": "Delaware St.",
+        "GM": "30",
+        "FGM": "871",
+        "FGA": "1889",
+        "FG%": "46.11"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 3,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "101",
+        "Team": "Samford",
+        "GM": "33",
+        "FGM": "970",
+        "FGA": "2107",
+        "FG%": "46.04"
+      },
+      {
+        "Rank": "102",
+        "Team": "Georgia",
+        "GM": "33",
+        "FGM": "860",
+        "FGA": "1870",
+        "FG%": "45.99"
+      },
+      {
+        "Rank": "103",
+        "Team": "Butler",
+        "GM": "35",
+        "FGM": "894",
+        "FGA": "1944",
+        "FG%": "45.99"
+      },
+      {
+        "Rank": "104",
+        "Team": "Eastern Mich.",
+        "GM": "32",
+        "FGM": "833",
+        "FGA": "1812",
+        "FG%": "45.97"
+      },
+      {
+        "Rank": "105",
+        "Team": "Oregon",
+        "GM": "35",
+        "FGM": "947",
+        "FGA": "2060",
+        "FG%": "45.97"
+      },
+      {
+        "Rank": "106",
+        "Team": "Villanova",
+        "GM": "36",
+        "FGM": "926",
+        "FGA": "2015",
+        "FG%": "45.96"
+      },
+      {
+        "Rank": "107",
+        "Team": "New Mexico",
+        "GM": "35",
+        "FGM": "1010",
+        "FGA": "2198",
+        "FG%": "45.95"
+      },
+      {
+        "Rank": "108",
+        "Team": "Miami (FL)",
+        "GM": "31",
+        "FGM": "849",
+        "FGA": "1849",
+        "FG%": "45.92"
+      },
+      {
+        "Rank": "109",
+        "Team": "N.C. Central",
+        "GM": "33",
+        "FGM": "915",
+        "FGA": "1994",
+        "FG%": "45.89"
+      },
+      {
+        "Rank": "110",
+        "Team": "Omaha",
+        "GM": "35",
+        "FGM": "941",
+        "FGA": "2051",
+        "FG%": "45.88"
+      },
+      {
+        "Rank": "111",
+        "Team": "Drexel",
+        "GM": "33",
+        "FGM": "870",
+        "FGA": "1898",
+        "FG%": "45.84"
+      },
+      {
+        "Rank": "112",
+        "Team": "Loyola Chicago",
+        "GM": "37",
+        "FGM": "972",
+        "FGA": "2122",
+        "FG%": "45.81"
+      },
+      {
+        "Rank": "113",
+        "Team": "Furman",
+        "GM": "35",
+        "FGM": "927",
+        "FGA": "2024",
+        "FG%": "45.80"
+      },
+      {
+        "Rank": "114",
+        "Team": "Indiana",
+        "GM": "32",
+        "FGM": "871",
+        "FGA": "1902",
+        "FG%": "45.79"
+      },
+      {
+        "Rank": "115",
+        "Team": "Dayton",
+        "GM": "34",
+        "FGM": "874",
+        "FGA": "1910",
+        "FG%": "45.76"
+      },
+      {
+        "Rank": "116",
+        "Team": "Michigan St.",
+        "GM": "37",
+        "FGM": "1003",
+        "FGA": "2192",
+        "FG%": "45.76"
+      },
+      {
+        "Rank": "117",
+        "Team": "Bryant",
+        "GM": "35",
+        "FGM": "1054",
+        "FGA": "2304",
+        "FG%": "45.75"
+      },
+      {
+        "Rank": "118",
+        "Team": "North Ala.",
+        "GM": "35",
+        "FGM": "998",
+        "FGA": "2185",
+        "FG%": "45.68"
+      },
+      {
+        "Rank": "119",
+        "Team": "Syracuse",
+        "GM": "33",
+        "FGM": "897",
+        "FGA": "1964",
+        "FG%": "45.67"
+      },
+      {
+        "Rank": "120",
+        "Team": "Eastern Wash.",
+        "GM": "32",
+        "FGM": "818",
+        "FGA": "1792",
+        "FG%": "45.65"
+      },
+      {
+        "Rank": "121",
+        "Team": "Southeast Mo. St.",
+        "GM": "33",
+        "FGM": "901",
+        "FGA": "1974",
+        "FG%": "45.64"
+      },
+      {
+        "Rank": "122",
+        "Team": "Holy Cross",
+        "GM": "32",
+        "FGM": "824",
+        "FGA": "1806",
+        "FG%": "45.63"
+      },
+      {
+        "Rank": "123",
+        "Team": "Nebraska",
+        "GM": "35",
+        "FGM": "928",
+        "FGA": "2035",
+        "FG%": "45.60"
+      },
+      {
+        "Rank": "124",
+        "Team": "UAB",
+        "GM": "37",
+        "FGM": "1111",
+        "FGA": "2437",
+        "FG%": "45.59"
+      },
+      {
+        "Rank": "125",
+        "Team": "Grand Canyon",
+        "GM": "34",
+        "FGM": "906",
+        "FGA": "1988",
+        "FG%": "45.57"
+      },
+      {
+        "Rank": "126",
+        "Team": "George Mason",
+        "GM": "36",
+        "FGM": "869",
+        "FGA": "1908",
+        "FG%": "45.55"
+      },
+      {
+        "Rank": "127",
+        "Team": "Montana St.",
+        "GM": "33",
+        "FGM": "835",
+        "FGA": "1834",
+        "FG%": "45.53"
+      },
+      {
+        "Rank": "128",
+        "Team": "Northern Ariz.",
+        "GM": "34",
+        "FGM": "955",
+        "FGA": "2098",
+        "FG%": "45.52"
+      },
+      {
+        "Rank": "129",
+        "Team": "Weber St.",
+        "GM": "34",
+        "FGM": "866",
+        "FGA": "1903",
+        "FG%": "45.51"
+      },
+      {
+        "Rank": "130",
+        "Team": "UIC",
+        "GM": "31",
+        "FGM": "831",
+        "FGA": "1827",
+        "FG%": "45.48"
+      },
+      {
+        "Rank": "131",
+        "Team": "Col. of Charleston",
+        "GM": "33",
+        "FGM": "892",
+        "FGA": "1962",
+        "FG%": "45.46"
+      },
+      {
+        "Rank": "132",
+        "Team": "Ball St.",
+        "GM": "31",
+        "FGM": "781",
+        "FGA": "1718",
+        "FG%": "45.46"
+      },
+      {
+        "Rank": "133",
+        "Team": "Radford",
+        "GM": "33",
+        "FGM": "824",
+        "FGA": "1813",
+        "FG%": "45.45"
+      },
+      {
+        "Rank": "134",
+        "Team": "UC Irvine",
+        "GM": "39",
+        "FGM": "1017",
+        "FGA": "2238",
+        "FG%": "45.44"
+      },
+      {
+        "Rank": "135",
+        "Team": "Davidson",
+        "GM": "33",
+        "FGM": "859",
+        "FGA": "1891",
+        "FG%": "45.43"
+      },
+      {
+        "Rank": "136",
+        "Team": "USC Upstate",
+        "GM": "32",
+        "FGM": "881",
+        "FGA": "1941",
+        "FG%": "45.39"
+      },
+      {
+        "Rank": "137",
+        "Team": "San Francisco",
+        "GM": "35",
+        "FGM": "929",
+        "FGA": "2047",
+        "FG%": "45.38"
+      },
+      {
+        "Rank": "138",
+        "Team": "Wisconsin",
+        "GM": "37",
+        "FGM": "991",
+        "FGA": "2184",
+        "FG%": "45.38"
+      },
+      {
+        "Rank": "139",
+        "Team": "Ark.-Pine Bluff",
+        "GM": "31",
+        "FGM": "834",
+        "FGA": "1838",
+        "FG%": "45.38"
+      },
+      {
+        "Rank": "-",
+        "Team": "Florida St.",
+        "GM": "32",
+        "FGM": "834",
+        "FGA": "1838",
+        "FG%": "45.38"
+      },
+      {
+        "Rank": "141",
+        "Team": "Louisville",
+        "GM": "35",
+        "FGM": "947",
+        "FGA": "2088",
+        "FG%": "45.35"
+      },
+      {
+        "Rank": "142",
+        "Team": "Middle Tenn.",
+        "GM": "34",
+        "FGM": "945",
+        "FGA": "2084",
+        "FG%": "45.35"
+      },
+      {
+        "Rank": "143",
+        "Team": "William & Mary",
+        "GM": "32",
+        "FGM": "842",
+        "FGA": "1858",
+        "FG%": "45.32"
+      },
+      {
+        "Rank": "144",
+        "Team": "Tennessee",
+        "GM": "38",
+        "FGM": "967",
+        "FGA": "2138",
+        "FG%": "45.23"
+      },
+      {
+        "Rank": "145",
+        "Team": "Mississippi St.",
+        "GM": "34",
+        "FGM": "971",
+        "FGA": "2147",
+        "FG%": "45.23"
+      },
+      {
+        "Rank": "146",
+        "Team": "Wofford",
+        "GM": "35",
+        "FGM": "935",
+        "FGA": "2068",
+        "FG%": "45.21"
+      },
+      {
+        "Rank": "147",
+        "Team": "Northeastern",
+        "GM": "32",
+        "FGM": "835",
+        "FGA": "1848",
+        "FG%": "45.18"
+      },
+      {
+        "Rank": "148",
+        "Team": "Cleveland St.",
+        "GM": "36",
+        "FGM": "965",
+        "FGA": "2136",
+        "FG%": "45.18"
+      },
+      {
+        "Rank": "149",
+        "Team": "Tulane",
+        "GM": "34",
+        "FGM": "874",
+        "FGA": "1936",
+        "FG%": "45.14"
+      },
+      {
+        "Rank": "150",
+        "Team": "Lehigh",
+        "GM": "30",
+        "FGM": "758",
+        "FGA": "1682",
+        "FG%": "45.07"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 4,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "151",
+        "Team": "Pittsburgh",
+        "GM": "32",
+        "FGM": "834",
+        "FGA": "1851",
+        "FG%": "45.06"
+      },
+      {
+        "Rank": "152",
+        "Team": "Illinois",
+        "GM": "35",
+        "FGM": "1006",
+        "FGA": "2233",
+        "FG%": "45.05"
+      },
+      {
+        "Rank": "153",
+        "Team": "Notre Dame",
+        "GM": "33",
+        "FGM": "851",
+        "FGA": "1889",
+        "FG%": "45.05"
+      },
+      {
+        "Rank": "154",
+        "Team": "Niagara",
+        "GM": "31",
+        "FGM": "747",
+        "FGA": "1659",
+        "FG%": "45.03"
+      },
+      {
+        "Rank": "155",
+        "Team": "Saint Mary's (CA)",
+        "GM": "35",
+        "FGM": "940",
+        "FGA": "2088",
+        "FG%": "45.02"
+      },
+      {
+        "Rank": "156",
+        "Team": "Vanderbilt",
+        "GM": "33",
+        "FGM": "915",
+        "FGA": "2034",
+        "FG%": "44.99"
+      },
+      {
+        "Rank": "157",
+        "Team": "South Dakota",
+        "GM": "33",
+        "FGM": "946",
+        "FGA": "2104",
+        "FG%": "44.96"
+      },
+      {
+        "Rank": "158",
+        "Team": "Robert Morris",
+        "GM": "35",
+        "FGM": "934",
+        "FGA": "2078",
+        "FG%": "44.95"
+      },
+      {
+        "Rank": "159",
+        "Team": "Georgia St.",
+        "GM": "33",
+        "FGM": "898",
+        "FGA": "1998",
+        "FG%": "44.94"
+      },
+      {
+        "Rank": "160",
+        "Team": "Hawaii",
+        "GM": "31",
+        "FGM": "745",
+        "FGA": "1658",
+        "FG%": "44.93"
+      },
+      {
+        "Rank": "161",
+        "Team": "Denver",
+        "GM": "32",
+        "FGM": "820",
+        "FGA": "1825",
+        "FG%": "44.93"
+      },
+      {
+        "Rank": "162",
+        "Team": "Houston",
+        "GM": "40",
+        "FGM": "1070",
+        "FGA": "2384",
+        "FG%": "44.88"
+      },
+      {
+        "Rank": "163",
+        "Team": "Cincinnati",
+        "GM": "35",
+        "FGM": "951",
+        "FGA": "2120",
+        "FG%": "44.86"
+      },
+      {
+        "Rank": "164",
+        "Team": "Brown",
+        "GM": "27",
+        "FGM": "723",
+        "FGA": "1613",
+        "FG%": "44.82"
+      },
+      {
+        "Rank": "165",
+        "Team": "Temple",
+        "GM": "32",
+        "FGM": "840",
+        "FGA": "1875",
+        "FG%": "44.80"
+      },
+      {
+        "Rank": "166",
+        "Team": "Missouri St.",
+        "GM": "32",
+        "FGM": "776",
+        "FGA": "1735",
+        "FG%": "44.73"
+      },
+      {
+        "Rank": "167",
+        "Team": "North Texas",
+        "GM": "36",
+        "FGM": "842",
+        "FGA": "1884",
+        "FG%": "44.69"
+      },
+      {
+        "Rank": "168",
+        "Team": "Virginia",
+        "GM": "32",
+        "FGM": "739",
+        "FGA": "1656",
+        "FG%": "44.63"
+      },
+      {
+        "Rank": "169",
+        "Team": "Utah",
+        "GM": "33",
+        "FGM": "875",
+        "FGA": "1961",
+        "FG%": "44.62"
+      },
+      {
+        "Rank": "170",
+        "Team": "Rutgers",
+        "GM": "32",
+        "FGM": "865",
+        "FGA": "1939",
+        "FG%": "44.61"
+      },
+      {
+        "Rank": "171",
+        "Team": "George Washington",
+        "GM": "34",
+        "FGM": "850",
+        "FGA": "1906",
+        "FG%": "44.60"
+      },
+      {
+        "Rank": "172",
+        "Team": "DePaul",
+        "GM": "34",
+        "FGM": "881",
+        "FGA": "1976",
+        "FG%": "44.59"
+      },
+      {
+        "Rank": "173",
+        "Team": "Sam Houston",
+        "GM": "32",
+        "FGM": "827",
+        "FGA": "1855",
+        "FG%": "44.58"
+      },
+      {
+        "Rank": "174",
+        "Team": "Jacksonville St.",
+        "GM": "36",
+        "FGM": "940",
+        "FGA": "2109",
+        "FG%": "44.57"
+      },
+      {
+        "Rank": "175",
+        "Team": "UT Arlington",
+        "GM": "31",
+        "FGM": "799",
+        "FGA": "1793",
+        "FG%": "44.56"
+      },
+      {
+        "Rank": "176",
+        "Team": "St. John's (NY)",
+        "GM": "36",
+        "FGM": "1054",
+        "FGA": "2366",
+        "FG%": "44.55"
+      },
+      {
+        "Rank": "177",
+        "Team": "Wichita St.",
+        "GM": "34",
+        "FGM": "909",
+        "FGA": "2041",
+        "FG%": "44.54"
+      },
+      {
+        "Rank": "178",
+        "Team": "Baylor",
+        "GM": "35",
+        "FGM": "946",
+        "FGA": "2125",
+        "FG%": "44.52"
+      },
+      {
+        "Rank": "179",
+        "Team": "Little Rock",
+        "GM": "33",
+        "FGM": "843",
+        "FGA": "1894",
+        "FG%": "44.51"
+      },
+      {
+        "Rank": "180",
+        "Team": "Washington",
+        "GM": "31",
+        "FGM": "788",
+        "FGA": "1771",
+        "FG%": "44.49"
+      },
+      {
+        "Rank": "181",
+        "Team": "VCU",
+        "GM": "35",
+        "FGM": "929",
+        "FGA": "2088",
+        "FG%": "44.49"
+      },
+      {
+        "Rank": "182",
+        "Team": "Ole Miss",
+        "GM": "36",
+        "FGM": "959",
+        "FGA": "2156",
+        "FG%": "44.48"
+      },
+      {
+        "Rank": "183",
+        "Team": "Stetson",
+        "GM": "32",
+        "FGM": "805",
+        "FGA": "1810",
+        "FG%": "44.48"
+      },
+      {
+        "Rank": "184",
+        "Team": "LSU",
+        "GM": "32",
+        "FGM": "838",
+        "FGA": "1885",
+        "FG%": "44.46"
+      },
+      {
+        "Rank": "185",
+        "Team": "Southeastern La.",
+        "GM": "32",
+        "FGM": "824",
+        "FGA": "1854",
+        "FG%": "44.44"
+      },
+      {
+        "Rank": "186",
+        "Team": "North Florida",
+        "GM": "32",
+        "FGM": "944",
+        "FGA": "2125",
+        "FG%": "44.42"
+      },
+      {
+        "Rank": "187",
+        "Team": "St. Bonaventure",
+        "GM": "34",
+        "FGM": "852",
+        "FGA": "1918",
+        "FG%": "44.42"
+      },
+      {
+        "Rank": "188",
+        "Team": "Marquette",
+        "GM": "34",
+        "FGM": "943",
+        "FGA": "2123",
+        "FG%": "44.42"
+      },
+      {
+        "Rank": "189",
+        "Team": "Colorado",
+        "GM": "35",
+        "FGM": "849",
+        "FGA": "1912",
+        "FG%": "44.40"
+      },
+      {
+        "Rank": "190",
+        "Team": "Abilene Christian",
+        "GM": "32",
+        "FGM": "819",
+        "FGA": "1845",
+        "FG%": "44.39"
+      },
+      {
+        "Rank": "191",
+        "Team": "UTRGV",
+        "GM": "31",
+        "FGM": "872",
+        "FGA": "1965",
+        "FG%": "44.38"
+      },
+      {
+        "Rank": "192",
+        "Team": "Pepperdine",
+        "GM": "35",
+        "FGM": "923",
+        "FGA": "2080",
+        "FG%": "44.38"
+      },
+      {
+        "Rank": "193",
+        "Team": "American",
+        "GM": "35",
+        "FGM": "840",
+        "FGA": "1893",
+        "FG%": "44.37"
+      },
+      {
+        "Rank": "194",
+        "Team": "South Alabama",
+        "GM": "32",
+        "FGM": "814",
+        "FGA": "1835",
+        "FG%": "44.36"
+      },
+      {
+        "Rank": "195",
+        "Team": "San Jose St.",
+        "GM": "35",
+        "FGM": "891",
+        "FGA": "2009",
+        "FG%": "44.35"
+      },
+      {
+        "Rank": "196",
+        "Team": "South Fla.",
+        "GM": "32",
+        "FGM": "842",
+        "FGA": "1899",
+        "FG%": "44.34"
+      },
+      {
+        "Rank": "197",
+        "Team": "Wake Forest",
+        "GM": "32",
+        "FGM": "790",
+        "FGA": "1782",
+        "FG%": "44.33"
+      },
+      {
+        "Rank": "198",
+        "Team": "Harvard",
+        "GM": "27",
+        "FGM": "679",
+        "FGA": "1532",
+        "FG%": "44.32"
+      },
+      {
+        "Rank": "199",
+        "Team": "San Diego St.",
+        "GM": "31",
+        "FGM": "789",
+        "FGA": "1784",
+        "FG%": "44.23"
+      },
+      {
+        "Rank": "200",
+        "Team": "UNC Greensboro",
+        "GM": "32",
+        "FGM": "818",
+        "FGA": "1850",
+        "FG%": "44.22"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 5,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "201",
+        "Team": "Elon",
+        "GM": "33",
+        "FGM": "821",
+        "FGA": "1857",
+        "FG%": "44.21"
+      },
+      {
+        "Rank": "202",
+        "Team": "Georgetown",
+        "GM": "34",
+        "FGM": "911",
+        "FGA": "2061",
+        "FG%": "44.20"
+      },
+      {
+        "Rank": "203",
+        "Team": "Virginia Tech",
+        "GM": "32",
+        "FGM": "785",
+        "FGA": "1778",
+        "FG%": "44.15"
+      },
+      {
+        "Rank": "204",
+        "Team": "Mount St. Mary's",
+        "GM": "36",
+        "FGM": "889",
+        "FGA": "2014",
+        "FG%": "44.14"
+      },
+      {
+        "Rank": "205",
+        "Team": "Jacksonville",
+        "GM": "33",
+        "FGM": "874",
+        "FGA": "1981",
+        "FG%": "44.12"
+      },
+      {
+        "Rank": "206",
+        "Team": "UAlbany",
+        "GM": "33",
+        "FGM": "901",
+        "FGA": "2044",
+        "FG%": "44.08"
+      },
+      {
+        "Rank": "207",
+        "Team": "Northwestern",
+        "GM": "33",
+        "FGM": "860",
+        "FGA": "1951",
+        "FG%": "44.08"
+      },
+      {
+        "Rank": "208",
+        "Team": "Minnesota",
+        "GM": "32",
+        "FGM": "796",
+        "FGA": "1806",
+        "FG%": "44.08"
+      },
+      {
+        "Rank": "209",
+        "Team": "Marshall",
+        "GM": "33",
+        "FGM": "883",
+        "FGA": "2004",
+        "FG%": "44.06"
+      },
+      {
+        "Rank": "210",
+        "Team": "Kansas St.",
+        "GM": "33",
+        "FGM": "856",
+        "FGA": "1943",
+        "FG%": "44.06"
+      },
+      {
+        "Rank": "211",
+        "Team": "Florida A&M",
+        "GM": "31",
+        "FGM": "758",
+        "FGA": "1721",
+        "FG%": "44.04"
+      },
+      {
+        "Rank": "212",
+        "Team": "Providence",
+        "GM": "32",
+        "FGM": "807",
+        "FGA": "1833",
+        "FG%": "44.03"
+      },
+      {
+        "Rank": "213",
+        "Team": "Western Ill.",
+        "GM": "31",
+        "FGM": "774",
+        "FGA": "1759",
+        "FG%": "44.00"
+      },
+      {
+        "Rank": "214",
+        "Team": "Idaho",
+        "GM": "33",
+        "FGM": "823",
+        "FGA": "1871",
+        "FG%": "43.99"
+      },
+      {
+        "Rank": "215",
+        "Team": "Marist",
+        "GM": "30",
+        "FGM": "753",
+        "FGA": "1712",
+        "FG%": "43.98"
+      },
+      {
+        "Rank": "216",
+        "Team": "UNLV",
+        "GM": "33",
+        "FGM": "803",
+        "FGA": "1826",
+        "FG%": "43.98"
+      },
+      {
+        "Rank": "217",
+        "Team": "LMU (CA)",
+        "GM": "32",
+        "FGM": "821",
+        "FGA": "1868",
+        "FG%": "43.95"
+      },
+      {
+        "Rank": "218",
+        "Team": "James Madison",
+        "GM": "32",
+        "FGM": "823",
+        "FGA": "1874",
+        "FG%": "43.92"
+      },
+      {
+        "Rank": "219",
+        "Team": "Georgia Tech",
+        "GM": "34",
+        "FGM": "898",
+        "FGA": "2045",
+        "FG%": "43.91"
+      },
+      {
+        "Rank": "220",
+        "Team": "UTEP",
+        "GM": "33",
+        "FGM": "825",
+        "FGA": "1879",
+        "FG%": "43.91"
+      },
+      {
+        "Rank": "221",
+        "Team": "Campbell",
+        "GM": "32",
+        "FGM": "792",
+        "FGA": "1804",
+        "FG%": "43.90"
+      },
+      {
+        "Rank": "222",
+        "Team": "Bowling Green",
+        "GM": "32",
+        "FGM": "815",
+        "FGA": "1857",
+        "FG%": "43.89"
+      },
+      {
+        "Rank": "223",
+        "Team": "Manhattan",
+        "GM": "31",
+        "FGM": "820",
+        "FGA": "1869",
+        "FG%": "43.87"
+      },
+      {
+        "Rank": "224",
+        "Team": "Arizona St.",
+        "GM": "33",
+        "FGM": "830",
+        "FGA": "1892",
+        "FG%": "43.87"
+      },
+      {
+        "Rank": "225",
+        "Team": "Boston U.",
+        "GM": "32",
+        "FGM": "768",
+        "FGA": "1752",
+        "FG%": "43.84"
+      },
+      {
+        "Rank": "226",
+        "Team": "Saint Joseph's",
+        "GM": "35",
+        "FGM": "907",
+        "FGA": "2070",
+        "FG%": "43.82"
+      },
+      {
+        "Rank": "227",
+        "Team": "Wyoming",
+        "GM": "32",
+        "FGM": "779",
+        "FGA": "1778",
+        "FG%": "43.81"
+      },
+      {
+        "Rank": "228",
+        "Team": "Sacred Heart",
+        "GM": "33",
+        "FGM": "895",
+        "FGA": "2043",
+        "FG%": "43.81"
+      },
+      {
+        "Rank": "229",
+        "Team": "Northern Ky.",
+        "GM": "33",
+        "FGM": "852",
+        "FGA": "1946",
+        "FG%": "43.78"
+      },
+      {
+        "Rank": "230",
+        "Team": "CSU Bakersfield",
+        "GM": "33",
+        "FGM": "851",
+        "FGA": "1944",
+        "FG%": "43.78"
+      },
+      {
+        "Rank": "231",
+        "Team": "Dartmouth",
+        "GM": "28",
+        "FGM": "748",
+        "FGA": "1710",
+        "FG%": "43.74"
+      },
+      {
+        "Rank": "232",
+        "Team": "Army West Point",
+        "GM": "33",
+        "FGM": "892",
+        "FGA": "2042",
+        "FG%": "43.68"
+      },
+      {
+        "Rank": "233",
+        "Team": "Portland",
+        "GM": "32",
+        "FGM": "805",
+        "FGA": "1843",
+        "FG%": "43.68"
+      },
+      {
+        "Rank": "234",
+        "Team": "Oakland",
+        "GM": "34",
+        "FGM": "859",
+        "FGA": "1968",
+        "FG%": "43.65"
+      },
+      {
+        "Rank": "235",
+        "Team": "Lafayette",
+        "GM": "33",
+        "FGM": "809",
+        "FGA": "1854",
+        "FG%": "43.64"
+      },
+      {
+        "Rank": "236",
+        "Team": "FDU",
+        "GM": "33",
+        "FGM": "849",
+        "FGA": "1946",
+        "FG%": "43.63"
+      },
+      {
+        "Rank": "237",
+        "Team": "East Carolina",
+        "GM": "33",
+        "FGM": "879",
+        "FGA": "2015",
+        "FG%": "43.62"
+      },
+      {
+        "Rank": "238",
+        "Team": "App State",
+        "GM": "31",
+        "FGM": "738",
+        "FGA": "1692",
+        "FG%": "43.62"
+      },
+      {
+        "Rank": "239",
+        "Team": "Oral Roberts",
+        "GM": "30",
+        "FGM": "738",
+        "FGA": "1693",
+        "FG%": "43.59"
+      },
+      {
+        "Rank": "240",
+        "Team": "Youngstown St.",
+        "GM": "34",
+        "FGM": "884",
+        "FGA": "2028",
+        "FG%": "43.59"
+      },
+      {
+        "Rank": "241",
+        "Team": "Canisius",
+        "GM": "31",
+        "FGM": "729",
+        "FGA": "1673",
+        "FG%": "43.57"
+      },
+      {
+        "Rank": "242",
+        "Team": "Loyola Maryland",
+        "GM": "31",
+        "FGM": "775",
+        "FGA": "1779",
+        "FG%": "43.56"
+      },
+      {
+        "Rank": "243",
+        "Team": "Southern U.",
+        "GM": "32",
+        "FGM": "849",
+        "FGA": "1949",
+        "FG%": "43.56"
+      },
+      {
+        "Rank": "244",
+        "Team": "Kent St.",
+        "GM": "36",
+        "FGM": "950",
+        "FGA": "2181",
+        "FG%": "43.56"
+      },
+      {
+        "Rank": "245",
+        "Team": "Troy",
+        "GM": "34",
+        "FGM": "851",
+        "FGA": "1954",
+        "FG%": "43.55"
+      },
+      {
+        "Rank": "246",
+        "Team": "Prairie View",
+        "GM": "32",
+        "FGM": "820",
+        "FGA": "1884",
+        "FG%": "43.52"
+      },
+      {
+        "Rank": "247",
+        "Team": "Stanford",
+        "GM": "35",
+        "FGM": "896",
+        "FGA": "2059",
+        "FG%": "43.52"
+      },
+      {
+        "Rank": "248",
+        "Team": "LIU",
+        "GM": "33",
+        "FGM": "831",
+        "FGA": "1910",
+        "FG%": "43.51"
+      },
+      {
+        "Rank": "249",
+        "Team": "Pacific",
+        "GM": "33",
+        "FGM": "819",
+        "FGA": "1883",
+        "FG%": "43.49"
+      },
+      {
+        "Rank": "250",
+        "Team": "Mercer",
+        "GM": "33",
+        "FGM": "919",
+        "FGA": "2113",
+        "FG%": "43.49"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 6,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "251",
+        "Team": "North Dakota",
+        "GM": "33",
+        "FGM": "899",
+        "FGA": "2069",
+        "FG%": "43.45"
+      },
+      {
+        "Rank": "252",
+        "Team": "Tulsa",
+        "GM": "33",
+        "FGM": "829",
+        "FGA": "1910",
+        "FG%": "43.40"
+      },
+      {
+        "Rank": "253",
+        "Team": "Vermont",
+        "GM": "33",
+        "FGM": "776",
+        "FGA": "1789",
+        "FG%": "43.38"
+      },
+      {
+        "Rank": "254",
+        "Team": "Princeton",
+        "GM": "30",
+        "FGM": "791",
+        "FGA": "1824",
+        "FG%": "43.37"
+      },
+      {
+        "Rank": "255",
+        "Team": "ETSU",
+        "GM": "32",
+        "FGM": "815",
+        "FGA": "1880",
+        "FG%": "43.35"
+      },
+      {
+        "Rank": "256",
+        "Team": "Long Beach St.",
+        "GM": "32",
+        "FGM": "736",
+        "FGA": "1698",
+        "FG%": "43.35"
+      },
+      {
+        "Rank": "257",
+        "Team": "Murray St.",
+        "GM": "33",
+        "FGM": "789",
+        "FGA": "1823",
+        "FG%": "43.28"
+      },
+      {
+        "Rank": "258",
+        "Team": "Evansville",
+        "GM": "32",
+        "FGM": "761",
+        "FGA": "1759",
+        "FG%": "43.26"
+      },
+      {
+        "Rank": "259",
+        "Team": "Duquesne",
+        "GM": "32",
+        "FGM": "795",
+        "FGA": "1838",
+        "FG%": "43.25"
+      },
+      {
+        "Rank": "260",
+        "Team": "Green Bay",
+        "GM": "32",
+        "FGM": "742",
+        "FGA": "1716",
+        "FG%": "43.24"
+      },
+      {
+        "Rank": "261",
+        "Team": "Boston College",
+        "GM": "31",
+        "FGM": "783",
+        "FGA": "1811",
+        "FG%": "43.24"
+      },
+      {
+        "Rank": "262",
+        "Team": "Tennessee Tech",
+        "GM": "32",
+        "FGM": "810",
+        "FGA": "1874",
+        "FG%": "43.22"
+      },
+      {
+        "Rank": "263",
+        "Team": "Tarleton St.",
+        "GM": "32",
+        "FGM": "697",
+        "FGA": "1614",
+        "FG%": "43.18"
+      },
+      {
+        "Rank": "264",
+        "Team": "Southern Miss.",
+        "GM": "33",
+        "FGM": "842",
+        "FGA": "1954",
+        "FG%": "43.09"
+      },
+      {
+        "Rank": "265",
+        "Team": "Idaho St.",
+        "GM": "30",
+        "FGM": "779",
+        "FGA": "1809",
+        "FG%": "43.06"
+      },
+      {
+        "Rank": "266",
+        "Team": "SIUE",
+        "GM": "34",
+        "FGM": "874",
+        "FGA": "2030",
+        "FG%": "43.05"
+      },
+      {
+        "Rank": "267",
+        "Team": "Northwestern St.",
+        "GM": "32",
+        "FGM": "756",
+        "FGA": "1756",
+        "FG%": "43.05"
+      },
+      {
+        "Rank": "268",
+        "Team": "Ga. Southern",
+        "GM": "33",
+        "FGM": "887",
+        "FGA": "2063",
+        "FG%": "43.00"
+      },
+      {
+        "Rank": "269",
+        "Team": "Kansas City",
+        "GM": "33",
+        "FGM": "816",
+        "FGA": "1898",
+        "FG%": "42.99"
+      },
+      {
+        "Rank": "270",
+        "Team": "Rider",
+        "GM": "33",
+        "FGM": "814",
+        "FGA": "1894",
+        "FG%": "42.98"
+      },
+      {
+        "Rank": "271",
+        "Team": "Grambling",
+        "GM": "34",
+        "FGM": "800",
+        "FGA": "1863",
+        "FG%": "42.94"
+      },
+      {
+        "Rank": "272",
+        "Team": "Kennesaw St.",
+        "GM": "33",
+        "FGM": "857",
+        "FGA": "1996",
+        "FG%": "42.94"
+      },
+      {
+        "Rank": "273",
+        "Team": "IU Indy",
+        "GM": "32",
+        "FGM": "803",
+        "FGA": "1873",
+        "FG%": "42.87"
+      },
+      {
+        "Rank": "274",
+        "Team": "Texas Southern",
+        "GM": "32",
+        "FGM": "846",
+        "FGA": "1974",
+        "FG%": "42.86"
+      },
+      {
+        "Rank": "-",
+        "Team": "Siena",
+        "GM": "32",
+        "FGM": "783",
+        "FGA": "1827",
+        "FG%": "42.86"
+      },
+      {
+        "Rank": "276",
+        "Team": "Sacramento St.",
+        "GM": "32",
+        "FGM": "746",
+        "FGA": "1741",
+        "FG%": "42.85"
+      },
+      {
+        "Rank": "277",
+        "Team": "Oklahoma St.",
+        "GM": "35",
+        "FGM": "865",
+        "FGA": "2019",
+        "FG%": "42.84"
+      },
+      {
+        "Rank": "278",
+        "Team": "Coastal Carolina",
+        "GM": "32",
+        "FGM": "740",
+        "FGA": "1728",
+        "FG%": "42.82"
+      },
+      {
+        "Rank": "279",
+        "Team": "Nicholls",
+        "GM": "33",
+        "FGM": "867",
+        "FGA": "2025",
+        "FG%": "42.81"
+      },
+      {
+        "Rank": "280",
+        "Team": "Bethune-Cookman",
+        "GM": "33",
+        "FGM": "800",
+        "FGA": "1870",
+        "FG%": "42.78"
+      },
+      {
+        "Rank": "281",
+        "Team": "California Baptist",
+        "GM": "32",
+        "FGM": "818",
+        "FGA": "1915",
+        "FG%": "42.72"
+      },
+      {
+        "Rank": "282",
+        "Team": "Valparaiso",
+        "GM": "34",
+        "FGM": "873",
+        "FGA": "2044",
+        "FG%": "42.71"
+      },
+      {
+        "Rank": "283",
+        "Team": "South Carolina",
+        "GM": "32",
+        "FGM": "741",
+        "FGA": "1735",
+        "FG%": "42.71"
+      },
+      {
+        "Rank": "284",
+        "Team": "Lamar University",
+        "GM": "33",
+        "FGM": "845",
+        "FGA": "1979",
+        "FG%": "42.70"
+      },
+      {
+        "Rank": "285",
+        "Team": "Hofstra",
+        "GM": "33",
+        "FGM": "794",
+        "FGA": "1861",
+        "FG%": "42.67"
+      },
+      {
+        "Rank": "286",
+        "Team": "Western Mich.",
+        "GM": "32",
+        "FGM": "850",
+        "FGA": "1993",
+        "FG%": "42.65"
+      },
+      {
+        "Rank": "287",
+        "Team": "Quinnipiac",
+        "GM": "33",
+        "FGM": "864",
+        "FGA": "2026",
+        "FG%": "42.65"
+      },
+      {
+        "Rank": "288",
+        "Team": "VMI",
+        "GM": "34",
+        "FGM": "833",
+        "FGA": "1954",
+        "FG%": "42.63"
+      },
+      {
+        "Rank": "289",
+        "Team": "Arkansas St.",
+        "GM": "36",
+        "FGM": "986",
+        "FGA": "2313",
+        "FG%": "42.63"
+      },
+      {
+        "Rank": "290",
+        "Team": "UC Riverside",
+        "GM": "34",
+        "FGM": "903",
+        "FGA": "2119",
+        "FG%": "42.61"
+      },
+      {
+        "Rank": "291",
+        "Team": "Buffalo",
+        "GM": "31",
+        "FGM": "776",
+        "FGA": "1821",
+        "FG%": "42.61"
+      },
+      {
+        "Rank": "292",
+        "Team": "UCF",
+        "GM": "37",
+        "FGM": "991",
+        "FGA": "2326",
+        "FG%": "42.61"
+      },
+      {
+        "Rank": "293",
+        "Team": "Hampton",
+        "GM": "33",
+        "FGM": "856",
+        "FGA": "2010",
+        "FG%": "42.59"
+      },
+      {
+        "Rank": "294",
+        "Team": "Charleston So.",
+        "GM": "32",
+        "FGM": "769",
+        "FGA": "1808",
+        "FG%": "42.53"
+      },
+      {
+        "Rank": "295",
+        "Team": "FIU",
+        "GM": "33",
+        "FGM": "821",
+        "FGA": "1932",
+        "FG%": "42.49"
+      },
+      {
+        "Rank": "296",
+        "Team": "NC State",
+        "GM": "31",
+        "FGM": "764",
+        "FGA": "1798",
+        "FG%": "42.49"
+      },
+      {
+        "Rank": "297",
+        "Team": "Southern Utah",
+        "GM": "31",
+        "FGM": "758",
+        "FGA": "1785",
+        "FG%": "42.46"
+      },
+      {
+        "Rank": "298",
+        "Team": "West Virginia",
+        "GM": "32",
+        "FGM": "782",
+        "FGA": "1842",
+        "FG%": "42.45"
+      },
+      {
+        "Rank": "299",
+        "Team": "Utah Tech",
+        "GM": "33",
+        "FGM": "810",
+        "FGA": "1908",
+        "FG%": "42.45"
+      },
+      {
+        "Rank": "300",
+        "Team": "Eastern Ky.",
+        "GM": "32",
+        "FGM": "883",
+        "FGA": "2081",
+        "FG%": "42.43"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 7,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "301",
+        "Team": "UMES",
+        "GM": "31",
+        "FGM": "738",
+        "FGA": "1740",
+        "FG%": "42.41"
+      },
+      {
+        "Rank": "302",
+        "Team": "Fordham",
+        "GM": "33",
+        "FGM": "850",
+        "FGA": "2008",
+        "FG%": "42.33"
+      },
+      {
+        "Rank": "303",
+        "Team": "Houston Christian",
+        "GM": "32",
+        "FGM": "742",
+        "FGA": "1753",
+        "FG%": "42.33"
+      },
+      {
+        "Rank": "304",
+        "Team": "UTSA",
+        "GM": "31",
+        "FGM": "816",
+        "FGA": "1929",
+        "FG%": "42.30"
+      },
+      {
+        "Rank": "305",
+        "Team": "Navy",
+        "GM": "34",
+        "FGM": "837",
+        "FGA": "1979",
+        "FG%": "42.29"
+      },
+      {
+        "Rank": "306",
+        "Team": "Merrimack",
+        "GM": "33",
+        "FGM": "787",
+        "FGA": "1861",
+        "FG%": "42.29"
+      },
+      {
+        "Rank": "307",
+        "Team": "Austin Peay",
+        "GM": "33",
+        "FGM": "836",
+        "FGA": "1980",
+        "FG%": "42.22"
+      },
+      {
+        "Rank": "308",
+        "Team": "Jackson St.",
+        "GM": "34",
+        "FGM": "835",
+        "FGA": "1978",
+        "FG%": "42.21"
+      },
+      {
+        "Rank": "309",
+        "Team": "Western Ky.",
+        "GM": "32",
+        "FGM": "843",
+        "FGA": "1997",
+        "FG%": "42.21"
+      },
+      {
+        "Rank": "310",
+        "Team": "SFA",
+        "GM": "31",
+        "FGM": "756",
+        "FGA": "1791",
+        "FG%": "42.21"
+      },
+      {
+        "Rank": "311",
+        "Team": "Penn",
+        "GM": "27",
+        "FGM": "666",
+        "FGA": "1578",
+        "FG%": "42.21"
+      },
+      {
+        "Rank": "312",
+        "Team": "Charlotte",
+        "GM": "33",
+        "FGM": "761",
+        "FGA": "1808",
+        "FG%": "42.09"
+      },
+      {
+        "Rank": "313",
+        "Team": "Air Force",
+        "GM": "32",
+        "FGM": "680",
+        "FGA": "1616",
+        "FG%": "42.08"
+      },
+      {
+        "Rank": "314",
+        "Team": "Rice",
+        "GM": "32",
+        "FGM": "748",
+        "FGA": "1778",
+        "FG%": "42.07"
+      },
+      {
+        "Rank": "315",
+        "Team": "Towson",
+        "GM": "33",
+        "FGM": "836",
+        "FGA": "1988",
+        "FG%": "42.05"
+      },
+      {
+        "Rank": "316",
+        "Team": "Iona",
+        "GM": "34",
+        "FGM": "872",
+        "FGA": "2075",
+        "FG%": "42.02"
+      },
+      {
+        "Rank": "317",
+        "Team": "The Citadel",
+        "GM": "30",
+        "FGM": "706",
+        "FGA": "1685",
+        "FG%": "41.90"
+      },
+      {
+        "Rank": "318",
+        "Team": "UT Martin",
+        "GM": "33",
+        "FGM": "836",
+        "FGA": "1997",
+        "FG%": "41.86"
+      },
+      {
+        "Rank": "319",
+        "Team": "California",
+        "GM": "33",
+        "FGM": "838",
+        "FGA": "2002",
+        "FG%": "41.86"
+      },
+      {
+        "Rank": "320",
+        "Team": "Texas A&M",
+        "GM": "34",
+        "FGM": "857",
+        "FGA": "2050",
+        "FG%": "41.80"
+      },
+      {
+        "Rank": "321",
+        "Team": "Richmond",
+        "GM": "32",
+        "FGM": "729",
+        "FGA": "1745",
+        "FG%": "41.78"
+      },
+      {
+        "Rank": "322",
+        "Team": "Morehead St.",
+        "GM": "32",
+        "FGM": "741",
+        "FGA": "1779",
+        "FG%": "41.65"
+      },
+      {
+        "Rank": "323",
+        "Team": "TCU",
+        "GM": "32",
+        "FGM": "780",
+        "FGA": "1875",
+        "FG%": "41.60"
+      },
+      {
+        "Rank": "324",
+        "Team": "New Mexico St.",
+        "GM": "32",
+        "FGM": "787",
+        "FGA": "1895",
+        "FG%": "41.53"
+      },
+      {
+        "Rank": "325",
+        "Team": "Seattle U",
+        "GM": "32",
+        "FGM": "746",
+        "FGA": "1799",
+        "FG%": "41.47"
+      },
+      {
+        "Rank": "326",
+        "Team": "Stony Brook",
+        "GM": "32",
+        "FGM": "739",
+        "FGA": "1784",
+        "FG%": "41.42"
+      },
+      {
+        "Rank": "327",
+        "Team": "UC Davis",
+        "GM": "32",
+        "FGM": "737",
+        "FGA": "1784",
+        "FG%": "41.31"
+      },
+      {
+        "Rank": "328",
+        "Team": "La Salle",
+        "GM": "33",
+        "FGM": "845",
+        "FGA": "2046",
+        "FG%": "41.30"
+      },
+      {
+        "Rank": "329",
+        "Team": "New Hampshire",
+        "GM": "32",
+        "FGM": "772",
+        "FGA": "1872",
+        "FG%": "41.24"
+      },
+      {
+        "Rank": "330",
+        "Team": "Eastern Ill.",
+        "GM": "31",
+        "FGM": "742",
+        "FGA": "1801",
+        "FG%": "41.20"
+      },
+      {
+        "Rank": "331",
+        "Team": "New Orleans",
+        "GM": "31",
+        "FGM": "758",
+        "FGA": "1840",
+        "FG%": "41.20"
+      },
+      {
+        "Rank": "332",
+        "Team": "Detroit Mercy",
+        "GM": "32",
+        "FGM": "781",
+        "FGA": "1897",
+        "FG%": "41.17"
+      },
+      {
+        "Rank": "333",
+        "Team": "Alcorn",
+        "GM": "32",
+        "FGM": "754",
+        "FGA": "1833",
+        "FG%": "41.13"
+      },
+      {
+        "Rank": "334",
+        "Team": "Monmouth",
+        "GM": "33",
+        "FGM": "784",
+        "FGA": "1908",
+        "FG%": "41.09"
+      },
+      {
+        "Rank": "335",
+        "Team": "NIU",
+        "GM": "31",
+        "FGM": "756",
+        "FGA": "1843",
+        "FG%": "41.02"
+      },
+      {
+        "Rank": "336",
+        "Team": "Massachusetts",
+        "GM": "32",
+        "FGM": "841",
+        "FGA": "2053",
+        "FG%": "40.96"
+      },
+      {
+        "Rank": "337",
+        "Team": "Central Ark.",
+        "GM": "33",
+        "FGM": "817",
+        "FGA": "1995",
+        "FG%": "40.95"
+      },
+      {
+        "Rank": "338",
+        "Team": "N.C. A&T",
+        "GM": "32",
+        "FGM": "791",
+        "FGA": "1937",
+        "FG%": "40.84"
+      },
+      {
+        "Rank": "339",
+        "Team": "ULM",
+        "GM": "32",
+        "FGM": "782",
+        "FGA": "1920",
+        "FG%": "40.73"
+      },
+      {
+        "Rank": "340",
+        "Team": "Fairfield",
+        "GM": "32",
+        "FGM": "784",
+        "FGA": "1925",
+        "FG%": "40.73"
+      },
+      {
+        "Rank": "341",
+        "Team": "San Diego",
+        "GM": "33",
+        "FGM": "820",
+        "FGA": "2016",
+        "FG%": "40.67"
+      },
+      {
+        "Rank": "342",
+        "Team": "Fresno St.",
+        "GM": "32",
+        "FGM": "782",
+        "FGA": "1927",
+        "FG%": "40.58"
+      },
+      {
+        "Rank": "343",
+        "Team": "Wagner",
+        "GM": "30",
+        "FGM": "663",
+        "FGA": "1635",
+        "FG%": "40.55"
+      },
+      {
+        "Rank": "344",
+        "Team": "Alabama St.",
+        "GM": "36",
+        "FGM": "927",
+        "FGA": "2290",
+        "FG%": "40.48"
+      },
+      {
+        "Rank": "345",
+        "Team": "Alabama A&M",
+        "GM": "32",
+        "FGM": "795",
+        "FGA": "1966",
+        "FG%": "40.44"
+      },
+      {
+        "Rank": "346",
+        "Team": "Cal St. Fullerton",
+        "GM": "32",
+        "FGM": "683",
+        "FGA": "1701",
+        "FG%": "40.15"
+      },
+      {
+        "Rank": "347",
+        "Team": "NJIT",
+        "GM": "31",
+        "FGM": "726",
+        "FGA": "1815",
+        "FG%": "40.00"
+      },
+      {
+        "Rank": "-",
+        "Team": "Seton Hall",
+        "GM": "32",
+        "FGM": "708",
+        "FGA": "1770",
+        "FG%": "40.00"
+      },
+      {
+        "Rank": "349",
+        "Team": "Louisiana",
+        "GM": "33",
+        "FGM": "757",
+        "FGA": "1897",
+        "FG%": "39.91"
+      },
+      {
+        "Rank": "350",
+        "Team": "Coppin St.",
+        "GM": "30",
+        "FGM": "653",
+        "FGA": "1644",
+        "FG%": "39.72"
+      }
+    ]
+  },
+  {
+    "sport": "Men's Basketball",
+    "title": "Field Goal Percentage",
+    "updated": "Tuesday, April 08, 2025 1:04 am - Through games Monday, April 07, 2025",
+    "page": 8,
+    "pages": 8,
+    "data": [
+      {
+        "Rank": "351",
+        "Team": "Old Dominion",
+        "GM": "35",
+        "FGM": "839",
+        "FGA": "2120",
+        "FG%": "39.58"
+      },
+      {
+        "Rank": "352",
+        "Team": "Saint Peter's",
+        "GM": "28",
+        "FGM": "624",
+        "FGA": "1581",
+        "FG%": "39.47"
+      },
+      {
+        "Rank": "353",
+        "Team": "Western Caro.",
+        "GM": "30",
+        "FGM": "720",
+        "FGA": "1828",
+        "FG%": "39.39"
+      },
+      {
+        "Rank": "354",
+        "Team": "Mississippi Val.",
+        "GM": "31",
+        "FGM": "610",
+        "FGA": "1568",
+        "FG%": "38.90"
+      },
+      {
+        "Rank": "355",
+        "Team": "Chicago St.",
+        "GM": "32",
+        "FGM": "709",
+        "FGA": "1858",
+        "FG%": "38.16"
+      }
+    ]
+  }
+]
