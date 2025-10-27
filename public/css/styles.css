@@ -30,11 +30,19 @@ input[type="range"] { width: 100%; }
 
 #results { padding: 10px 20px 24px; }
 #results h2 { margin: 0 0 12px; font-size: 16px; }
-.bracket { display: grid; grid-template-columns: repeat(6, minmax(160px, 1fr)); gap: 12px; align-items: start; }
+.tabs { display: flex; gap: 8px; margin: 8px 0 12px; }
+.tab { background: transparent; color: var(--text); border: 1px solid #2d3347; padding: 6px 10px; border-radius: 6px; cursor: pointer; }
+.tab.active { background: #1c2233; border-color: #3a4360; }
+.tab-content { min-height: 200px; }
+.bracket { display: grid; grid-template-columns: repeat(4, minmax(200px, 1fr)); gap: 16px; align-items: start; }
 .round { background: var(--card); border-radius: 8px; padding: 10px; }
 .round h3 { margin: 0 0 8px; font-size: 14px; color: var(--muted); }
+.subtitle { margin: 6px 0; font-size: 12px; color: var(--muted); }
 .matchup { border: 1px solid #232737; border-radius: 6px; padding: 6px 8px; margin-bottom: 8px; }
 .team { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; }
 .winner { color: var(--win); font-weight: 700; }
 .loser { color: var(--muted); }
 .champion { margin-top: 16px; padding: 12px; border-radius: 10px; background: #112417; border: 1px solid #1e4d2b; font-weight: 700; }
+
+/* Final Four layout: two semis + final */
+.final4 { display: grid; grid-template-columns: repeat(3, minmax(220px, 1fr)); gap: 16px; }

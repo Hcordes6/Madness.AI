@@ -46,16 +46,28 @@
                 <input type="range" id="w-atr" min="0" max="100" step="1" value="10">
                 <span class="value" data-for="w-atr">10</span>
             </label>
+            <label>
+                Randomness
+                <input type="range" id="w-randomness" min="0" max="100" step="1" value="0">
+                <span class="value" data-for="w-randomness">0</span>
+            </label>
         </div>
         <div class="actions">
             <button id="btn-generate">Generate Bracket</button>
-            <small class="note">Seeds are derived from top 64 by Winning %.</small>
+            <small class="note">Official 2025 bracket seeds.</small>
         </div>
     </section>
 
     <section id="results">
         <h2>Bracket</h2>
-        <div id="bracket" class="bracket"></div>
+        <nav id="tabs" class="tabs">
+            <button class="tab active" data-tab="South">South</button>
+            <button class="tab" data-tab="West">West</button>
+            <button class="tab" data-tab="East">East</button>
+            <button class="tab" data-tab="Midwest">Midwest</button>
+            <button class="tab" data-tab="Final Four">Final Four</button>
+        </nav>
+        <div id="tab-content" class="tab-content"></div>
         <div id="champion" class="champion"></div>
     </section>
 </body>
