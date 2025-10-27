@@ -8,8 +8,55 @@
     <script src="js/script.js" defer></script>
 </head>
 <body>
-    <p id="assists"></p>
-    <p id="bench"></p>
-    <p id="blocks"></p>
+    <header>
+        <h1>Madness.AI</h1>
+        <p>Build a bracket by weighting team stats. Adjust sliders, then generate winners.</p>
+    </header>
+
+    <section id="controls">
+        <h2>Weights</h2>
+        <div class="sliders">
+            <label>
+                Winning %
+                <input type="range" id="w-winPct" min="0" max="100" step="1" value="25">
+                <span class="value" data-for="w-winPct">25</span>
+            </label>
+            <label>
+                Scoring Defense (opp PPG)
+                <input type="range" id="w-scoringDefense" min="0" max="100" step="1" value="20">
+                <span class="value" data-for="w-scoringDefense">20</span>
+            </label>
+            <label>
+                FG%
+                <input type="range" id="w-fgPct" min="0" max="100" step="1" value="15">
+                <span class="value" data-for="w-fgPct">15</span>
+            </label>
+            <label>
+                3s per game
+                <input type="range" id="w-3pg" min="0" max="100" step="1" value="15">
+                <span class="value" data-for="w-3pg">15</span>
+            </label>
+            <label>
+                Rebounds per game
+                <input type="range" id="w-rpg" min="0" max="100" step="1" value="15">
+                <span class="value" data-for="w-rpg">15</span>
+            </label>
+            <label>
+                Assist/Turnover Ratio
+                <input type="range" id="w-atr" min="0" max="100" step="1" value="10">
+                <span class="value" data-for="w-atr">10</span>
+            </label>
+        </div>
+        <div class="actions">
+            <button id="btn-generate">Generate Bracket</button>
+            <small class="note">Seeds are derived from top 64 by Winning %.</small>
+        </div>
+    </section>
+
+    <section id="results">
+        <h2>Bracket</h2>
+        <div id="bracket" class="bracket"></div>
+        <div id="champion" class="champion"></div>
+    </section>
 </body>
 </html>
