@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,10 +8,26 @@
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/script.js" defer></script>
 </head>
+
 <body>
     <header>
-        <h1>Madness.AI</h1>
-        <p>Build a bracket by weighting team stats. Adjust sliders, then generate winners.</p>
+        <!-- Icon adapted from Tabler Icons "ball-basketball" (MIT License): https://tabler.io/icons -->
+        <span class="logo" aria-hidden="true">
+            <svg viewBox="0 0 64 64" width="40" height="40" xmlns="http://www.w3.org/2000/svg" role="img">
+                <title>Basketball</title>
+                <!-- Solid blue ball -->
+                <circle cx="32" cy="32" r="22" fill="var(--accent)" />
+                <!-- White seams for recognizability -->
+                <path d="M10 32 H54" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+                <path d="M32 10 V54" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+                <path d="M12 20 C 24 28, 24 36, 12 44" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+                <path d="M52 20 C 40 28, 40 36, 52 44" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+            </svg>
+        </span>
+        <div>
+            <h1>Madness.AI</h1>
+            <p>March Madness bracket creation tool. Adjust sliders, see your winners.</p>
+        </div>
     </header>
 
     <section id="controls">
@@ -71,4 +88,5 @@
         <div id="champion" class="champion"></div>
     </section>
 </body>
+
 </html>
