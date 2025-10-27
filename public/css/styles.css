@@ -1,0 +1,52 @@
+:root {
+	/* Light theme palette */
+	--bg: #f7f9fc;
+	--card: #ffffff;
+	--text: #0f1115;
+	--muted: #5a6478;
+	--accent: #2b78ff; /* blue accent */
+	--border: #dfe6f1;
+	--win: #219653;
+}
+
+* { box-sizing: border-box; }
+body {
+	margin: 0;
+	font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+	background: var(--bg);
+	color: var(--text);
+}
+header { padding: 20px 24px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 16px; background: linear-gradient(180deg, #eef5ff 0%, #ffffff 100%); box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+header .logo { display: inline-flex; width: 40px; height: 40px; flex: 0 0 auto; }
+header > div { display: flex; flex-direction: column; }
+header h1 { margin: 0; font-size: 26px; line-height: 1.2; color: #0b2e6b; }
+header p { margin: 6px 0 0 0; color: var(--muted); font-size: 14px; }
+
+#controls { padding: 16px 20px; }
+#controls h2 { margin: 0 0 12px; font-size: 16px; }
+.sliders { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+label { display: flex; flex-direction: column; gap: 6px; background: var(--card); padding: 10px 12px; border-radius: 8px; border: 1px solid var(--border); }
+input[type="range"] { width: 100%; }
+.value { color: var(--accent); font-weight: 600; font-size: 13px; }
+.actions { margin-top: 12px; display: flex; align-items: center; gap: 12px; }
+#btn-generate { background: var(--accent); color: #ffffff; border: none; padding: 10px 14px; border-radius: 8px; font-weight: 700; cursor: pointer; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+.note { color: var(--muted); }
+
+#results { padding: 10px 20px 24px; }
+#results h2 { margin: 0 0 12px; font-size: 16px; }
+.tabs { display: flex; gap: 8px; margin: 8px 0 12px; }
+.tab { background: #eef3ff; color: var(--text); border: 1px solid var(--border); padding: 6px 10px; border-radius: 6px; cursor: pointer; }
+.tab.active { background: #dbe8ff; border-color: #b9d2ff; }
+.tab-content { min-height: 200px; }
+.bracket { display: grid; grid-template-columns: repeat(4, minmax(200px, 1fr)); gap: 16px; align-items: start; }
+.round { background: var(--card); border-radius: 8px; padding: 10px; border: 1px solid var(--border); }
+.round h3 { margin: 0 0 8px; font-size: 14px; color: var(--muted); }
+.subtitle { margin: 6px 0; font-size: 12px; color: var(--muted); }
+.matchup { border: 1px solid var(--border); border-radius: 6px; padding: 6px 8px; margin-bottom: 8px; background: #fcfdff; }
+.team { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; }
+.winner { color: var(--win); font-weight: 700; }
+.loser { color: var(--muted); }
+.champion { margin-top: 16px; padding: 12px; border-radius: 10px; background: #eaf3ff; border: 1px solid #b9d6ff; font-weight: 700; color: #0a2e6f; }
+
+/* Final Four layout: two semis + final */
+.final4 { display: grid; grid-template-columns: repeat(3, minmax(220px, 1fr)); gap: 16px; }
