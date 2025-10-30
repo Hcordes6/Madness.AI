@@ -61,3 +61,8 @@ input[type="range"] { width: 100%; }
 .btn-ghost { background: transparent; color: var(--text); border: 1px solid var(--border); }
 .editable-desc { min-height: 56px; padding: 10px; border-radius: 8px; border: 1px dashed var(--border); background: #fbfdff; color: var(--text); outline: none; }
 .editable-desc:empty:before { content: attr(aria-label); color: var(--muted); }
+
+/* Save indicator */
+.save-indicator { display: inline-block; margin-left: 10px; padding: 6px 8px; font-size: 12px; color: var(--text); background: #f6fbff; border: 1px solid var(--border); border-radius: 8px; }
+.save-indicator.saving { background: #fff7e6; color: #8a5a00; border-color: #f2d8a8; }
+.save-indicator.hidden { display: none; }

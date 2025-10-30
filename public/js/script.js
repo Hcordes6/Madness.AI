@@ -372,6 +372,67 @@ document.addEventListener('DOMContentLoaded', async () => {
       randomness: 'w-randomness',
     };
 
+  // --- Persistence: load/save slider weights, overview text, and bracket results ---
+  const storageKey = 'madness_settings_v1';
+  const bracketKey = 'madness_bracket_v1';
+    let saveTimer = null;
+    const saveIndicator = document.getElementById('save-indicator');
+    function setIndicatorSaving() {
+      if (!saveIndicator) return;
+      saveIndicator.classList.add('saving');
+      saveIndicator.textContent = 'Saving...';
+    }
+    function setIndicatorSaved() {
+      if (!saveIndicator) return;
+      const t = new Date();
+      saveIndicator.classList.remove('saving');
+      saveIndicator.textContent = `Saved • ${String(t.getHours()).padStart(2, '0')}:${String(t.getMinutes()).padStart(2, '0')}`;
+    }
+
+    function loadSavedSettings() {
+      try {
+        const raw = localStorage.getItem(storageKey);
+        if (raw) {
+          const obj = JSON.parse(raw);
+          for (const k of Object.keys(obj)) {
+            const id = sliderIds[k];
+            if (id) {
+              const el = document.getElementById(id);
+              if (el) el.value = String(obj[k]);
+            }
+          }
+        }
+        // Overview is intentionally not loaded from storage; always show the default content
+      } catch (e) { /* ignore */ }
+    }
+
+    function doSave() {
+      try {
+        const obj = {};
+        for (const k of Object.keys(sliderIds)) {
+          const el = document.getElementById(sliderIds[k]);
+          if (el) obj[k] = parseInt(el.value, 10) || 0;
+        }
+        localStorage.setItem(storageKey, JSON.stringify(obj));
+        // Save bracket data if present
+        if (window.cachedBracketData) {
+          try { localStorage.setItem(bracketKey, JSON.stringify(window.cachedBracketData)); } catch (e) { console.error('Bracket save failed', e); }
+        }
+        setIndicatorSaved();
+      } catch (e) {
+        console.error('Save failed', e);
+      }
+    }
+
+    function scheduleSave() {
+      setIndicatorSaving();
+      if (saveTimer) clearTimeout(saveTimer);
+      saveTimer = setTimeout(() => { doSave(); }, 800);
+    }
+
+    // load before wiring sliders so initial values reflect saved state
+    loadSavedSettings();
+
     const weights = {};
     // Sync metric sliders
     for (const m of metrics) {
@@ -382,6 +443,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (valEl) valEl.textContent = String(weights[m.id]);
       };
       el?.addEventListener('input', sync);
+      // also schedule save when user changes a slider
+      el?.addEventListener('input', scheduleSave);
       sync();
     }
 
@@ -393,7 +456,11 @@ document.addEventListener('DOMContentLoaded', async () => {
       if (randValEl) randValEl.textContent = String(weights.randomness);
     };
     randEl?.addEventListener('input', syncRand);
+    // save when randomness changes
+    randEl?.addEventListener('input', scheduleSave);
     syncRand();
+
+    // Overview edits are not persisted to storage; keep the default copy always visible.
 
     // Load official 2025 bracket (64-team main draw)
     const bracketRes = await fetch('data/bracket-2025.json', { cache: 'no-cache' });
@@ -433,8 +500,35 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     tabs.forEach(el => {
-      el.addEventListener('click', () => activateTab(el.dataset.tab));
+      el.addEventListener('click', () => {
+        activateTab(el.dataset.tab);
+        try { localStorage.setItem('madness_lastTab_v1', el.dataset.tab); } catch(e){}
+      });
     });
+
+    // On load, restore a previously generated bracket and last active tab (if any)
+    try {
+      const raw = localStorage.getItem(bracketKey);
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        // set cached data so activateTab and other code can use it
+        window.cachedBracketData = parsed;
+        // restore champion display if present
+        const champEl = document.getElementById('champion');
+        if (parsed.championship && parsed.championship[0] && champEl) {
+          champEl.textContent = `Champion: ${parsed.championship[0].winner}`;
+        }
+        // Overview is intentionally not restored from storage; always show the default copy in the HTML.
+        // restore last tab or default to South
+        const last = localStorage.getItem('madness_lastTab_v1') || 'South';
+        // ensure the tab exists; fall back to first tab if not
+        const tabExists = Array.from(tabs).some(t => t.dataset.tab === last);
+        activateTab(tabExists ? last : (tabs[0]?.dataset.tab || 'South'));
+        setIndicatorSaved();
+      }
+    } catch (e) {
+      console.error('Failed to restore cached bracket/tab:', e);
+    }
 
     const btn = document.getElementById('btn-generate');
     btn?.addEventListener('click', () => {
@@ -455,6 +549,11 @@ document.addEventListener('DOMContentLoaded', async () => {
           finalFour: rFF,
           championship: rChamp,
         };
+
+        // Persist immediately after generation
+        try { localStorage.setItem('madness_bracket_v1', JSON.stringify(window.cachedBracketData)); } catch(e) { console.error('Failed to persist bracket', e); }
+        try { localStorage.setItem('madness_lastTab_v1', 'South'); } catch(e) {}
+        setIndicatorSaved();
 
         // Update champion text
         const champEl = document.getElementById('champion');
