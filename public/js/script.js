@@ -30,6 +30,7 @@ const STAT_FILES = {
   turnoversForcedPerGame: 'turnovers-forced-per-game',
   turnoversPerGame: 'turnovers-per-game',
   winningPercentage: 'winning-percentage',
+  historicalWinners: 'historical-winners',
 };
 
 async function loadStat(key) {
@@ -41,8 +42,14 @@ async function loadStat(key) {
 
 // --- Helpers for merging pages, parsing numbers, and building lookups ---
 function mergePages(paged) {
-  // paged is an array of { data: [...] }
-  return paged.flatMap(p => Array.isArray(p?.data) ? p.data : []);
+  // paged may be either:
+  // - an array of page objects like { data: [...] }
+  // - an array of row objects already (e.g. [{ Team, PPG }, ...])
+  if (!Array.isArray(paged)) return [];
+  const hasDataPages = paged.some(p => Array.isArray(p?.data));
+  if (hasDataPages) return paged.flatMap(p => Array.isArray(p?.data) ? p.data : []);
+  // otherwise assume paged is already the array of rows
+  return paged;
 }
 
 function parseNumber(value) {
@@ -357,6 +364,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       { id: 'threePG', label: '3PG', datasetKey: 'threePointersPerGame', valueField: '3PG' },
       { id: 'rpg', label: 'RPG', datasetKey: 'reboundsPerGame', valueField: 'RPG' },
       { id: 'atr', label: 'Assist/Turnover Ratio', datasetKey: 'assistTurnoverRatio', valueField: 'Ratio' },
+      { id: 'history', label: 'Historical Titles', datasetKey: 'historicalWinners', valueField: 'Titles' },
     ];
 
     const metrics = metricSpecs.map(spec => buildMetric(spec, stats[spec.datasetKey]));
@@ -369,6 +377,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       threePG: 'w-3pg',
       rpg: 'w-rpg',
       atr: 'w-atr',
+      history: 'w-history',
       randomness: 'w-randomness',
     };
 
