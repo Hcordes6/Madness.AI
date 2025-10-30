@@ -50,3 +50,14 @@ input[type="range"] { width: 100%; }
 
 /* Final Four layout: two semis + final */
 .final4 { display: grid; grid-template-columns: repeat(3, minmax(220px, 1fr)); gap: 16px; }
+
+/* Overview card styles (re-added) */
+#overview { padding: 14px 20px; }
+.overview-card { max-width: 980px; margin: 0 auto 12px; background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+.overview-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.overview-header h2 { margin: 0; font-size: 16px; color: #0b2e6b; }
+.overview-actions { display: flex; gap: 8px; }
+.btn { background: var(--accent); color: #fff; border: none; padding: 6px 10px; border-radius: 8px; cursor: pointer; font-weight: 600; }
+.btn-ghost { background: transparent; color: var(--text); border: 1px solid var(--border); }
+.editable-desc { min-height: 56px; padding: 10px; border-radius: 8px; border: 1px dashed var(--border); background: #fbfdff; color: var(--text); outline: none; }
+.editable-desc:empty:before { content: attr(aria-label); color: var(--muted); }
