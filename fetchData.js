@@ -1,4 +1,5 @@
 import fs from "fs";
+import fetch from "node-fetch";
 
 // Configuration for each stat to fetch
 const STATS_CONFIG = [
@@ -240,47 +241,23 @@ async function fetchAllStats() {
     console.log(`💾 Saved ${data.length} items to ${outputPath}`);
   }
 
-  // Fetch historical winners and convert to counts per team
+  // Fetch historical winners and store raw data as-is; frontend will compute counts
   try {
     console.log(`\n--- Historical winners ---`);
     const historyUrl = 'https://ncaa-api.henrygd.me/history/basketball-men/d1';
     const res = await fetch(historyUrl);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const history = await res.json();
-
-    // history may be an array of season objects or strings. We'll try to extract the champion/team name heuristically.
-    const counts = new Map();
-    if (Array.isArray(history)) {
-      for (const item of history) {
-        let teamName = null;
-        if (typeof item === 'string') {
-          teamName = item;
-        } else if (item && typeof item === 'object') {
-          // Common possible keys
-          const candidates = ['champion', 'winner', 'team', 'champ', 'champion_team', 'winner_team'];
-          for (const k of candidates) {
-            if (item[k]) { teamName = item[k]; break; }
-          }
-          // fallback: pick the longest string property value
-          if (!teamName) {
-            for (const v of Object.values(item)) {
-              if (typeof v === 'string' && v.length > 3) {
-                if (!teamName || v.length > teamName.length) teamName = v;
-              }
-            }
-          }
-        }
-        if (teamName) {
-          const trimmed = teamName.trim();
-          counts.set(trimmed, (counts.get(trimmed) || 0) + 1);
-        }
-      }
+    console.log('History fetch status:', res.status, res.statusText);
+    const raw = await res.text();
+    let parsed;
+    try {
+      parsed = JSON.parse(raw);
+    } catch (e) {
+      console.error('Failed to parse JSON from history endpoint; saving empty array. Error:', e.message);
+      parsed = [];
     }
-
-    const out = Array.from(counts.entries()).map(([Team, Titles]) => ({ Team, Titles }));
     const outPath = `${outputDir}/historical-winners.json`;
-    fs.writeFileSync(outPath, JSON.stringify(out, null, 2));
-    console.log(`💾 Saved historical winners counts to ${outPath} (${out.length} teams)`);
+    fs.writeFileSync(outPath, JSON.stringify(parsed, null, 2));
+    console.log(`💾 Saved raw historical data to ${outPath} (${Array.isArray(parsed) ? parsed.length : 1} items)`);
   } catch (err) {
     console.error('❌ Error fetching historical winners:', err.message);
   }

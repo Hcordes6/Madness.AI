@@ -1,1 +1,792 @@
-[]
+{
+  "sport": "Men's Basketball",
+  "title": "Championship History",
+  "updated": "",
+  "page": 1,
+  "pages": 1,
+  "data": [
+    {
+      "Year": "2025",
+      "Champion (Record)": "Florida (36-4)",
+      "Coach": "Todd Golden",
+      "Score": "65-63",
+      "Runner-Up": "Houston",
+      "Site": "San Antonio, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2024",
+      "Champion (Record)": "UConn (37-3)",
+      "Coach": "Dan Hurley",
+      "Score": "75-60",
+      "Runner-Up": "Purdue",
+      "Site": "Glendale, Ariz.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2023",
+      "Champion (Record)": "UConn (31-8)",
+      "Coach": "Dan Hurley",
+      "Score": "76-59",
+      "Runner-Up": "San Diego State",
+      "Site": "Houston, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2022",
+      "Champion (Record)": "Kansas (34-6)",
+      "Coach": "Bill Self",
+      "Score": "72-69",
+      "Runner-Up": "North Carolina",
+      "Site": "New Orleans, La.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2021",
+      "Champion (Record)": "Baylor (28-2)",
+      "Coach": "Scott Drew",
+      "Score": "86-70",
+      "Runner-Up": "Gonzaga",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2020",
+      "Champion (Record)": "Canceled due to Covid-19",
+      "Coach": "--",
+      "Score": "--",
+      "Runner-Up": "--",
+      "Site": "--",
+      "title game replays": "--"
+    },
+    {
+      "Year": "2019",
+      "Champion (Record)": "Virginia (35-3)",
+      "Coach": "Tony Bennett",
+      "Score": "85-77 (OT)",
+      "Runner-Up": "Texas Tech",
+      "Site": "Minneapolis, Minn.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2018",
+      "Champion (Record)": "Villanova (36-4)",
+      "Coach": "Jay Wright",
+      "Score": "79-62",
+      "Runner-Up": "Michigan",
+      "Site": "San Antonio, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2017",
+      "Champion (Record)": "North Carolina (33-7)",
+      "Coach": "Roy Williams",
+      "Score": "71-65",
+      "Runner-Up": "Gonzaga",
+      "Site": "Phoenix, Ariz.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2016",
+      "Champion (Record)": "Villanova (35-5)",
+      "Coach": "Jay Wright",
+      "Score": "77-74",
+      "Runner-Up": "North Carolina",
+      "Site": "Houston, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2015",
+      "Champion (Record)": "Duke (35-4)",
+      "Coach": "Mike Krzyzewski",
+      "Score": "68-63",
+      "Runner-Up": "Wisconsin",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2014",
+      "Champion (Record)": "Connecticut (32-8)",
+      "Coach": "Kevin Ollie",
+      "Score": "60-54",
+      "Runner-Up": "Kentucky",
+      "Site": "Arlington, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2013",
+      "Champion (Record)": "Louisville (35-5)*",
+      "Coach": "Rick Pitino",
+      "Score": "82-76",
+      "Runner-Up": "Michigan",
+      "Site": "Atlanta, Ga.",
+      "title game replays": ""
+    },
+    {
+      "Year": "2012",
+      "Champion (Record)": "Kentucky (38-2)",
+      "Coach": "John Calipari",
+      "Score": "67-59",
+      "Runner-Up": "Kansas",
+      "Site": "New Orleans, La.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2011",
+      "Champion (Record)": "Connecticut (32-9)",
+      "Coach": "Jim Calhoun",
+      "Score": "53-41",
+      "Runner-Up": "Butler",
+      "Site": "Houston, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2010",
+      "Champion (Record)": "Duke (35-5)",
+      "Coach": "Mike Krzyzewski",
+      "Score": "61-59",
+      "Runner-Up": "Butler",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2009",
+      "Champion (Record)": "North Carolina (34-4)",
+      "Coach": "Roy Williams",
+      "Score": "89-72",
+      "Runner-Up": "Michigan State",
+      "Site": "Detroit, Mich.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2008",
+      "Champion (Record)": "Kansas (37-3)",
+      "Coach": "Bill Self",
+      "Score": "75-68 (OT)",
+      "Runner-Up": "Memphis",
+      "Site": "San Antonio, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2007",
+      "Champion (Record)": "Florida (35-5)",
+      "Coach": "Billy Donovan",
+      "Score": "84-75",
+      "Runner-Up": "Ohio State",
+      "Site": "Atlanta, Ga.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2006",
+      "Champion (Record)": "Florida (33-6)",
+      "Coach": "Billy Donovan",
+      "Score": "73-57",
+      "Runner-Up": "UCLA",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2005",
+      "Champion (Record)": "North Carolina (33-4)",
+      "Coach": "Roy Williams",
+      "Score": "75-70",
+      "Runner-Up": "Illinois",
+      "Site": "St. Louis, Mo.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2004",
+      "Champion (Record)": "Connecticut (33-6)",
+      "Coach": "Jim Calhoun",
+      "Score": "82-73",
+      "Runner-Up": "Georgia Tech",
+      "Site": "San Antonio, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2003",
+      "Champion (Record)": "Syracuse (30-5)",
+      "Coach": "Jim Boeheim",
+      "Score": "81-78",
+      "Runner-Up": "Kansas",
+      "Site": "New Orleans, La.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2002",
+      "Champion (Record)": "Maryland (32-4)",
+      "Coach": "Gary Williams",
+      "Score": "64-52",
+      "Runner-Up": "Indiana",
+      "Site": "Atlanta, Ga.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2001",
+      "Champion (Record)": "Duke (35-4)",
+      "Coach": "Mike Krzyzewski",
+      "Score": "82-72",
+      "Runner-Up": "Arizona",
+      "Site": "Minneapolis, Minn.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "2000",
+      "Champion (Record)": "Michigan State (32-7)",
+      "Coach": "Tom Izzo",
+      "Score": "89-76",
+      "Runner-Up": "Florida",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1999",
+      "Champion (Record)": "Connecticut (34-2)",
+      "Coach": "Jim Calhoun",
+      "Score": "77-74",
+      "Runner-Up": "Duke",
+      "Site": "St. Petersburg, Fla.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1998",
+      "Champion (Record)": "Kentucky (35-4)",
+      "Coach": "Tubby Smith",
+      "Score": "78-69",
+      "Runner-Up": "Utah",
+      "Site": "San Antonio, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1997",
+      "Champion (Record)": "Arizona (25-9)",
+      "Coach": "Lute Olson",
+      "Score": "84-79 (OT)",
+      "Runner-Up": "Kentucky",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1996",
+      "Champion (Record)": "Kentucky (34-2)",
+      "Coach": "Rick Pitino",
+      "Score": "76-67",
+      "Runner-Up": "Syracuse",
+      "Site": "East Rutherford, N.J.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1995",
+      "Champion (Record)": "UCLA (31-2)",
+      "Coach": "Jim Harrick",
+      "Score": "89-78",
+      "Runner-Up": "Arkansas",
+      "Site": "Seattle, Wash.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1994",
+      "Champion (Record)": "Arkansas (31-3)",
+      "Coach": "Nolan Richardson",
+      "Score": "76-72",
+      "Runner-Up": "Duke",
+      "Site": "Charlotte, N.C.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1993",
+      "Champion (Record)": "North Carolina (34-4)",
+      "Coach": "Dean Smith",
+      "Score": "77-71",
+      "Runner-Up": "Michigan",
+      "Site": "New Orleans, La.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1992",
+      "Champion (Record)": "Duke (34-2)",
+      "Coach": "Mike Krzyzewski",
+      "Score": "71-51",
+      "Runner-Up": "Michigan",
+      "Site": "Minneapolis, Minn.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1991",
+      "Champion (Record)": "Duke (32-7)",
+      "Coach": "Mike Krzyzewski",
+      "Score": "72-65",
+      "Runner-Up": "Kansas",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1990",
+      "Champion (Record)": "UNLV (35-5)",
+      "Coach": "Jerry Tarkanian",
+      "Score": "103-73",
+      "Runner-Up": "Duke",
+      "Site": "Denver, Colo.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1989",
+      "Champion (Record)": "Michigan (30-7)",
+      "Coach": "Steve Fisher",
+      "Score": "80-79 (OT)",
+      "Runner-Up": "Seton Hall",
+      "Site": "Seattle, Wash.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1988",
+      "Champion (Record)": "Kansas (27-11)",
+      "Coach": "Larry Brown",
+      "Score": "83-79",
+      "Runner-Up": "Oklahoma",
+      "Site": "Kansas City, Mo.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1987",
+      "Champion (Record)": "Indiana (30-4)",
+      "Coach": "Bob Knight",
+      "Score": "74-73",
+      "Runner-Up": "Syracuse",
+      "Site": "New Orleans, La.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1986",
+      "Champion (Record)": "Louisville (32-7)",
+      "Coach": "Denny Crum",
+      "Score": "72-69",
+      "Runner-Up": "Duke",
+      "Site": "Dallas, Texas",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1985",
+      "Champion (Record)": "Villanova (25-10)",
+      "Coach": "Rollie Massimino",
+      "Score": "66-64",
+      "Runner-Up": "Georgetown",
+      "Site": "Lexington, Ky,",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1984",
+      "Champion (Record)": "Georgetown (34-3)",
+      "Coach": "John Thompson",
+      "Score": "84-75",
+      "Runner-Up": "Houston",
+      "Site": "Seattle, Wash.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1983",
+      "Champion (Record)": "North Carolina State (26-10)",
+      "Coach": "Jim Valvano",
+      "Score": "54-52",
+      "Runner-Up": "Houston",
+      "Site": "Albuquerque, N.M.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1982",
+      "Champion (Record)": "North Carolina (32-2)",
+      "Coach": "Dean Smith",
+      "Score": "63-62",
+      "Runner-Up": "Georgetown",
+      "Site": "New Orleans, La.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1981",
+      "Champion (Record)": "Indiana (26-9)",
+      "Coach": "Bob Knight",
+      "Score": "63-50",
+      "Runner-Up": "North Carolina",
+      "Site": "Philadelphia, Pa.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1980",
+      "Champion (Record)": "Louisville (33-3)",
+      "Coach": "Denny Crum",
+      "Score": "59-54",
+      "Runner-Up": "UCLA",
+      "Site": "Indianapolis, Ind.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1979",
+      "Champion (Record)": "Michigan State (26-6)",
+      "Coach": "Jud Heathcote",
+      "Score": "75-64",
+      "Runner-Up": "Indiana State",
+      "Site": "Salt Lake City, Utah",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1978",
+      "Champion (Record)": "Kentucky (30-2)",
+      "Coach": "Joe Hall",
+      "Score": "94-88",
+      "Runner-Up": "Duke",
+      "Site": "St. Louis, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1977",
+      "Champion (Record)": "Marquette (25-7)",
+      "Coach": "Al McGuire",
+      "Score": "67-59",
+      "Runner-Up": "North Carolina",
+      "Site": "Atlanta, Ga.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1976",
+      "Champion (Record)": "Indiana (32-0)",
+      "Coach": "Bob Knight",
+      "Score": "86-68",
+      "Runner-Up": "Michigan",
+      "Site": "Philadelphia, Pa.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1975",
+      "Champion (Record)": "UCLA (28-3)",
+      "Coach": "John Wooden",
+      "Score": "92-85",
+      "Runner-Up": "Kentucky",
+      "Site": "San Diego, Calif.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1974",
+      "Champion (Record)": "North Carolina State (30-1)",
+      "Coach": "Norm Sloan",
+      "Score": "76-64",
+      "Runner-Up": "Marquette",
+      "Site": "Greensboro, N.C.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1973",
+      "Champion (Record)": "UCLA (30-0)",
+      "Coach": "John Wooden",
+      "Score": "87-66",
+      "Runner-Up": "Memphis State",
+      "Site": "St. Louis, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1972",
+      "Champion (Record)": "UCLA (30-0)",
+      "Coach": "John Wooden",
+      "Score": "81-76",
+      "Runner-Up": "Florida State",
+      "Site": "Los Angeles, Calif.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1971",
+      "Champion (Record)": "UCLA (29-1)",
+      "Coach": "John Wooden",
+      "Score": "68-62",
+      "Runner-Up": "Villanova",
+      "Site": "Houston, Texas",
+      "title game replays": ""
+    },
+    {
+      "Year": "1970",
+      "Champion (Record)": "UCLA (28-2)",
+      "Coach": "John Wooden",
+      "Score": "80-69",
+      "Runner-Up": "Jacksonville",
+      "Site": "College Park, Md.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1969",
+      "Champion (Record)": "UCLA (29-1)",
+      "Coach": "John Wooden",
+      "Score": "92-72",
+      "Runner-Up": "Purdue",
+      "Site": "Louisville, Ky.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1968",
+      "Champion (Record)": "UCLA (29-1)",
+      "Coach": "John Wooden",
+      "Score": "78-55",
+      "Runner-Up": "North Carolina",
+      "Site": "Los Angeles, Calif.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1967",
+      "Champion (Record)": "UCLA (30-0)",
+      "Coach": "John Wooden",
+      "Score": "79-64",
+      "Runner-Up": "Dayton",
+      "Site": "Louisville, Ky.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1966",
+      "Champion (Record)": "UTEP (28-1)",
+      "Coach": "Don Haskins",
+      "Score": "72-65",
+      "Runner-Up": "Kentucky",
+      "Site": "College Park, Md.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1965",
+      "Champion (Record)": "UCLA (28-2)",
+      "Coach": "John Wooden",
+      "Score": "91-80",
+      "Runner-Up": "Michigan",
+      "Site": "Portland, Ore.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1964",
+      "Champion (Record)": "UCLA (30-0)",
+      "Coach": "John Wooden",
+      "Score": "98-83",
+      "Runner-Up": "Duke",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1963",
+      "Champion (Record)": "Loyola (Ill.) (29-2)",
+      "Coach": "George Ireland",
+      "Score": "60-58 (OT)",
+      "Runner-Up": "Cincinnati",
+      "Site": "Louisville, Ky.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1962",
+      "Champion (Record)": "Cincinnati (29-2)",
+      "Coach": "Ed Jucker",
+      "Score": "71-59",
+      "Runner-Up": "Ohio State",
+      "Site": "Louisville, Ky.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1961",
+      "Champion (Record)": "Cincinnati (27-3)",
+      "Coach": "Ed Jucker",
+      "Score": "70-65 (OT)",
+      "Runner-Up": "Ohio State",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1960",
+      "Champion (Record)": "Ohio State (25-3)",
+      "Coach": "Fred Taylor",
+      "Score": "75-55",
+      "Runner-Up": "California",
+      "Site": "Daly City, Calif.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1959",
+      "Champion (Record)": "California (25-4)",
+      "Coach": "Pete Newell",
+      "Score": "71-70",
+      "Runner-Up": "West Virginia",
+      "Site": "Louisville, Ky.",
+      "title game replays": "Watch the full game"
+    },
+    {
+      "Year": "1958",
+      "Champion (Record)": "Kentucky (23-6)",
+      "Coach": "Adolph Rupp",
+      "Score": "84-72",
+      "Runner-Up": "Seattle",
+      "Site": "Louisville, Ky.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1957",
+      "Champion (Record)": "North Carolina (32-0)",
+      "Coach": "Frank McGuire",
+      "Score": "54-53 (3OT)",
+      "Runner-Up": "Kansas",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1956",
+      "Champion (Record)": "San Francisco (29-0)",
+      "Coach": "Phil Woolpert",
+      "Score": "83-71",
+      "Runner-Up": "Iowa",
+      "Site": "Evanston, Ill.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1955",
+      "Champion (Record)": "San Francisco (28-1)",
+      "Coach": "Phil Woolpert",
+      "Score": "77-63",
+      "Runner-Up": "LaSalle",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1954",
+      "Champion (Record)": "La Salle (26-4)",
+      "Coach": "Ken Loeffler",
+      "Score": "92-76",
+      "Runner-Up": "Bradley",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1953",
+      "Champion (Record)": "Indiana (23-3)",
+      "Coach": "Branch McCracken",
+      "Score": "69-68",
+      "Runner-Up": "Kansas",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1952",
+      "Champion (Record)": "Kansas (28-3)",
+      "Coach": "Phog Allen",
+      "Score": "80-63",
+      "Runner-Up": "St. John's",
+      "Site": "Seattle, Wash.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1951",
+      "Champion (Record)": "Kentucky (32-2)",
+      "Coach": "Adolph Rupp",
+      "Score": "68-58",
+      "Runner-Up": "Kansas State",
+      "Site": "Minneapolis, Minn.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1950",
+      "Champion (Record)": "CCNY (24-5)",
+      "Coach": "Nat Holman",
+      "Score": "71-68",
+      "Runner-Up": "Bradley",
+      "Site": "New York, N.Y.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1949",
+      "Champion (Record)": "Kentucky (32-2)",
+      "Coach": "Adolph Rupp",
+      "Score": "46-36",
+      "Runner-Up": "Oklahoma A&M",
+      "Site": "Seattle, Wash.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1948",
+      "Champion (Record)": "Kentucky (36-3)",
+      "Coach": "Adolph Rupp",
+      "Score": "58-42",
+      "Runner-Up": "Baylor",
+      "Site": "New York, N.Y.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1947",
+      "Champion (Record)": "Holy Cross (27-3)",
+      "Coach": "Doggie Julian",
+      "Score": "58-47",
+      "Runner-Up": "Oklahoma",
+      "Site": "New York, N.Y.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1946",
+      "Champion (Record)": "Oklahoma State (31-2)",
+      "Coach": "Henry Iba",
+      "Score": "43-40",
+      "Runner-Up": "North Carolina",
+      "Site": "New York, N.Y.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1945",
+      "Champion (Record)": "Oklahoma State (27-4)",
+      "Coach": "Henry Iba",
+      "Score": "49-45",
+      "Runner-Up": "NYU",
+      "Site": "New York, N.Y.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1944",
+      "Champion (Record)": "Utah (21-4)",
+      "Coach": "Vadal Peterson",
+      "Score": "42-40 (OT)",
+      "Runner-Up": "Dartmouth",
+      "Site": "New York, N.Y.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1943",
+      "Champion (Record)": "Wyoming (31-2)",
+      "Coach": "Everett Shelton",
+      "Score": "46-34",
+      "Runner-Up": "Georgetown",
+      "Site": "New York, N.Y.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1942",
+      "Champion (Record)": "Stanford (28-4)",
+      "Coach": "Everett Dean",
+      "Score": "53-38",
+      "Runner-Up": "Dartmouth",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1941",
+      "Champion (Record)": "Wisconsin (20-3)",
+      "Coach": "Bud Foster",
+      "Score": "39-34",
+      "Runner-Up": "Washington State",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1940",
+      "Champion (Record)": "Indiana (20-3)",
+      "Coach": "Branch McCracken",
+      "Score": "60-42",
+      "Runner-Up": "Kansas",
+      "Site": "Kansas City, Mo.",
+      "title game replays": ""
+    },
+    {
+      "Year": "1939",
+      "Champion (Record)": "Oregon (29-5)",
+      "Coach": "Howard Hobson",
+      "Score": "46-33",
+      "Runner-Up": "Ohio State",
+      "Site": "Evanston, Ill.",
+      "title game replays": ""
+    }
+  ]
+}

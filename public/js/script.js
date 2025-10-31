@@ -90,6 +90,79 @@ function buildMetric(spec, pagedDataset) {
   return { id: spec.id, label: spec.label, map, normMap, min, max, normalize };
 }
 
+// Specialized builder for historical winners: compute titles per team from raw history array
+function buildHistoryTitlesMetric(pagedDataset) {
+  const rows = mergePages(pagedDataset);
+  const countsByNorm = new Map();
+  const displayMap = new Map(); // map of some representative display name -> count
+
+  // Prefer 'champion' fields explicitly; then fall back to winner/team if needed
+  const primaryChampionKeys = ['champion', 'Champion'];
+  const fallbackChampionKeys = ['winner', 'Winner', 'team', 'Team', 'champion_team', 'winner_team'];
+
+  function extractChampion(item) {
+    if (!item) return null;
+    if (typeof item === 'string') return item;
+    if (typeof item !== 'object') return null;
+    // First, try champion keys strictly
+    for (const k of primaryChampionKeys) {
+      const v = item[k];
+      if (!v) continue;
+      if (typeof v === 'string') return v;
+      if (typeof v === 'object') {
+        // common nested shapes
+        if (typeof v.team === 'string') return v.team;
+        if (typeof v.name === 'string') return v.name;
+        if (typeof v.school === 'string') return v.school;
+      }
+    }
+    // Then, fall back to other possible labels if champion not present
+    for (const k of fallbackChampionKeys) {
+      const v = item[k];
+      if (!v) continue;
+      if (typeof v === 'string') return v;
+      if (typeof v === 'object') {
+        if (typeof v.team === 'string') return v.team;
+        if (typeof v.name === 'string') return v.name;
+        if (typeof v.school === 'string') return v.school;
+      }
+    }
+    return null; // don't guess from arbitrary string fields to avoid false positives
+  }
+
+  for (const item of rows) {
+    const teamName = extractChampion(item);
+    if (!teamName) continue; // only count explicit champion/winner entries
+    const norm = normalizeName(teamName);
+    const cur = (countsByNorm.get(norm) || 0) + 1;
+    countsByNorm.set(norm, cur);
+    // keep a representative display value (longest encountered string)
+    const prevDisp = displayMap.get(norm);
+    const trimmed = teamName.trim();
+    if (!prevDisp || trimmed.length > prevDisp.length) displayMap.set(norm, trimmed);
+  }
+
+  const values = Array.from(countsByNorm.values());
+  // Ensure teams not present are treated as 0 by setting min to 0 explicitly
+  const min = 0;
+  const max = values.length ? Math.max(...values) : 1;
+  const normalize = (v) => {
+    const val = v == null ? 0 : v;
+    if (max === min) return 0.5;
+    return (val - min) / (max - min);
+  };
+
+  // Build both maps to satisfy resolveTeamValue lookup behavior
+  const map = new Map();
+  const normMap = new Map();
+  for (const [norm, cnt] of countsByNorm.entries()) {
+    const disp = displayMap.get(norm) || norm;
+    map.set(disp, cnt);
+    normMap.set(norm, cnt);
+  }
+  return { id: 'history', label: 'Historical Titles', map, normMap, min, max, normalize };
+}
+
 function topNByWinningPct(pagedWinningPct, n = 64) {
   const rows = mergePages(pagedWinningPct)
     .map(r => ({ team: r.Team, pct: parseNumber(r['Pct']) }))
@@ -290,17 +363,27 @@ function normalizeName(s) {
   return t;
 }
 
+// Map variant -> canonical normalized name (one-way!).
+// Values must be normalized (use normalizeName on literals when editing).
 const NAME_ALIASES = new Map([
-  ['st johns', 'st johns'],
-  ['saint marys', 'saint marys'],
+  ['saint johns', 'st johns'],
+  ['st marys', 'saint marys'],
   ['uncw', 'unc wilmington'],
-  ['unc wilmington', 'unc wilmington'],
   ['siue', 'siu edwardsville'],
-  ['siu edwardsville', 'siu edwardsville'],
   ['iowa st', 'iowa state'],
   ['utah st', 'utah state'],
   ['michigan st', 'michigan state'],
-  ['texas a m', 'texas a m'],
+  ['uconn', 'connecticut'],
+  ['byu', 'brigham young'],
+  ['tcu', 'texas christian'],
+  ['lsu', 'louisiana state'],
+  ['usc', 'southern california'],
+  ['unlv', 'nevada las vegas'],
+  ['ole miss', 'mississippi'],
+  ['pitt', 'pittsburgh'],
+  ['smu', 'southern methodist'],
+  ['nc state', 'north carolina state'],
+  ['unc', 'north carolina'],
 ]);
 
 function resolveTeamValue(metric, teamName) {
@@ -309,11 +392,14 @@ function resolveTeamValue(metric, teamName) {
   const norm = normalizeName(teamName);
   const normVal = metric.normMap.get(norm);
   if (normVal != null) return normVal;
-  const aliasKey = NAME_ALIASES.get(norm);
-  if (aliasKey) {
-    const aliasVal = metric.normMap.get(aliasKey);
+  const aliasCanon = NAME_ALIASES.get(norm);
+  if (aliasCanon) {
+    // alias values are canonical normalized names, ensure normalized
+    const aliasVal = metric.normMap.get(aliasCanon);
     if (aliasVal != null) return aliasVal;
   }
+  // For history metric, treat missing as 0 titles rather than neutral
+  if (metric.id === 'history') return 0;
   return null;
 }
 
@@ -367,7 +453,10 @@ document.addEventListener('DOMContentLoaded', async () => {
       { id: 'history', label: 'Historical Titles', datasetKey: 'historicalWinners', valueField: 'Titles' },
     ];
 
-    const metrics = metricSpecs.map(spec => buildMetric(spec, stats[spec.datasetKey]));
+    const metrics = metricSpecs.map(spec => {
+      if (spec.id === 'history') return buildHistoryTitlesMetric(stats[spec.datasetKey]);
+      return buildMetric(spec, stats[spec.datasetKey]);
+    });
 
     // --- UI: wire sliders and button ---
     const sliderIds = {
