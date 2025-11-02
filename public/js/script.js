@@ -90,77 +90,93 @@ function buildMetric(spec, pagedDataset) {
   return { id: spec.id, label: spec.label, map, normMap, min, max, normalize };
 }
 
-// Specialized builder for historical winners: compute titles per team from raw history array
-function buildHistoryTitlesMetric(pagedDataset) {
-  const rows = mergePages(pagedDataset);
-  const countsByNorm = new Map();
-  const displayMap = new Map(); // map of some representative display name -> count
-
-  // Prefer 'champion' fields explicitly; then fall back to winner/team if needed
-  const primaryChampionKeys = ['champion', 'Champion'];
-  const fallbackChampionKeys = ['winner', 'Winner', 'team', 'Team', 'champion_team', 'winner_team'];
-
-  function extractChampion(item) {
-    if (!item) return null;
-    if (typeof item === 'string') return item;
-    if (typeof item !== 'object') return null;
-    // First, try champion keys strictly
-    for (const k of primaryChampionKeys) {
-      const v = item[k];
-      if (!v) continue;
-      if (typeof v === 'string') return v;
-      if (typeof v === 'object') {
-        // common nested shapes
-        if (typeof v.team === 'string') return v.team;
-        if (typeof v.name === 'string') return v.name;
-        if (typeof v.school === 'string') return v.school;
-      }
-    }
-    // Then, fall back to other possible labels if champion not present
-    for (const k of fallbackChampionKeys) {
-      const v = item[k];
-      if (!v) continue;
-      if (typeof v === 'string') return v;
-      if (typeof v === 'object') {
-        if (typeof v.team === 'string') return v.team;
-        if (typeof v.name === 'string') return v.name;
-        if (typeof v.school === 'string') return v.school;
-      }
-    }
-    return null; // don't guess from arbitrary string fields to avoid false positives
+// Build historical titles metric from championship history data
+function buildHistoryTitlesMetric(historyData) {
+  console.log('[HISTORY BUILD] Starting fresh build...');
+  
+  // Step 1: Extract the data array from the wrapped response
+  let dataArray = [];
+  if (Array.isArray(historyData)) {
+    dataArray = historyData;
+  } else if (historyData && Array.isArray(historyData.data)) {
+    dataArray = historyData.data;
+  } else {
+    console.warn('[HISTORY BUILD] No valid data array found');
+    return buildEmptyHistoryMetric();
   }
-
-  for (const item of rows) {
-    const teamName = extractChampion(item);
-    if (!teamName) continue; // only count explicit champion/winner entries
-    const norm = normalizeName(teamName);
-    const cur = (countsByNorm.get(norm) || 0) + 1;
-    countsByNorm.set(norm, cur);
-    // keep a representative display value (longest encountered string)
-    const prevDisp = displayMap.get(norm);
-    const trimmed = teamName.trim();
-    if (!prevDisp || trimmed.length > prevDisp.length) displayMap.set(norm, trimmed);
+  
+  console.log('[HISTORY BUILD] Found', dataArray.length, 'championship records');
+  
+  // Step 2: Extract champion names and count titles
+  const titleCounts = new Map(); // normalized name -> count
+  
+  for (const record of dataArray) {
+    if (!record || typeof record !== 'object') continue;
+    
+    // Look for "Champion (Record)" field
+    let championStr = record['Champion (Record)'];
+    if (!championStr || typeof championStr !== 'string') {
+      // Try alternate keys
+      championStr = record['champion'] || record['Champion'];
+    }
+    
+    if (!championStr) continue;
+    
+    // Extract team name by removing record in parentheses: "UConn (37-3)" -> "UConn"
+    const teamName = championStr.replace(/\s*\([^)]*\)\s*$/, '').trim();
+    if (!teamName) continue;
+    
+    // Normalize the name for counting
+    const normalized = normalizeName(teamName);
+    titleCounts.set(normalized, (titleCounts.get(normalized) || 0) + 1);
   }
-
-  const values = Array.from(countsByNorm.values());
-  // Ensure teams not present are treated as 0 by setting min to 0 explicitly
-  const min = 0;
-  const max = values.length ? Math.max(...values) : 1;
-  const normalize = (v) => {
-    const val = v == null ? 0 : v;
-    if (max === min) return 0.5;
-    return (val - min) / (max - min);
+  
+  console.log('[HISTORY BUILD] Extracted', titleCounts.size, 'unique champions');
+  
+  // Step 3: Log top champions for verification
+  const topChamps = Array.from(titleCounts.entries())
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10);
+  console.log('[HISTORY BUILD] Top 10 champions:', topChamps.map(([name, cnt]) => `${name}(${cnt})`).join(', '));
+  
+  // Step 4: Build the metric object
+  if (titleCounts.size === 0) {
+    return buildEmptyHistoryMetric();
+  }
+  
+  const counts = Array.from(titleCounts.values());
+  const min = 0; // Teams with no titles get 0
+  const max = Math.max(...counts);
+  
+  const normalize = (titleCount) => {
+    if (titleCount == null) return 0;
+    if (max === 0) return 0;
+    return titleCount / max; // Simple 0-1 normalization
   };
+  
+  console.log('[HISTORY BUILD] Min:', min, 'Max:', max);
+  
+  return {
+    id: 'history',
+    label: 'Historical Titles',
+    map: new Map(), // Not used - we look up by normalized name only
+    normMap: titleCounts, // normalized name -> title count
+    min,
+    max,
+    normalize
+  };
+}
 
-  // Build both maps to satisfy resolveTeamValue lookup behavior
-  const map = new Map();
-  const normMap = new Map();
-  for (const [norm, cnt] of countsByNorm.entries()) {
-    const disp = displayMap.get(norm) || norm;
-    map.set(disp, cnt);
-    normMap.set(norm, cnt);
-  }
-  return { id: 'history', label: 'Historical Titles', map, normMap, min, max, normalize };
+function buildEmptyHistoryMetric() {
+  return {
+    id: 'history',
+    label: 'Historical Titles',
+    map: new Map(),
+    normMap: new Map(),
+    min: 0,
+    max: 1,
+    normalize: () => 0
+  };
 }
 
 function topNByWinningPct(pagedWinningPct, n = 64) {
@@ -364,29 +380,58 @@ function normalizeName(s) {
 }
 
 // Map variant -> canonical normalized name (one-way!).
-// Values must be normalized (use normalizeName on literals when editing).
+// This handles differences between bracket names and historical names
+// Key = what appears in bracket, Value = what appears in history (both normalized)
 const NAME_ALIASES = new Map([
-  ['saint johns', 'st johns'],
-  ['st marys', 'saint marys'],
-  ['uncw', 'unc wilmington'],
-  ['siue', 'siu edwardsville'],
+  // St. vs State variations (bracket uses "St.", history uses "State")
+  ['michigan st', 'michigan state'],
   ['iowa st', 'iowa state'],
   ['utah st', 'utah state'],
-  ['michigan st', 'michigan state'],
+  ['oklahoma st', 'oklahoma state'],
+  ['mississippi st', 'mississippi state'],
+  ['norfolk st', 'norfolk state'],
+  ['colorado st', 'colorado state'],
+  
+  // Saint vs St
+  ['st johns', 'saint johns'],
+  ['st marys', 'saint marys'],
+  ['st josephs', 'saint josephs'],
+  
+  // Other common abbreviations
+  ['ole miss', 'mississippi'],
   ['uconn', 'connecticut'],
   ['byu', 'brigham young'],
-  ['tcu', 'texas christian'],
   ['lsu', 'louisiana state'],
-  ['usc', 'southern california'],
-  ['unlv', 'nevada las vegas'],
-  ['ole miss', 'mississippi'],
-  ['pitt', 'pittsburgh'],
+  ['tcu', 'texas christian'],
   ['smu', 'southern methodist'],
-  ['nc state', 'north carolina state'],
+  ['unlv', 'nevada las vegas'],
+  ['uncw', 'unc wilmington'],
+  ['siue', 'siu edwardsville'],
   ['unc', 'north carolina'],
+  ['nc state', 'north carolina state'],
 ]);
 
 function resolveTeamValue(metric, teamName) {
+  // For history metric, use special logic
+  if (metric.id === 'history') {
+    const norm = normalizeName(teamName);
+    
+    // Try direct lookup first
+    let titleCount = metric.normMap.get(norm);
+    if (titleCount != null) return titleCount;
+    
+    // Try alias lookup
+    const aliasedName = NAME_ALIASES.get(norm);
+    if (aliasedName) {
+      titleCount = metric.normMap.get(aliasedName);
+      if (titleCount != null) return titleCount;
+    }
+    
+    // Not found - return 0 for history metric
+    return 0;
+  }
+  
+  // For other metrics, use standard logic
   const exact = metric.map.get(teamName);
   if (exact != null) return exact;
   const norm = normalizeName(teamName);
@@ -394,12 +439,9 @@ function resolveTeamValue(metric, teamName) {
   if (normVal != null) return normVal;
   const aliasCanon = NAME_ALIASES.get(norm);
   if (aliasCanon) {
-    // alias values are canonical normalized names, ensure normalized
     const aliasVal = metric.normMap.get(aliasCanon);
     if (aliasVal != null) return aliasVal;
   }
-  // For history metric, treat missing as 0 titles rather than neutral
-  if (metric.id === 'history') return 0;
   return null;
 }
 
@@ -457,6 +499,43 @@ document.addEventListener('DOMContentLoaded', async () => {
       if (spec.id === 'history') return buildHistoryTitlesMetric(stats[spec.datasetKey]);
       return buildMetric(spec, stats[spec.datasetKey]);
     });
+
+    // DEBUG: Log historical titles counts and bracket team mappings
+    (function debugLogHistoricalTitles() {
+      const hist = metrics.find(m => m.id === 'history');
+      if (!hist) return;
+      try {
+        // Log all teams with titles from the normMap
+        const allCounts = Array.from(hist.normMap.entries()).map(([team, cnt]) => ({ team, cnt }));
+        allCounts.sort((a, b) => b.cnt - a.cnt);
+        console.log('[HISTORY] Total teams with at least one title:', allCounts.length);
+        console.log('[HISTORY] Top 10 by titles:', allCounts.slice(0, 10));
+        console.log('[HISTORY] Min/Max used for normalization:', { min: hist.min, max: hist.max });
+        
+        // Now check how bracket teams resolve
+        console.log('[HISTORY] === Bracket Team Resolution Debug ===');
+        const bracketTeams = [];
+        for (const region of stats.bracket.regions) {
+          for (const team of region.teams) {
+            const normalized = normalizeName(team.team);
+            const aliased = NAME_ALIASES.get(normalized);
+            const titleCount = resolveTeamValue(hist, team.team);
+            bracketTeams.push({
+              original: team.team,
+              normalized: normalized,
+              alias: aliased || 'none',
+              titles: titleCount
+            });
+          }
+        }
+        // Sort by titles descending to see who has most
+        bracketTeams.sort((a, b) => b.titles - a.titles);
+        console.log('[HISTORY] Bracket teams with titles (top 20):', bracketTeams.slice(0, 20));
+        console.log('[HISTORY] Bracket teams with 0 titles:', bracketTeams.filter(t => t.titles === 0).map(t => t.original));
+      } catch (e) {
+        console.warn('[HISTORY] Debug listing failed:', e);
+      }
+    })();
 
     // --- UI: wire sliders and button ---
     const sliderIds = {
@@ -563,6 +642,26 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Load official 2025 bracket (64-team main draw)
     const bracketRes = await fetch('data/bracket-2025.json', { cache: 'no-cache' });
     const bracket = await bracketRes.json();
+
+    // DEBUG: For each bracket team, show resolved history count and alias path
+    (function debugLogBracketHistory(bracketObj) {
+      const hist = metrics.find(m => m.id === 'history');
+      if (!hist || !bracketObj?.regions) return;
+      const out = [];
+      for (const region of bracketObj.regions) {
+        for (const entry of region.teams) {
+          const t = entry.team;
+          const norm = normalizeName(t);
+          const aliasCanon = NAME_ALIASES.get(norm);
+          let cnt = hist.normMap.get(norm);
+          if (cnt == null && aliasCanon) cnt = hist.normMap.get(aliasCanon);
+          if (cnt == null) cnt = 0;
+          out.push({ team: t, norm, aliasCanon: aliasCanon || '', titles: cnt });
+        }
+      }
+      out.sort((a, b) => b.titles - a.titles || a.team.localeCompare(b.team));
+      console.log('[HISTORY] Bracket team title counts (resolved):', out);
+    })(bracket);
 
     function teamBySeed(region, seed) {
       return region.teams.find(t => t.seed === seed)?.team;
