@@ -265,7 +265,7 @@ function renderBracket(rounds) {
   const champEl = document.getElementById('champion');
   if (lastRound && lastRound[0] && champEl) {
     const champ = lastRound[0].winner;
-    champEl.textContent = `Champion: ${champ}`;
+    champEl.innerHTML = `<div style="font-size: 18px; font-weight: 600; opacity: 0.8; margin-bottom: 8px; letter-spacing: 2px;">🎉 TOURNAMENT CHAMPION 🎉</div><div style="font-size: 36px; font-weight: 900; letter-spacing: 1px;">${champ}</div>`;
   }
 }
 
