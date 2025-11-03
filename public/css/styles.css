@@ -25,9 +25,30 @@ header p { margin: 6px 0 0 0; color: var(--muted); font-size: 14px; }
 #controls { padding: 16px 20px; }
 #controls h2 { margin: 0 0 12px; font-size: 16px; }
 .sliders { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
-label { display: flex; flex-direction: column; gap: 6px; background: var(--card); padding: 10px 12px; border-radius: 8px; border: 1px solid var(--border); }
+label { display: flex; flex-direction: column; gap: 6px; background: var(--card); padding: 10px 12px; border-radius: 8px; border: 1px solid var(--border); position: relative; }
+.label-header { display: block; }
 input[type="range"] { width: 100%; }
 .value { color: var(--accent); font-weight: 600; font-size: 13px; }
+.info-icon { 
+	position: absolute;
+	top: 8px;
+	right: 8px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	opacity: 0.5; 
+	transition: all 0.2s ease;
+	color: var(--muted);
+	z-index: 1;
+}
+.info-icon:hover { 
+	opacity: 1;
+	color: var(--accent);
+	transform: scale(1.15);
+}
+.info-icon svg {
+	display: block;
+}
 .actions { margin-top: 12px; display: flex; align-items: center; gap: 12px; }
 #btn-generate { background: var(--accent); color: #ffffff; border: none; padding: 10px 14px; border-radius: 8px; font-weight: 700; cursor: pointer; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
 .note { color: var(--muted); }

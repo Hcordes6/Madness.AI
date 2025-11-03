@@ -174,8 +174,48 @@ function buildEmptyHistoryMetric() {
     map: new Map(),
     normMap: new Map(),
     min: 0,
-    max: 1,
+    max: 0,
     normalize: () => 0
+  };
+}
+
+// Build seeding metric from bracket data (lower seed = better)
+function buildSeedMetric(bracketData) {
+  console.log('[SEED BUILD] Building seeding metric...');
+  
+  const seedMap = new Map();
+  
+  // Extract seeds from all regions
+  for (const region of bracketData.regions) {
+    for (const team of region.teams) {
+      const normalized = normalizeName(team.team);
+      seedMap.set(normalized, team.seed);
+    }
+  }
+  
+  console.log('[SEED BUILD] Loaded', seedMap.size, 'team seeds');
+  
+  // For seeding: lower seed number = better team
+  // Seed 1 = best (should get highest score)
+  // Seed 16 = worst (should get lowest score)
+  // We invert: (17 - seed) so seed 1 becomes 16, seed 16 becomes 1
+  const min = 1;  // Inverted seed 16
+  const max = 16; // Inverted seed 1
+  
+  const normalize = (seed) => {
+    if (seed == null) return 0.5; // Default to middle if seed not found
+    const inverted = 17 - seed; // Invert so lower seed = higher score
+    return (inverted - min) / (max - min); // Normalize to 0-1
+  };
+  
+  return {
+    id: 'seed',
+    label: 'Seeding',
+    map: new Map(),
+    normMap: seedMap, // normalized name -> seed number
+    min,
+    max,
+    normalize
   };
 }
 
@@ -431,6 +471,25 @@ function resolveTeamValue(metric, teamName) {
     return 0;
   }
   
+  // For seed metric, use special logic
+  if (metric.id === 'seed') {
+    const norm = normalizeName(teamName);
+    
+    // Try direct lookup first
+    let seed = metric.normMap.get(norm);
+    if (seed != null) return seed;
+    
+    // Try alias lookup
+    const aliasedName = NAME_ALIASES.get(norm);
+    if (aliasedName) {
+      seed = metric.normMap.get(aliasedName);
+      if (seed != null) return seed;
+    }
+    
+    // Not found - return middle seed (8.5) as default
+    return 8.5;
+  }
+  
   // For other metrics, use standard logic
   const exact = metric.map.get(teamName);
   if (exact != null) return exact;
@@ -493,10 +552,12 @@ document.addEventListener('DOMContentLoaded', async () => {
       { id: 'rpg', label: 'RPG', datasetKey: 'reboundsPerGame', valueField: 'RPG' },
       { id: 'atr', label: 'Assist/Turnover Ratio', datasetKey: 'assistTurnoverRatio', valueField: 'Ratio' },
       { id: 'history', label: 'Historical Titles', datasetKey: 'historicalWinners', valueField: 'Titles' },
+      { id: 'seed', label: 'Seeding', datasetKey: 'bracket', valueField: 'Seed' },
     ];
 
     const metrics = metricSpecs.map(spec => {
       if (spec.id === 'history') return buildHistoryTitlesMetric(stats[spec.datasetKey]);
+      if (spec.id === 'seed') return buildSeedMetric(stats[spec.datasetKey]);
       return buildMetric(spec, stats[spec.datasetKey]);
     });
 
@@ -546,6 +607,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       rpg: 'w-rpg',
       atr: 'w-atr',
       history: 'w-history',
+      seed: 'w-seed',
       randomness: 'w-randomness',
     };
 
