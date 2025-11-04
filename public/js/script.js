@@ -556,7 +556,53 @@ document.addEventListener('DOMContentLoaded', async () => {
       { id: 'seed', label: 'Seeding', datasetKey: 'bracket', valueField: 'Seed' },
     ];
 
-    const metrics = metricSpecs.map(spec => {
+    // --- Metric toggles (persisted) ---
+    const enabledKey = 'madness_metrics_enabled_v1';
+    const allMetricIds = ['winPct','scoringDefense','fgPct','threePG','rpg','atr','history','seed','randomness'];
+    function loadEnabledMetrics() {
+      try {
+        const raw = localStorage.getItem(enabledKey);
+        if (!raw) return allMetricIds.slice();
+        const parsed = JSON.parse(raw);
+        if (Array.isArray(parsed)) return parsed;
+        if (parsed && Array.isArray(parsed.enabled)) return parsed.enabled;
+      } catch {}
+      return allMetricIds.slice();
+    }
+    function saveEnabledMetrics(list) {
+      try { localStorage.setItem(enabledKey, JSON.stringify(list)); } catch {}
+    }
+    function applyEnabledToUI(enabledList) {
+      const set = new Set(enabledList);
+      for (const id of allMetricIds) {
+        const card = document.querySelector(`label[data-metric="${id}"]`);
+        if (card) card.style.display = set.has(id) ? '' : 'none';
+        const cb = document.getElementById(`toggle-${id}`);
+        if (cb) cb.checked = set.has(id);
+      }
+    }
+    function readEnabledFromUI() {
+      const out = [];
+      for (const id of allMetricIds) {
+        const cb = document.getElementById(`toggle-${id}`);
+        if (!cb || cb.checked) out.push(id);
+      }
+      return out;
+    }
+
+    let enabledList = loadEnabledMetrics();
+    applyEnabledToUI(enabledList);
+    for (const id of allMetricIds) {
+      document.getElementById(`toggle-${id}`)?.addEventListener('change', () => {
+        enabledList = readEnabledFromUI();
+        saveEnabledMetrics(enabledList);
+        applyEnabledToUI(enabledList);
+      });
+    }
+
+    const enabledSet = new Set(enabledList);
+    const activeSpecs = metricSpecs.filter(s => enabledSet.has(s.id));
+    const metrics = activeSpecs.map(spec => {
       if (spec.id === 'history') return buildHistoryTitlesMetric(stats[spec.datasetKey]);
       if (spec.id === 'seed') return buildSeedMetric(stats[spec.datasetKey]);
       return buildMetric(spec, stats[spec.datasetKey]);
@@ -688,11 +734,12 @@ document.addEventListener('DOMContentLoaded', async () => {
       sync();
     }
 
-    // Sync randomness slider
+    // Sync randomness slider (respect toggle; if disabled, force 0)
     const randEl = document.getElementById(sliderIds.randomness);
     const randValEl = document.querySelector(`[data-for="${sliderIds.randomness}"]`);
     const syncRand = () => {
-      weights.randomness = parseInt(randEl.value, 10) || 0;
+      const randEnabled = (document.getElementById('toggle-randomness')?.checked ?? true);
+      weights.randomness = randEnabled ? (parseInt(randEl.value, 10) || 0) : 0;
       if (randValEl) randValEl.textContent = String(weights.randomness);
     };
     randEl?.addEventListener('input', syncRand);
@@ -736,11 +783,11 @@ document.addEventListener('DOMContentLoaded', async () => {
       return pairs.map(([a, b]) => [teamBySeed(region, a), teamBySeed(region, b)]);
     }
 
-    function simulateRegion(region) {
-      const r64 = playRound(firstRoundMatchups(region), metrics, weights);
-      const r32 = playRound(nextRoundFromResults(r64), metrics, weights);
-      const r16 = playRound(nextRoundFromResults(r32), metrics, weights);
-      const r8 = playRound(nextRoundFromResults(r16), metrics, weights);
+    function simulateRegion(region, metricsLocal, weightsLocal) {
+      const r64 = playRound(firstRoundMatchups(region), metricsLocal, weightsLocal);
+      const r32 = playRound(nextRoundFromResults(r64), metricsLocal, weightsLocal);
+      const r16 = playRound(nextRoundFromResults(r32), metricsLocal, weightsLocal);
+      const r8 = playRound(nextRoundFromResults(r16), metricsLocal, weightsLocal);
       const champ = r8[0]?.winner;
       return { name: region.name, rounds: [r64, r32, r16, r8], winner: champ };
     }
@@ -793,14 +840,34 @@ document.addEventListener('DOMContentLoaded', async () => {
     const btn = document.getElementById('btn-generate');
     btn?.addEventListener('click', () => {
       try {
-        const regionsSim = bracket.regions.map(simulateRegion);
+        // Rebuild active metrics and weights from current toggles and sliders
+        const currentEnabled = readEnabledFromUI();
+        saveEnabledMetrics(currentEnabled);
+        applyEnabledToUI(currentEnabled);
+        const cSet = new Set(currentEnabled);
+        const cSpecs = metricSpecs.filter(s => cSet.has(s.id));
+        const cMetrics = cSpecs.map(spec => {
+          if (spec.id === 'history') return buildHistoryTitlesMetric(stats[spec.datasetKey]);
+          if (spec.id === 'seed') return buildSeedMetric(stats[spec.datasetKey]);
+          return buildMetric(spec, stats[spec.datasetKey]);
+        });
+        const cWeights = {};
+        for (const spec of cSpecs) {
+          const el = document.getElementById(sliderIds[spec.id]);
+          cWeights[spec.id] = el ? (parseInt(el.value, 10) || 0) : 0;
+        }
+        cWeights.randomness = cSet.has('randomness')
+          ? (parseInt(document.getElementById(sliderIds.randomness)?.value, 10) || 0)
+          : 0;
+
+        const regionsSim = bracket.regions.map(region => simulateRegion(region, cMetrics, cWeights));
         const byName = Object.fromEntries(regionsSim.map(r => [r.name, r.rounds]));
         const winners = Object.fromEntries(regionsSim.map(r => [r.name, r.winner]));
         // Final Four mapping for 2025: West vs South, East vs Midwest
         const sf1 = [winners['West'], winners['South']];
         const sf2 = [winners['East'], winners['Midwest']];
-        const rFF = playRound([sf1, sf2], metrics, weights);
-        const rChamp = playRound(nextRoundFromResults(rFF), metrics, weights);
+        const rFF = playRound([sf1, sf2], cMetrics, cWeights);
+        const rChamp = playRound(nextRoundFromResults(rFF), cMetrics, cWeights);
 
         // Cache for tab renders
         window.cachedBracketData = {
