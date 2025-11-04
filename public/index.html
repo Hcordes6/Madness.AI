@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <!-- <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, max-age=0">
     <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Expires" content="0"> -->
     <title>Madness.AI</title>
-    <link rel="stylesheet" href="css/styles.css?v=2">
-    <script src="js/script.js?v=2" defer></script>
+    <link rel="stylesheet" href="css/styles.css?v=8">
+    <script src="js/script.js?v=8" defer></script>
 </head>
 
 <body>
@@ -52,45 +52,90 @@
     </section>
 
     <section id="controls">
-        <h2>Weights</h2>
+        <h2>Statistics</h2>
         <div class="sliders">
             <label>
-                Winning %
+                <span class="label-header">Winning %</span>
                 <input type="range" id="w-winPct" min="0" max="100" step="1" value="25">
                 <span class="value" data-for="w-winPct">25</span>
             </label>
             <label>
-                Scoring Defense (opp PPG)
+                <span class="label-header">
+                    Scoring Defense (opp PPG)
+                    <span class="info-icon" title="Average points allowed per game (lower is better)">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                        </svg>
+                    </span>
+                </span>
                 <input type="range" id="w-scoringDefense" min="0" max="100" step="1" value="20">
                 <span class="value" data-for="w-scoringDefense">20</span>
             </label>
             <label>
-                FG%
+                <span class="label-header">FG%</span>
                 <input type="range" id="w-fgPct" min="0" max="100" step="1" value="15">
                 <span class="value" data-for="w-fgPct">15</span>
             </label>
             <label>
-                3s per game
+                <span class="label-header">3s per game</span>
                 <input type="range" id="w-3pg" min="0" max="100" step="1" value="15">
                 <span class="value" data-for="w-3pg">15</span>
             </label>
             <label>
-                Rebounds per game
+                <span class="label-header">Rebounds per game</span>
                 <input type="range" id="w-rpg" min="0" max="100" step="1" value="15">
                 <span class="value" data-for="w-rpg">15</span>
             </label>
             <label>
-                Assist/Turnover Ratio
+                <span class="label-header">
+                    Assist/Turnover Ratio
+                    <span class="info-icon" title="Ball control efficiency (assists divided by turnovers)">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                        </svg>
+                    </span>
+                </span>
                 <input type="range" id="w-atr" min="0" max="100" step="1" value="10">
                 <span class="value" data-for="w-atr">10</span>
             </label>
             <label>
-                Historical Titles
+                <span class="label-header">
+                    Historical Titles
+                    <span class="info-icon" title="Number of past NCAA championship wins">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                        </svg>
+                    </span>
+                </span>
                 <input type="range" id="w-history" min="0" max="100" step="1" value="0">
                 <span class="value" data-for="w-history">0</span>
             </label>
             <label>
-                Randomness
+                <span class="label-header">
+                    Seeding
+                    <span class="info-icon" title="Tournament seed position (lower seed number = better team)">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                        </svg>
+                    </span>
+                </span>
+                <input type="range" id="w-seed" min="0" max="100" step="1" value="0">
+                <span class="value" data-for="w-seed">0</span>
+            </label>
+            <label>
+                <span class="label-header">
+                    Randomness
+                    <span class="info-icon" title="Unpredictability factor for upsets">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                        </svg>
+                    </span>
+                </span>
                 <input type="range" id="w-randomness" min="0" max="100" step="1" value="0">
                 <span class="value" data-for="w-randomness">0</span>
             </label>
