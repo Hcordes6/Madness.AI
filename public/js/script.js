@@ -31,6 +31,7 @@ const STAT_FILES = {
   turnoversPerGame: 'turnovers-per-game',
   winningPercentage: 'winning-percentage',
   historicalWinners: 'historical-winners',
+  bracket: 'bracket-2025',
 };
 
 async function loadStat(key) {
