@@ -194,16 +194,9 @@ input[type="range"] { width: 100%; }
 		pointer-events: none;
 			z-index: 1;
 	}
-	#results .tab-content::before {
-		left: 0;
-			background: linear-gradient(90deg, var(--bg) 0%, rgba(247, 249, 252, 0) 100%);
-			opacity: 0; /* hidden until user scrolls */
-			transition: opacity 0.15s ease;
-	}
-	#results .tab-content::after {
-		right: 0;
-		background: linear-gradient(270deg, var(--bg) 0%, rgba(247, 249, 252, 0) 100%);
-	}
+	/* Remove left/right fade overlays — they interfered with matchup edge spacing on mobile. */
+	#results .tab-content::before,
+	#results .tab-content::after { display: none; }
 		#results .tab-content.has-left-scroll::before { opacity: 1; }
 	/* Make rounds a horizontally scrollable series of columns */
 	.bracket {
