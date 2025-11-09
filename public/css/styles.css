@@ -24,10 +24,29 @@ header p { margin: 6px 0 0 0; color: var(--muted); font-size: 14px; }
 
 #controls { padding: 16px 20px; }
 #controls h2 { margin: 0 0 12px; font-size: 16px; }
-.metric-toggles { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; margin-bottom: 10px; }
-.metric-toggles .toggle-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 6px 12px; margin-top: 6px; }
-.metric-toggles .toggle-item { color: var(--text); font-size: 13px; display: flex; align-items: center; gap: 6px; }
-.sliders { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+
+/* Collapsible menus */
+.collapsible-menu { background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 12px; overflow: hidden; }
+.collapsible-menu > summary { list-style: none; display: flex; align-items: center; justify-content: space-between; padding: 10px 12px; cursor: pointer; user-select: none; }
+.collapsible-menu > summary::-webkit-details-marker { display: none; }
+.collapsible-menu .menu-title { font-weight: 700; color: #0b2e6b; font-size: 14px; }
+.collapsible-menu .caret { transition: transform 0.2s ease; color: var(--muted); }
+.collapsible-menu[open] .caret { transform: rotate(180deg); }
+.collapsible-menu .menu-body { padding: 10px 12px 12px; border-top: 1px solid var(--border); background: #fbfdff; }
+
+/* Toggles grid inside collapsible */
+.toggle-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 6px 12px; }
+.toggle-item { color: var(--text); font-size: 13px; display: flex; align-items: center; gap: 6px; }
+
+/* Slider categories */
+.slider-category { margin-bottom: 14px; }
+.slider-category h3 { margin: 0 0 8px; font-size: 13px; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px; }
+.sliders { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 260px)); gap: 12px; justify-content: start; }
+@media (max-width: 600px) {
+	.sliders { grid-template-columns: 1fr; }
+}
+/* Ensure the menu body spans full width of the menu so the slider container fills it while items align left */
+.collapsible-menu .menu-body { max-width: none; margin: 0; width: 100%; }
 label { display: flex; flex-direction: column; gap: 6px; background: var(--card); padding: 10px 12px; border-radius: 8px; border: 1px solid var(--border); position: relative; }
 .label-header { display: block; }
 input[type="range"] { width: 100%; }
@@ -154,6 +173,125 @@ input[type="range"] { width: 100%; }
 
 /* Final Four layout: two semis + final */
 .final4 { display: grid; grid-template-columns: repeat(3, minmax(220px, 1fr)); gap: 16px; }
+
+/* Mobile/tablet: horizontal scroll with snap for easier per-round viewing */
+@media (max-width: 1299px) {
+	#results .tab-content {
+		position: relative;
+		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+		scroll-snap-type: x mandatory;
+		padding-bottom: 10px; /* space for scrollbar */
+	}
+	/* Fade edges for visual affordance */
+	#results .tab-content::before,
+	#results .tab-content::after {
+		content: '';
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		width: 24px;
+		pointer-events: none;
+			z-index: 1;
+	}
+	#results .tab-content::before {
+		left: 0;
+			background: linear-gradient(90deg, var(--bg) 0%, rgba(247, 249, 252, 0) 100%);
+			opacity: 0; /* hidden until user scrolls */
+			transition: opacity 0.15s ease;
+	}
+	#results .tab-content::after {
+		right: 0;
+		background: linear-gradient(270deg, var(--bg) 0%, rgba(247, 249, 252, 0) 100%);
+	}
+		#results .tab-content.has-left-scroll::before { opacity: 1; }
+	/* Make rounds a horizontally scrollable series of columns */
+	.bracket {
+		display: inline-grid; /* shrink-to-content width */
+		grid-auto-flow: column;
+		grid-template-columns: repeat(4, minmax(260px, 260px));
+		gap: 12px;
+	}
+	.round {
+		min-width: 260px;
+		scroll-snap-align: start;
+	}
+	/* Ensure Final Four fits without crowding; allow sideways scrolling if needed */
+	.final4 {
+		width: max-content;
+	}
+	/* Subtle, nicer horizontal scrollbar */
+	#results .tab-content::-webkit-scrollbar { height: 8px; }
+	#results .tab-content::-webkit-scrollbar-track { background: transparent; }
+	#results .tab-content::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 8px; }
+}
+
+/* Full desktop bracket */
+.full-bracket { 
+	display: none; 
+	gap: 12px; 
+	--mu-h: 64px; 
+	--gap64: 8px; 
+	/* Derived gaps to keep round centers aligned between preceding matchups */
+	--gap32: calc(var(--mu-h) + (2 * var(--gap64)));       /* between Round of 32 games */
+	--gap16: calc((3 * var(--mu-h)) + (4 * var(--gap64))); /* between Sweet 16 games */
+	--gap8:  calc((7 * var(--mu-h)) + (8 * var(--gap64))); /* between Elite 8 games */
+}
+.full-bracket-grid { display: grid; grid-template-columns: repeat(9, minmax(130px, 1fr)); grid-template-rows: 1fr 1fr; column-gap: 10px; row-gap: 40px; align-items: stretch; }
+.full-bracket-grid { grid-template-areas:
+	"south-1 south-2 south-3 south-4 center east-4 east-3 east-2 east-1"
+	"west-1  west-2  west-3  west-4  center midwest-4 midwest-3 midwest-2 midwest-1"; }
+.region-block { display: contents; }
+.region-south .col-1 { grid-area: south-1; }
+.region-south .col-2 { grid-area: south-2; }
+.region-south .col-3 { grid-area: south-3; }
+.region-south .col-4 { grid-area: south-4; }
+.region-west .col-1 { grid-area: west-1; }
+.region-west .col-2 { grid-area: west-2; }
+.region-west .col-3 { grid-area: west-3; }
+.region-west .col-4 { grid-area: west-4; }
+.region-east .col-1 { grid-area: east-1; }
+.region-east .col-2 { grid-area: east-2; }
+.region-east .col-3 { grid-area: east-3; }
+.region-east .col-4 { grid-area: east-4; }
+.region-midwest .col-1 { grid-area: midwest-1; }
+.region-midwest .col-2 { grid-area: midwest-2; }
+.region-midwest .col-3 { grid-area: midwest-3; }
+.region-midwest .col-4 { grid-area: midwest-4; }
+.center-col { grid-area: center; display: flex; flex-direction: column; justify-content: center; gap: 12px; }
+/* center-col rounds use natural height */
+.full-bracket .round { background: transparent; border: none; padding: 0; }
+.full-bracket .round h3 { margin: 0 0 6px; font-size: 13px; color: var(--muted); text-align: center; }
+/* Hide per-round labels on lower quadrants to reduce clutter */
+.region-bottom .round h3 { display: none; }
+.full-bracket .games { display: flex; flex-direction: column; gap: var(--gap64); position: relative; height: 100%; }
+/* Vertical alignment towards center: top regions align down, bottom regions align up */
+.region-top .games { justify-content: flex-end; }
+.region-bottom .games { justify-content: flex-start; }
+.full-bracket .matchup { position: relative; padding: 6px 8px; background: #fcfdff; border: 1px solid var(--border); border-radius: 6px; width: 100%; height: 64px; display: grid; grid-template-rows: 1fr 1fr; align-items: center; }
+/* Increase vertical spacing from Round of 32 onward */
+.full-bracket .col-1 .games { gap: var(--gap64); }
+.full-bracket .col-2 .games { gap: var(--gap32); }
+.full-bracket .col-3 .games { gap: var(--gap16); }
+.full-bracket .col-4 .games { gap: var(--gap8); }
+
+/* Offset columns so each subsequent round is centered between previous matchups */
+/* Round of 32 centered between each pair of Round of 64 */
+.region-top .col-2 .games { padding-bottom: calc((var(--mu-h) + var(--gap64)) / 2); }
+.region-bottom .col-2 .games { padding-top: calc((var(--mu-h) + var(--gap64)) / 2); }
+/* Sweet 16 centered between each block of four from Round of 64 */
+.region-top .col-3 .games { padding-bottom: calc((1.5 * var(--mu-h)) + (1.5 * var(--gap64))); }
+.region-bottom .col-3 .games { padding-top: calc((1.5 * var(--mu-h)) + (1.5 * var(--gap64))); }
+/* Elite 8 centered between each block of eight from Round of 64 */
+.region-top .col-4 .games { padding-bottom: calc((3.5 * var(--mu-h)) + (3.5 * var(--gap64))); }
+.region-bottom .col-4 .games { padding-top: calc((3.5 * var(--mu-h)) + (3.5 * var(--gap64))); }
+/* Removed connector lines for a cleaner layout */
+
+/* Show full bracket on wide screens; hide tabs view */
+@media (min-width: 1300px) {
+	#tabs, #tab-content { display: none; }
+	.full-bracket { display: block; }
+}
 
 /* Overview card styles (re-added) */
 #overview { padding: 14px 20px; }

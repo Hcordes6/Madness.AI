@@ -410,6 +410,117 @@ function renderFinalFourTab(regions, rFF, rChamp) {
   content.appendChild(grid);
 }
 
+// Render full desktop bracket (all regions + final four) into #full-bracket
+function renderFullBracket(cached) {
+  const host = document.getElementById('full-bracket');
+  if (!host) return;
+  host.innerHTML = '';
+  if (!cached?.regions || !cached?.regionalRounds) return;
+
+  const grid = document.createElement('div');
+  grid.className = 'full-bracket-grid';
+
+  // Helper to build a region block columns
+  function buildRegionBlock(regionName, sideClass, verticalClass) {
+    const region = cached.regions.find(r => r.name === regionName);
+    if (!region) return;
+    const rounds = cached.regionalRounds[regionName]; // [r64,r32,r16,r8]
+    const wrapper = document.createElement('div');
+    wrapper.className = `region-block region-${regionName.toLowerCase()} ${sideClass} ${verticalClass}`;
+    // Each round becomes a column
+    rounds.forEach((round, idx) => {
+      const col = document.createElement('div');
+      col.className = `round col col-${idx+1}`;
+      // Only show column labels for top quadrants
+      if (verticalClass === 'region-top') {
+        const h = document.createElement('h3');
+        h.textContent = idx === 0 ? regionName : idx === 1 ? 'Round of 32' : idx === 2 ? 'Sweet 16' : 'Elite 8';
+        col.appendChild(h);
+      }
+      const games = document.createElement('div');
+      games.className = 'games';
+      round.forEach(m => {
+        const card = document.createElement('div');
+        card.className = 'matchup';
+        const rowA = document.createElement('div');
+        rowA.className = 'team ' + (m.winner === m.a ? 'winner' : 'loser');
+        rowA.innerHTML = `<span>${labelSeedTeam(region, m.a)}</span><span>${m.sa}</span>`;
+        const rowB = document.createElement('div');
+        rowB.className = 'team ' + (m.winner === m.b ? 'winner' : 'loser');
+        rowB.innerHTML = `<span>${labelSeedTeam(region, m.b)}</span><span>${m.sb}</span>`;
+        card.appendChild(rowA);
+        card.appendChild(rowB);
+        games.appendChild(card);
+      });
+      col.appendChild(games);
+      wrapper.appendChild(col);
+    });
+    grid.appendChild(wrapper);
+  }
+
+  // Left side regions (South top, West bottom)
+  buildRegionBlock('South', 'left-side', 'region-top');
+  buildRegionBlock('West', 'left-side', 'region-bottom');
+  // Right side regions (East top, Midwest bottom)
+  buildRegionBlock('East', 'right-side', 'region-top');
+  buildRegionBlock('Midwest', 'right-side', 'region-bottom');
+
+  // Center column: Final Four + Championship
+  if (cached.finalFour && cached.championship) {
+    const center = document.createElement('div');
+    center.className = 'center-col';
+    // Final Four
+    const ff = document.createElement('div');
+    ff.className = 'round';
+    const hff = document.createElement('h3');
+    hff.textContent = 'Final Four';
+    ff.appendChild(hff);
+    const gamesFF = document.createElement('div');
+    gamesFF.className = 'games';
+    cached.finalFour.forEach(m => {
+      const card = document.createElement('div');
+      card.className = 'matchup';
+      const rowA = document.createElement('div');
+      rowA.className = 'team ' + (m.winner === m.a ? 'winner' : 'loser');
+      rowA.innerHTML = `<span>${m.a}</span><span>${m.sa}</span>`;
+      const rowB = document.createElement('div');
+      rowB.className = 'team ' + (m.winner === m.b ? 'winner' : 'loser');
+      rowB.innerHTML = `<span>${m.b}</span><span>${m.sb}</span>`;
+      card.appendChild(rowA);
+      card.appendChild(rowB);
+      gamesFF.appendChild(card);
+    });
+    ff.appendChild(gamesFF);
+    center.appendChild(ff);
+
+    const champRound = document.createElement('div');
+    champRound.className = 'round';
+    const hch = document.createElement('h3');
+    hch.textContent = 'Championship';
+    champRound.appendChild(hch);
+    const gamesCh = document.createElement('div');
+    gamesCh.className = 'games';
+    cached.championship.forEach(m => {
+      const card = document.createElement('div');
+      card.className = 'matchup';
+      const rowA = document.createElement('div');
+      rowA.className = 'team ' + (m.winner === m.a ? 'winner' : 'loser');
+      rowA.innerHTML = `<span>${m.a}</span><span>${m.sa}</span>`;
+      const rowB = document.createElement('div');
+      rowB.className = 'team ' + (m.winner === m.b ? 'winner' : 'loser');
+      rowB.innerHTML = `<span>${m.b}</span><span>${m.sb}</span>`;
+      card.appendChild(rowA);
+      card.appendChild(rowB);
+      gamesCh.appendChild(card);
+    });
+    champRound.appendChild(gamesCh);
+    center.appendChild(champRound);
+    grid.appendChild(center);
+  }
+
+  host.appendChild(grid);
+}
+
 // --- Name normalization & alias helpers ---
 function normalizeName(s) {
   if (!s) return '';
@@ -581,6 +692,28 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (cb) cb.checked = set.has(id);
       }
     }
+
+    // Persist collapsible open/closed state
+    const collapseStateKey = 'madness_collapse_state_v1';
+    function loadCollapseState() {
+      try { return JSON.parse(localStorage.getItem(collapseStateKey)) || {}; } catch { return {}; }
+    }
+    function saveCollapseState(state) {
+      try { localStorage.setItem(collapseStateKey, JSON.stringify(state)); } catch {}
+    }
+    const collapseState = loadCollapseState();
+    const menus = [
+      { id: 'menu-metrics', el: document.getElementById('menu-metrics') },
+      { id: 'menu-sliders', el: document.getElementById('menu-sliders') },
+    ];
+    menus.forEach(m => {
+      if (!m.el) return;
+      if (collapseState[m.id] === false) m.el.removeAttribute('open');
+      m.el.addEventListener('toggle', () => {
+        collapseState[m.id] = m.el.open;
+        saveCollapseState(collapseState);
+      });
+    });
     function readEnabledFromUI() {
       const out = [];
       for (const id of allMetricIds) {
@@ -810,6 +943,8 @@ document.addEventListener('DOMContentLoaded', async () => {
       el.addEventListener('click', () => {
         activateTab(el.dataset.tab);
         try { localStorage.setItem('madness_lastTab_v1', el.dataset.tab); } catch(e){}
+        // refresh scroll affordance after content swap
+        updateTabScrollAffordance();
       });
     });
 
@@ -831,6 +966,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         // ensure the tab exists; fall back to first tab if not
         const tabExists = Array.from(tabs).some(t => t.dataset.tab === last);
         activateTab(tabExists ? last : (tabs[0]?.dataset.tab || 'South'));
+        // Render full bracket (desktop view)
+        renderFullBracket(parsed);
         setIndicatorSaved();
       }
     } catch (e) {
@@ -886,12 +1023,27 @@ document.addEventListener('DOMContentLoaded', async () => {
         const champEl = document.getElementById('champion');
         if (champEl && rChamp?.[0]) champEl.textContent = `Champion: ${rChamp[0].winner}`;
 
-        // Show default tab
+        // Show default tab & full bracket
         activateTab('South');
+        renderFullBracket(window.cachedBracketData);
+        updateTabScrollAffordance();
       } catch (e) {
         console.error('Bracket generation failed:', e);
       }
     });
+
+    // Mobile: show left gradient only after scroll begins
+    function updateTabScrollAffordance() {
+      const tc = document.getElementById('tab-content');
+      if (!tc) return;
+      if (tc.scrollLeft > 2) tc.classList.add('has-left-scroll'); else tc.classList.remove('has-left-scroll');
+    }
+    const tc = document.getElementById('tab-content');
+    if (tc) {
+      tc.addEventListener('scroll', updateTabScrollAffordance, { passive: true });
+      // Run once on load/restore
+      setTimeout(updateTabScrollAffordance, 0);
+    }
 
 
   } catch (err) {

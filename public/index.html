@@ -8,8 +8,8 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0"> -->
     <title>Madness.AI</title>
-    <link rel="stylesheet" href="css/styles.css?v=8">
-    <script src="js/script.js?v=8" defer></script>
+    <link rel="stylesheet" href="css/styles.css?v=10">
+    <script src="js/script.js?v=10" defer></script>
 </head>
 
 <body>
@@ -53,107 +53,151 @@
 
     <section id="controls">
         <h2>Statistics</h2>
-        <div id="metric-toggles" class="metric-toggles">
-            <strong>Select metrics to use:</strong>
-            <div class="toggle-grid">
-                <label class="toggle-item"><input type="checkbox" id="toggle-winPct" checked> Winning %</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-scoringDefense" checked> Scoring Defense</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-fgPct" checked> FG%</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-threePG" checked> 3s per game</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-rpg" checked> Rebounds per game</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-atr" checked> Assist/Turnover Ratio</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-history" checked> Historical Titles</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-seed" checked> Seeding</label>
-                <label class="toggle-item"><input type="checkbox" id="toggle-randomness" checked> Randomness</label>
+
+        <!-- Collapsible: Select metrics to use -->
+        <details id="menu-metrics" class="collapsible-menu" open>
+            <summary>
+                <span class="menu-title">Select metrics to use</span>
+                <span class="caret" aria-hidden="true">▾</span>
+            </summary>
+            <div class="menu-body">
+                <div class="toggle-grid">
+                    <label class="toggle-item"><input type="checkbox" id="toggle-winPct" checked> Winning %</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-scoringDefense" checked> Scoring Defense</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-fgPct" checked> FG%</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-threePG" checked> 3s per game</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-rpg" checked> Rebounds per game</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-atr" checked> Assist/Turnover Ratio</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-history" checked> Historical Titles</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-seed" checked> Seeding</label>
+                    <label class="toggle-item"><input type="checkbox" id="toggle-randomness" checked> Randomness</label>
+                </div>
             </div>
-        </div>
-        <div class="sliders">
-            <label data-metric="winPct">
-                <span class="label-header">Winning %</span>
-                <input type="range" id="w-winPct" min="0" max="100" step="1" value="25">
-                <span class="value" data-for="w-winPct">25</span>
-            </label>
-            <label data-metric="scoringDefense">
-                <span class="label-header">
-                    Scoring Defense (opp PPG)
-                    <span class="info-icon" title="Average points allowed per game (lower is better)">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
-                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-                        </svg>
-                    </span>
-                </span>
-                <input type="range" id="w-scoringDefense" min="0" max="100" step="1" value="20">
-                <span class="value" data-for="w-scoringDefense">20</span>
-            </label>
-            <label data-metric="fgPct">
-                <span class="label-header">FG%</span>
-                <input type="range" id="w-fgPct" min="0" max="100" step="1" value="15">
-                <span class="value" data-for="w-fgPct">15</span>
-            </label>
-            <label data-metric="threePG">
-                <span class="label-header">3s per game</span>
-                <input type="range" id="w-3pg" min="0" max="100" step="1" value="15">
-                <span class="value" data-for="w-3pg">15</span>
-            </label>
-            <label data-metric="rpg">
-                <span class="label-header">Rebounds per game</span>
-                <input type="range" id="w-rpg" min="0" max="100" step="1" value="15">
-                <span class="value" data-for="w-rpg">15</span>
-            </label>
-            <label data-metric="atr">
-                <span class="label-header">
-                    Assist/Turnover Ratio
-                    <span class="info-icon" title="Ball control efficiency (assists divided by turnovers)">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
-                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-                        </svg>
-                    </span>
-                </span>
-                <input type="range" id="w-atr" min="0" max="100" step="1" value="10">
-                <span class="value" data-for="w-atr">10</span>
-            </label>
-            <label data-metric="history">
-                <span class="label-header">
-                    Historical Titles
-                    <span class="info-icon" title="Number of past NCAA championship wins">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
-                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-                        </svg>
-                    </span>
-                </span>
-                <input type="range" id="w-history" min="0" max="100" step="1" value="0">
-                <span class="value" data-for="w-history">0</span>
-            </label>
-            <label data-metric="seed">
-                <span class="label-header">
-                    Seeding
-                    <span class="info-icon" title="Tournament seed position (lower seed number = better team)">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
-                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-                        </svg>
-                    </span>
-                </span>
-                <input type="range" id="w-seed" min="0" max="100" step="1" value="0">
-                <span class="value" data-for="w-seed">0</span>
-            </label>
-            <label data-metric="randomness">
-                <span class="label-header">
-                    Randomness
-                    <span class="info-icon" title="Unpredictability factor for upsets">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
-                            <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-                        </svg>
-                    </span>
-                </span>
-                <input type="range" id="w-randomness" min="0" max="100" step="1" value="0">
-                <span class="value" data-for="w-randomness">0</span>
-            </label>
-        </div>
+        </details>
+
+        <!-- Collapsible: Adjust metric weights (grouped categories) -->
+        <details id="menu-sliders" class="collapsible-menu" open>
+            <summary>
+                <span class="menu-title">Adjust metric weights</span>
+                <span class="caret" aria-hidden="true">▾</span>
+            </summary>
+            <div class="menu-body">
+                <div class="slider-category">
+                    <h3>Results & Context</h3>
+                    <div class="sliders">
+                        <label data-metric="winPct">
+                            <span class="label-header">Winning %</span>
+                            <input type="range" id="w-winPct" min="0" max="100" step="1" value="25">
+                            <span class="value" data-for="w-winPct">25</span>
+                        </label>
+                        <label data-metric="history">
+                            <span class="label-header">
+                                Historical Titles
+                                <span class="info-icon" title="Number of past NCAA championship wins">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                                        <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </span>
+                            </span>
+                            <input type="range" id="w-history" min="0" max="100" step="1" value="0">
+                            <span class="value" data-for="w-history">0</span>
+                        </label>
+                        <label data-metric="seed">
+                            <span class="label-header">
+                                Seeding
+                                <span class="info-icon" title="Tournament seed position (lower seed number = better team)">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                                        <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </span>
+                            </span>
+                            <input type="range" id="w-seed" min="0" max="100" step="1" value="0">
+                            <span class="value" data-for="w-seed">0</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="slider-category">
+                    <h3>Shooting</h3>
+                    <div class="sliders">
+                        <label data-metric="fgPct">
+                            <span class="label-header">FG%</span>
+                            <input type="range" id="w-fgPct" min="0" max="100" step="1" value="15">
+                            <span class="value" data-for="w-fgPct">15</span>
+                        </label>
+                        <label data-metric="threePG">
+                            <span class="label-header">3s per game</span>
+                            <input type="range" id="w-3pg" min="0" max="100" step="1" value="15">
+                            <span class="value" data-for="w-3pg">15</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="slider-category">
+                    <h3>Defense & Boards</h3>
+                    <div class="sliders">
+                        <label data-metric="scoringDefense">
+                            <span class="label-header">
+                                Scoring Defense (opp PPG)
+                                <span class="info-icon" title="Average points allowed per game (lower is better)">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                                        <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </span>
+                            </span>
+                            <input type="range" id="w-scoringDefense" min="0" max="100" step="1" value="20">
+                            <span class="value" data-for="w-scoringDefense">20</span>
+                        </label>
+                        <label data-metric="rpg">
+                            <span class="label-header">Rebounds per game</span>
+                            <input type="range" id="w-rpg" min="0" max="100" step="1" value="15">
+                            <span class="value" data-for="w-rpg">15</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="slider-category">
+                    <h3>Ball Control</h3>
+                    <div class="sliders">
+                        <label data-metric="atr">
+                            <span class="label-header">
+                                Assist/Turnover Ratio
+                                <span class="info-icon" title="Ball control efficiency (assists divided by turnovers)">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                                        <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </span>
+                            </span>
+                            <input type="range" id="w-atr" min="0" max="100" step="1" value="10">
+                            <span class="value" data-for="w-atr">10</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="slider-category">
+                    <h3>Simulation</h3>
+                    <div class="sliders">
+                        <label data-metric="randomness">
+                            <span class="label-header">
+                                Randomness
+                                <span class="info-icon" title="Unpredictability factor for upsets">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-width="1.5"/>
+                                        <path d="M8 7V11M8 5V5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </span>
+                            </span>
+                            <input type="range" id="w-randomness" min="0" max="100" step="1" value="0">
+                            <span class="value" data-for="w-randomness">0</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </details>
         <div class="actions">
             <button id="btn-generate">Generate Bracket</button>
             <span id="save-indicator" class="save-indicator" aria-live="polite">Saved</span>
@@ -171,6 +215,8 @@
             <button class="tab" data-tab="Final Four">Final Four</button>
         </nav>
         <div id="tab-content" class="tab-content"></div>
+        <!-- Full desktop bracket container (shown on large screens) -->
+        <div id="full-bracket" class="full-bracket" aria-hidden="true"></div>
         <div id="champion" class="champion"></div>
     </section>
 
