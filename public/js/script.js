@@ -491,12 +491,14 @@ function renderFullBracket(cached) {
     cached.finalFour.forEach(m => {
       const card = document.createElement('div');
       card.className = 'matchup';
+      const aSeed = seedForTeam(cached.regions, m.a);
+      const bSeed = seedForTeam(cached.regions, m.b);
       const rowA = document.createElement('div');
       rowA.className = 'team ' + (m.winner === m.a ? 'winner' : 'loser');
-      rowA.innerHTML = `<span>${m.a}</span><span>${m.sa}</span>`;
+      rowA.innerHTML = `<span>(${aSeed.seed}) ${m.a}</span><span>${m.sa}</span>`;
       const rowB = document.createElement('div');
       rowB.className = 'team ' + (m.winner === m.b ? 'winner' : 'loser');
-      rowB.innerHTML = `<span>${m.b}</span><span>${m.sb}</span>`;
+      rowB.innerHTML = `<span>(${bSeed.seed}) ${m.b}</span><span>${m.sb}</span>`;
       card.appendChild(rowA);
       card.appendChild(rowB);
       ffGames.appendChild(card);
@@ -511,12 +513,14 @@ function renderFullBracket(cached) {
     cached.championship.forEach(m => {
       const card = document.createElement('div');
       card.className = 'matchup';
+      const aSeed = seedForTeam(cached.regions, m.a);
+      const bSeed = seedForTeam(cached.regions, m.b);
       const rowA = document.createElement('div');
       rowA.className = 'team ' + (m.winner === m.a ? 'winner' : 'loser');
-      rowA.innerHTML = `<span>${m.a}</span><span>${m.sa}</span>`;
+      rowA.innerHTML = `<span>(${aSeed.seed}) ${m.a}</span><span>${m.sa}</span>`;
       const rowB = document.createElement('div');
       rowB.className = 'team ' + (m.winner === m.b ? 'winner' : 'loser');
-      rowB.innerHTML = `<span>${m.b}</span><span>${m.sb}</span>`;
+      rowB.innerHTML = `<span>(${bSeed.seed}) ${m.b}</span><span>${m.sb}</span>`;
       card.appendChild(rowA);
       card.appendChild(rowB);
       champGames.appendChild(card);
