@@ -266,6 +266,31 @@ input[type="range"] { width: 100%; }
 .full-bracket .round h3 { margin: 0 0 6px; font-size: 13px; color: var(--muted); text-align: center; }
 /* Hide per-round labels on lower quadrants to reduce clutter */
 .region-bottom .round h3 { display: none; }
+/* Region name headers (typographic heading above each quadrant) */
+.region-name-header {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: -50px; /* place header above the round label without affecting layout */
+	margin: 0;
+	font-size: 15px;
+	font-weight: 800;
+	color: #0b2e6b;
+	text-align: center;
+	letter-spacing: 0.3px;
+	pointer-events: none;
+}
+/* Lower quadrant headers should sit lower visually (more top spacing) */
+.region-bottom .region-name-header {
+	top: 18px; /* push header down inside the column visually */
+}
+
+/* Ensure round columns are positioning contexts for the absolute headers */
+.full-bracket .round { position: relative; }
+
+/* Remove quadrant labels entirely for bracket full view */
+.region-name-header { display: none !important; }
+.region-bottom .region-name-header { display: none !important; }
 .full-bracket .games { display: flex; flex-direction: column; gap: var(--gap64); position: relative; height: 100%; }
 /* Vertical alignment towards center: top regions align down, bottom regions align up */
 .region-top .games { justify-content: flex-end; }

@@ -36,7 +36,7 @@ const STAT_FILES = {
 
 async function loadStat(key) {
   const file = STAT_FILES[key] ?? key; // allows passing a key or direct filename base
-  const res = await fetch(`data/${file}.json`, { cache: 'no-cache' });
+  const res = await fetch(`public/data/${file}.json`, { cache: 'no-cache' });
   if (!res.ok) throw new Error(`Failed to load ${file}.json: ${res.status}`);
   return res.json();
 }
@@ -431,11 +431,18 @@ function renderFullBracket(cached) {
     rounds.forEach((round, idx) => {
       const col = document.createElement('div');
       col.className = `round col col-${idx+1}`;
-      // Only show column labels for top quadrants
+      // Show round labels (top quadrants only to reduce clutter)
       if (verticalClass === 'region-top') {
         const h = document.createElement('h3');
-        h.textContent = idx === 0 ? regionName : idx === 1 ? 'Round of 32' : idx === 2 ? 'Sweet 16' : 'Elite 8';
+        h.textContent = idx === 0 ? 'Round of 64' : idx === 1 ? 'Round of 32' : idx === 2 ? 'Sweet 16' : 'Elite 8';
         col.appendChild(h);
+      }
+      // Region name header always on first column (both top & bottom), and above round label in top quadrants
+      if (idx === 0) {
+        const regionHdr = document.createElement('div');
+        regionHdr.className = 'region-name-header';
+        regionHdr.textContent = regionName;
+        col.prepend(regionHdr);
       }
       const games = document.createElement('div');
       games.className = 'games';
@@ -884,8 +891,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Overview edits are not persisted to storage; keep the default copy always visible.
 
-    // Load official 2025 bracket (64-team main draw)
-    const bracketRes = await fetch('data/bracket-2025.json', { cache: 'no-cache' });
+  // Load official 2025 bracket (64-team main draw)
+  const bracketRes = await fetch('public/data/bracket-2025.json', { cache: 'no-cache' });
     const bracket = await bracketRes.json();
 
     // DEBUG: For each bracket team, show resolved history count and alias path
