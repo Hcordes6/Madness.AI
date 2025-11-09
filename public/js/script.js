@@ -1058,6 +1058,89 @@ document.addEventListener('DOMContentLoaded', async () => {
       setTimeout(updateTabScrollAffordance, 0);
     }
 
+    // Mobile: show info popovers when tapping the info icon
+    (function wireInfoPopovers(){
+      const icons = Array.from(document.querySelectorAll('.info-icon'));
+      if (!icons.length) return;
+
+      let activePopover = null;
+      let activeOpener = null; // track which icon opened the popover
+
+      function closePopover() {
+        if (activePopover) {
+          activePopover.remove();
+          activePopover = null;
+          activeOpener = null;
+          document.removeEventListener('click', onDocClick);
+          document.removeEventListener('keydown', onKeyDown);
+        }
+      }
+
+      function onDocClick(e) {
+        if (!activePopover) return;
+        if (activePopover.contains(e.target)) return; // clicked inside popover
+        // clicking elsewhere (not the opener icon) closes the popover
+        closePopover();
+      }
+
+      function onKeyDown(e) {
+        if (e.key === 'Escape') closePopover();
+      }
+
+      icons.forEach(ic => {
+        const rawText = ic.getAttribute('title') || ic.dataset.info || '';
+        if (!rawText) return;
+        // remove native title to avoid default tooltip on longpress
+        ic.removeAttribute('title');
+
+        // Remove any parenthetical descriptions, e.g. "Stat (description)" -> "Stat"
+        const infoText = rawText.replace(/\s*\([^)]*\)\s*/g, '').trim();
+        if (!infoText) return;
+
+        ic.addEventListener('click', (ev) => {
+          ev.preventDefault();
+          ev.stopPropagation();
+          // If same icon clicked again, toggle off
+          if (activePopover && activeOpener === ic) { closePopover(); return; }
+          // If another popover open, close it first then open new one
+          if (activePopover) closePopover();
+
+          const rect = ic.getBoundingClientRect();
+          const pop = document.createElement('div');
+          pop.className = 'info-popover';
+          pop.textContent = infoText;
+          document.body.appendChild(pop);
+          // position: try above the icon, otherwise below
+          const pw = pop.offsetWidth;
+          const ph = pop.offsetHeight;
+          // rect is viewport-relative; convert to document coordinates before positioning
+          const docLeft = rect.left + window.scrollX;
+          const docTop = rect.top + window.scrollY;
+          let left = Math.max(8 + window.scrollX, docLeft + (rect.width/2) - (pw/2));
+          // ensure within viewport/document width
+          const maxLeft = window.scrollX + window.innerWidth - pw - 8;
+          left = Math.min(left, maxLeft);
+          let top = docTop - ph - 12;
+          if (top < window.scrollY + 8) top = docTop + rect.height + 12;
+          pop.style.left = left + 'px';
+          pop.style.top = top + 'px';
+          // Determine whether pop was placed below the icon
+          const placedBelow = (top > docTop);
+          if (placedBelow) pop.classList.add('below'); else pop.classList.remove('below');
+          // compute arrow position (centered on icon) relative to pop
+          const arrowCenter = docLeft + (rect.width / 2);
+          let arrowLeft = Math.round(arrowCenter - left - 5); // center - half arrow
+          // clamp within pop width
+          arrowLeft = Math.max(8, Math.min(arrowLeft, pw - 14));
+          pop.style.setProperty('--arrow-left', arrowLeft + 'px');
+          activePopover = pop;
+          activeOpener = ic;
+          // listen for outside click or ESC
+          setTimeout(() => { document.addEventListener('click', onDocClick); document.addEventListener('keydown', onKeyDown); }, 0);
+        });
+      });
+    })();
+
 
   } catch (err) {
     console.error('Failed to load stats:', err);

@@ -71,6 +71,34 @@ input[type="range"] { width: 100%; }
 .info-icon svg {
 	display: block;
 }
+
+/* Popover for info icons on mobile/touch */
+.info-popover {
+	position: absolute;
+	background: var(--card);
+	border: 1px solid var(--border);
+	border-radius: 8px;
+	padding: 10px 12px;
+	box-shadow: 0 6px 18px rgba(16,24,40,0.12);
+	color: var(--text);
+	font-size: 13px;
+	max-width: 320px;
+	z-index: 1200;
+}
+.info-popover:after {
+	content: '';
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background: var(--card);
+	border-left: 1px solid var(--border);
+	border-top: 1px solid var(--border);
+	transform: rotate(45deg);
+	left: var(--arrow-left, 16px);
+	/* default: arrow at bottom pointing up toward icon */
+	bottom: -6px;
+}
+.info-popover.below:after { top: -6px; bottom: auto; }
 .actions { margin-top: 12px; display: flex; align-items: center; gap: 12px; }
 #btn-generate { background: var(--accent); color: #ffffff; border: none; padding: 10px 14px; border-radius: 8px; font-weight: 700; cursor: pointer; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
 .note { color: var(--muted); }
