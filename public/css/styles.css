@@ -227,15 +227,17 @@ input[type="range"] { width: 100%; }
 }
 
 /* Full desktop bracket */
+
 .full-bracket { 
 	display: none; 
 	gap: 12px; 
-	--mu-h: 64px; 
+	--mu-h: 80px; 
 	--gap64: 8px; 
 	/* Derived gaps to keep round centers aligned between preceding matchups */
 	--gap32: calc(var(--mu-h) + (2 * var(--gap64)));       /* between Round of 32 games */
 	--gap16: calc((3 * var(--mu-h)) + (4 * var(--gap64))); /* between Sweet 16 games */
 	--gap8:  calc((7 * var(--mu-h)) + (8 * var(--gap64))); /* between Elite 8 games */
+    position: relative; /* anchor for finals overlay */
 }
 .full-bracket-grid { display: grid; grid-template-columns: repeat(9, minmax(130px, 1fr)); grid-template-rows: 1fr 1fr; column-gap: 10px; row-gap: 40px; align-items: stretch; }
 .full-bracket-grid { grid-template-areas:
@@ -268,7 +270,7 @@ input[type="range"] { width: 100%; }
 /* Vertical alignment towards center: top regions align down, bottom regions align up */
 .region-top .games { justify-content: flex-end; }
 .region-bottom .games { justify-content: flex-start; }
-.full-bracket .matchup { position: relative; padding: 6px 8px; background: #fcfdff; border: 1px solid var(--border); border-radius: 6px; width: 100%; height: 64px; display: grid; grid-template-rows: 1fr 1fr; align-items: center; }
+.full-bracket .matchup { position: relative; padding: 6px 8px; background: #fcfdff; border: 1px solid var(--border); border-radius: 6px; width: 100%; height: var(--mu-h); display: grid; grid-template-rows: 1fr 1fr; align-items: center; }
 /* Increase vertical spacing from Round of 32 onward */
 .full-bracket .col-1 .games { gap: var(--gap64); }
 .full-bracket .col-2 .games { gap: var(--gap32); }
@@ -286,6 +288,28 @@ input[type="range"] { width: 100%; }
 .region-top .col-4 .games { padding-bottom: calc((3.5 * var(--mu-h)) + (3.5 * var(--gap64))); }
 .region-bottom .col-4 .games { padding-top: calc((3.5 * var(--mu-h)) + (3.5 * var(--gap64))); }
 /* Removed connector lines for a cleaner layout */
+
+/* Finals (Final Four + Championship) prominent container */
+/* Finals overlay box, centered over the grid without affecting layout */
+.finals-overlay {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: min(480px, 78vw);
+	max-width: 84%;
+	background: var(--card);
+	border: 1px solid var(--border);
+	border-radius: 14px;
+	padding: 16px 16px 14px;
+	box-shadow: 0 10px 32px rgba(0,0,0,0.12), 0 4px 12px rgba(0,0,0,0.08);
+	z-index: 2;
+}
+.finals-overlay h3 { margin: 0 0 8px; font-size: 15px; color: #0b2e6b; text-align: center; }
+.finals-overlay .ff-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; align-items: center; }
+.finals-overlay .champ-grid { display: grid; grid-template-columns: 1fr; justify-items: center; margin-top: 8px; }
+.finals-overlay .matchup { height: calc(var(--mu-h) - 4px); font-size: 14px; width: 100%; }
+.finals-overlay .champ-grid .matchup { width: 84%; }
 
 /* Show full bracket on wide screens; hide tabs view */
 @media (min-width: 1300px) {

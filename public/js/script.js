@@ -467,16 +467,20 @@ function renderFullBracket(cached) {
 
   // Center column: Final Four + Championship
   if (cached.finalFour && cached.championship) {
-    const center = document.createElement('div');
-    center.className = 'center-col';
-    // Final Four
-    const ff = document.createElement('div');
-    ff.className = 'round';
-    const hff = document.createElement('h3');
-    hff.textContent = 'Final Four';
-    ff.appendChild(hff);
-    const gamesFF = document.createElement('div');
-    gamesFF.className = 'games';
+    // Insert an empty spacer center column to preserve original grid spacing
+    const spacer = document.createElement('div');
+    spacer.className = 'center-col';
+    grid.appendChild(spacer);
+
+    // Finals overlay: absolutely centered box outside normal flow
+    const overlay = document.createElement('div');
+    overlay.className = 'finals-overlay';
+
+    const ffHeader = document.createElement('h3');
+    ffHeader.textContent = 'Final Four';
+    overlay.appendChild(ffHeader);
+    const ffGames = document.createElement('div');
+    ffGames.className = 'ff-grid';
     cached.finalFour.forEach(m => {
       const card = document.createElement('div');
       card.className = 'matchup';
@@ -488,18 +492,15 @@ function renderFullBracket(cached) {
       rowB.innerHTML = `<span>${m.b}</span><span>${m.sb}</span>`;
       card.appendChild(rowA);
       card.appendChild(rowB);
-      gamesFF.appendChild(card);
+      ffGames.appendChild(card);
     });
-    ff.appendChild(gamesFF);
-    center.appendChild(ff);
+    overlay.appendChild(ffGames);
 
-    const champRound = document.createElement('div');
-    champRound.className = 'round';
-    const hch = document.createElement('h3');
-    hch.textContent = 'Championship';
-    champRound.appendChild(hch);
-    const gamesCh = document.createElement('div');
-    gamesCh.className = 'games';
+    const champHeader = document.createElement('h3');
+    champHeader.textContent = 'Championship';
+    overlay.appendChild(champHeader);
+    const champGames = document.createElement('div');
+    champGames.className = 'champ-grid';
     cached.championship.forEach(m => {
       const card = document.createElement('div');
       card.className = 'matchup';
@@ -511,11 +512,12 @@ function renderFullBracket(cached) {
       rowB.innerHTML = `<span>${m.b}</span><span>${m.sb}</span>`;
       card.appendChild(rowA);
       card.appendChild(rowB);
-      gamesCh.appendChild(card);
+      champGames.appendChild(card);
     });
-    champRound.appendChild(gamesCh);
-    center.appendChild(champRound);
-    grid.appendChild(center);
+    overlay.appendChild(champGames);
+
+    // Append overlay directly to host (positioned via CSS)
+    host.appendChild(overlay);
   }
 
   host.appendChild(grid);
